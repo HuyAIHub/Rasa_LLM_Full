@@ -25,6 +25,14 @@ intents:
 - warranty_policy_2
 - warranty_policy_1vs1
 - warranty_policy_bark
+- promotion
+- order_produce
+- delivery_time
+- order_status
+- pay_produce
+- delivery_free
+- time_open_door
+- support_KH
 entities:
 - user_name
 - produce_name_policy
@@ -35,10 +43,22 @@ responses:
   - text: Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.
   utter_greet:
   - text: |-
-      Xin chào! Tôi là trợ lý mua sắm.
+      Xin chào quý khách! Tôi là trợ lý mua sắm.
       Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+    # buttons:
+    #   - title: "bạn tên là gì??"
+    #     payload: "ask_name"
+    # buttons:
+    #   - title: "bạn có những dịch vụ nào?"
+    #     payload: "/ask_service_name"
+    # buttons:
+    #   - title: "Danh mục sản phẩm của VCC bán?"
+    #     payload: "/list_product"
+    # buttons:
+    #   - title: "bên bạn có những chính sách bảo hành nào?"
+    #     payload: "/warranty_policy_1"
   - text: |-
-      Chào bạn! Tôi là trợ lý mua sắm.
+      Chào quý khách! Tôi là trợ lý mua sắm.
       Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
   utter_cheer_up:
   - text: 'Here is something to cheer you up:'
@@ -85,6 +105,22 @@ responses:
         4. Gợi ý những sản phẩm tương tự 
         5. Chính sách bảo hành
       Hãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.
+  # - text: "VCC có nhiều dịch vụ hỗ trợ khách hàng như sau:"
+  #   buttons:
+  #   - title: "Tìm kiếm sản phẩm"
+  #     payload: "Tìm kiếm sản phẩm"
+  #   buttons:
+  #   - title: "Đưa ra các thông tin chi tiết về sản phẩm"
+  #     payload: "Đưa ra các thông tin chi tiết về sản phẩm"
+  #   buttons:
+  #   - title: "Đưa ra giá thành sản phẩm với số tiền bạn có"
+  #     payload: "Đưa ra giá thành sản phẩm với số tiền bạn có"
+  #   buttons:
+  #   - title: "Gợi ý những sản phẩm tương tự"
+  #     payload: "Gợi ý những sản phẩm tương tự"
+  #   buttons: 
+  #   - title: "Chính sách bảo hành"
+  #     payload: "Chính sách bảo hành"
   utter_unclear:
   - text: Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.
   - text: Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?
@@ -135,7 +171,8 @@ responses:
         Khác: Thiết bị gia dụng
   utter_warranty_policy_1:
   - text: |-
-      Chính sách bảo hành sản phẩm của chúng tôi bao gồm:
+      Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu "Danh sách sản phẩm".
+      Dưới đây là chính sách bảo hành sản phẩm của chúng tôi:
         1. Chính sách bảo hành 1 đổi 1
         2. Chính sách bảo hành sửa chữa, thay thế linh kiện
       Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
@@ -169,10 +206,47 @@ responses:
         theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
         phẩm bảo hành do TT. GP&DVKT ban hành.
         - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+  utter_promotion:
+  - text: Hiện tại chúng tôi chưa có chương trình khuyến mãi và giảm giá nào.
+  utter_order_produce:
+  - text: |-
+      Xin chào! Để đặt hàng của công ty chúng tôi, bạn có thể làm theo các bước sau:
+      1. Truy cập vào trang bán hàng của VCC
+      2. Tìm kiếm sản phẩm mà bạn muốn mua bằng cách sử dụng thanh tìm kiếm hoặc duyệt qua các danh mục sản phẩm.
+      3. Chọn sản phẩm bạn muốn mua và nhấp vào nút "Thêm vào giỏ hàng".
+      4. Kiểm tra lại giỏ hàng của bạn để đảm bảo rằng bạn đã chọn đúng sản phẩm và số lượng.
+      5. Nhập thông tin địa chỉ giao hàng của bạn và chọn phương thức thanh toán phù hợp.
+      6. Kiểm tra lại đơn hàng và xác nhận mua hàng bằng cách nhấp vào nút "Đặt hàng" hoặc "Mua ngay".
+      Sau khi hoàn thành các bước trên, hệ thống sẽ gửi cho bạn một mã số đơn hàng và thông báo thời gian giao hàng dự kiến. Bạn có thể kiểm tra lại đơn hàng của mình bằng cách truy cập vào trang "Đơn hàng của tôi" trên app hoặc kiểm tra email xác nhận đơn hàng.
+      Nếu bạn gặp bất kỳ vấn đề nào trong quá trình đặt hàng, hãy liên hệ với bộ phận hỗ trợ khách hàng của VCC để được giúp đỡ.
+  utter_delivery_time:
+  - text: |-
+      Thời gian giao hàng phụ thuộc vào các yếu tố khác nhau và có thể khác nhau tùy theo dịch vụ giao hàng và địa chỉ nhận hàng. Trong các thông tin đã được cung cấp, có một số thông tin về thời gian giao hàng của VCC và các dịch vụ giao hàng khác nhau.
+      Tuy nhiên, để biết thời gian giao hàng cụ thể cho đơn hàng của bạn, bạn nên kiểm tra thông tin vận chuyển và thời gian giao hàng dự kiến tại bước "Thanh toán" khi đặt hàng.
+  utter_order_status:
+  - text: |-
+      Có, bạn có thể kiểm tra tình trạng đơn hàng của mình bằng cách truy cập vào trang "Đơn hàng của tôi" trên app VCC hoặc kiểm tra email xác nhận đơn hàng. Trong trang "Đơn hàng của tôi", bạn sẽ thấy thông tin về đơn hàng của mình, bao gồm mã số đơn hàng, tình trạng đơn hàng và thông tin vận chuyển. Nếu bạn có bất kỳ câu hỏi hoặc cần hỗ trợ thêm, hãy liên hệ với bộ phận hỗ trợ khách hàng của VCC.
+  utter_pay_produce:
+  - text: |-
+      VCC hiện đang hỗ trợ các cách thức thanh toán sau:
+      1. Thanh toán trực tiếp (người mua nhận hàng tại địa chỉ người bán): Sau khi tìm hiểu thông tin về sản phẩm, người mua đến địa chỉ bán hàng, thanh toán và nhận hàng.
+      2. Thanh toán sau - Thanh toán tiền mặt (COD - giao hàng và thu tiền tận nơi): Sau khi tìm hiểu thông tin về sản phẩm, người mua xác thực đơn hàng, người bán xác nhận thông tin người mua, người bán chuyển hàng, người mua nhận hàng và thanh toán.
+      3. Thanh toán online qua thẻ tín dụng, chuyển khoản, ví điện tử: Sau khi tìm hiểu thông tin về sản phẩm, người mua xác thực đơn hàng, người bán xác nhận thông tin người mua, người mua thanh toán.
+  utter_delivery_free:
+  - text: |-
+      Theo thông tin trong tài liệu hỗ trợ của VCC, không có thông tin cụ thể về việc VCC có giao hàng miễn phí hay không. Tuy nhiên, VCC có thể áp dụng các coupon giảm giá phí vận chuyển hoặc hỗ trợ phí vận chuyển cho chủ thẻ VCC Platinum. Để biết thêm thông tin chi tiết về việc giao hàng miễn phí, bạn có thể liên hệ với VCC trực tiếp hoặc kiểm tra các chính sách vận chuyển trên trang web của VCC.
+  utter_time_open_door:
+  - text: |-
+      VCC Shop hoạt động 24/24 giờ vào các ngày trong tuần để phục vụ khách hàng.Xin cảm ơn quý khách!
+  utter_support_KH:
+  - text: |-
+      Nếu bạn gặp vấn đề với đơn hàng của mình, bạn có thể liên hệ với bộ phận VCC để được hỗ trợ. Trong vòng 48 giờ, bạn có thể liên hệ với VCC và cung cấp các bằng chứng liên quan (nếu có) để họ có thể giải quyết vấn đề của bạn một cách nhanh chóng. Bạn có thể liên hệ với VCC thông qua chat trực tuyến trên trang web hoặc ứng dụng bán hàng của VCC.
+
+
 actions:
 - action_extract_name
 # - action_default_fallback
-- action_search_product
+# - action_search_product
 - action_extract_produce
 session_config:
   session_expiration_time: 60
