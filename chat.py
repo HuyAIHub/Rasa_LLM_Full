@@ -11,6 +11,7 @@ from langchain.schema import messages_from_dict, messages_to_dict
 from langchain_community.chat_models import ChatOpenAI
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
+from ChatBot_Extract_Intent.main import process_command
 
 config_app = get_config()
 
@@ -54,6 +55,9 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
             results['out_text'] = 'Hiện tại hệ thống đang được bảo trì trong ít phút, mong sớm được quay trở lại hỗ trợ bạn!'
         else:
             results['out_text'] = response.json()[0]["text"]
+    elif type == 'llm_rule':
+        response_rules = process_command(query_text,IdRequest,NameBot,User)
+        results['out_text'] = response_rules
     else:
         response_llm = conversation.predict(input=query_text, user_messages_history=user_messages_history)
         results['out_text'] = response_llm

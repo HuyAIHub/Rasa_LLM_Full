@@ -1,5 +1,5 @@
 
-import os
+import os,re
 from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts.few_shot import FewShotPromptTemplate
 from langchain.prompts.prompt import PromptTemplate
@@ -8,7 +8,8 @@ from langchain.chains import LLMChain
 from difflib import get_close_matches
 import csv
 from ChatBot_Extract_Intent.extract_price_info import take_product
-from ChatBot_Extract_Intent.module.predict import predict_llm
+from chat import predict_rasa_llm
+import random
 
 config_app = get_config()
 
@@ -20,141 +21,7 @@ with open('ChatBot_Extract_Intent/data/product_final_204_oke.xlsx - Sheet1.csv',
     data = list(reader)
 
 def split_sentences(text_input):
-    examples = [
-        {
-            "command":"Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
-            "demand":"quan tâm",
-            "object": ["điều hòa", "Thiết bị Wifi"],
-            "value":"",
-        },
-        {
-            "command":"Tôi quan tâm tới sản phẩm điều hòa, máy giặt",
-            "demand":"quan tâm",
-            "object": ["điều hòa","máy giặt"],
-            "value":"",
-        },
-        {
-            "command":"Tôi quan tâm máy giặt lồng ngang",
-            "demand":"quan tâm",
-            "object": ["máy giặt"],
-            "value":"lồng ngang",
-        },
-        {
-            "command":"Tôi quan tâm tới sản phẩm điều hòa giá trên 10 triệu",
-            "demand":"giá",
-            "object": ["điều hòa"],
-            "value":"trên 10 triệu",
-        },
-        {
-            "command":"số lượng sản phẩm đèn năng lượng mặt trời",
-            "demand":"số lượng",
-            "object":["đèn năng lượng mặt trời"],
-            "value":"",
-        },
-         {
-            "command": "Số lượng sản phẩm điều hòa 2 chiều",
-            "demand": "Số lượng",
-            "object": ["điều hòa"],
-            "value": "2 chiều"
-        },
-        {
-            "command": "có bao nhiêu điều hòa 2 chiều",
-            "demand": "bao nhiêu",
-            "object": ["điều hòa"],
-            "value": "2 chiều"
-        },
-        {
-            "command":"Sản phẩm bếp từ nào bán chạy nhất",
-            "demand":"bán",
-            "object":["bếp từ"],
-            "value":"chạy nhất",
-        },
-        {
-            "command":"Sản phẩm bán chạy nhất là sản phẩm nào?",
-            "demand":"bán",
-            "object":[],
-            "value":"chạy nhất",
-
-        },
-        {
-            "command":"Bếp từ nào có công suất lớn nhất",
-            "demand":"công suất",
-            "object":["bếp từ"],
-            "value":"lớn nhất",
-        },
-        {
-            "command":"xin chào",
-            "demand":"",
-            "object":[],
-            "value":"",
-        },
-        {
-            "command":"so sánh điều hòa daikin và điều hòa LG tầm giá 10tr",
-            "demand":"so sánh",
-            "object":["điều hòa daikin","điều hòa LG"],
-            "value":"10tr",
-        },
-        {
-            "command":"bình đun nước có công suất trên 1000w",
-            "demand":"công suất",
-            "object":["bình đun nước"],
-            "value":"trên 1000w",
-        },
-        {
-            "command":"máy giặt có giá dưới 10 triệu",
-            "demand":"giá",
-            "object":["máy giặt"],
-            "value":"dưới 10,000,000",
-        },
-        {
-            "command":"Máy Giặt Aqua 9 Kg AQW-F91GT.S là lồng ngang hay lồng đứng",
-            "demand":"",
-            "object":["Máy Giặt Aqua 9 Kg AQW-F91GT.S"],
-            "value":"lồng ngang hay lồng đứng",
-        },
-        {
-            "command":"tôi muốn mua máy giặt lồng ngang",
-            "demand":"mua",
-            "object":["Máy Giặt"],
-            "value":"lồng ngang",
-        },
-        {
-            "command":"Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?",
-            "demand":"tốt hơn",
-            "object":["Máy lọc nước Karofi KAQ-U06V", "Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038"],
-            "value":"",
-        },
-        {
-            "command":"Quạt sưởi không khí AIO Smart bảo hành trong bao lâu?",
-            "demand":"bảo hành",
-            "object":["Quạt sưởi không khí AIO Smart"],
-            "value":"",
-        },
-        {
-            "command":"Quạt sưởi không khí AIO Smart bảo hành trong bao lâu?",
-            "demand":"bảo hành",
-            "object":["Quạt sưởi không khí AIO Smart"],
-            "value":"",
-        },
-        {
-            "command": "Loại máy giặt nào là phổ biến nhất hiện nay?",
-            "demand": "Loại",
-            "object": ["máy giặt"],
-            "value": "phổ biến nhất",
-        },
-        {
-            "command": "máy giặt phổ biến nhất hiện nay là loại nào?",
-            "demand": "Loại",
-            "object": ["máy giặt"],
-            "value": "phổ biến nhất",
-        },
-        {
-            "command": "Thời gian sử dụng trung bình của Ghế massage daikiosan là bao lâu?",
-            "demand": "Thời gian sử dụng trung bình",
-            "object": ["Ghế massage daikiosan"],
-            "value": "",
-        }
-    ]
+    examples = config_app['parameter']['example_input']
 
     example_formatter_template = """
         Input command from user: {command}
@@ -217,7 +84,7 @@ def extract_info(chuoi):
 
 # Hàm xử lý yêu cầu
 def process_command(command,IdRequest,NameBot,User):
-    lst_mua = ['mua','quan tâm','tìm','thích','bán','cần mua','muốn biết']
+    lst_mua = ['mua','quan tâm','tìm','thích','bán']
     lst_so_luong = ['số lượng','bao nhiêu','mấy loại']
     demands = extract_info(command)
     print("info:",demands)
@@ -228,7 +95,9 @@ def process_command(command,IdRequest,NameBot,User):
         return handle_interest(demands)
     elif demands['demand'].lower() in lst_so_luong:
         return handle_count(demands)
-        
+    elif demands['object'] == '':
+        random_number = random.randint(0, 1)
+        return config_app['parameter']['raw_answer'][random_number]
     # elif demands['demand'].lower() == 'loại':
     #     return handle_type(demands)
     # elif demands['demand'].lower() == 'bảo hành':
@@ -238,10 +107,9 @@ def process_command(command,IdRequest,NameBot,User):
     # elif demands['demand'].lower() == 'tốt hơn':
     #     return handle_better(demands)
     else:
-        return predict_llm(demands["command"],IdRequest,NameBot,User)
+        return predict_rasa_llm(demands["command"],IdRequest,NameBot,User,type='llm')
 
-# Các hàm xử lý cụ thể
-import re
+
 def handle_buy(demands):
     print('======handle_buy======')
     # Xử lý yêu cầu
@@ -257,7 +125,7 @@ def handle_buy(demands):
     result_string = ""
     if matching_products:
         result_string += f"{demands['demand'].capitalize()} {', '.join(demands['object'])} từ {demands['value'].title()} tìm thấy:\n"
-        for product in matching_products:
+        for product in matching_products[:config_app['parameter']['num_product']]:  # Chỉ lấy 5 sản phẩm đầu tiên
             result_string += f"- {product['PRODUCT_NAME']} - Giá: {product['RAW_PRICE']} VNĐ\n"
             result_string += f"  Thông số kỹ thuật: {product['SPECIFICATION_BACKUP']}\n"
     else:
@@ -364,31 +232,3 @@ def handle_average_usage(demands):
 def handle_better(objects):
     # Xử lý yêu cầu so sánh sản phẩm
     pass
-
-# Ví dụ sử dụng
-#1
-# command = "tôi muốn mua máy giặt lồng ngang"
-# command = "tôi quan tâm máy lọc không khí công suất 30w"
-# command = "tôi muốn tìm máy lọc không khí công suất 30w"
-#2
-# command = "tôi muốn tìm máy lọc không khí và điều hòa"
-# command = "Bên bạn có bán đèn năng lượng mặt trời không?"
-# 3
-# command = 'Số lượng sản phẩm điều hòa 2 chiều'
-# command = 'Số lượng đèn năng lượng mặt trời'
-# command = 'Số lượng đèn năng lượng mặt trời dung lượng pin 16000'
-# command = 'có bao nhiêu sản phẩm điều hòa 2 chiều'
-# 4 
-# command = 'Tôi muốn mua sản phẩm điều hòa dưới 10 triệu'
-# command = 'Tôi muốn mua sản phẩm máy giặt có giá dưới 10 triệu 500 nghìn'
-# command = 'Tôi muốn mua sản phẩm máy giặt có giá từ 5 triệu đến 8 triệu'
-# command = 'Tôi muốn mua sản phẩm máy giặt có giá khoảng 10 triệu'
-# command = 'Tôi muốn mua sản phẩm máy giặt lồng ngang có giá trên 10 triệu'  #=> fail
-# 5
-
-# command = 'Tôi muốn mua sản phẩm máy giặt lồng ngang'  #=> fail
-
-
-# result = process_command(command,'a','a1','b','c')
-
-# print(result)

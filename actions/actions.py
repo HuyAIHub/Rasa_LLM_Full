@@ -51,7 +51,7 @@ class Actionseachproduct(Action):
             result[key] = value
         print("result:",result)
         # Call the llm_predict function and retrieve its result
-        message = predict_rasa_llm(result['InputText'],result['IdRequest'], result['NameBot'], result['User'],type = 'llm')
+        message = predict_rasa_llm(result['InputText'],result['IdRequest'], result['NameBot'], result['User'],type = 'llm_rule')
 
         # You can now use the result as needed
         # print(f"Result from predict_llm: {result}")
