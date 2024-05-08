@@ -1,0 +1,75 @@
+/home/oem/.local/lib/python3.10/site-packages/rasa/core/tracker_store.py:1044: MovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+  Base: DeclarativeMeta = declarative_base()
+/home/oem/.local/lib/python3.10/site-packages/rasa/shared/utils/validation.py:134: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+  import pkg_resources
+/home/oem/.local/lib/python3.10/site-packages/pkg_resources/__init__.py:2832: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/oem/.local/lib/python3.10/site-packages/pkg_resources/__init__.py:2832: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('ruamel')`.
+Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
+  declare_namespace(pkg)
+/home/oem/.local/lib/python3.10/site-packages/sanic_cors/extension.py:39: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  SANIC_VERSION = LooseVersion(sanic_version)
+2024-05-04 18:26:17 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
+/home/oem/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:117: LangChainDeprecationWarning: The class `langchain_community.chat_models.openai.ChatOpenAI` was deprecated in langchain-community 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+/home/oem/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing FAISS from langchain root module is no longer supported. Please use langchain_community.vectorstores.FAISS instead.
+  warnings.warn(
+/home/oem/.local/lib/python3.10/site-packages/langchain/chat_models/__init__.py:31: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.chat_models import ChatOpenAI`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/oem/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
+  warnings.warn(
+/home/oem/.local/lib/python3.10/site-packages/langchain/document_loaders/__init__.py:36: LangChainDeprecationWarning: Importing document loaders from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.document_loaders import PyPDFium2Loader`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/oem/.local/lib/python3.10/site-packages/langchain/embeddings/__init__.py:29: LangChainDeprecationWarning: Importing embeddings from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.embeddings import OpenAIEmbeddings`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/oem/.local/lib/python3.10/site-packages/langchain/embeddings/__init__.py:29: LangChainDeprecationWarning: Importing embeddings from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.embeddings import HuggingFaceEmbeddings`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/home/oem/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:117: LangChainDeprecationWarning: The class `langchain_community.embeddings.openai.OpenAIEmbeddings` was deprecated in langchain-community 0.0.9 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import OpenAIEmbeddings`.
+  warn_deprecated(
+/home/oem/.local/lib/python3.10/site-packages/faiss/loader.py:28: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  if LooseVersion(numpy.__version__) >= "1.19":
+/home/oem/.local/lib/python3.10/site-packages/setuptools/_distutils/version.py:337: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+  other = LooseVersion(other)
+2024-05-04 18:26:19 INFO     faiss.loader  - Loading faiss with AVX2 support.
+2024-05-04 18:26:19 INFO     faiss.loader  - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2024-05-04 18:26:19 INFO     faiss.loader  - Loading faiss.
+2024-05-04 18:26:19 INFO     faiss.loader  - Successfully loaded faiss.
+2024-05-04 18:26:19 INFO     rasa_sdk.executor  - Registered function for 'action_extract_name'.
+2024-05-04 18:26:19 INFO     rasa_sdk.executor  - Registered function for 'action_default_fallback'.
+2024-05-04 18:26:19 INFO     rasa_sdk.executor  - Registered function for 'action_search_product'.
+2024-05-04 18:26:19 INFO     rasa_sdk.endpoint  - Starting plugins...
+2024-05-04 18:26:19 INFO     rasa_sdk.endpoint  - Action endpoint is up and running on http://0.0.0.0:5055
+/home/oem/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:117: LangChainDeprecationWarning: The function `run` was deprecated in LangChain 0.1.0 and will be removed in 0.2.0. Use invoke instead.
+  warn_deprecated(
+2024-05-04 18:27:37 INFO     httpx  - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-04 18:27:38 INFO     httpx  - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-04 18:27:39 INFO     httpx  - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-04 18:28:25 INFO     httpx  - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+load_index_done!
+----------------NEW_SESSION--------------
+GuildID  =  a
+info: {'command': 'Tôi muốn mua sản phẩm máy giặt có giá dưới 10 triệu 500 nghìn', 'demand': 'mua', 'object': ['máy giặt'], 'value': 'dưới 10 triệu 500 nghìn'}
+======handle_buy======
+list_input ['Tôi muốn mua sản phẩm máy giặt có giá dưới 10 triệu 500 nghìn']
+----------------NEW_SESSION--------------
+GuildID  =  a
+info: {'command': 'có bao nhiêu sản phẩm điều hòa 2 chiều', 'demand': 'bao nhiêu', 'object': ['điều hòa'], 'value': '2 chiều'}
+======handle_count======

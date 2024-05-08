@@ -1,0 +1,43 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "vậy đèn năng lượng mặt trời thì sao",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp thêm thông tin chi tiết về đèn năng lượng mặt trời mà bạn quan tâm không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+][
+    {
+        "type": "human",
+        "data": {
+            "content": "vậy đèn năng lượng mặt trời thì sao",
+            "type": "human",
+            "time": "2024-05-06 20:21:57"
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp thêm thông tin chi tiết về đèn năng lượng mặt trời mà bạn quan tâm không?",
+            "type": "ai",
+            "time": "2024-05-06 20:21:57"
+        }
+    }
+]

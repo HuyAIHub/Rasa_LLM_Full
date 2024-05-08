@@ -1,0 +1,142 @@
+version: "3.1"
+
+stories:
+
+- story: bye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: deny
+  steps:
+  - intent: deny
+  - action: utter_unclear
+  
+# chao hoi
+- story: path0
+  steps:
+   - intent: greet
+   - action: utter_greet
+
+# hoi ten
+- story: path1
+  steps:
+   - intent: give_name
+   - action: action_extract_name
+  #  - intent: thanks
+  #  - action: utter_thanks_name
+  #  - intent: goodbye
+  #  - action: utter_goodbye_name
+
+# cam on
+- story: path3
+  steps:
+  - intent: thanks
+  - action: utter_thanks
+
+# hoi dich vu
+- story: path4
+  steps:
+  - intent: ask_service_name
+  - action: utter_ask_service_name
+
+#hoi san pham
+- story: path5
+  steps:
+  - intent: ask_product
+  - action: utter_ask_service_name
+  - intent: deny
+  - action: utter_unclear
+
+# hoi bot
+- story: path6
+  steps:
+  - intent: ask_name
+  - action: utter_iamabot
+
+# hoi botgpy
+# - story: path7
+#   steps:
+#   - intent: begin_chatgpt
+#   - action: action_default_fallback
+
+# hoi nam sinh
+- story: path9
+  steps:
+  - intent: birthday
+  - action: utter_birthday
+
+- story: path8
+  steps:
+  - intent: search_product
+  - action: action_search_product
+
+- story: path10
+  steps:
+  - intent: unclear
+  - action: utter_unclear
+
+- story: path11
+  steps:
+  - intent: home
+  - action: utter_home
+
+- story: path12
+  steps:
+  - intent: love
+  - action: utter_love
+
+- story: path13
+  steps:
+  - intent: question_offen_met
+  - action: utter_question_offen_met
+
+- story: path14
+  steps:
+  - intent: change_product
+  - action: utter_change_product
+
+- story: path15
+  steps:
+  - intent: cancel_product
+  - action: utter_cancel_product
+
+- story: path16
+  steps:
+  - intent: order_from_overseas
+  - action: utter_order_from_overseas
+
+- story: path17
+  steps:
+  - intent: list_product
+  - action: utter_list_product
+
+- story: path18
+  steps:
+  - intent: evaluate_product
+  - action: utter_evaluate_product
+
+- story: path19
+  steps:
+  - intent: buy_dont_money
+  - action: utter_buy_dont_money
+
+- story: path20
+  steps:
+  - intent: warranty_policy_1
+  - action: utter_warranty_policy_1
+
+- story: path21
+  steps:
+  - intent: warranty_policy_1vs1
+  - action: utter_warranty_policy_1vs1
+
+- story: path22
+  steps:
+  - intent: warranty_policy_bark
+  - action: utter_warranty_policy_bark
+
+- story: path23
+  steps:
+   - intent: warranty_policy_2
+   - action: action_extract_produce

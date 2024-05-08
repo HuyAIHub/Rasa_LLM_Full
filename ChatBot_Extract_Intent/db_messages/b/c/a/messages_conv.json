@@ -1,0 +1,43 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn tra cứu thông tin sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn muốn tra cứu thông tin về sản phẩm điều hòa à?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+][
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn tra cứu thông tin sản phẩm điều hòa",
+            "type": "human",
+            "time": "2024-05-06 09:27:31"
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn muốn tra cứu thông tin về sản phẩm điều hòa à?",
+            "type": "ai",
+            "time": "2024-05-06 09:27:31"
+        }
+    }
+]

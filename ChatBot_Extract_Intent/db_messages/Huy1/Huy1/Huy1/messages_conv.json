@@ -1,0 +1,51 @@
+[][
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi quan tâm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "time": "2024-05-03 16:50:11"
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:\n- Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W. - Giá: 617760\n  Thông số kỹ thuật:\n    \n    • Thời gian chiếu sáng: 10-12 giờ/ngày \n    • Thời gian nạp pin: 3-4 giờ/ngày \n    • Tuổi thọ đèn: 3-5 năm \n    • Tuổi thọ tấm pin NLMT: 10-12 năm \n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 50W \n    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n    • Nhiệt độ làm việc: -20C ~ 65C \n    • Nhiệt độ màu: 6500K \n- Đèn NLMT xách Tay 60W - Giá: 344410\n  Thông số kỹ thuật:\n    \n    • Công suất: 60W \n    • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm \n    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "time": "2024-05-03 16:50:11"
+        }
+    }
+][
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "time": "2024-05-03 16:50:55"
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Số lượng đèn năng lượng mặt trời : 84 sản phẩm\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "time": "2024-05-03 16:50:55"
+        }
+    }
+]

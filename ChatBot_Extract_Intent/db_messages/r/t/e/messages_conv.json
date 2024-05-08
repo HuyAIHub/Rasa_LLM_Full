@@ -1,0 +1,122 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào bạn! Tôi có thể giúp gì cho bạn hôm nay?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chào bạn! Tôi có thể giúp gì cho bạn hôm nay?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bên bạn có đèn năng lượng mặt trời?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Có, chúng tôi có đèn năng lượng mặt trời. Bạn có thể cho tôi biết loại đèn năng lượng mặt trời bạn quan tâm?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "liệt kê cho tôi một vài mẫu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Tất nhiên! Dưới đây là một số mẫu đèn năng lượng mặt trời mà chúng tôi có:\n\n1. Bộ đèn led năng lượng mặt trời công suất 60W. Hiệu: SUNTEK.\n2. Đèn pha led năng lượng mặt trời SUNTEK RP-100, công suất 100W.\n3. Đèn đường năng lượng mặt trời SUNTEK RD-100, công suất 100W.\n4. Đèn NLMT rời thể chống lóa 200W (Nhôm).\n5. Đèn NLMT rời thể chống lóa 100W (Nhôm).\n\nHãy cho tôi biết nếu bạn quan tâm đến bất kỳ mẫu nào cụ thể hoặc có bất kỳ câu hỏi nào khác.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi đang có 2tr thì nên mua mẫu nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Với ngân sách của bạn là 2 triệu đồng, bạn có thể xem xét mua Bộ đèn led năng lượng mặt trời công suất 60W. Hiệu: SUNTEK. Mẫu này có giá là 851,400 đồng. Bạn có thể liên hệ với bộ phận bán hàng để biết thêm thông tin chi tiết về giá cả.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

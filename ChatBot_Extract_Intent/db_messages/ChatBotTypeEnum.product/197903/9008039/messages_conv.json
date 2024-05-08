@@ -1,0 +1,45 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách hoa hồng bên bạn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách hoa hồng của chúng tôi không được đề cập trong tài liệu. Vui lòng liên hệ với bộ phận kinh doanh để biết thêm thông tin chi tiết về chính sách hoa hồng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+][
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách hoa hồng bên bạn",
+            "type": "human",
+            "time": "2024-05-03 20:28:24"
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách hoa hồng của chúng tôi không được đề cập trong tài liệu. Vui lòng liên hệ với bộ phận kinh doanh để biết thêm thông tin chi tiết về chính sách hoa hồng.",
+            "type": "ai",
+            "time": "2024-05-03 20:28:24"
+        }
+    }
+]

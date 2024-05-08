@@ -1,0 +1,630 @@
+2024/05/03 19:05:30 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 19:05:30 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 19:10:15 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 19:10:15 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 19:13:22 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:13:22 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:13:22 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:13:22 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:13:22 app,line: 48     INFO | InputText: 1
+2024/05/03 19:13:22 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 19:13:23 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:13:23 app,line: 69     INFO | Answer: Xin lỗi, tôi không hiểu yêu cầu của bạn.
+2024/05/03 19:13:33 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:13:33 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:13:33 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:13:33 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:13:33 app,line: 48     INFO | InputText: tôi là ai
+2024/05/03 19:13:33 app,line: 50     INFO | NumberRequest: 2
+2024/05/03 19:13:34 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:13:34 app,line: 69     INFO | Answer: Xin lỗi, tôi không hiểu yêu cầu của bạn.
+2024/05/03 19:14:29 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:14:29 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:14:29 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:14:29 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:14:29 app,line: 48     INFO | InputText: bên VCC mình bán bao nhiêu sản phẩm điều hòa
+2024/05/03 19:14:29 app,line: 50     INFO | NumberRequest: 3
+2024/05/03 19:14:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:14:30 app,line: 69     INFO | Answer: Không tìm thấy sản phẩm 'sản phẩm điều hòa'.
+
+2024/05/03 19:16:15 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:16:15 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:16:15 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:16:15 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:16:15 app,line: 48     INFO | InputText: sản phẩm điều hòa cơ mà
+2024/05/03 19:16:15 app,line: 50     INFO | NumberRequest: 4
+2024/05/03 19:16:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:16:16 app,line: 69     INFO | Answer: Xin lỗi, tôi không hiểu yêu cầu của bạn.
+2024/05/03 19:16:45 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:16:45 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:16:45 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:16:45 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:16:45 app,line: 48     INFO | InputText: bên mình có bao nhiêu sản phẩm điều hòa 1 chiều
+2024/05/03 19:16:45 app,line: 50     INFO | NumberRequest: 5
+2024/05/03 19:16:47 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:16:47 app,line: 69     INFO | Answer: Không tìm thấy sản phẩm điều hòa 1 chiều  trong dữ liệu.
+2024/05/03 19:17:49 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:17:49 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:17:49 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:17:49 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:17:49 app,line: 48     INFO | InputText: số lượng điều hòa
+2024/05/03 19:17:49 app,line: 50     INFO | NumberRequest: 6
+2024/05/03 19:17:55 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:17:55 app,line: 69     INFO | Answer: Số lượng điều hòa : 14 sản phẩm
+
+2024/05/03 19:18:17 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:18:17 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:18:17 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:18:17 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:18:17 app,line: 48     INFO | InputText: giá loại thấp nhất
+2024/05/03 19:18:17 app,line: 50     INFO | NumberRequest: 7
+2024/05/03 19:18:19 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:18:19 app,line: 69     INFO | Answer: Xin lỗi, tôi không hiểu yêu cầu của bạn.
+2024/05/03 19:18:30 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:18:30 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:18:30 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:18:30 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:18:30 app,line: 48     INFO | InputText: giá điều hòa thấp nhất
+2024/05/03 19:18:30 app,line: 50     INFO | NumberRequest: 8
+2024/05/03 19:18:31 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:18:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:18:32 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024/05/03 19:18:32 _base_client,line: 1015     INFO | Retrying request to /chat/completions in 20.000000 seconds
+2024/05/03 19:18:54 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:21:35 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:21:35 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:21:35 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:21:35 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:21:35 app,line: 48     INFO | InputText: giá điều hòa carrier 1 chiều
+2024/05/03 19:21:35 app,line: 50     INFO | NumberRequest: 9
+2024/05/03 19:21:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:21:37 app,line: 69     INFO | Answer: Xin lỗi, tôi không hiểu yêu cầu của bạn.
+2024/05/03 19:22:14 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:22:14 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:22:14 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:22:14 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:22:14 app,line: 48     INFO | InputText: công suất điều hòa lớn nhất
+2024/05/03 19:22:14 app,line: 50     INFO | NumberRequest: 10
+2024/05/03 19:22:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:22:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:22:17 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:23:26 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:23:26 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:23:26 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:23:26 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:23:26 app,line: 48     INFO | InputText: đèn năng lượng mặt trời có chính sách hoa hồng như thế nào
+2024/05/03 19:23:26 app,line: 50     INFO | NumberRequest: 11
+2024/05/03 19:23:27 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:23:27 app,line: 69     INFO | Answer: Xin lỗi, tôi không hiểu yêu cầu của bạn.
+2024/05/03 19:24:58 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:24:58 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:24:58 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:24:58 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:24:58 app,line: 48     INFO | InputText: giá điều hòa carrier là bao nhiêu
+2024/05/03 19:24:58 app,line: 50     INFO | NumberRequest: 12
+2024/05/03 19:25:00 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:25:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:25:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:25:43 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:25:43 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:25:43 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:25:43 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:25:43 app,line: 48     INFO | InputText: số lượng điều hòa 1 chiều
+2024/05/03 19:25:43 app,line: 50     INFO | NumberRequest: 13
+2024/05/03 19:25:45 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:25:45 app,line: 69     INFO | Answer: Số lượng điều hòa từ 1 Chiều tìm thấy:
+- Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7246030 VNĐ
+  Thông số kỹ thuật: Model: MDVG-13CRDN8 
+Công suất: 12.000 BTU/h
+ Loại: 1 chiều Inverter
+ Diện tích sử dụng: 15 - 20m² 
+Gas: R32
+Mức tiêu thụ điện: 1.15 kW/h 
+Độ ồn: 22/19 dB(A) 
+Kích thước dàn lạnh: 810 x 285 x 210 mm 
+Kích thước dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng dàn lạnh: 14 kg 
+Trọng lượng dàn nóng: 25 kg
+giá: 7246030
+- Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9423040 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter 
+Công suất: 9.000 BTU/h (1 HP) 
+Diện tích sử dụng: Dưới 15m² Mức tiêu thụ điện: Làm lạnh: 1.15 kW/h Sưởi ấm: 
+Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 800 x 295 x 200 mm Dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng: Dàn lạnh: 12 kg Dàn nóng: 25 kg
+giá: 9423040
+- Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11740520 VNĐ
+  Thông số kỹ thuật: Model: MDVG-18CRDN8 
+Công suất: 18.000 BTU/h 
+Loại: 1 chiều Inverter 
+Diện tích sử dụng: 20 - 30m² 
+Gas: R32 
+Mức tiêu thụ điện: 1.65 kW/h 
+Độ ồn: 22/19 dB(A) 
+Kích thước dàn lạnh: 969 x 320 x 241 mm 
+Kích thước dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng dàn lạnh: 18 kg 
+Trọng lượng dàn nóng: 28 kg
+giá: 11740520
+- Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11200420 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter 
+Công suất: 12.000 BTU/h (1.5 HP) 
+Diện tích sử dụng: 15 - 20m² Mức tiêu thụ điện: Làm lạnh: 1.20 kW/h Sưởi ấm: 
+Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 840 x 295 x 200 mm Dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng: Dàn lạnh: 13 kg Dàn nóng: 25 kg
+giá: 11200420
+-  Điều hòa Carrier 1 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023 - Giá: 20327450 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter
+Công suất: 24.000 BTU/h (2.5 HP)
+Diện tích sử dụng: 30 - 40m²
+Mức tiêu thụ điện: Làm lạnh: 2.00 (0.28-2.30) kW/h Sưởi ấm: 
+Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A)
+Kích thước: Dàn lạnh: 1050 x 320 x 250 mm Dàn nóng: 770 x 285 x 540 mm
+Trọng lượng: Dàn lạnh: 14 kg Dàn nóng: 33 kg
+giá: 20327450
+- Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16508470 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter 
+Công suất: 18.000 BTU/h (2 HP) 
+Diện tích sử dụng: 20 - 30m² 
+Mức tiêu thụ điện: Làm lạnh: 1.50 kW/h Sưởi ấm:  
+Hiệu suất năng lượng: 5.8 (A++) Gas: R32  Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 910 x 320 x 230 mm Dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng: Dàn lạnh: 14 kg Dàn nóng: 28 kg
+giá: 16508470
+
+2024/05/03 19:29:41 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:29:41 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:29:41 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:29:41 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:29:41 app,line: 48     INFO | InputText: thông số kĩ thuật điều hòa 1 chiều
+2024/05/03 19:29:41 app,line: 50     INFO | NumberRequest: 14
+2024/05/03 19:29:42 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:29:42 app,line: 69     INFO | Answer: Thông số kĩ thuật điều hòa từ 1 Chiều tìm thấy:
+- Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7246030 VNĐ
+  Thông số kỹ thuật: Model: MDVG-13CRDN8 
+Công suất: 12.000 BTU/h
+ Loại: 1 chiều Inverter
+ Diện tích sử dụng: 15 - 20m² 
+Gas: R32
+Mức tiêu thụ điện: 1.15 kW/h 
+Độ ồn: 22/19 dB(A) 
+Kích thước dàn lạnh: 810 x 285 x 210 mm 
+Kích thước dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng dàn lạnh: 14 kg 
+Trọng lượng dàn nóng: 25 kg
+giá: 7246030
+- Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9423040 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter 
+Công suất: 9.000 BTU/h (1 HP) 
+Diện tích sử dụng: Dưới 15m² Mức tiêu thụ điện: Làm lạnh: 1.15 kW/h Sưởi ấm: 
+Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 800 x 295 x 200 mm Dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng: Dàn lạnh: 12 kg Dàn nóng: 25 kg
+giá: 9423040
+- Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11740520 VNĐ
+  Thông số kỹ thuật: Model: MDVG-18CRDN8 
+Công suất: 18.000 BTU/h 
+Loại: 1 chiều Inverter 
+Diện tích sử dụng: 20 - 30m² 
+Gas: R32 
+Mức tiêu thụ điện: 1.65 kW/h 
+Độ ồn: 22/19 dB(A) 
+Kích thước dàn lạnh: 969 x 320 x 241 mm 
+Kích thước dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng dàn lạnh: 18 kg 
+Trọng lượng dàn nóng: 28 kg
+giá: 11740520
+- Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11200420 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter 
+Công suất: 12.000 BTU/h (1.5 HP) 
+Diện tích sử dụng: 15 - 20m² Mức tiêu thụ điện: Làm lạnh: 1.20 kW/h Sưởi ấm: 
+Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 840 x 295 x 200 mm Dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng: Dàn lạnh: 13 kg Dàn nóng: 25 kg
+giá: 11200420
+-  Điều hòa Carrier 1 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023 - Giá: 20327450 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter
+Công suất: 24.000 BTU/h (2.5 HP)
+Diện tích sử dụng: 30 - 40m²
+Mức tiêu thụ điện: Làm lạnh: 2.00 (0.28-2.30) kW/h Sưởi ấm: 
+Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A)
+Kích thước: Dàn lạnh: 1050 x 320 x 250 mm Dàn nóng: 770 x 285 x 540 mm
+Trọng lượng: Dàn lạnh: 14 kg Dàn nóng: 33 kg
+giá: 20327450
+- Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16508470 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter 
+Công suất: 18.000 BTU/h (2 HP) 
+Diện tích sử dụng: 20 - 30m² 
+Mức tiêu thụ điện: Làm lạnh: 1.50 kW/h Sưởi ấm:  
+Hiệu suất năng lượng: 5.8 (A++) Gas: R32  Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 910 x 320 x 230 mm Dàn nóng: 770 x 285 x 540 mm 
+Trọng lượng: Dàn lạnh: 14 kg Dàn nóng: 28 kg
+giá: 16508470
+
+2024/05/03 19:30:01 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:30:01 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:30:01 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:30:01 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:30:01 app,line: 48     INFO | InputText: có mấy loại điều hòa 2 chiều
+2024/05/03 19:30:01 app,line: 50     INFO | NumberRequest: 15
+2024/05/03 19:30:02 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:30:02 app,line: 69     INFO | Answer: Mấy loại điều hòa từ 2 Chiều tìm thấy:
+- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 9.000 BTU/h (1 HP) 
+Diện tích sử dụng: Dưới 15m² 
+Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h 
+Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 293 x 798 x 230 mm Dàn nóng: 530 x 660 x 240 mm 
+Trọng lượng: Dàn lạnh: 9 kg Dàn nóng: 23 kg
+giá: 12461240
+- Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023 - Giá: 12070850 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter
+Công suất: 9.000 BTU/h (1 HP) 
+Diện tích sử dụng: 15 - 20m² 
+Mức tiêu thụ điện: Làm lạnh: 555 (230 - 1.250) W/h Sưởi ấm: 670 (190 - 1.530) W/h 
+Hiệu suất năng lượng: Làm lạnh: 6.13 (A**) Sưởi ấm: 5.14 (A) Gas: R32 Chế độ Inverter: 
+Có Công nghệ: Công nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc Apatit Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh Sưởi ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn nóng: 49 dB(A) 
+Kích thước: Dàn lạnh: 285 x 770 x 223 mm Dàn nóng: 540 x 670 x 240 mm 
+Trọng lượng: Dàn lạnh: 12 kg Dàn nóng: 24 kg
+giá: 12070850
+- Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14851100 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 12.000 BTU/h (1.5 HP) 
+Diện tích sử dụng: 20 - 30m² 
+Mức tiêu thụ điện: Làm lạnh: 585 (230 - 1.310) W/h Sưởi ấm: 700 (190 - 1.600) W/h 
+Hiệu suất năng lượng: Làm lạnh: 6.11 (A**) Sưởi ấm: 5.08 (A) Gas: R32 Chế độ Inverter: 
+Có Công nghệ: Công nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc Apatit Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh Sưởi ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn nóng: 49 dB(A) 
+Kích thước: Dàn lạnh: 285 x 770 x 223 mm Dàn nóng: 540 x 670 x 240 mm 
+Trọng lượng: Dàn lạnh: 13 kg Dàn nóng: 26 kg
+giá: 14851100
+- Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14917980 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 12.000 BTU/h (1.5 HP) 
+Diện tích sử dụng: 15 - 20m² 
+Mức tiêu thụ điện: Làm lạnh: 0.83 (0.24-1.12) kW/h Sưởi ấm: 0.94 (0.22-1.22) kW/h 
+Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 293 x 798 x 230 mm Dàn nóng: 530 x 660 x 240 mm 
+Trọng lượng: Dàn lạnh: 10 kg Dàn nóng: 25 kg
+giá: 14917980
+- Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) - Model 2023 - Giá: 22172150 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 18.000BTU/h (2 HP)
+Diện tích sử dụng: 20 - 30m² 
+Mức tiêu thụ điện: Làm lạnh: 1.12 (0.28-1.48) kW/h Sưởi ấm: 1.27 (0.25-1.60) kW/h 
+Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: 
+Có Chức năng:Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 293 x 898 x 230 mm Dàn nóng: 530 x 660 x 240 mm 
+Trọng lượng: Dàn lạnh: 11 kg Dàn nóng: 28 kg giá: 22172150
+
+
+- Điều hòa Daikin 18000BTU 2 chiều Inverter - Serie FTHF-VV - Dòng tiêu chuẩn - Model 2023 - Giá: 22292490 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 18.000 BTU/h (2 HP) 
+Diện tích sử dụng: 25 - 35m² 
+Mức tiêu thụ điện: Làm lạnh: 665 (280 - 1.585) W/h Sưởi ấm: 810 (230 - 1.885) W/h 
+Hiệu suất năng lượng: Làm lạnh: 6.00 (A**) Sưởi ấm: 4.92 (A) Gas: R32 Chế độ Inverter: 
+Có Công nghệ: Công nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc Apatit Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh Sưởi ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn nóng: 48 dB(A) 
+Kích thước: Dàn lạnh: 295 x 990 x 263 mm Dàn nóng: 540 x 670 x 240 mm 
+Trọng lượng: Dàn lạnh: 15 kg Dàn nóng: 28 kg
+giá: 22292490
+- Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023 - Giá: 23423180 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 24.000 BTU/h (2.5 HP) Diện tích sử dụng: 30 - 40m² 
+Mức tiêu thụ điện: Làm lạnh: 1.44 (0.32-1.84) kW/h Sưởi ấm: 1.61 (0.30-2.00) kW/h 
+Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 320 x 1050 x 250 mm Dàn nóng: 550 x 780 x 290 mm 
+Trọng lượng: Dàn lạnh: 14 kg Dàn nóng: 38 kg
+giá: 23423180
+
+2024/05/03 19:30:23 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 19:30:23 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 19:30:23 app,line: 46     INFO | User  = : 197903
+2024/05/03 19:30:23 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 19:30:23 app,line: 48     INFO | InputText: số lượng điều hòa 2 chiều
+2024/05/03 19:30:23 app,line: 50     INFO | NumberRequest: 16
+2024/05/03 19:30:25 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 19:30:25 app,line: 69     INFO | Answer: Số lượng điều hòa từ 2 Chiều tìm thấy:
+- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 9.000 BTU/h (1 HP) 
+Diện tích sử dụng: Dưới 15m² 
+Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h 
+Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 293 x 798 x 230 mm Dàn nóng: 530 x 660 x 240 mm 
+Trọng lượng: Dàn lạnh: 9 kg Dàn nóng: 23 kg
+giá: 12461240
+- Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023 - Giá: 12070850 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter
+Công suất: 9.000 BTU/h (1 HP) 
+Diện tích sử dụng: 15 - 20m² 
+Mức tiêu thụ điện: Làm lạnh: 555 (230 - 1.250) W/h Sưởi ấm: 670 (190 - 1.530) W/h 
+Hiệu suất năng lượng: Làm lạnh: 6.13 (A**) Sưởi ấm: 5.14 (A) Gas: R32 Chế độ Inverter: 
+Có Công nghệ: Công nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc Apatit Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh Sưởi ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn nóng: 49 dB(A) 
+Kích thước: Dàn lạnh: 285 x 770 x 223 mm Dàn nóng: 540 x 670 x 240 mm 
+Trọng lượng: Dàn lạnh: 12 kg Dàn nóng: 24 kg
+giá: 12070850
+- Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14851100 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 12.000 BTU/h (1.5 HP) 
+Diện tích sử dụng: 20 - 30m² 
+Mức tiêu thụ điện: Làm lạnh: 585 (230 - 1.310) W/h Sưởi ấm: 700 (190 - 1.600) W/h 
+Hiệu suất năng lượng: Làm lạnh: 6.11 (A**) Sưởi ấm: 5.08 (A) Gas: R32 Chế độ Inverter: 
+Có Công nghệ: Công nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc Apatit Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh Sưởi ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn nóng: 49 dB(A) 
+Kích thước: Dàn lạnh: 285 x 770 x 223 mm Dàn nóng: 540 x 670 x 240 mm 
+Trọng lượng: Dàn lạnh: 13 kg Dàn nóng: 26 kg
+giá: 14851100
+- Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14917980 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 12.000 BTU/h (1.5 HP) 
+Diện tích sử dụng: 15 - 20m² 
+Mức tiêu thụ điện: Làm lạnh: 0.83 (0.24-1.12) kW/h Sưởi ấm: 0.94 (0.22-1.22) kW/h 
+Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 293 x 798 x 230 mm Dàn nóng: 530 x 660 x 240 mm 
+Trọng lượng: Dàn lạnh: 10 kg Dàn nóng: 25 kg
+giá: 14917980
+- Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) - Model 2023 - Giá: 22172150 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 18.000BTU/h (2 HP)
+Diện tích sử dụng: 20 - 30m² 
+Mức tiêu thụ điện: Làm lạnh: 1.12 (0.28-1.48) kW/h Sưởi ấm: 1.27 (0.25-1.60) kW/h 
+Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: 
+Có Chức năng:Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 293 x 898 x 230 mm Dàn nóng: 530 x 660 x 240 mm 
+Trọng lượng: Dàn lạnh: 11 kg Dàn nóng: 28 kg giá: 22172150
+
+
+- Điều hòa Daikin 18000BTU 2 chiều Inverter - Serie FTHF-VV - Dòng tiêu chuẩn - Model 2023 - Giá: 22292490 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 18.000 BTU/h (2 HP) 
+Diện tích sử dụng: 25 - 35m² 
+Mức tiêu thụ điện: Làm lạnh: 665 (280 - 1.585) W/h Sưởi ấm: 810 (230 - 1.885) W/h 
+Hiệu suất năng lượng: Làm lạnh: 6.00 (A**) Sưởi ấm: 4.92 (A) Gas: R32 Chế độ Inverter: 
+Có Công nghệ: Công nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc Apatit Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh Sưởi ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn nóng: 48 dB(A) 
+Kích thước: Dàn lạnh: 295 x 990 x 263 mm Dàn nóng: 540 x 670 x 240 mm 
+Trọng lượng: Dàn lạnh: 15 kg Dàn nóng: 28 kg
+giá: 22292490
+- Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023 - Giá: 23423180 VNĐ
+  Thông số kỹ thuật: Loại: Điều hòa 2 chiều Inverter 
+Công suất: 24.000 BTU/h (2.5 HP) Diện tích sử dụng: 30 - 40m² 
+Mức tiêu thụ điện: Làm lạnh: 1.44 (0.32-1.84) kW/h Sưởi ấm: 1.61 (0.30-2.00) kW/h 
+Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: 
+Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa 
+Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) 
+Kích thước: Dàn lạnh: 320 x 1050 x 250 mm Dàn nóng: 550 x 780 x 290 mm 
+Trọng lượng: Dàn lạnh: 14 kg Dàn nóng: 38 kg
+giá: 23423180
+
+2024/05/03 20:01:44 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:01:44 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:02:39 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:02:39 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:02:46 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:02:46 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:02:46 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:02:46 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:02:46 app,line: 48     INFO | InputText: số lượng điều hòa 2 chiều
+2024/05/03 20:02:46 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:02:48 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:02:48 app,line: 69     INFO | Answer: Số lượng điều hòa 2 chiều: 7 sản phẩm
+
+2024/05/03 20:04:25 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:04:25 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:04:25 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:04:25 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:04:25 app,line: 48     INFO | InputText: có mấy loại điều hòa 2 chiều
+2024/05/03 20:04:25 app,line: 50     INFO | NumberRequest: 2
+2024/05/03 20:04:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:04:26 app,line: 69     INFO | Answer: Xin lỗi, tôi không hiểu yêu cầu của bạn.
+2024/05/03 20:04:52 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:04:52 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:05:04 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:05:04 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:05:04 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:05:04 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:05:04 app,line: 48     INFO | InputText: có mấy loại điều hòa 2 chiều
+2024/05/03 20:05:04 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:05:06 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:05:06 app,line: 69     INFO | Answer: Số lượng điều hòa 2 chiều: 7 sản phẩm
+
+2024/05/03 20:05:46 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:05:46 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:05:46 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:05:46 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:05:46 app,line: 48     INFO | InputText: đèn năng lượng mặt trời có chính sách hoa hồng như nào
+2024/05/03 20:05:46 app,line: 50     INFO | NumberRequest: 2
+2024/05/03 20:05:47 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:05:47 app,line: 69     INFO | Answer: Xin lỗi, tôi không hiểu yêu cầu của bạn.
+2024/05/03 20:08:29 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:08:29 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:08:46 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:08:46 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:08:46 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:08:46 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:08:46 app,line: 48     INFO | InputText: đèn năng lượng mặt trời có chính sách hoa hồng như nào
+2024/05/03 20:08:46 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:08:47 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:11:47 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:11:47 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:11:54 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:11:54 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:11:54 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:11:54 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:11:54 app,line: 48     INFO | InputText: xin chào
+2024/05/03 20:11:54 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:11:55 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:11:56 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/05/03 20:11:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:11:58 app,line: 69     INFO | Answer: Xin chào! Tôi đang quan tâm đến sản phẩm Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE. Bạn có thể cung cấp thông tin chi tiết về sản phẩm này được không?
+2024/05/03 20:12:59 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:12:59 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:12:59 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:12:59 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:12:59 app,line: 48     INFO | InputText: đèn năng lượng mặt trời nào có bảo hành lâu nhất
+2024/05/03 20:12:59 app,line: 50     INFO | NumberRequest: 2
+2024/05/03 20:13:00 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:13:00 app,line: 69     INFO | Answer: None
+2024/05/03 20:14:08 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:14:08 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:14:33 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:14:33 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:14:33 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:14:33 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:14:33 app,line: 48     INFO | InputText: xin chào
+2024/05/03 20:14:33 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:14:34 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:14:35 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/05/03 20:14:37 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:14:37 app,line: 69     INFO | Answer: Xin chào! Tôi đang quan tâm đến sản phẩm Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE. Bạn có thể cung cấp thông tin chi tiết về sản phẩm này được không?
+2024/05/03 20:19:54 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:19:54 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:20:11 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:20:11 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:20:11 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:20:11 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:20:11 app,line: 48     INFO | InputText: số lượng điều hòa 2 chiều
+2024/05/03 20:20:11 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:20:12 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:20:12 app,line: 69     INFO | Answer: Số lượng điều hòa 2 chiều: 7 sản phẩm
+
+2024/05/03 20:20:28 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:20:28 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:20:28 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:20:28 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:20:28 app,line: 48     INFO | InputText: tôi quan tâm tới đèn năng lượng mặt trời
+2024/05/03 20:20:28 app,line: 50     INFO | NumberRequest: 2
+2024/05/03 20:20:30 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:20:30 app,line: 69     INFO | Answer: Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:
+- Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W. - Giá: 617760
+  Thông số kỹ thuật:
+    
+    • Thời gian chiếu sáng: 10-12 giờ/ngày 
+    • Thời gian nạp pin: 3-4 giờ/ngày 
+    • Tuổi thọ đèn: 3-5 năm 
+    • Tuổi thọ tấm pin NLMT: 10-12 năm 
+- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550
+  Thông số kỹ thuật:
+    
+    • Công suất định mức: 50W 
+    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W 
+    • Nhiệt độ làm việc: -20C ~ 65C 
+    • Nhiệt độ màu: 6500K 
+- Đèn NLMT xách Tay 60W - Giá: 344410
+  Thông số kỹ thuật:
+    
+    • Công suất: 60W 
+    • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm 
+    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian 
+    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực 
+
+2024/05/03 20:20:57 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:20:57 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:20:57 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:20:57 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:20:57 app,line: 48     INFO | InputText: xin chào
+2024/05/03 20:20:57 app,line: 50     INFO | NumberRequest: 3
+2024/05/03 20:20:58 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:20:59 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/05/03 20:21:01 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:21:01 app,line: 69     INFO | Answer: Xin chào! Tôi đang quan tâm đến sản phẩm Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE. Bạn có thể cung cấp thông tin chi tiết về sản phẩm này được không?
+2024/05/03 20:22:05 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:22:05 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:22:14 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:22:14 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:22:14 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:22:14 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:22:14 app,line: 48     INFO | InputText: xin chào
+2024/05/03 20:22:14 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:22:15 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:22:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/05/03 20:22:18 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:22:18 app,line: 69     INFO | Answer: Xin chào! Tôi đang quan tâm đến sản phẩm Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE. Bạn có thể cho tôi biết thông tin chi tiết về sản phẩm này được không?
+2024/05/03 20:24:17 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:24:17 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:24:20 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:24:20 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:24:20 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:24:20 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:24:20 app,line: 48     INFO | InputText: xin chào
+2024/05/03 20:24:20 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:24:21 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:24:22 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/05/03 20:24:24 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:24:24 app,line: 69     INFO | Answer: Xin chào! Tôi đang quan tâm đến sản phẩm Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE. Bạn có thể cung cấp thông tin chi tiết về sản phẩm này được không?
+2024/05/03 20:26:37 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:26:37 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:26:39 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:26:39 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:26:39 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:26:39 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:26:39 app,line: 48     INFO | InputText: xin chào
+2024/05/03 20:26:39 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:26:40 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:27:10 logging,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024/05/03 20:27:10 logging,line: 36     INFO | Logger object created successfully..
+2024/05/03 20:27:13 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:27:13 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:27:13 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:27:13 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:27:13 app,line: 48     INFO | InputText: xin chào
+2024/05/03 20:27:13 app,line: 50     INFO | NumberRequest: 1
+2024/05/03 20:27:14 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:27:15 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/05/03 20:27:16 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:27:16 app,line: 69     INFO | Answer: Chào bạn! Tôi có thể giúp gì cho bạn hôm nay?
+2024/05/03 20:27:32 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:27:32 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:27:32 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:27:32 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:27:32 app,line: 48     INFO | InputText: chính sách bán hàng bên bạn
+2024/05/03 20:27:32 app,line: 50     INFO | NumberRequest: 2
+2024/05/03 20:27:33 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:27:33 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/05/03 20:27:35 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:27:35 app,line: 69     INFO | Answer: Chính sách bán hàng của chúng tôi bao gồm bảo hành 2 năm cho các sản phẩm.
+2024/05/03 20:28:24 app,line: 44     INFO | -------------------------NEW_SESSION----------------------------------
+2024/05/03 20:28:24 app,line: 45     INFO | GuildID  = : 9008039
+2024/05/03 20:28:24 app,line: 46     INFO | User  = : 197903
+2024/05/03 20:28:24 app,line: 47     INFO | NameBot  = : ChatBotTypeEnum.product
+2024/05/03 20:28:24 app,line: 48     INFO | InputText: chính sách hoa hồng bên bạn
+2024/05/03 20:28:24 app,line: 50     INFO | NumberRequest: 3
+2024/05/03 20:28:25 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:28:26 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024/05/03 20:28:28 _client,line: 1026     INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024/05/03 20:28:28 app,line: 69     INFO | Answer: Chính sách hoa hồng của chúng tôi không được đề cập trong tài liệu. Vui lòng liên hệ với bộ phận kinh doanh để biết thêm thông tin chi tiết về chính sách hoa hồng.

@@ -1,0 +1,3401 @@
+I. Các loại sản phẩm
+1. Bàn là
+Số lượng sản phẩm là: 2
+- Mã sản phẩm 509295: Bàn Ủi Khô Bluestone DIB-3726 1300W với giá 376860(VND)
+- Mã sản phẩm 571578: Bàn ủi hơi nước Philips GC1740/20 2000W với giá 564960(VND)
+2. Bàn ủi, Máy sấy tóc
+Số lượng sản phẩm là: 1
+- Mã sản phẩm 622476: Máy sấy tóc 1200W Philips BHC010/10 với giá 352330(VND)
+3. Bình nước nóng
+Số lượng sản phẩm là: 5
+- Mã sản phẩm 571643: Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE với giá 2634876(VND)
+- Mã sản phẩm 571642: Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE với giá 2817180(VND)
+- Mã sản phẩm 571641: Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE với giá 3181896(VND)
+- Mã sản phẩm 571241: Máy NLMT Empire 130 Lít Titan EPNL-TT1213 với giá 4419910(VND)
+- Mã sản phẩm 571242: Máy NLMT Empire 160 Lít Titan EPNL-TT1516 với giá 5122590(VND)
+4. Bình đun nước
+Số lượng sản phẩm là: 2
+- Mã sản phẩm 631566: Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) với giá
+339570(VND)
+- Mã sản phẩm 509288: Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W với giá 529210(VND)
+5. Bếp từ
+Số lượng sản phẩm là: 2
+- Mã sản phẩm 614113: Bếp từ đơn AIO Smart kèm nồi với giá 1089000(VND)
+- Mã sản phẩm 634934: Bếp từ đôi AIO Smart với giá 4962870(VND)
+6. Công tắc, ổ cắm thông minh
+Số lượng sản phẩm là: 5
+- Mã sản phẩm 628018: Công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng với giá 1063000(VND)
+- Mã sản phẩm 628019: Công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng với giá 1106000(VND)
+- Mã sản phẩm 628020: Công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng với giá 1169000(VND)
+- Mã sản phẩm 628021: Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng với giá 1254000(VND)
+- Mã sản phẩm 628014: Bộ điều khiển trung tâm Home Controller (HC) với giá 2277000(VND)
+7. Ghế massage daikiosan
+Số lượng sản phẩm là: 24
+- Mã sản phẩm 571636: Massage mắt DVMM-00001 với giá 757570(VND)
+- Mã sản phẩm 571637: Massage cổ DVMG-00001 với giá 814880(VND)
+- Mã sản phẩm 577816: Máy massage lưng Đại Việt DVML-00001 với giá 937750(VND)
+- Mã sản phẩm 571639: Thảm Massage DVTM-00002 với giá 1414270(VND)
+- Mã sản phẩm 571638: Massage cổ DVMG-00002 với giá 1755710(VND)
+- Mã sản phẩm 577867: Ghế massage Daikiosan DKGM-00005 với giá 14336960(VND)
+- Mã sản phẩm 571595: Ghế massage Makano MKGM-00005 với giá 14339000(VND)
+- Mã sản phẩm 577871: Ghế Massage Daikiosan DKGM-0001D với giá 15309030(VND)
+- Mã sản phẩm 577794: Ghế Massage Makano MKGM-0001D với giá 15309030(VND)
+- Mã sản phẩm 577806: Ghế Massage Daikiosan DKGM-00002 với giá 17313780(VND)
+- Mã sản phẩm 577868: Ghế Massage Makano MKGM-00002 với giá 17313780(VND)
+- Mã sản phẩm 577785: Ghế Massage Makano MKGM-20006 với giá 27337530(VND)
+- Mã sản phẩm 577808: Ghế Massage Daikiosan DKGM-20006 với giá 27337530(VND)
+- Mã sản phẩm 577869: Ghế Massage Daikiosan DKGM-10003 với giá 30982490(VND)
+- Mã sản phẩm 577790: Ghế Massage Makano MKGM-10003 với giá 30982490(VND)
+- Mã sản phẩm 577799: Ghế Massage Makano MKGM-20001 với giá 32804970(VND)
+- Mã sản phẩm 577844: Ghế Massage Daikiosan DVGM-20001 với giá 32804970(VND)
+- Mã sản phẩm 577775: Ghế Massage Daikiosan DKGM-20002 với giá 32804970(VND)
+- Mã sản phẩm 577781: Ghế massage Daikiosan DKGM-20005 với giá 34627450(VND)
+- Mã sản phẩm 577801: Ghế massage Makano MKGM-20005 với giá 34627450(VND)
+- Mã sản phẩm 577870: Ghế massage Daikiosan DKGM-20004 với giá 41006240(VND)
+- Mã sản phẩm 577792: Ghế Massage Makano MKGM-30002 với giá 46473790(VND)
+- Mã sản phẩm 577843: Ghế Massage Daikiosan DKGM-30004 với giá 68343770(VND)
+- Mã sản phẩm 577861: Ghế Massage Daikiosan DVGM-30003 với giá 91124990(VND)
+8. Lò vi sóng
+Số lượng sản phẩm là: 1
+- Mã sản phẩm 509345: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít với giá 2346850(VND)
+9. Lò vi sóng , lò nướng
+Số lượng sản phẩm là: 2
+- Mã sản phẩm 622474: Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít với giá 1981000(VND)
+- Mã sản phẩm 622475: Lò Nướng Bluestone Eob-7567 với giá 3606640(VND)
+10. Máy Giặt
+Số lượng sản phẩm là: 6
+- Mã sản phẩm 571604: Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S với giá 4726370(VND)
+- Mã sản phẩm 571582: Máy Giặt Aqua 9 Kg AQW-F91GT.S với giá 5759050(VND)
+- Mã sản phẩm 571605: Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK với giá 6074970(VND)
+- Mã sản phẩm 571603: Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB với giá
+11898480(VND)
+- Mã sản phẩm 571590: Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB với
+giá 12749000(VND)
+- Mã sản phẩm 571591: Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB với giá
+14450040(VND)
+11. Máy Sấy
+Số lượng sản phẩm là: 1
+- Mã sản phẩm 571583: Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng với giá
+10470240(VND)
+12. Máy lọc không khí
+Số lượng sản phẩm là: 4
+- Mã sản phẩm 608086: Máy lọc không khí Daikin MC30VVM - H với giá 3504000(VND)
+- Mã sản phẩm 577846: Máy lọc không khí Carrier AP43STRE 30W với giá 3663220(VND)
+- Mã sản phẩm 577850: Máy lọc không khí Daikin MC40UVM6 với giá 5366350(VND)
+- Mã sản phẩm 577848: Máy lọc không khí Carrier AP61UVRE 60W với giá 6089160(VND)
+13. Máy lọc không khí, máy hút bụi
+Số lượng sản phẩm là: 1
+- Mã sản phẩm 622477: Máy Hút Bụi Bluestone Vcb-8067 với giá 3265020(VND)
+14. Máy lọc nước
+Số lượng sản phẩm là: 7
+- Mã sản phẩm 577858: Máy lọc nước Pentair Everpure H104 với giá 3152050(VND)
+- Mã sản phẩm 571599: MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 với giá
+3637150(VND)
+- Mã sản phẩm 577811: Máy lọc nước Karofi KAQ-U06V với giá 4043160(VND)
+- Mã sản phẩm 577879: Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 với giá
+4549270(VND)
+- Mã sản phẩm 577842: Máy Lọc Nước A. O. Smith C1 với giá 5822190(VND)
+- Mã sản phẩm 509171: Máy NLMT Empire 180 Lít Titan M&EGD000224 với giá 6106320(VND)
+- Mã sản phẩm 577837: Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 với
+giá 7063320(VND)
+15. Máy xay
+Số lượng sản phẩm là: 2
+- Mã sản phẩm 571579: Máy xay sinh tố Philips HR2041/10 450W với giá 692560(VND)
+- Mã sản phẩm 571580: Máy xay cầm tay Philips HR2534/00 650W với giá 765490(VND)
+16. Nồi chiên không dầu
+Số lượng sản phẩm là: 8
+- Mã sản phẩm 577838: Nồi chiên không dầu KALITE Q5 với giá 1798170(VND)
+- Mã sản phẩm 577847: Nồi chiên không dầu KALITE Q6 5,5 lít với giá 1897610(VND)
+- Mã sản phẩm 577841: Nồi chiên không dầu Rapido 12L RAF-12D, công suất 1800W với giá
+2047430(VND)
+- Mã sản phẩm 577822: Nồi chiên không dầu Kalite Q10 10 lít với giá 2477640(VND)
+- Mã sản phẩm 577836: Nồi chiên không dầu KALITE KL-1200 12 lít với giá 2676520(VND)
+- Mã sản phẩm 577839: Nôì chiên không dầu KALITE STEAM 7 7 lít với giá 3057670(VND)
+- Mã sản phẩm 571594: Nồi chiên không dầu Kalite KL-1500 15 lít với giá 3293000(VND)
+- Mã sản phẩm 577856: Nồi chiên không dầu KALITE STEAM STAR 15 lít với giá
+3762000(VND)
+17. Nồi cơm điện
+Số lượng sản phẩm là: 5
+- Mã sản phẩm 509172: Nồi cơm điện Kalite KL-618, dung tích 1,8 lít với giá 697070(VND)
+- Mã sản phẩm 509173: Nồi cơm điện KALITE KL-619, dung tích 1,8 lít với giá 845240(VND)
+- Mã sản phẩm 509174: Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít với giá 1100990(VND)
+- Mã sản phẩm 574096: Nồi cơm điện AIO Smart AIORCO3L23G/4CO với giá 2076250(VND)
+- Mã sản phẩm 509319: Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991 với giá 4387680(VND)
+18. Nồi áp suất
+Số lượng sản phẩm là: 4
+- Mã sản phẩm 577845: Nồi áp suất điện KALITE KL-636 6 lít với giá 1980440(VND)
+- Mã sản phẩm 509323: Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W với giá 2040830(VND)
+- Mã sản phẩm 509324: Nồi Áp Suất Bluestone Pcb-5748 với giá 2040830(VND)
+- Mã sản phẩm 574095: Nồi áp suất AIO Smart AIOPTO3L23S/6CO với giá 2076250(VND)
+19. Robot hút bụi
+Số lượng sản phẩm là: 2
+- Mã sản phẩm 571596: Robot hút bụi NEATO BOTVAC CONNECTED D401 ĐEN với giá
+8059920(VND)
+- Mã sản phẩm 571597: Robot hút bụi lau nhà Ecovacs Deebot X1 Omni - xám với giá
+21605870(VND)
+20. Thiết bị Camera
+Số lượng sản phẩm là: 2
+- Mã sản phẩm 571634: Camera trong nhà HC23 với giá 547000(VND)
+- Mã sản phẩm 571635: Camera ngoài trời HC33 với giá 754000(VND)
+21. Thiết bị Webcam
+Số lượng sản phẩm là: 5
+- Mã sản phẩm 577876: Webcam Maxhub 1080 UC W10 với giá 1266540(VND)
+- Mã sản phẩm 577865: Webcam 4k, góc nhìn 80 độ UC W20 với giá 3215080(VND)
+- Mã sản phẩm 577863: Bluetooth mic và loa BM20 với giá 3604810(VND)
+- Mã sản phẩm 577866: Webcam 4k, góc nhìn 120 độ UC W21 với giá 3799620(VND)
+- Mã sản phẩm 577819: USB, camera hội nghị 4k, tích hợp mic và loa UC S05 với giá
+10911780(VND)
+22. Thiết bị Wifi
+Số lượng sản phẩm là: 7
+- Mã sản phẩm 608095: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần
+2.4Ghz 3 cổng LAN - Tenda F3 với giá 291390(VND)
+- Mã sản phẩm 577857: Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7
+DBI Antenna ( IMDA Approved ) với giá 314600(VND)
+- Mã sản phẩm 608096: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6
+với giá 318120(VND)
+- Mã sản phẩm 571602: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC6 băng tần
+2.4/5Ghz với giá 395000(VND)
+- Mã sản phẩm 608094: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda
+AC5 với giá 414370(VND)
+- Mã sản phẩm 577854: Thiết bị thu phát vô tuyến Ruijie RG-EW1200 với giá 635000(VND)
+- Mã sản phẩm 577864: Wifi Ruijie RG-EW1200G Pro với giá 1001000(VND)
+23. thiết bị gia dụng
+Số lượng sản phẩm là: 8
+- Mã sản phẩm 577875: Ấm đun nước điện KALITE KL-301 1,7 lít 1850W với giá 571780(VND)
+- Mã sản phẩm 577778: Nồi thủy tinh Visions 2.25l VS-22/CL1 với giá 782540(VND)
+- Mã sản phẩm 571239: Nồi chiên không dầu Rapido 6.5L, RAF-6.5D với giá 1832930(VND)
+- Mã sản phẩm 577873: Máy ép chậm KALITE KL-531 200W với giá 1905860(VND)
+- Mã sản phẩm 616574: Quạt sưởi không khí AIO Smart với giá 2233000(VND)
+- Mã sản phẩm 577872: Quạt điều hòa không khí Everest 6000D với giá 2450800(VND)
+- Mã sản phẩm 577840: Máy làm sữa hạt Kalite KL-950 1,75 lít với giá 3803360(VND)
+- Mã sản phẩm 571606: Tủ Mát Aqua 280L AQS-AF400S V190 với giá 11165880(VND)
+24. Điều hòa
+Số lượng sản phẩm là: 14
+- Mã sản phẩm 606038: Điều hòa MDV - Inverter 9000 BTU với giá 6014184(VND)
+- Mã sản phẩm 609541: Điều hòa MDV 1 chiều 12000 BTU - Model 2023 với giá 7246030(VND)
+- Mã sản phẩm 609530: Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 với giá
+9423040(VND)
+- Mã sản phẩm 609531: Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 với
+giá 11200420(VND)
+- Mã sản phẩm 609542: Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 với giá
+11740520(VND)
+- Mã sản phẩm 609538: Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn -
+SeriesFTHF-VA -Model 2023 với giá 12070850(VND)
+- Mã sản phẩm 609534: Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model
+2023 với giá 12461240(VND)
+- Mã sản phẩm 609539: Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA
+- Model 2023 với giá 14851100(VND)
+- Mã sản phẩm 609535: Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) -
+Model 2023 với giá 14917980(VND)
+- Mã sản phẩm 609532: Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 với
+giá 16508470(VND)
+- Mã sản phẩm 609533: Điều hòa Carrier 1 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) -
+Model 2023 với giá 20327450(VND)
+- Mã sản phẩm 609536: Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) -
+Model 2023 với giá 22172150(VND)
+- Mã sản phẩm 609540: Điều hòa Daikin 18000BTU 2 chiều Inverter - Serie FTHF-VV - Dòng tiêu
+chuẩn - Model 2023 với giá 22292490(VND)
+- Mã sản phẩm 609537: Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) -
+Model 2023 với giá 23423180(VND)
+25. Đèn Năng Lượng Mặt Trời
+Số lượng sản phẩm là: 84
+- Mã sản phẩm 577815: Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá
+286550(VND)
+- Mã sản phẩm 577852: Đèn NLMT xách Tay 60W với giá 344410(VND)
+- Mã sản phẩm 577853: Đèn NLMT xách Tay 100W với giá 407770(VND)
+- Mã sản phẩm 577829: Đèn trụ cổng năng lượng mặt trời.Model: TC01 plus. với giá 534160(VND)
+- Mã sản phẩm 577814: Đèn led năng lượng mặt trời SUNTEK GT-01
+Bảo hành 1 năm với giá 534160(VND)
+- Mã sản phẩm 577862: Đèn NLMT rời thể 1 pha 40W (Nhôm) với giá 535590(VND)
+- Mã sản phẩm 577833: Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W. với giá
+617760(VND)
+- Mã sản phẩm 577859: Đèn NLMT rời thể 1 pha 60W (Nhôm) với giá 647240(VND)
+- Mã sản phẩm 577849: Đèn NLMT Sân vườn UFO 150W với giá 679360(VND)
+- Mã sản phẩm 577805: Đèn liền thể NLMT LOTUS - 90W với giá 687940(VND)
+- Mã sản phẩm 571234: Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 90W với giá
+730180(VND)
+- Mã sản phẩm 577788: Đèn NLMT bàn chải liền thể 100W 3F với giá 736780(VND)
+- Mã sản phẩm 571235: Đèn Trụ cổng Năng Lượng Mặt Trời. với giá 745030(VND)
+- Mã sản phẩm 577851: Đèn NLMT sân vườn UFO 200W với giá 759660(VND)
+- Mã sản phẩm 577774: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8840L với giá
+778250(VND)
+- Mã sản phẩm 577855: Đèn NLMT ốp trần 300W với giá 845020(VND)
+- Mã sản phẩm 577823: Bộ đèn led năng lượng mặt trời công suất 60w. Hiệu: SUNTEK.
+Bảo hành 2 năm với giá 851400(VND)
+- Mã sản phẩm 577820: Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 120W với giá
+853930(VND)
+- Mã sản phẩm 577782: Đèn NLMT bàn chải liền thể 200W 3F với giá 866030(VND)
+- Mã sản phẩm 571236: Đèn NLMT bàn chải rời thể 100W (Nhôm) với giá 880990(VND)
+- Mã sản phẩm 577877: Đèn NLMT đĩa bay UFO 300W với giá 903430(VND)
+- Mã sản phẩm 577809: Bộ đèn đường năng lượng mặt trời công suất 70w
+Bảo hành 2 năm với giá 910030(VND)
+- Mã sản phẩm 509180: Đèn pha led năng lượng mặt trời SUNTEK RP-100, công suất 100W với
+giá 922240(VND)
+- Mã sản phẩm 509185: Đèn đường năng lượng mặt trời SUNTEK RV-300, công suất 300W với giá
+922240(VND)
+- Mã sản phẩm 577796: Đèn Bàn chải NLMT LOTUS - 120W với giá 925100(VND)
+- Mã sản phẩm 577777: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8860L với giá
+928400(VND)
+- Mã sản phẩm 577878: Đèn NLMT rời thể chống lóa 200W (Nhôm) với giá 952930(VND)
+- Mã sản phẩm 577786: Đèn NLMT rời thể chống lóa 100W (Nhôm) với giá 953920(VND)
+- Mã sản phẩm 577779: Đèn NLMT rời thể 1 pha 100W (Nhôm) với giá 966570(VND)
+- Mã sản phẩm 577791: Đèn NLMT bàn chải liền thể 300W 3F với giá 974600(VND)
+- Mã sản phẩm 509188: Đèn đường năng lượng mặt trời SUNTEK RD-100, công suất 100W với giá
+975700(VND)
+- Mã sản phẩm 509183: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-100, công suất
+100W với giá 975700(VND)
+- Mã sản phẩm 577817: Quạt NLMT Solar fan với giá 1098240(VND)
+- Mã sản phẩm 509181: Đèn pha led năng lượng mặt trời SUNTEK RP-200, công suất 200W với
+giá 1109350(VND)
+- Mã sản phẩm 577832: Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK. với giá
+1123320(VND)
+- Mã sản phẩm 509176: Đèn NLMT bàn chải rời thể 200W (Nhôm) SMSMH000041 với giá
+1147520(VND)
+- Mã sản phẩm 509189: Đèn đường năng lượng mặt trời SUNTEK RD-200, công suất 200W với giá
+1149390(VND)
+- Mã sản phẩm 608084: Bộ đèn pha led chống lóa năng lượng mặt trời AIO Smart. Công suất 200W.
+Bảo hành 18 tháng với giá 1159730(VND)
+- Mã sản phẩm 571237: Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09 với giá 1167980(VND)
+- Mã sản phẩm 577810: Bộ đèn đường năng lượng mặt trời .Model:S100,hiệu:SUNTEK.
+Bảo hành 2 năm với giá 1178760(VND)
+- Mã sản phẩm 509186: Đèn đường năng lượng mặt trời SUNTEK RV-400, công suất 400W với giá
+1189540(VND)
+- Mã sản phẩm 577783: Đèn NLMT rời thể 1 pha 200W (Nhôm) với giá 1242120(VND)
+- Mã sản phẩm 509182: Đèn pha led năng lượng mặt trời SUNTEK RP-300, công suất 300W với
+giá 1256310(VND)
+- Mã sản phẩm 577797: Đèn NLMT bàn chải rời thể 300W (Nhôm) với giá 1270940(VND)
+- Mã sản phẩm 571640: Bộ đèn đường năng lượng mặt trời công suất 300w. Model: RD-300, hiệu:
+Suntek với giá 1323190(VND)
+- Mã sản phẩm 509187: Đèn đường năng lượng mặt trời SUNTEK RV-500, công suất 500W với giá
+1323190(VND)
+- Mã sản phẩm 571238: Đèn trụ cổng năng lượng mặt trời.Model: TC02. với giá 1334190(VND)
+- Mã sản phẩm 509175: Đèn NLMT rời thể chống lóa 300W (Nhôm) SMSMH000051 với giá
+1346290(VND)
+- Mã sản phẩm 577803: Bộ đèn đường năng lượng mặt trời Suntek, Model: S150 với giá
+1349920(VND)
+- Mã sản phẩm 577800: Bộ đèn led năng lượng mặt trời Suntek, Model: S2 với giá 1389190(VND)
+- Mã sản phẩm 577802: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8800L với giá
+1389190(VND)
+- Mã sản phẩm 571593: Đèn Led Năng Lượng Mặt Trời gắn liền tấm pin. Model AIO-200. Hiệu
+SUNTEK.. với giá 1432750(VND)
+- Mã sản phẩm 509184: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-300, công suất
+300W với giá 1456840(VND)
+- Mã sản phẩm 577835: Bộ đèn pha led năng lượng mặt trời công suất 200w.
+Bảo hành 2 năm với giá 1461460(VND)
+- Mã sản phẩm 577818: Đèn NLMT 1 pha 300W ( Nhôm ) với giá 1508210(VND)
+- Mã sản phẩm 577804: Bộ đèn đường năng lượng mặt trời Suntek, Model: S200 với giá
+1516460(VND)
+- Mã sản phẩm 577827: Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK.
+Model: SF-02 với giá 1547370(VND)
+- Mã sản phẩm 577874: Đèn NLMT bàn chải rời thể 400W (Nhôm) với giá 1566510(VND)
+- Mã sản phẩm 577812: Bộ đèn đường năng lượng mặt trời..Model: S300,hiệu: SUNTEK.
+Bảo hành 2 năm với giá 1628770(VND)
+- Mã sản phẩm 509162: Bộ đèn pha năng lượng mặt trời AIO Smart. Công suất 200W. Bảo hành 24
+tháng với giá 1661440(VND)
+- Mã sản phẩm 577807: Bộ đèn pha led năng lượng mặt trời Suntek công suất 300W với giá
+1684870(VND)
+- Mã sản phẩm 577825: Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK.
+Model: SF-01 với giá 1696420(VND)
+- Mã sản phẩm 577824: Quạt sạc tích điện sử dụng điện và năng lượng mặt trời, Hiệu:SUNTEK.
+Model: SF-05 với giá 1719300(VND)
+- Mã sản phẩm 571585: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 với giá
+1724030(VND)
+- Mã sản phẩm 509192: Đèn đường năng lượng mặt trời SUNTEK DA-01, công suất 100W
+ với giá 1737450(VND)
+- Mã sản phẩm 577780: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8200L với giá
+1778920(VND)
+- Mã sản phẩm 571586: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 với giá
+1851740(VND)
+- Mã sản phẩm 577784: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8300L với giá
+1890130(VND)
+- Mã sản phẩm 571587: ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 với
+giá 1915540(VND)
+- Mã sản phẩm 577828: Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK với giá
+1937980(VND)
+- Mã sản phẩm 577798: Bộ đèn đường năng lượng mặt trời Suntek, Model: S3 với giá
+1945130(VND)
+- Mã sản phẩm 571240: Đèn tín hiệu giao thông năng lượng mặt trời SUNTEK TL-01 với giá
+1948540(VND)
+- Mã sản phẩm 577821: Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK.
+Model: SF-03 với giá 2051720(VND)
+- Mã sản phẩm 509193: Đèn đường năng lượng mặt trời SUNTEK DA-02, công suất 200W với giá
+2205280(VND)
+- Mã sản phẩm 509179: Đèn pha năng lượng mặt trời SUNTEK LED SOLAR 500W với giá
+2472580(VND)
+- Mã sản phẩm 577830: Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK với giá
+2606230(VND)
+- Mã sản phẩm 509194: Đèn đường năng lượng mặt trời SUNTEK DA-03, công suất 300W với giá
+2606230(VND)
+- Mã sản phẩm 577831: Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK với giá
+2873530(VND)
+- Mã sản phẩm 577826: Đèn trụ cổng năng lượng mặt trời.Model: CV02.
+Bảo hành 3 năm với giá 3113110(VND)
+- Mã sản phẩm 509195: Đèn đường năng lượng mặt trời SUNTEK S500 PLUS, công suất 500W
+với giá 3140830(VND)
+- Mã sản phẩm 509177: Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK Battery Power 12V/25Ah cho
+Camera với giá 3996190(VND)
+- Mã sản phẩm 571600: Bộ lưu trữ năng lượng mặt trời SUNTEK Battery Power 12V/35Ah cho
+Camera với giá 4344120(VND)
+- Mã sản phẩm 509196: Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK 12V/25Ah PLUS với giá
+4397140(VND)
+- Mã sản phẩm 509191: Đèn cao áp năng lượng mặt trời SUNTEK SP-S30, công suất 30W với giá
+4677750(VND)
+II. Thông tin sản phẩm
+1. Bàn Ủi Khô Bluestone DIB-3726 1300W:
+- Mã sản phẩm 509295
+- Tên sản phẩm: Bàn Ủi Khô Bluestone DIB-3726 1300W
+- Mô tả:
+ • Công suất: 1300W
+ • Mặt đế: Hợp kim nhôm
+ • Chức năng: Ủi khô
+ • Tiện ích: Có rãnh cúc tiện lợi; Không xoắn dây (dây nguồn xoay 360 độ)
+ • Kích thước: Ngang 25 cm - Cao 13 cm - Sâu 11.2 cm
+ • Khối lượng: 0.7 kg
+ • Thương hiệu của: Singapore
+2. Bàn ủi hơi nước Philips GC1740/20 2000W:
+- Mã sản phẩm 571578
+- Tên sản phẩm: Bàn ủi hơi nước Philips GC1740/20 2000W
+- Mô tả:
+ • Màu sắc: Xanh dương nhạt
+ • Loại bàn ủi: Hơi nước
+ • Chiều dài dây dẫn: 1.9m
+ • Chất liệu đế: Chống dính
+ • Công suất: 2000W
+ • Dung tích bình nước: 220 ml
+ • Tự làm sạch: Tự làm sạch - chống đóng cặn
+ • Điều chỉnh hơi nước: Ủi khô, Ủi hơi nước, Phun tia, Phun hơi tăng cường
+ • Khối lượng sản phẩm (kg): 1.01 kg
+ • Kích thước sản phẩm: 290 x 156 x 129 mm
+3. Máy sấy tóc 1200W Philips BHC010/10:
+- Mã sản phẩm 622476
+- Tên sản phẩm: Máy sấy tóc 1200W Philips BHC010/10
+- Mô tả:
+ • Công suất: 1200W
+ • Tốc độ sấy: 2 tốc độ, có sấy mát
+ • Đầu sấy: Đầu sấy hẹp
+ • Kiểu dáng: Tay cầm gấp gọn
+ • Chế độ bảo vệ: Tự ngắt khi quá nhiệt; Chế độ sấy bảo vệ tóc
+ • Tiện ích: Có móc treo
+ • Kích thước: Ngang 11.4 cm
+ • Cao 22 cm
+ • Rộng 7.7 cm
+ • Khối lượng: 370g
+ • Chiều dài dây điện: 150 cm
+ • Thương hiệu của: Hà Lan • Hãng: Philips.
+4. Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE:
+- Mã sản phẩm 571643
+- Tên sản phẩm: Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE
+- Mô tả:
+Loại: Máy nước nóng gián tiếp Dung tích: 15 lit Công suất: 2500W Nhiệt độ tối đa: 75 độ C Hệ
+thống chống rò điện: ELCB, Bộ ổn định nhiệt TBST, Vỏ chống thấm nước Thời gian đun nóng: 21
+phút Điều chỉnh nhiệt độ: có 3 mức (thấp ,trung bình ,cao) Kích thước: Dài x Rộng x Dày : 36 x 36
+x 32 cm Áp lực nước hoạt động: Tối đa 0.75 Mpa Bảo hành: 2 năm
+5. Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE:
+- Mã sản phẩm 571642
+- Tên sản phẩm: Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE
+- Mô tả:
+Dung tích : 20 lít Loại máy : gián tiếp Chống giật : ELCB Thanh đốt bằng đồng Công suất : 2,5kW
+Điện năng : 220V Thời gian gia nhiệt : 31 phút Nhiệt độ làm việc tối đa : 80 °C Áp suất làm việc tối
+đa : 0,8 Mpa Chỉ số bảo vệ chống xâm nhập : IPX1 Khối lượng tịnh : 12kg Tổng khối lượng: 14kg
+Kích thước : 704x282x301 WxHxD mm Bảo hành : 24 tháng
+6. Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE:
+- Mã sản phẩm 571641
+- Tên sản phẩm: Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE
+- Mô tả:
+Dung tích: 30L Loại máy : gián tiếp Điện áp: 220 V Công suất (W): 2,500 Chống giật : ELCB
+Thanh đốt bằng đồng Nhiệt độ hoạt động tối đa (°C): 80 Áp suất làm việc tối đa : 0.8Mpa Khối
+lượng tịnh: 13 kg Kích thước (mm): 757x 331x341 WxHxD mm Bảo hành : 24 tháng
+7. Máy NLMT Empire 130 Lít Titan EPNL-TT1213:
+- Mã sản phẩm 571241
+- Tên sản phẩm: Máy NLMT Empire 130 Lít Titan EPNL-TT1213
+- Mô tả:
+ • Thương hiệu: EMPIRE
+ • Số ống: 12 ống
+ • Dung tích: 130 lít
+ • Bình bảo ôn: Chất liệu Inox 304
+ • Vỏ bảo ôn: Chất liệu Inox
+ • Lớp Foam giữ nhiệt: Polyurethane độ dày 50mm được phun áp lực cao giúp bình giữ nhiệt lên
+đến 71 giờ
+ • Khung đỡ: Chất liệu inox
+ • Số người sử dụng: 2-3 người
+ • Sản xuất theo công nghệ tiêu chuẩn Mỹ
+ • Hướng lắp đặt: Hướng nam • Nguồn nước sử dụng: Nước đã qua xử lý và không bị nhiễm
+phèn.
+8. Máy NLMT Empire 160 Lít Titan EPNL-TT1516:
+- Mã sản phẩm 571242
+- Tên sản phẩm: Máy NLMT Empire 160 Lít Titan EPNL-TT1516
+- Mô tả:
+ • Thương hiệu: EMPIRE
+ • Số ống: 15 ống
+ • Dung tích: 160 lít • Bình bảo ôn: Chất liệu Inox 304
+ • Vỏ bảo ôn: Chất liệu Inox
+ • Lớp Foam giữ nhiệt: Polyurethane độ dày 50mm được phun áp lực cao giúp bình giữ nhiệt lên
+đến 71 giờ
+ • Khung đỡ: Chất liệu inox
+ • Số người sử dụng: 3-5 người
+ • Sản xuất: theo dây chuyền công nghệ Mỹ.
+9. Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng):
+- Mã sản phẩm 631566
+- Tên sản phẩm: Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng)
+- Mô tả:
+Màu sắc : Trắng, Công suất (Danh định): 1500WNguồn định mức: 220VAC - 50/60HzDung tích:
+1.5LChất liệu ruột bình: Inox cao cấp SUS304Chất liệu vỏ bình: Nhựa PP cách nhiệt bóngĐế tiếp
+điện: Xoay 360°Nút gạt để bắt đầu đun và báo hiệu nước đã sôiĐèn báo hoạt độngLưới lọc cặn đá
+vôiTự động tắt khi nước sôiTự động tắt khi ấm nước được nhấc khỏi đếChiều dài dây: ≥30cmKích
+thước sản phẩm (DxRXC): 221x155x241 mmKhối lượng sản phẩm: 1.0 kgThời gian bảo hành: 12
+thángKích hoạt bảo hành điện tử: Có
+10. Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W:
+- Mã sản phẩm 509288
+- Tên sản phẩm: Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W
+- Mô tả:
+ • Công suất: 1850 - 2200W
+ • Dung tích: 1.7 lít
+ • Chất liệu ruột bình: Nhựa PP (không chứa BPA)
+ • Chất liệu vỏ bình: Nhựa PP
+ • Đế tiếp điện: Strix
+ • Thương hiệu của: Singapore
+ • Chế độ an toàn: Tự ngắt khi nước sôi và khi cạn nước
+ • Tiện ích: Lọc bã trà; Cột hiển thị mực nước; Đèn hoạt động; Đế xoay 360 độ
+11. Bếp từ đơn AIO Smart kèm nồi:
+- Mã sản phẩm 614113
+- Tên sản phẩm: Bếp từ đơn AIO Smart kèm nồi
+- Mô tả:
+Công suất vùng nấu: 2100W Kích thước vùng nấu: 200mm Bảng điều khiển: cảm ứng Chất liệu mặt
+bếp: Kính Microcrystalline (cường lực, chịu nhiệt) Khóa phím, chống nhiễu điện tử, tự ngắt khi
+điện áp tăng giảm đột ngột quá ngưỡng Kích thước sản phẩm: 360x290x43mm Khối lượng sản
+phẩm: 2,4kg Sẵn 6 chương trình nấu, TÍnh năng hẹn giờ, nhận diện nồi, tạm dừng.
+12. Bếp từ đôi AIO Smart:
+- Mã sản phẩm 634934
+- Tên sản phẩm: Bếp từ đôi AIO Smart
+- Mô tả:
+ • Công suất: 4400W
+ • Trái: 2200W - Phải: 2200W
+ • Chất liệu mặt bếp: Kính Vitro Ceramic
+ • Bảng điều khiển: Cảm ứng
+ • Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ
+ • Bề mặt: 730mm x 430mm
+ • Độ cao: 75mm
+ • Điện áp: 220V-240VAC
+ • Độ dài dây nguồn: 1.5m
+ • Đường kính vùng nấu: 190mm
+ • Khóa an toàn: có
+ • Hẹn giờ: có
+ • Tính năng chống tràn: có
+ • Tính năng nhận diện nồi: có
+13. Công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng:
+- Mã sản phẩm 628018
+- Tên sản phẩm: Công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng
+- Mô tả:
+THÔNG SỐ KỸ THUẬT Điện áp hoạt động 100-250V / 50-60Hz Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line Chuẩn kết nối Zigbee Khoảng cách điều khiển tối đa 15-
+20m (tùy thuộc địa hình lắp đặt)
+14. Công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng:
+- Mã sản phẩm 628019
+- Tên sản phẩm: Công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng
+- Mô tả:
+THÔNG SỐ KỸ THUẬT Điện áp hoạt động 100-250V / 50-60Hz Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line Chuẩn kết nối Zigbee Khoảng cách điều khiển tối đa 15-
+20m (tùy thuộc địa hình lắp đặt)
+15. Công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng:
+- Mã sản phẩm 628020
+- Tên sản phẩm: Công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng
+- Mô tả:
+THÔNG SỐ KỸ THUẬT Điện áp hoạt động 100-250V / 50-60Hz Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line Chuẩn kết nối Zigbee Khoảng cách điều khiển tối đa 15-
+20m (tùy thuộc địa hình lắp đặt)
+16. Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng:
+- Mã sản phẩm 628021
+- Tên sản phẩm: Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng
+- Mô tả:
+THÔNG SỐ KỸ THUẬT Điện áp hoạt động 100-250V / 50-60Hz Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line Chuẩn kết nối Zigbee Khoảng cách điều khiển tối đa 15-
+20m (tùy thuộc địa hình lắp đặt)
+17. Bộ điều khiển trung tâm Home Controller (HC):
+- Mã sản phẩm 628014
+- Tên sản phẩm: Bộ điều khiển trung tâm Home Controller (HC)
+- Mô tả:
+THÔNG SỐ KỸ THUẬT Điện áp hoạt động 12VDC – 0.5A Nhiệt độ hoạt động 0oC ~ 50oC Độ
+ẩm hoạt động 0 – 95% Chuẩn kết nối Zigbee Kích thước (DxRxC) 120 x 80 x 24 mm Bảo hành 24
+tháng
+18. Massage mắt DVMM-00001 :
+- Mã sản phẩm 571636
+- Tên sản phẩm: Massage mắt DVMM-00001
+- Mô tả:
+Thiết kế máy tối giản và tiện ích Phù hợp với đa dạng đối tượng Có 3 công nghệ massage đỉnh cao
+5 chế độ massage tự động đa dạng Pin khủng, thời gian sử dụng lâu Gấp gọn 180 độ, tiết kiệm
+không gian Tích hợp kết nối Bluetooth để phát nhạc thư giãn Bảo hành 24 tháng
+19. Massage cổ DVMG-00001 :
+- Mã sản phẩm 571637
+- Tên sản phẩm: Massage cổ DVMG-00001
+- Mô tả:
+Massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy 3 cường độ massage, dễ dàng điều chỉnh
+Thiết kế thông minh, ôm sát vùng cổ Tự động tắt máy su 15 phút sử dụng Cuộn tròn gấp gọn tiện
+lợi Dung lượng Pin khủng Điều khiển đơn giản, dễ hiểu Phù hợp với nhiều đối tượng Bảo hành 24
+tháng
+20. Máy massage lưng Đại Việt DVML-00001:
+- Mã sản phẩm 577816
+- Tên sản phẩm: Máy massage lưng Đại Việt DVML-00001
+- Mô tả:
+ • Công suất: 23W
+ • Điện áp: 12.8V
+ • Vị trí massage: Linh động thay đổi vị trí toàn cơ thể: Hông, lưng, chân, đùi
+ • Khối lượng sản phẩm: 1.35Kg
+ • Khối lượng phủ bì: 1.75Kg
+ • Kích thước sản phẩm: 37x12.5x34.5cm
+ • Kích thước phủ bì: 37.5x13x35cm
+ • Công nghệ Massage: con lăn 360 độ, sưởi nhiệt
+ • Massage nóng: Có - 1 mức độ
+ • Chế độ Massage tự động: Có
+ • Mức điều chỉnh: 3 mức điều chỉnh chế độ massage: Cao, trung bình, thấp
+ • Thời gian hoạt động mặc định của chương trình tự động: 15 phút
+ • Số lần sử dụng liên tục khi được sạc đầy: Thời gian liên tục sử dụng 4 đến 5 lần
+ • Điều khiển: Nút bấm trên thân máy
+ • Chất liệu: Mút, vải, nhựa, kim loại và đồng
+ • Pin: 2000mAH
+21. Thảm Massage DVTM-00002:
+- Mã sản phẩm 571639
+- Tên sản phẩm: Thảm Massage DVTM-00002
+- Mô tả:
+Công suất: 36W Điện áp 12V Kích thước sản phẩm: 185x60 cm Kích thước đóng gói:
+61×19.5×33cm Trọng lượng sản phẩm: 2.76 kg Trọng lượng phủ bì: 3 kg Vị trí massage Đầu , cổ ,
+lưng , bắp chân. Thời gian hoạt động: 15 phút cho phần đầu, 20 phút cho phần lưng Gồm 2 phần:
+Phần thảm massage và gối massage (có thể tháo tách rời). Công nghệ massage: Nhào, rung,
+massage nhiệt Nhiệt sưởi ấm bằng điện trở trên mặt thảm, có 1 cấp độ: H1: 37 độ Điều khiển: Bằng
+remote có dây Chất liệu thảm: Chất liệu bên ngoài: Mặt massage vải nhung siêu mịn tạo cảm giác
+mềm mại . Chất liệu bên trong: Cấu tạo gồm 3 lớp: vải nhung mềm mặt trên + Foarm dày 5mm +
+vải cotton. Đảo chiều con lăn massage: có Chức năng tiết kiệm năng lượng: có Bảng điều khiển gắn
+trên gối Bảo hành: 12 tháng nếu kích hoạt bảo hành điện tử.
+22. Massage cổ DVMG-00002:
+- Mã sản phẩm 571638
+- Tên sản phẩm: Massage cổ DVMG-00002
+- Mô tả:
+Kiểu dáng nhỏ xinh, thiết kế thông minh Trọng lượng nhỏ gọn, dễ dàng thu nhỏ Hệ thống con lăn
+2D, massage chuyên sâu 360 độ Chế độ khoa học, phù hợp nhiều đối tượng sử dụng Cảnh báo pin
+yếu thông minh, chủ động cho người dùng Điều khiển dễ dàng bằng nút bấm Chất liệu cao cấp bền
+bỉ vượt thời gian Bảo hành 24 tháng
+23. Ghế massage Daikiosan DKGM-00005:
+- Mã sản phẩm 577867
+- Tên sản phẩm: Ghế massage Daikiosan DKGM-00005
+- Mô tả:
+ • Công suất: 120W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 155x74x110cm
+ • Trọng lượng sản phẩm: 54 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 2D - Công nghệ thông minh AI 4.0 - Kết hợp các
+bài massage Đông Y
+ • Chương trình massage: Có 4 chương trình massage tự động
+ • Động tác massage: Có 3 động tác massage mô phỏng động tác của các chuyên gia massage:
+Xoa bóp - nhào - ấn
+ • Massage bằng nhiệt sưởi ấm: Bằng sợi cacbon vị trí: Thắt lưng
+ • Massage không trọng lực (Zero Gravity): Có - Giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: 26 con lăn bằng nhựa ABS
+ • Túi khí: 22 Túi khí bằng TPU
+ • Điều khiển: Remote tay tiện lợi bằng tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại kết nối bằng bluetooth
+ • Chất liệu sản phẩm: - Da bằng chất liệu PU cao cấp - Khung định hình bằng thép không gỉ, phủ
+lớp chống oxy hóa - Bộ vi mạnh điều khiển phủ lớp chống oxy hóa - Motor lõi đồng chất lượng
+cao...
+ • Tải trọng tối đa: 90 Kg
+24. Ghế massage Makano MKGM-00005:
+- Mã sản phẩm 571595
+- Tên sản phẩm: Ghế massage Makano MKGM-00005
+- Mô tả:
+ • Công suất: 120W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 155x74x110cm
+ • Trọng lượng sản phẩm: 56 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 2D - Công nghệ thông minh AI 4.0 - Kết hợp các
+bài massage Đông Y
+ • Chương trình massage: Có 4 chương trình massage tự động
+ • Động tác massage: Có 3 động tác massage mô phỏng động tác của các chuyên gia massage:
+Xoa bóp - nhào - ấn
+ • Massage bằng nhiệt sưởi ấm: Bằng sợi cacbon vị trí: Thắt lưng
+ • Massage không trọng lực (Zero Gravity): Có - Giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: 26 con lăn bằng nhựa ABS
+ • Túi khí: 22 Túi khí bằng TPU với 5 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Điều khiển: Remote tay tiện lợi bằng tiếng Việt Chức năng nghe nhạc
+ • Loa nghe nhạc: hiện đại kết nối bằng bluetooth
+ • Chất liệu sản phẩm: - Da bằng chất liệu PU cao cấp - Khung định hình bằng thép không gỉ, phủ
+lớp chống oxy hóa - Bộ vi mạnh điều khiển phủ lớp chống oxy hóa - Motor lõi đồng chất lượng
+cao...
+ • Tải trọng tối đa: 90 Kg
+25. Ghế Massage Daikiosan DKGM-0001D:
+- Mã sản phẩm 577871
+- Tên sản phẩm: Ghế Massage Daikiosan DKGM-0001D
+- Mô tả:
+ • Công suất: 90W
+ • Tải trọng tối đa: 90 kg
+ • Trục massage: Massage điểm cố định
+ • Chương trình hoạt động: - Không trọng lực - Massage nhào - Massage thư giãn - Massage
+Tuina - Mạnh mẽ - Ru ngủ
+ • Thời gian sử dụng tối đa: 30 phút
+ • Vị trí túi khí: Tay Bắp chân Đầu Vai Mông
+ • Con lăn massage: Con lăn massage 2D
+ • Chức năng: - Massage bằng con lăn - Massage không trọng lực - Massage áp lực không khí -
+Massage nhiệt
+ • Tiện ích: Nghe nhạc qua bluetooth
+ • Bảng điều khiển: Màn hình LCD cảm ứng - Điều khiển bằng tiếng Việt
+ • Chất liệu ghế: Da PU, Thép không gỉ
+ • Kích thước khi ngả ghế: Dài 163 cm - Ngang 73 cm - Cao 95 cm
+ • Kích thước khi đứng ghế: Dài 112 cm - Ngang 73 cm - Cao 106 cm
+ • Khối lượng: 56 kg
+26. Ghế Massage Makano MKGM-0001D:
+- Mã sản phẩm 577794
+- Tên sản phẩm: Ghế Massage Makano MKGM-0001D
+- Mô tả:
+ • Công suất: 90W
+ • Tải trọng tối đa: 90 kg
+ • Trục massage: Massage điểm cố định
+ • Chương trình hoạt động: Massage nhào, Massage Tuina, Massage thư giãn, Mạnh mẽ, Không
+trọng lực, Ru ngủ
+ • Thời gian sử dụng tối đa: 30 phút
+ • Vị trí túi khí: Tay, Bắp chân, Đầu, Vai, Mông
+ • Con lăn massage: Con lăn massage 2D
+ • Kỹ thuật massage: Nhào Lăn Massage Tuina
+ • Chức năng: Massage bằng con lăn Massage không trọng lực, Massage áp lực không khí,
+Massage nhiệt •Tiện ích: Nghe nhạc qua bluetooth
+ • Bảng điều khiển: Điều khiển bằng tiếng Việt
+ • Màn hình: LCD cảm ứng
+ • Chất liệu ghế: Da PU, Thép không gỉ
+ • Kích thước khi ngả ghế: Dài 163 cm - Ngang 73 cm - Cao 95 cm
+ • Kích thước khi đứng ghế: Dài 112 cm - Ngang 73 cm - Cao 106 cm
+ • Khối lượng: 56 kg
+27. Ghế Massage Daikiosan DKGM-00002:
+- Mã sản phẩm 577806
+- Tên sản phẩm: Ghế Massage Daikiosan DKGM-00002
+- Mô tả:
+ • Công suất: 120W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 155x74x110cm
+ • Trọng lượng sản phẩm: 56 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 2D - Công nghệ thông minh AI 4.0 - Kết hợp các
+bài massage Đông Y
+ • Chương trình massage: Có 4 chương trình massage tự động
+ • Động tác massage: Có 3 động tác massage mô phỏng động tác của các chuyên gia massage:
+Xoa bóp - nhào - ấn
+ • Massage bằng nhiệt sưởi ấm: Bằng sợi cacbon vị trí: Thắt lưng, bắp chân
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: Con lăn bằng nhựa với 2 cấp độ ở đầu và 3 cấp độ sau gáy điều chỉnh từ nhẹ tới mạnh
+theo nhu cầu người dùng
+ • Túi khí: 20 Túi khí bằng TPU với 5 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Điều khiển: Màn hình LCD cảm ứng bằng tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại kết nối bằng bluetooth
+ • Cấu trúc loa: 1 bên loa được thiết kế dành cho giọng nói, 1 bên loa được thiết kế dành cho nghe
+nhạc
+ • Chất liệu sản phẩm: - Da bằng chất liệu PU cao cấp - Khung định hình bằng thép không gỉ 2
+lớp, phủ lớp chống oxy hóa - Bộ vi mạnh điều khiển phủ lớp chống oxy hóa - Motor lõi đồng chất
+lượng cao...
+ • Tải trọng tối đa: 90 Kg
+28. Ghế Massage Makano MKGM-00002:
+- Mã sản phẩm 577868
+- Tên sản phẩm: Ghế Massage Makano MKGM-00002
+- Mô tả:
+ • Công suất: 120W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 155x74x110cm
+ • Trọng lượng sản phẩm: 56 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 2D - Công nghệ thông minh AI 4.0 - Kết hợp các
+bài massage Đông Y
+ • Chương trình massage: Có 4 chương trình massage tự động
+ • Động tác massage: Có 3 động tác massage mô phỏng động tác của các chuyên gia massage:
+Xoa bóp - nhào - ấn
+ • Massage bằng nhiệt sưởi ấm: Bằng sợi cacbon vị trí: Thắt lưng, bắp chân
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: Con lăn bằng nhựa với 2 cấp độ ở đầu và 3 cấp độ sau gáy điều chỉnh từ nhẹ tới mạnh
+theo nhu cầu người dùng
+ • Túi khí: 20 Túi khí bằng TPU với 5 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Điều khiển: Màn hình LCD cảm ứng bằng tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại kết nối bằng bluetooth
+ • Cấu trúc loa: 1 bên loa được thiết kế dành cho giọng nói, 1 bên loa được thiết kế dành cho nghe
+nhạc
+ • Chất liệu sản phẩm: - Da bằng chất liệu PU cao cấp - Khung định hình bằng thép không gỉ 2
+lớp, phủ lớp chống oxy hóa - Bộ vi mạnh điều khiển phủ lớp chống oxy hóa - Motor lõi đồng chất
+lượng cao...
+ • Tải trọng tối đa: 90 Kg
+29. Ghế Massage Makano MKGM-20006:
+- Mã sản phẩm 577785
+- Tên sản phẩm: Ghế Massage Makano MKGM-20006
+- Mô tả:
+ • Công suất: 100 W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 155*74*105cm
+ • Trọng lượng sản phẩm: 71 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D đỉnh cao - Công nghệ thông minh AI 4.0 - Kết
+hợp các bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 15 chương trình massage tự động
+ • Động tác massage: Có 6 động tác massage mô phỏng động tác của các chuyên gia vật lý trị liệu:
+1. Nhào 2. Gõ 3. Bấm huyệt 4. Xoa 5. Nhào gõ 6. Đấm
+ • Massage không trọng lực (Zero Gravity): Có - 2 cấp độ, giúp giảm trọng lực tác động lên cơ thể
+để massage hiệu quả hơn
+ • Con lăn: Con lăn bằng silicon với 5 cấp độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người dùng
+ • Túi khí: 36 túi khí bằng TPU với 5 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Dây ray: SL 122cm
+ • Điều khiển: Bằng giọng nói tiếng Việt
+ • Bảng điều khiển: hiện đại bằng màn hình LCD cao cấp
+ • Chức năng nghe nhạc: Có
+ • Cổng sạc: 1 cổng sạc USB bên tay trái
+ • Chức năng đặc biệt: - Ghế có chức năng cảm biến vật cản phía sau ghế trên hộp boar, để đề
+phòng khi ngã ghế bị vướng hay trẻ con phía sau ghế - Điều khiển giọng nói - Chế độ thư giản nghe
+nhạc ở chương trình tự động
+ • Chất liệu sản phẩm: - Da microfiber PU đẳng cấp - Nhựa ABS nguyên sinh bọc toàn thân -
+Khung định hình bằng thép không gỉ, phủ lớp chống oxy hóa - Motor lõi đồng chất lượng cao...
+ • Tải trọng tối đa: 90 Kg
+30. Ghế Massage Daikiosan DKGM-20006:
+- Mã sản phẩm 577808
+- Tên sản phẩm: Ghế Massage Daikiosan DKGM-20006
+- Mô tả:
+ • Công suất: 100 W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 155*74*105cm
+ • Trọng lượng sản phẩm: 71 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D - Công nghệ thông minh AI 4.0 - Kết hợp các
+bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 15 chương trình massage tự động
+ • Động tác massage: Có 6 động tác massage mô phỏng động tác của các chuyên gia vật lý trị liệu
+ • Khả năng con lăn mở rộng phía trước/phía trên: Khả năng mở rộng 2 bên 12cm
+ • Massage bằng nhiệt sưởi ấm: Bằng nhiệt sượi carbon với tùy chỉnh 3 cấp độ tại 4 vị trí: 2 bên
+lưng và 2 bên bắp chân
+ • Massage không trọng lực (Zero Gravity): Có - 2 cấp độ, giúp giảm trọng lực tác động lên cơ thể
+để massage hiệu quả hơn
+ • Con lăn: Con lăn bằng silicon với 5 cấp độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người dùng
+ • Túi khí: 36 túi khí bằng TPU với 5 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Dây ray: SL 122cm
+ • Điều khiển: Bằng giọng nói tiếng Việt Bảng điều khiển hiện đại bằng màn hình LCD cao cấp
+ • Chức năng nghe nhạc: Có
+ • Cổng sạc: 1 cổng sạc USB bên tay trái
+ • Chức năng đặc biệt: - Ghế có chức năng cảm biến vật cản phía sau ghế trên hộp boar, để đề
+phòng khi ngã ghế bị vướng hay trẻ con phía sau ghế. - Điều khiển giọng nói - Chế độ thư giản
+nghe nhạc ở chương trình tự động
+ • Chất liệu sản phẩm: - Da microfiber PU đẳng cấp. - Nhựa ABS nguyên sinh bọc toàn thân. -
+Khung định hình bằng thép không gỉ, phủ lớp chống oxy hóa. - Motor lõi đồng chất lượng cao...
+ • Tải trọng: tối đa 90 Kg
+31. Ghế Massage Daikiosan DKGM-10003:
+- Mã sản phẩm 577869
+- Tên sản phẩm: Ghế Massage Daikiosan DKGM-10003
+- Mô tả:
+ • Công suất: 120W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 135*76*122cm
+ • Trọng lượng sản phẩm: 85 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D đỉnh cao - Công nghệ thông minh AI 4.0 - Kết
+hợp các bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 6 chương trình massage tự động
+ • Động tác massage: Có 6 động tác massage mô phỏng động tác của các chuyên gia massage:
+Xoa bóp - Lăn - Đấm - Bấm huyệt - Vỗ - Kết hợp
+ • Massage bằng nhiệt sưởi ấm: Bằng sợi carbon 1 cấp độ: ở hông
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: Con lăn bằng Silicon điều chỉnh 5 cấp độ từ nhẹ tới mạnh theo nhu cầu của người
+dùng
+ • Túi khí: Túi khí bằng TPU điều chỉnh 5 cường độ từ nhẹ tới mạnh theo nhu cầu người dùng
+ • Dây ray: SL 130cm
+ • Điều khiển: - Bảng điều khiển remote sang trọng - Bằng giọng nói tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hạng sang, cao cấp thông qua Speaker và bluetooth
+ • Chất liệu sản phẩm: - Da bằng chất liệu PU chống thủy phân cao cấp - Nhựa cao cấp ABS + lớp
+sơn bóng bảo vệ - Khung định hình bằng thép không gỉ, phủ lớp chống oxy hóa - Bộ vi mạnh điều
+khiển phủ lớp chống oxy hóa - Motor lõi đồng chất lượng cao...
+ • Tải trọng tối đa: 100 Kg
+32. Ghế Massage Makano MKGM-10003:
+- Mã sản phẩm 577790
+- Tên sản phẩm: Ghế Massage Makano MKGM-10003
+- Mô tả:
+ • Công suất: 120W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 135*76*122cm
+ • Trọng lượng sản phẩm: 85 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D đỉnh cao - Công nghệ thông minh AI 4.0 - Kết
+hợp các bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 6 chương trình massage tự động
+ • Động tác massage: Có 6 động tác massage mô phỏng động tác của các chuyên gia massage:
+Xoa bóp - Lăn - Đấm - Bấm huyệt - Vỗ - Kết hợp
+ • Massage bằng nhiệt sưởi ấm: Bằng sợi carbon 1 cấp độ ở hông
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: Con lăn bằng Silicon điều chỉnh 5 cấp độ tự nhẹ tới mạnh theo nhu cầu của người
+dùng
+ • Túi khí: Túi khí bằng TPU điều chỉnh 5 cường độ từ nhẹ tới mạnh theo nhu cầu người dùng
+ • Dây ray: SL 130cm
+ • Điều khiển: - Bảng điều khiển remote sang trọng - Bằng giọng nói tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hạng sang, cao cấp thông qua Speaker và bluetooth
+ • Chất liệu sản phẩm: - Da bằng chất liệu PU chống thủy phân cao cấp - Nhựa cao cấp ABS + lớp
+sơn bóng bảo vệ - Khung định hình bằng thép không gỉ, phủ lớp chống oxy hóa - Bộ vi mạnh điều
+khiển phủ lớp chống oxy hóa - Motor lõi đồng chất lượng cao...
+ • Tải trọng tối đa: 100 Kg
+33. Ghế Massage Makano MKGM-20001:
+- Mã sản phẩm 577799
+- Tên sản phẩm: Ghế Massage Makano MKGM-20001
+- Mô tả:
+ • Công suất: 100 W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 140*74.5*114cm
+ • Trọng lượng sản phẩm: 92 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D - Công nghệ thông minh AI 4.0 - Kết hợp các
+bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 10 chương trình massage tự động
+ • Động tác massage: Có 5 động tác massage mô phỏng động tác của các chuyên gia vật lý trị liệu:
+1. Nhào 2. Gõ 3. Nhào gõ 4. Day 5. Ấn
+ • Massage bằng nhiệt sưởi ấm: Bằng nhiệt sợi carbon với tùy chỉnh 3 cấp độ tại thắt lưng
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: Con lăn bằng silicon với 3 cấp độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng; Con lăn có thể điều chỉnh vị trí
+ • Túi khí: 32 túi khí bằng TPU với 6 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Dây ray: SL 128cm
+ • Điều khiển: Bằng giọng nói tiếng Việt
+ • Bảng điều khiển: chỗ để tay, Remote tiếng Việt tiện lợi
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại, kết nối bằng bluetooth
+ • Cổng sạc: 1 cổng sạc USB bên tay trái
+ • Chức năng đặc biệt: - Ghế có chức năng cảm biến vật cản phía sau ghế trên hộp boar, để đề
+phòng khi ngã ghế bị vướng hay trẻ con phía sau ghế - Điều khiển giọng nói - Chế độ thư giản nghe
+nhạc ở chương trình tự động
+ • Chất liệu sản phẩm: - Da microfiber PU đẳng cấp - Nhựa ABS nguyên sinh bọc toàn thân -
+Khung định hình bằng thép không gỉ, phủ lớp chống oxy hóa - Motor lõi đồng chất lượng cao...
+ • Tải trọng tối đa: 120 Kg
+34. Ghế Massage Daikiosan DVGM-20001:
+- Mã sản phẩm 577844
+- Tên sản phẩm: Ghế Massage Daikiosan DVGM-20001
+- Mô tả:
+ • Công suất: 160 W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 140*74.5*114cm
+ • Trọng lượng sản phẩm: 92 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D đỉnh cao - Công nghệ thông minh AI 4.0 - Kết
+hợp các bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 20 chương trình massage tự động
+ • Động tác massage: Có 5 động tác massage mô phỏng động tác của các chuyên gia massage:
+Nhào - Gõ - Nhào & Gõ - Day - Ấn (bấm huyệt)
+ • Massage bằng nhiệt sưởi ấm: Bằng sợi carbon 3 cấp độ ở: Thắt lưng
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: Con lăn bằng silicon với 6 cấp độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người dùng
+ • Túi khí: Túi khí bằng TPU với 6 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người dùng
+ • Dây ray SL: 130cm
+ • Điều khiển: - Bàn phím nhanh chỗ để tay - Remote tiện lợi bằng tiếng Việt - Bằng giọng nói
+tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại kết nối bằng bluetooth
+ • Cổng sạc: Có - giúp sạc điện thoại tiện lợi
+ • Chất liệu sản phẩm: - Da bằng chất liệu PU cao cấp - Nhựa cao cấp ABS nguyên sinh 4 lớp với
+lớp sơn bóng bảo vệ chống trầy xước. - Khung định hình bằng thép không gỉ, phủ lớp chống oxy
+hóa. - Bộ vi mạnh điều khiển phủ lớp chống oxy hóa - Motor lõi đồng chất lượng cao...
+35. Ghế Massage Daikiosan DKGM-20002:
+- Mã sản phẩm 577775
+- Tên sản phẩm: Ghế Massage Daikiosan DKGM-20002
+- Mô tả:
+ • Công suất: 160 W
+ • Điện áp: 220 V - 50 Hz
+ • Kích thước sản phẩm ( Dài x Rộng x Cao): 140 x 74,5 x 114 cm
+ • Trọng lượng sản phẩm: 84 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D - Công nghệ thông minh AI 4.0 - Kết hợp các
+bài massage Đông Y
+ • Chất liệu: Da bằng chất liệu Microfiber PU, Nhựa cao cấp ABS nguyên sinh, Motor lõi đồng
+36. Ghế massage Daikiosan DKGM-20005:
+- Mã sản phẩm 577781
+- Tên sản phẩm: Ghế massage Daikiosan DKGM-20005
+- Mô tả:
+ • Công suất: 150W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 127*80*117 cm
+ • Trọng lượng sản phẩm: 82 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D - Công nghệ thông minh AI 4.0 - Kết hợp các
+bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 9 chương trình massage tự động chuyên sâu 3D
+ • Động tác massage: Có 6 động tác massage mô phỏng động tác của các chuyên gia vật lý trị liệu:
+Nhào - Đấm - Nhào và gõ - Shiatsu - Tuina - Vỗ
+ • Massage bằng nhiệt sưởi ấm: Massage bằng nhiệt sợi carbon 1 cấp độ tại 3 vị trí: Thắt lưng, tay,
+chân
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: 16 Con lăn bằng silicon với 3 cấp độ
+ • Túi khí: 36 Túi khí bằng TPU với 3 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Dây ray: SL 133 cm
+ • Điều khiển: - Có bàn phím điều khiển nhanh chỗ để tay - Remote tiện lợi bằng tiếng Việt - Bằng
+giọng nói tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại, kết nối bằng bluetooth
+ • Cổng sạc: USB - giúp sạc điện thoại tiện lợi
+ • Chất liệu sản phẩm: - Bên trong bằng da bằng vật liệu PU - Bên ngoài bằng nhựa bằng: Plastic -
+Nhựa Plastic 1 lớp + lớp sơn bóng bảo vệ chống trầy xước - Khung định hình bằng thép không gỉ,
+phủ lớp chống oxy hóa - Bộ vi mạnh điều khiển phủ lớp chống oxy hóa - Motor lõi đồng chất lượng
+cao...
+ • Tải trọng tối đa: 150 Kg
+37. Ghế massage Makano MKGM-20005:
+- Mã sản phẩm 577801
+- Tên sản phẩm: Ghế massage Makano MKGM-20005
+- Mô tả:
+ • Công suất: 150W
+ • Kích thước sản phẩm (Dài x Rộng x Cao) 127*80*117 cm
+ • Trọng lượng sản phẩm: 82 Kg
+ • Ứng dụng công nghệ: + Công nghệ massage 3D + Công nghệ thông minh AI 4.0 + Kết hợp các
+bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 9 chương trình massage tự động chuyên sâu 3D
+ • Động tác massage: Có 6 động tác massage mô phỏng động tác của các chuyên gia vật lý trị liệu:
+Nhào - Đấm - Nhào và gõ - Shiatsu - Tuina - Vỗ
+ • Massage bằng nhiệt sưởi ấm: Massage bằng nhiệt sợi carbon 1 cấp độ tại 3 vị trí: Thắt lưng, tay,
+chân
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: 16 Con lăn bằng silicon với 3 cấp độ
+ • Túi khí: 36 Túi khí bằng TPU với 3 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Dây ray: SL 133 cm
+ • Điều khiển: + Có bàn phím điều khiển nhanh chỗ để tay + Remote tiện lợi bằng tiếng Việt +
+Bằng giọng nói tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại, kết nối bằng bluetooth
+ • Cổng sạc: USB - giúp sạc điện thoại tiện lợi
+ • Chất liệu sản phẩm: + Bên trong bằng da bằng vật liệu PU + Bên ngoài bằng nhựa bằng: Plastic
+- Nhựa Plastic 1 lớp + lớp sơn bóng bảo vệ chống trầy xước + Khung định hình bằng thép không gỉ,
+phủ lớp chống oxy hóa + Bộ vi mạnh điều khiển phủ lớp chống oxy hóa + Motor lõi đồng chất
+lượng cao...
+ • Tải trọng tối đa: 150 Kg
+38. Ghế massage Daikiosan DKGM-20004:
+- Mã sản phẩm 577870
+- Tên sản phẩm: Ghế massage Daikiosan DKGM-20004
+- Mô tả:
+ • Kích thước sản phẩm (Dài x Rộng x Cao) 140.5x74x113cm
+ • Trọng lượng sản phẩm: 93 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 3D đỉnh cao - Công nghệ thông minh AI 4.0 - Kết
+hợp các bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 20 chương trình massage tự động
+ • Động tác massage: Có 5 động tác massage mô phỏng động tác của các chuyên gia massage:
+Nhào - Vỗ - Ấn - Gõ - Nhào & Gõ
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: 10 con lăn bằng silicon với 6 cấp độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Túi khí: 44 Túi khí bằng TPU với 6 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Điều khiển: - Bàn phím nhanh chỗ để tay - LCD cảm ứng bằng tiếng Việt - Bằng giọng nói
+tiếng Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại kết nối bằng bluetooth
+ • Cấu trúc loa: 1 bên loa được thiết kế dành cho giọng nói, 1 bên loa được thiết kế dành cho nghe
+nhạc
+ • Chất liệu sản phẩm: - Da bằng chất liệu PU cao cấp - Khung định hình bằng thép không gỉ 2
+lớp, phủ lớp chống oxy hóa - Bộ vi mạnh điều khiển phủ lớp chống oxy hóa - Motor lõi đồng chất
+lượng cao...
+ • Tải trọng tối đa: 120 Kg
+39. Ghế Massage Makano MKGM-30002:
+- Mã sản phẩm 577792
+- Tên sản phẩm: Ghế Massage Makano MKGM-30002
+- Mô tả:
+ • Công suất: 200 W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 146*83*113cm
+ • Trọng lượng sản phẩm: 105 Kg
+ • Công nghệ: + Công nghệ massage 4D đỉnh cao + Công nghệ thông minh AI 4.0 + Kết hợp các
+bài massage Đông Y
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 10 chương trình massage tự động
+ • Động tác massage: Có 5 động tác massage mô phỏng động tác của các chuyên gia massage
+ • Khả năng con lăn mở rộng: 8.5cm (+/-5%) để chạm đến các phần cong của cơ thể
+ • Con lăn: Con lăn bằng silicon với 6 cấp độ điều chỉnh từ nhẹ tới mạnh
+ • Túi khí: Túi khí bằng TPU với 6 cường độ điều chỉnh từ nhẹ tới mạnh
+ • Dây ray: SL 130cm
+ • Điều khiển: Bàn phím nhanh chỗ để tay - Remote tiện lợi bằng tiếng Việt - Bằng giọng nói tiếng
+Việt
+ • Chức năng nghe nhạc: Loa nghe nhạc hiện đại kết nối bằng bluetooth
+ • Cổng sạc: Có - giúp sạc điện thoại tiện lợi
+ • Chất liệu sản phẩm: + Da bằng chất liệu microfiber PU đẳng cấp + Nhựa cao cấp ABS nguyên
+sinh 4 lớp với lớp sơn bóng bảo vệ chống trầy xước + Khung định hình bằng thép không gỉ, phủ lớp
+chống oxy hóa + Bộ vi mạnh điều khiển phủ lớp chống oxy hóa + Motor lõi đồng chất lượng cao...
+ • Tải trọng tối đa: 100 Kg
+40. Ghế Massage Daikiosan DKGM-30004:
+- Mã sản phẩm 577843
+- Tên sản phẩm: Ghế Massage Daikiosan DKGM-30004
+- Mô tả:
+ • Công suất: 240 W
+ • Kích thước sản phẩm (Dài x Rộng x Cao): 145 x 80 x 116 cm
+ • Trọng lượng sản phẩm: 126 Kg
+ • Ứng dụng công nghệ: - Công nghệ massage 5D đỉnh cao - Công nghệ thông minh AI 4.0 - Kết
+hợp các bài massage Đông Y - Massage Thái dương
+ • Scan cơ thể: Có - để điều chỉnh vị trí massage phù hợp từng người
+ • Chương trình massage: Có 24 chương trình massage tự động
+ • Động tác massage: Có 6 động tác massage mô phỏng động tác của các chuyên gia vật lý trị liệu:
+Xoa bóp, lăn, đấm, bấm huyệt, vỗ, kết hợp.
+ • Massage bằng nhiệt sưởi ấm: Bằng nhiệt sượi carbon với tùy chỉnh 3 cấp độ tại 4 vị trí: Lưng,
+mông, bắp chân, bàn chân.
+ • Massage không trọng lực (Zero Gravity): Có - giúp giảm trọng lực tác động lên cơ thể để
+massage hiệu quả hơn
+ • Con lăn: Con lăn bằng silicon với 6 cấp độ ỏ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Túi khí: 86 túi khí bằng TPU với 6 cường độ điều chỉnh từ nhẹ tới mạnh theo nhu cầu người
+dùng
+ • Dây ray SL: 130cm
+ • Điều khiển: Bằng giọng nói tiếng Việt
+ • Bảng điều khiển: Màn hình HD cao cấp
+ • Chức năng nghi nhớ: Chương trình tự động/thủ công cho từng người sử dụng
+ • Chức năng nghe nhạc: Có
+ • Cổng sạc: 2 cổng sạc USB tiện nghi
+ • Đèn led phát sáng trên sản phẩm: Có - giúp tăng vẻ đẹp, sang trọng và giúp tinh thần thư giãn
+thoải mái.
+ • Chất liệu sản phẩm: - Da microfiber PU đẳng cấp. - Nhựa ABS nguyên sinh bọc toàn thân. -
+Khung định hình bằng thép không gỉ, phủ lớp chống oxy hóa. - Motor lõi đồng chất lượng cao...
+ • Tải trọng tối đa: 100 Kg
+41. Ghế Massage Daikiosan DVGM-30003:
+- Mã sản phẩm 577861
+- Tên sản phẩm: Ghế Massage Daikiosan DVGM-30003
+- Mô tả:
+ • Công nghệ massage: 4D
+ • Công suất: 180W
+ • Kích thước sản phẩm (Dài x Rộng x Cao) 167*87*125 cm
+ • Trọng lượng sản phẩm: 145.5 Kg
+ • Chức năng nghe nhạc: Loa nghe nhạc hạng sang, cao cấp thông qua Speaker và bluetooth
+ • Cổng sạc: Có - giúp sạc điện thoại tiện lợi
+ • Tải trọng tối đa: 100 Kg
+42. Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít:
+- Mã sản phẩm 509345
+- Tên sản phẩm: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít
+- Mô tả:
+ • Loại lò: Lò vi sóng có nướng
+ • Dung tích: 20 lít
+ • Công suất vi sóng: 1270W
+ • Công suất nướng: 1000W
+ • Chất liệu khoang lò: Thép không gỉ
+ • Thương hiệu của: Singapore
+ • Sản xuất tại: Trung Quốc
+ • Năm ra mắt: 2020
+ • Chức năng chính: Rã đông, hâm, nấu, nướng
+ • Chức năng khác: Nướng kết hợp vi sóng
+ • Ngôn ngữ: Tiếng Việt
+ • Bảng điều khiển: Nút vặn
+ • Tiện ích: Chuông báo khi nấu xong
+ • Hẹn giờ: lên tới 35 phút
+ • Khoang lò: có đèn
+ • Kích thước, khối lượng: Ngang 43 cm - Cao 25.7 cm - Sâu 32.7 cm - Nặng 12.5 kg
+ • Kích thước khoang lò: Ngang 27.5 cm - Cao 17.5 cm - Sâu 29.1 cm
+43. Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít:
+- Mã sản phẩm 622474
+- Tên sản phẩm: Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Dung tích: 4 lít
+ • Công suất: 1300W
+ • Lòng nồi: Ceramic chống dính
+ • Vỏ nồi: Thép không gỉ
+ • Nắp đậy: Thép không gỉ
+ • Chức năng: Nấu lẩu, chiên xào, nướng, làm bánh
+ • Điều chỉnh nhiệt: Nút gạt
+ • Tiện ích:+ Có tay cầm chống nóng+ Lẩu và nướng kết hợp+ Có khay nướng+ Có khuôn làm
+bánh+ Dây điện tháo rời
+ • Chiều dài dây điện: 121 cm
+44. Lò Nướng Bluestone Eob-7567:
+- Mã sản phẩm 622475
+- Tên sản phẩm: Lò Nướng Bluestone Eob-7567
+- Mô tả:
+Loại lò nướng:Lò nướng thùng Dung tích:45 lít Công suất:2000W Hẹn giờ:Hẹn giờ lên tới 60 phút
+Nhiệt độ:100 - 230ºC Bảng điều khiển:Nút vặn Chất liệu:Cửa kính chịu nhiệt Khoang lò bằng thép
+không gỉ Vỏ bằng inox phủ sơn tĩnh điện Công nghệ làm nóng:Làm nóng bằng thanh nhiệt Chức
+năng chính:Nướng thực phẩm Chế độ nướng:Nướng dưới có quạt đối lưu Nướng trên: Nướng trên
+có quạt đối lưuNướng trên có xiên quay Nướng trên có xiên quay và quạt đối lưuNướng thanh nhiệt
+trên dưới Nướng trên dưới có nướng xiên quay và quạt đối lưuNướng trên dưới có quạt đối lưu Tiện
+ích: Nướng xiên quayQuạt đối lưu Đèn trong khoang lòKích thước, khối lượng:Ngang 56 cm - Cao
+34.5 cm - Sâu 40.5 cm - Nặng 12.88 kgKích thước khoang lò:Ngang 40.5 cm - Cao 33 cm - Sâu
+25.5 cm
+45. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S:
+- Mã sản phẩm 571604
+- Tên sản phẩm: Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S
+- Mô tả:
+Cửa trên - Lồng đứng Khối lượng giặt: 8 Kg Kiểu động cơ: Truyền động gián tiếp (dây Curoa) Tốc
+độ quay vắt tối đa: 775 vòng/ phút Chất liệu lồng giặt: Thép không gỉ Chất liệu vỏ máy: Kim loại
+sơn tĩnh điện Chất liệu nắp máy: Nhựa ABS + Kính Thời gian bảo hành động cơ:2 năm Hiệu suất sử
+dụng điện: 11.3 Wh/kg Mâm giặt kháng khuẩn ABT Bảng điều khiển: Song ngữ Anh - Việt có nút
+nhấn Khóa trẻ em Tự khởi động lại khi có điện Van sử dụng mực nước thấp Cao 93 cm - Ngang
+52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg
+46. Máy Giặt Aqua 9 Kg AQW-F91GT.S:
+- Mã sản phẩm 571582
+- Tên sản phẩm: Máy Giặt Aqua 9 Kg AQW-F91GT.S
+- Mô tả:
+ • Loại máy giặt: Cửa trên
+ • Lồng giặt: Lồng đứng
+ • Khối lượng giặt: 9 Kg
+ • Số người sử dụng: Từ 3 - 5 người
+ • Kiểu động cơ: Truyền động gián tiếp (dây Curoa)
+ • Tốc độ quay vắt tối đa: 700 vòng/phút
+ • Chất liệu lồng giặt: Thép không gỉ
+ • Chất liệu vỏ máy: Kim loại sơn tĩnh điện
+ • Chất liệu nắp máy: Kính chịu lực
+ • Hiệu suất sử dụng điện: 10.9 Wh/kg
+ • Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt
+thơm, Giặt tiêu chuẩn
+ • Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet
+ • Bảng điều khiển: Song ngữ Anh - Việt
+ • Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt
+ • Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg
+ • Chiều dài ống cấp nước: 128 cm
+ • Chiều dài ống thoát nước: 77 cm
+47. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK:
+- Mã sản phẩm 571605
+- Tên sản phẩm: Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK
+- Mô tả:
+Loại máy giặt: Lồng đứng Động Cơ : Curoa Khối lượng giặt: 10 kg Lồng GiặtThép không gỉ Khử
+mùi diệt khuẩn Khóa trẻ em Màn hình hiển thị thời gian Nắp máyNắp kính cường lực tràn viền
+Dòng điện : 220v/50Hz Tốc độ vắt: 700 vòng/phút Kích thước (R*S*C)560 x 630 x 1006 Trọng
+lượng: 36,5 kg Sản xuất tại Việt Nam Bảo hành: 24 Tháng
+48. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB:
+- Mã sản phẩm 571603
+- Tên sản phẩm: Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB
+- Mô tả:
+Loại máy giặt: Cửa trước Lồng giặt: Lồng ngang Khối lượng giặt: 10 Kg Số người sử dụng: Từ 5 -
+7 người (9.5 - 10 kg) Kiểu động cơ: Truyền động gián tiếp (dây Curoa) Tốc độ quay vắt tối đa: 1200
+vòng/phút Chất liệu vỏ máy: Thép không gỉ Chất liệu nắp máy: Nhựa ABS + Gỗ Sản xuất tại: Thái
+Lan Thời gian bảo hành động cơ: 10 năm Hiệu suất sử dụng điện: 21.6 Wh/kg Loại Inverter: Công
+nghệ EcoInverter Chương trình giặt: Đồ trải giường, Giặt nhanh , Giặt tiết kiệm, Vắt, Vệ sinh lồng
+giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ mỏng, Đồ trẻ sơ sinh Công nghệ giặt: Công nghệ giặt hơi
+nước Hygienic CareGiặt nước nóng Bảng điều khiển: Song ngữ Anh - Việt có nút xoay, cảm ứng và
+màn hình hiển thị Tiện ích: Chỉnh số vòng vắt, Giặt sơ, Khóa trẻ em, Thêm đồ trong khi giặt, Trì
+hoãn kết thúc, Xả thêm Kích thước, khối lượng: Cao 85 cm - Ngang 60 cm - Sâu 64 cm - Nặng 72
+kg Chiều dài ống cấp nước: 134 cmChiều dài ống thoát nước: 222 cm
+49. Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB:
+- Mã sản phẩm 571590
+- Tên sản phẩm: Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB
+- Mô tả:
+Loại máy giặt: Cửa trước Lồng giặt: Lồng ngang Khối lượng giặt: 10 Kg Số người sử dụng: Từ 5 -
+7 người (9.5 - 10 kg) Kiểu động cơ: Truyền động gián tiếp (dây Curoa) Tốc độ quay vắt tối đa: 1200
+vòng/phút Chất liệu lồng giặt: Thép không gỉ Chất liệu vỏ máy: Thép không gỉ Chất liệu nắp máy:
+Nhựa ABS + Gỗ Sản xuất tại: Thái Lan Thời gian bảo hành động cơ: 10 năm Hiệu suất sử dụng
+điện: 21.8 Wh/kg Loại Inverter: Công nghệ EcoInverter Chương trình giặt: Đồ trải giường, Giặt
+nhanh 15 phút, Giặt nhanh 39 phút, Vắt, Vệ sinh lồng giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ
+mỏng, Đồ trẻ sơ sinh Công nghệ giặt: Công nghệ Hygienic Care giúp loại bỏ vi khuẩnGiặt nước
+nóng Bảng điều khiển: Song ngữ Anh - Việt Tiện ích: Chỉnh số vòng vắt, Giặt sơ, Khóa trẻ
+em,Thêm đồ trong khi giặt, Trì hoãn kết thúc, Xả thêm Kích thước, khối lượng: Cao 85 cm - Ngang
+60 cm - Sâu 70 cm - Nặng 72 kg Chiều dài ống cấp nước: 133 cm Chiều dài ống thoát nước: 218 cm
+50. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB:
+- Mã sản phẩm 571591
+- Tên sản phẩm: Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB
+- Mô tả:
+Loại máy giặt: Cửa trước Lồng giặt: Lồng ngang Khối lượng giặt: 10 Kg Số người sử dụng: Từ 5 -
+7 người Kiểu động cơ: Truyền động gián tiếp (dây Curoa) Tốc độ quay vắt tối đa: 1200 vòng/phút
+Chất liệu lồng giặt: Thép không gỉ Chất liệu vỏ máy: Kim loại sơn tĩnh điện Chất liệu nắp máy:
+Nhựa + Kính cường lực, thép Sản xuất tại: Thái Lan Thời gian bảo hành động cơ: 10 năm Hiệu suất
+sử dụng điện: 16.5 Wh/kg Loại Inverter: Công nghệ EcoInverterChương trình giặt: Chế độ yêu
+thích, Giặt 60 phút, Đồ trải giường, Giặt nhanh 15 phút, Giặt nhanh 39 phút, Giặt tiết kiệm, Vắt, Vệ
+sinh lồng giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ len, Đồ mỏng, Đồ thể thao, Đồ trẻ em Công
+nghệ giặt: Công nghệ giặt hơi nước Hygienic CareCông nghệ UltraMix hoà tan nước giặt hiệu quả
+Bảng điều khiển: Song ngữ Anh - Việt có nút xoay, cảm ứng và màn hình hiển thịTiện ích: Chỉnh
+nhiệt độ nước, Chỉnh số vòng vắt, Khóa trẻ em, Lưu chương trình yêu thích, Quản lý thời gian,
+Thêm quần áo khi máy đang giặt, Trì hoãn kết thúc, Xả thêm, Chế độ giặt sơ tự động Kích thước,
+khối lượng: Cao 85 cm - Ngang 60 cm - Sâu 65.5 cm - Nặng 76 kg Chiều dài ống cấp nước: 134
+cmChiều dài ống thoát nước: 209 cm
+51. Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng:
+- Mã sản phẩm 571583
+- Tên sản phẩm: Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng
+- Mô tả:
+ • Màu sắc: Trắng
+ • Xuất xứ: Thái Lan
+ • Năm ra mắt: 2022
+ • Thời gian bảo hành: 24 Tháng
+ • Công nghệ Inverter: Không có
+ • Loại máy sấy: Cửa ngang
+ • Khối lượng sấy: 8.5Kg
+ • Công suất: Công suất tiêu thụ 2250 W
+ • Kiểu sấy: Sấy thông hơi
+ • Tốc độ sấy: 3 mức
+ • Chất liệu lồng sấy: Thép không gỉ
+ • Số chương trình: 12 chương trình
+ • Nhiệt độ sấy: tăng cường, trung bình, sấy gió
+ • Loại điều khiển: Núm vặn và nút cảm ứng
+ • Màn hình hiển thị: Điện tử
+ • Hẹn giờ: Có
+ • Khoá an toàn: Có
+ • Ngôn ngữ hiển thị: Tiếng Việt
+ • Khối lượng sản phẩm (kg): 32.5 kg
+ • Kích thước sản phẩm: 850 x 596,5 x 625 mm
+52. Máy lọc không khí Daikin MC30VVM - H:
+- Mã sản phẩm 608086
+- Tên sản phẩm: Máy lọc không khí Daikin MC30VVM - H
+- Mô tả:
+Model: MC30VVM Diện tích sử dụng: 20 - 25m² Lưu lượng gió: 180 m³/h Công suất: 63W Độ ồn:
+22/19 dB(A) Kích thước: 550 x 300 x 200 mm Trọng lượng: 12.5 kg
+53. Máy lọc không khí Carrier AP43STRE 30W:
+- Mã sản phẩm 577846
+- Tên sản phẩm: Máy lọc không khí Carrier AP43STRE 30W
+- Mô tả:
+ • Diện tích phòng sử dụng: Từ 28 - 43 m2
+ • Tốc độ làm sạch không khí: 360 m3/h
+ • Công suất: 30 W
+ • Điện thế: 220 V - 240 V
+ • Các cấp độ quạt: 1/2/3/4
+ • Độ ồn: 27 - 60 dB
+ • Cảm biến bụi mịn: PM2.5
+ • Bộ lọc: Lọc thô - Lọc HEPA - Active Carbon
+ • Tiện ích: - Chức năng Auto/Sleep Mode/Hẹn giờ - Chức năng khóa trẻ em - Chức năng báo thay
+bộ lọc
+ • Bảng điều khiển: Điều khiển cảm ứng; Hiển thị chất lượng không khí trên màn hình LED
+ • Kích thước: 410 x 210 x 628 mm
+ • Trọng lượng: 7.2 Kg
+54. Máy lọc không khí Daikin MC40UVM6:
+- Mã sản phẩm 577850
+- Tên sản phẩm: Máy lọc không khí Daikin MC40UVM6
+- Mô tả:
+ • Diện tích: 31m2
+ • Công suất: 4m3/ phút
+ • Tính năng: Tinh lọc không khí với Công nghệ Streamer và phin lọc tĩnh điện Hepa.
+ • Đèn cảm biến: “phát hiện gấp 3”
+ • Thiết kế: hình tháp, tinh tế và nhỏ gọn.
+ • 3 chế độ hoạt động: Auto, Econo, Pollen
+ • Độ ồn tối đa: 49dB
+55. Máy lọc không khí Carrier AP61UVRE 60W:
+- Mã sản phẩm 577848
+- Tên sản phẩm: Máy lọc không khí Carrier AP61UVRE 60W
+- Mô tả:
+ • Diện tích hiệu quả: Từ 41-61 m2
+ • Tốc độ làm sạch: 510 m3/h
+ • Công suất: 60W
+ • Các cấp độ quạt: 1/2/3/4
+ • Độ ồn: 28 – 65 dB
+ • Cảm biến bụi mịn: PM2.5
+ • Bộ lọc: Lọc thô; lọc HEPA; active Carbon
+ • Tiện ích: - Chức năng Ionizer/ Anion - Chức năng UV Light + Màn lọc Photocatalyst - Chức
+năng Auto/Sleep Mode/Hẹn giờ - Chức năng khóa trẻ em - Chức năng báo thay bộ lọc
+ • Bảng điều khiển: Điều khiển cảm ứng; Hiển thị chất lượng không khí trên màn hình LED
+ • Kích thước: 460 x 230 x 710 mm
+56. Máy Hút Bụi Bluestone Vcb-8067:
+- Mã sản phẩm 622477
+- Tên sản phẩm: Máy Hút Bụi Bluestone Vcb-8067
+- Mô tả:
+Công suất hoạt động:1800W Công suất hút bụi:330W Bộ lọc:Bộ lọc HEPA Độ ồn:83 dB Tiện
+ích:Dây điện tự thu gọn Điều chỉnh sức hút bụi Công nghệ:Công nghệ hút xoáy Cyclonic Đầu hút
+bụi:Đầu hút bàn chải,Đầu hút khe,Đầu hút sàn.Đầu hút thảm
+57. Máy lọc nước Pentair Everpure H104:
+- Mã sản phẩm 577858
+- Tên sản phẩm: Máy lọc nước Pentair Everpure H104
+- Mô tả:
+ • Thương hiệu: Pentair
+ • Xuất xứ lõi lọc chính: USA
+ • Công suất: 3.785 Lít
+ • Tốc độ chảy: 1.9 Lít/phút
+ • Công nghệ: Everpure
+ • Không sử dụng điện, không có nước thải, không bình chứa
+58. MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036:
+- Mã sản phẩm 571599
+- Tên sản phẩm: MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036
+- Mô tả:
+ • Thương hiệu: EMPIRE
+ • Hệ thống lọc: 10 cấp
+ • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm
+thiểu nước thải ~ 40%
+ • Công suất lọc: 10-15 lít / Giờ
+ • Bổ sung: các lõi lọc tạo khoáng giúp nước ngon, ngọt hơn đặc biệt lõi lọc ORP giúp tăng oxi
+hóa và giải độc tố trong cơ thể chậm lão hóa
+ • Công suất máy lọc: 36w
+59. Máy lọc nước Karofi KAQ-U06V:
+- Mã sản phẩm 577811
+- Tên sản phẩm: Máy lọc nước Karofi KAQ-U06V
+- Mô tả:
+ • Kiểu lắp đặt: Lắp âm
+ • Loại máy: Máy lọc nước RO
+ • Công nghệ lọc: Thẩm thấu ngược RO
+ • Kháng khuẩn: Nano Silver
+ • Dung tích bình chứa: 5 lít
+ • Tỉ lệ lọc - thải: Lọc 5 - Thải 5
+ • Công suất lọc: 20 lít/giờ
+ • Công suất tiêu thụ điện trung bình khoảng: 0.025 kW/h
+ • Áp lực nước yêu cầu: 21 - 414 kPa
+ • Thương hiệu của: Việt Nam
+60. Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038:
+- Mã sản phẩm 577879
+- Tên sản phẩm: Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038
+- Mô tả:
+ • Dòng máy: Empire Pro nóng nguội
+ • Hình dáng: Máy lọc nước tủ đứng
+ • Số lõi lọc: 10 lõi lọc
+ • Công nghệ lọc: Công nghệ lọc RO
+ • Công suất lọc nước: 10 – 15 lít/giờ
+ • Dung tích bình chứa: Tổng 12 lít (Nước thường 10 lít, nước nóng 2 lít)
+ • Công suất tiêu thụ điện: Tổng 0.55 kW/h
+ • Nhiệt độ: Nóng 98 độ C
+ • Kích thước: Cao 112.5 cm – Ngang 43.2 – Rộng 35 cm
+ • Trọng lượng: 21.5 Kg
+ • Bơm và van điều tiết: Hệ thống bơm – hút 2 chiều, van điện từ
+ • Tiện ích: Có nước nóng, 1 vòi 2 chế độ nước
+ • Chất liệu: Thép hợp kim
+61. Máy Lọc Nước A. O. Smith C1:
+- Mã sản phẩm 577842
+- Tên sản phẩm: Máy Lọc Nước A. O. Smith C1
+- Mô tả:
+ • Loại máy: Máy lọc nước RO, Để bàn
+ • Số lõi lọc: 4 lõi
+ • Dung tích bình chứa: 5 lít
+ • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào)
+ • Công suất tiêu thụ điện trung bình: 0.048 kW/h
+ • Tiện ích: - Chế độ cút nối nhanh dễ dàng thay lõi - Ngừng hoạt động khi nước đầy bình - Ngừng
+hoạt động khi áp lực nước thấp - Tự động xả nước thải
+ • Thương hiệu của: Mỹ
+62. Máy NLMT Empire 180 Lít Titan M&EGD000224:
+- Mã sản phẩm 509171
+- Tên sản phẩm: Máy NLMT Empire 180 Lít Titan M&EGD000224
+- Mô tả:
+ • Thương hiệu: EMPIRE
+ • Số ống: 18 ống
+ • Dung tích: 180 lít
+ • Bình bảo ôn: Chất liệu Inox 304
+ • Vỏ bảo ôn: Chất liệu Inox
+ • Lớp Foam giữ nhiệt: Polyurethane độ dày 50mm được phun áp lực cao giúp bình giữ nhiệt lên
+đến 71 giờ.
+ • Khung đỡ: Chất liệu inox
+ • Số người sử dụng: 5-6 người
+ • Sản xuất theo công nghệ tiêu chuẩn Mỹ.
+ • Hướng lắp đặt: Hướng nam
+ • Nguồn nước sử dụng: Nước đã qua xử lý và không bị nhiễm phèn.
+63. Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066:
+- Mã sản phẩm 577837
+- Tên sản phẩm: Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066
+- Mô tả:
+ • Thương hiệu: EMPIRE
+ • Hệ thống cấp lọc: 11 cấp
+ • Công suất lọc: 10-15 Lít/ Giờ
+ • Màng lọc: RO Dupon nhập khẩu từ Mỹ
+ • Bổ sung: các lõi lọc tạo khoáng giúp nước ngon, ngọt hơn đặc biệt lõi lọc ORP và Hydrogen
+giúp tăng oxi hóa và giải độc tố trong cơ thể chậm lão hóa
+ • Công nghệ làm lạnh: sử dụng Blog làm lạnh bằng gas lạnh nhanh, và sâu nhiệt độ ~10 độ C
+ • Công nghệ làm nóng: Điện trở đốt bán dẫn dung tích 2 lít nhiệt độ nóng ~ 90 độ C
+ • Điện áp: 220v/60hz
+ • Công suất máy lọc: 36w
+ • Công suất làm nóng: 550w
+ • Công suất làm lạnh: 80W
+64. Máy xay sinh tố Philips HR2041/10 450W:
+- Mã sản phẩm 571579
+- Tên sản phẩm: Máy xay sinh tố Philips HR2041/10 450W
+- Mô tả:
+ • Model: HR2041/10
+ • Màu sắc: Trắng
+ • Loại máy xay sinh tố: Máy xay đa năng
+ • Công suất: 450W
+ • Dung tích sử dụng cối lớn: 1 lít
+ • Chất liệu cối: Nhựa kháng vỡ
+ • Số lượng cối: 2 cối
+ • Chức năng: Xay gia vị, xay hạt, xay rau củ, xay sinh tố, xay đá nhỏ
+ • Chất liệu lưỡi xay: Lưỡi dao xay 4 cánh với công nghệ ProBlend
+ • Tốc độ: 1 tốc độ
+ • Xay nhồi: 1 chế độ xay và 1 chế độ nhồi
+ • Khóa an toàn: Tự ngắt khi quá tải
+ • Đế chống trượt: Có
+ • Phụ kiện: 1 cối xay đồ khô, hạt, ngũ cốc
+ • Khối lượng sản phẩm (kg): 2.3 kg
+ • Kích thước sản phẩm: 375 x 160 x 180 mm
+65. Máy xay cầm tay Philips HR2534/00 650W:
+- Mã sản phẩm 571580
+- Tên sản phẩm: Máy xay cầm tay Philips HR2534/00 650W
+- Mô tả:
+ • Model: HR2534/00
+ • Màu sắc: Trắng
+ • Loại máy xay sinh tố: Máy xay cầm tay
+ • Công suất: 650W
+ • Dung tích cối: 500 ml
+ • Chất liệu cối: Nhựa kháng vỡ
+ • Số lượng cối: 1 cối
+ • Chức năng: Xay sinh tố, xay cháo
+ • Chất liệu lưỡi xay: Thép không gỉ
+ • Tốc độ: 1 tốc độ
+ • Xay nhồi: Không
+ • Khóa an toàn: Bảo vệ lưỡi dao xay chống văng ra ngoài
+ • Đế chống trượt: Không
+ • Tính năng khác: Công nghệ ProMix giúp xay nguyên liệu nhanh và đặc hơn, Đầu xay và thân
+máy có thể tháo rời nhanh bằng 1 nút
+ • Khối lượng sản phẩm (kg): 1.24 kg
+ • Kích thước sản phẩm: 180 x 190 x 250 mm
+66. Nồi chiên không dầu KALITE Q5:
+- Mã sản phẩm 577838
+- Tên sản phẩm: Nồi chiên không dầu KALITE Q5
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Dung tích: 5.5 Lít
+ • Công suất: 1700 W
+ • Chất liệu ruột nồi: Ngăn chiên bằng inox 304 phủ 3 lớp chống dính an toàn
+ • Chất liệu vỏ nồi: Nhựa PP siêu bền
+ • Điện áp: 220 – 240V~/ 50Hz
+ • Chức năng chính: Chiên nướng sản phẩm không cần dầu mỡ
+ • Nhiệt độ: 80-200 độ
+ • Tiện ích: Làm giảm 80% lượng dầu mỡ trên thực phẩm
+ • Công nghệ làm nóng: Rapid Air
+ • Bảng điều khiển: Núm vặn
+67. Nồi chiên không dầu KALITE Q6 5,5 lít:
+- Mã sản phẩm 577847
+- Tên sản phẩm: Nồi chiên không dầu KALITE Q6 5,5 lít
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Màu sắc: Đen
+ • Dung tích: 5.5 L
+ • Tổng công suất: 1700W
+ • Điện áp: 220V – 240V/ 50Hz – 60Hz
+ • Điều khiển: Bảng điều khiển LED
+ • Khối lượng tịnh: 6.3kg
+ • Khối lượng cả bao bì: 7.3kg
+ • Kích thước: 420 x 370 x 370 mm
+ • Chất liệu: - Vỏ: Inox 304 và Nhựa PP cao cấp - Ngăn chiên: Inox 304 phủ lớp chống dính an
+toàn - Thanh nhiệt: Inox 304
+ • Giới hạn nhiệt độ chiên: 80-200°C
+ • Giới hạn thời gian chiên: < 60 phút
+68. Nồi chiên không dầu Rapido 12L RAF-12D, công suất 1800W:
+- Mã sản phẩm 577841
+- Tên sản phẩm: Nồi chiên không dầu Rapido 12L RAF-12D, công suất 1800W
+- Mô tả:
+ • Dung tích: 12L
+ • Công suất: 1800 W
+ • Bảng điều khiển: điện tử
+ • Phụ kiện đi kèm: 7 món
+ • Số chức năng chiên nướng: 10 chức năng
+ • Công nghệ: Rapid Air
+69. Nồi chiên không dầu Kalite Q10 10 lít:
+- Mã sản phẩm 577822
+- Tên sản phẩm: Nồi chiên không dầu Kalite Q10 10 lít
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Màu sắc: Trắng và Đen
+ • Công nghệ: Rapid Air
+ • Điện áp: 220 – 240 V/ 50Hz – 60 Hz
+ • Công suất: 1800W
+ • Dung tích khoang nướng: 10L
+ • Kích thước: 380 x 380 x 430 mm
+ • Khối lượng tịnh: 9,8 kg
+ • Giới hạn nhiệt độ chiên: 40 – 200°C
+70. Nồi chiên không dầu KALITE KL-1200 12 lít:
+- Mã sản phẩm 577836
+- Tên sản phẩm: Nồi chiên không dầu KALITE KL-1200 12 lít
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Màu sắc: Đen
+ • Dung tích: 12L
+ • Công suất: 1800W
+ • Điện áp: 220-240V/ 50-60Hz
+ • Dải nhiệt: 35 - 200 độ C
+ • Công nghệ: Rapid Air
+ • Bảng điều khiển: Cảm ứng + Núm xoay cơ
+ • Khối lượng tịnh: 9,5kg
+ • Kích thước: 380 x 380 x 420 mm
+ • Phụ kiện: 8 món
+71. Nôì chiên không dầu KALITE STEAM 7 7 lít:
+- Mã sản phẩm 577839
+- Tên sản phẩm: Nôì chiên không dầu KALITE STEAM 7 7 lít
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Dung tích tổng: 7 lít
+ • Dung tích sử dụng: 6.2 lít
+ • Công suất: Chiên 1700W - Hấp 900W
+ • Nhiệt độ: 80 - 200°C
+ • Hẹn giờ: 0 - 60 phút
+ • Chất liệu: Vỏ inox 304 và nhựa PP; Lòng nồi bằng inox 304 phủ lớp chống dính
+ • Bảng điều khiển: Cảm ứng có màn hình hiển thị
+ • Công nghệ làm nóng: Rapid Air
+ • Chức năng nấu: Chiên, nướng, hấp thực phẩm
+ • Tiện ích: + Tự ngắt khi quá nhiệt + 6 chương trình nấu ăn cài đặt sẵn + Quạt đối lưu + Có chức
+năng hấp
+ • Phụ kiện đi kèm: Vỉ tách dầu
+72. Nồi chiên không dầu Kalite KL-1500 15 lít:
+- Mã sản phẩm 571594
+- Tên sản phẩm: Nồi chiên không dầu Kalite KL-1500 15 lít
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Dung tích: 15L
+ • Công suất: 1700W
+ • Nhiệt độ: 40-200°C
+ • Chế độ nấu: 10 chế độ
+ • Điện áp: 220-240V, 50-60Hz
+ • Cảnh báo an toàn: Để nguội 30 phút trước khi vệ sinh
+ • Khối lượng tịnh: 7,2 kg
+ • Kích thước: 330x382x362mm
+73. Nồi chiên không dầu KALITE STEAM STAR 15 lít:
+- Mã sản phẩm 577856
+- Tên sản phẩm: Nồi chiên không dầu KALITE STEAM STAR 15 lít
+- Mô tả:
+ • Dung tích sử dụng: 15 lít
+ • Điều chỉnh: nhiệt độ từ 40 - 230°C, thời gian từ 0 - 60 phút
+ • Phụ kiện chính: - Cọ quét dầu - Găng tay - Khay lưới - Khay nướng - Khay tròn - Móc - Vỉ
+nướng
+ • Chất liệu nồi: - Khoang lò bằng inox 304 - Vỏ bằng thép không gỉ phủ sơn tĩnh điện và nhựa PP
+ • Công nghệ: Rapid Air - Steam Active
+ • Công suất: Chiên 1635W - Hấp 985W
+ • Chức năng nấu: Chiên, nướng, hấp thực phẩm
+ • Bảng điều khiển: Cảm ứng có màn hình hiển thị
+ • Tiện ích: - 5 chương trình nấu ăn cài đặt sẵn - Nắp kính trong suốt, quan sát được quá trình nấu
+- Quạt đối lưu - Đèn trong khoang lò
+74. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít:
+- Mã sản phẩm 509172
+- Tên sản phẩm: Nồi cơm điện Kalite KL-618, dung tích 1,8 lít
+- Mô tả:
+ • Thương Hiệu: Kalite
+ • Màu Sắc: Xanh Lá Đậm
+ • Dung Tích: 1.8L
+ • Công Suất: 700W
+ • Điện Áp: 220V/50Hz
+ • Bảng Điều Khiển: Nút Bấm
+ • Màn Hình Hiển Thị: Đèn LED
+ • Kích Thước: 320 x 330 x 320 mm
+ • Trọng Lượng Tịnh: 3.48 kg
+ • Trọng Lượng Cả Bao Bì: 3.9 kg
+ • Phụ Kiện Đi Kèm: Thìa Xới Cơm (1), Khay Hấp (1), Cốc Đong Gạo (1)
+75. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít:
+- Mã sản phẩm 509173
+- Tên sản phẩm: Nồi cơm điện KALITE KL-619, dung tích 1,8 lít
+- Mô tả:
+ • Thương Hiệu: Kalite
+ • Màu Sắc: Xanh Lá Đậm
+ • Dung Tích: 1.8L
+ • Công Suất: 700W
+ • Điện Áp: 220V / 50Hz
+ • Bảng Điều Khiển: Nút Bấm
+ • Màn Hình Hiển Thị: Đèn LED
+ • Trọng Lượng Cả Bao Bì: 4 kg
+ • Phụ Kiện Đi Kèm: Thìa Xới Cơm (1), Khay Hấp (1), Cốc Đong Gạo (1)
+76. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít:
+- Mã sản phẩm 509174
+- Tên sản phẩm: Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Màu sắc: 2 màu bạc và nâu
+ • Chất liệu: Thân inox
+ • Dung tích: 1.8L
+ • Điện áp: 220V/50Hz
+ • Công suất: 860W
+ • Bảng điều khiển: Nút điện tử tiếng Việt
+ • Xuất xứ thương hiệu: Việt Nam
+ • Phụ kiện: dây nguồn, Sách HDSD, muôi xới cơm. thìa canh, cốc đong, Khay hấp
+77. Nồi cơm điện AIO Smart AIORCO3L23G/4CO:
+- Mã sản phẩm 574096
+- Tên sản phẩm: Nồi cơm điện AIO Smart AIORCO3L23G/4CO
+- Mô tả:
+Công nghệ: Cao tần/Từ Công suất (Danh định): 1300W Nguồn định mức: 220VAC - 50/60Hz Dung
+tích: 4.0L Chất liệu lòng nồi: Hợp kim nhôm phủ chống dính Độ dày lòng nồi: 1.5mm Chức năng:
+Giữ ấm, Hâm nóng, nấu nhanh, nấu cháo, nấu súp, hấp, làm bánh Màn hình LED hiển thị thời gian
+Ngôn ngữ : Tiếng Việt Kích thước sản phẩm (DxRXC): 344x271x218 mm Khối lượng sản phẩm:
+4.75 kg Bào hành : 12 tháng Kích hoạt bảo hành điện tử
+78. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991:
+- Mã sản phẩm 509319
+- Tên sản phẩm: Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991
+- Mô tả:
+Công suất : 1200W Dung tích : 1.5 Lít Công nghệ nấu IH 9 chế độ nấu cài đặt sẵn tiện dụng Bảng
+điều khiển cảm ứng thông minh Lòng nồi niêu, dày 1.8mm phủ lớp chống dính
+79. Nồi áp suất điện KALITE KL-636 6 lít:
+- Mã sản phẩm 577845
+- Tên sản phẩm: Nồi áp suất điện KALITE KL-636 6 lít
+- Mô tả:
+ • Thương hiệu: Kalite
+ • Màu sắc: trắng và đen
+ • Chất liệu: INOX
+ • Dung tích: 6L
+ • Điện áp: 220V/50Hz
+ • Công suất: 1000W
+ • Bảng điều khiển: Song ngữ Tiếng Việt + Tiếng Anh, điều khiển bằng nút điện tử
+80. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W:
+- Mã sản phẩm 509323
+- Tên sản phẩm: Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W
+- Mô tả:
+ • Công suất: 900W
+ • Dung tích: 4.5 Lít
+ • Chế độ nấu cài đặt sẵn: 13 Chế độ
+ • Chất liệu vỏ ngoài: Hợp kim phủ sơn tĩnh điện
+ • Chất liệu lòng nồi: Lòng nồi hợp kim nhôm chống dính
+ • Chức năng khác: Nút ấn xả và van xả tự động, Bảng điều khiển núm vặn, Tính năng giữ ấm tự
+động sau khi kết thúc chương trình nấu
+ • Khối lượng sản phẩm: 5kg
+ • Màu sắc: Vàng đồng
+ • Nhà sản xuất: Bluestone
+81. Nồi Áp Suất Bluestone Pcb-5748:
+- Mã sản phẩm 509324
+- Tên sản phẩm: Nồi Áp Suất Bluestone Pcb-5748
+- Mô tả:
+Thương hiệu Bluestone Mã sản phẩm PCB-5748 Loại nồi áp suất Nồi áp suất điện Dung tích thực
+5L Công suất 900W Chất liệu nồi Vỏ ngoài thép sơn tĩnh điện Lòng nồi hợp kim nhôm chống dính
+Bảng điều khiển Nút nhấn có màn hình hiển thị Chức năng chính Hầm thịt Nấu gân Nấu đậu Giữ
+ấm Hầm xương
+82. Nồi áp suất AIO Smart AIOPTO3L23S/6CO:
+- Mã sản phẩm 574095
+- Tên sản phẩm: Nồi áp suất AIO Smart AIOPTO3L23S/6CO
+- Mô tả:
+Công suất: 1350W Nguồn định mức: 220VAC - 50/60Hz Áp suất hoạt động: 80Kpa Dung tích: 6.0L
+Chất liệu lòng nồi: Hợp kim nhôm phủ chống dính Kích thước lòng nồi: Đường kính 240mm, dày
+2.0mm Chức năng : hâm nóng, giữ ấm, nấu chậm, nấu sốt đặc, xào, hầm, làm sữa chua Van an toàn:
+1 van chính, 1 van phụ Van xả áp tự động Tự ngắt khi quá nhiệt Tự làm sạch nồi Tự động giữ ấm
+sau khi nấu Chế độ hẹn giờ Điều chỉnh nhiệt độ Màn hình LED hiển thị nhiệt độ, thời gian Ngôn
+ngữ : Tiếng Việt Kích thước sản phẩm (DxRXC): 359.5x367x299 mm Khối lượng sản phẩm: 7.1 kg
+Thời gian bảo hành: 12 tháng Kích hoạt bảo hành điện tử: Có
+83. Robot hút bụi NEATO BOTVAC CONNECTED D401 ĐEN:
+- Mã sản phẩm 571596
+- Tên sản phẩm: Robot hút bụi NEATO BOTVAC CONNECTED D401 ĐEN
+- Mô tả:
+ • Hộp bụi: 700 ml
+ • Công suất hoạt động: 38W
+ • Công suất hút: 1200 -1600 Pa
+ • Độ ồn cao nhất: 78 dB
+ • Bộ lọc: Bộ lọc HEPA
+ • Phiên bản: Quốc tế
+ • Dung lượng pin: 2100 mAh
+ • Thời gian sử dụng: Sạc khoảng 2 - 3 giờ, dùng khoảng 75 phút
+ • Kích thước, khối lượng: Ngang 33 cm - Cao 10 cm - Sâu 32 cm - 3.4 kg
+ • Công nghệ: + Công nghệ SpinFlow Power Clean + Công nghệ sạc nhanh Quick Boost
+ • Tiện ích: + Tường ảo thông minh Neato NO-Go line + Điều hướng thông minh nhờ công nghệ
+SmartLaserTM + Cảm biến chống rơi, chống va chạm + Điều khiển qua kết nối trên điện thoại
+thông minh + Lưu được 1 bản đồ + Tự quay về đế/trạm sạc + Tính năng tường ảo + Hẹn giờ
+84. Robot hút bụi lau nhà Ecovacs Deebot X1 Omni - xám:
+- Mã sản phẩm 571597
+- Tên sản phẩm: Robot hút bụi lau nhà Ecovacs Deebot X1 Omni - xám
+- Mô tả:
+ • Pin/dung lượng: Lithium 14.8V-DC/5200mAh
+ • Điện áp sử dụng: 100-240V
+ • Thời gian hoạt động: 120′ – 180′
+ • Khả năng vượt vật cản tối đa: 2cm
+ • Kích thước (Dài, Rộng, Cao :cm): 35 x 35 x 9.3
+ • Kí hiệu dock sạc – điện áp: CH1630A – 14.8V
+ • Thời gian sạc pin: 5h
+ • Trọng lượng: 5,2kg
+ • Tiếng ồn khi hoạt động (dBA) <100dB
+ • Công suất/ lực hút: 5000Pa
+ • Điều chỉnh độ ẩm: Có
+ • Dung tích hộp chứa bụi: 380ml
+ • Dung tích ngăn đựng nước: 200ml
+ • Hệ thống điều hướng AIVI 3D
+ • Công nghệ thiết lập bản đồ TrueMapping 2.0
+ • Chức năng làm sạch: Quét hút + lau + Tự giặt khăn lau
+ • Diện tích căn hộ phù hợp <200m2/ nhà nhiều tầng
+ • Cảm biến chống va chạm: Có
+ • Hẹn giờ chạy tự động: Có + hẹn giờ theo khu vực
+ • Hiển thị bản đồ 3D: Có
+ • Thông báo bằng giọng nói: Có
+ • Trợ lý giọng nói YIKO: Có
+ • Nâng cấp phần mềm OTA: Có
+85. Camera trong nhà HC23:
+- Mã sản phẩm 571634
+- Tên sản phẩm: Camera trong nhà HC23
+- Mô tả:
+Độ phân giải Full HD 2Mpx (1920 x 1080) Hỗ trợ hồng ngoại lên tới khoảng cách 10m Tính năng
+đàm thoại 02 chiều (02 way talking) Tự động xoay 360 độ, bám theo mọi chuyển động. Hình ảnh
+sắc nét, công nghệ nén hình ảnh theo chuẩn H.265 Gọi điện khẩn cấp SOS từ Camera lên ứng dụng
+Viettel Home Công nghệ AI thông minh phân biệt giữa người và vật, giảm cảnh báo giả. Cài đặt
+Camera báo động bằng nhiều âm thanh khác nhau khi phát hiện người, chuyển động. Bảo hành:12
+tháng tại các cửa hàng Viettel
+86. Camera ngoài trời HC33:
+- Mã sản phẩm 571635
+- Tên sản phẩm: Camera ngoài trời HC33
+- Mô tả:
+Độ phân giải Full HD 2Mpx (1920 x 1080) Hỗ trợ hồng ngoại lên tới khoảng cách 30m Công nghệ
+nén hình ảnh theo chuẩn H.265 Khả năng chống nước, bụi IP67 Tích hợp công nghệ AI cho phép
+phân biệt chuyển động của con người với vật, giảm cảnh báo giả. Hình ảnh quan sát có màu vào ban
+đêm Tính năng đàm thoại 2 chiều trực tiếp. Có đèn và còi báo động khi phát hiện chuyển động vào
+ban đêm. Bảo hành: 12 tháng tại các cửa hàng Viettel
+87. Webcam Maxhub 1080 UC W10:
+- Mã sản phẩm 577876
+- Tên sản phẩm: Webcam Maxhub 1080 UC W10
+- Mô tả:
+ • Độ phân giải: 1080p/30fps
+ • Định dạng xuất: MJPG, H.264 & YUY2
+ • Tích hợp: 2 micro với khả năng thu lên đến 4 mét
+ • Công nghệ: 3D-DNR
+ • Chất lượng hiệu suất: 20 LUX
+ • Kết nối: Type-C
+ • Giao thức tiêu chuẩn: UAC và UVC
+ • Tương thích: với nhiều phần mềm Zoom, Microsoft Teams, Skype,...
+ • Góc rộng: 71°
+ • Trọng lượng: 68g
+88. Webcam 4k, góc nhìn 80 độ UC W20:
+- Mã sản phẩm 577865
+- Tên sản phẩm: Webcam 4k, góc nhìn 80 độ UC W20
+- Mô tả:
+ • Chất lượng: 4k @ 30fps
+ • Hình ảnh: 30fps 4K hoặc 720p Ultra HD
+ • Công nghệ: DNR 2D & 3D Lấy nét tự động
+ • Ống kính: chữ T
+ • Xoay ngang: 360 °
+ • Điều chỉnh góc khác nhau: ≤10 °
+ • Kết nối: USB TypeC
+ • Tính năng nén video: H.264
+ • Cảm biến: 13MP
+ • Trường nhìn: 80 độ
+89. Bluetooth mic và loa BM20:
+- Mã sản phẩm 577863
+- Tên sản phẩm: Bluetooth mic và loa BM20
+- Mô tả:
+ • Số micro: 6 Micro đa hướng
+ • Xoay ngang: 360 °
+ • Khoảng cách bắt: 4m
+ • Loa: 1 Loa 5W
+ • Pin sạc: 2200mAh
+ • Thời gian sử dụng: 8 giờ
+ • Kết nối: USB Type C/ Audio Cable/ Bluetooth (USB Dongle Option)
+ • Đường kính x Chiếu cao: 120 x 35mm
+ • Trọng lượng: 380g
+ • Màu: Dark Gray
+ • Chất liệu vỏ: Kim loại
+90. Webcam 4k, góc nhìn 120 độ UC W21:
+- Mã sản phẩm 577866
+- Tên sản phẩm: Webcam 4k, góc nhìn 120 độ UC W21
+- Mô tả:
+ • Độ phân giải: Ultra HD 4K @ 25fps
+ • Góc nhìn: 120° DFoV
+ • Công nghệ: HDR Mảng Mic 2 phần tử; HDR Lấy nét tự động
+ • Thuật toán giảm nhiễu: 2D & 3D DNR
+ • Ống kính: chữ T
+ • Xoay ngang: 360°
+ • Điều chỉnh góc khác nhau: ≤10 °
+ • Kết nối cổng: TypeC
+91. USB, camera hội nghị 4k, tích hợp mic và loa UC S05:
+- Mã sản phẩm 577819
+- Tên sản phẩm: USB, camera hội nghị 4k, tích hợp mic và loa UC S05
+- Mô tả:
+ • Độ phân giải: FPS 4k Ultra-HD
+ • Góc nhìn: 120°
+ • Khả năng Zoom: lên đến 15x
+ • Kết nối: USB-C Camera tích hợp Micro
+ • Tích hợp: 6 micro array
+ • Phạm vi hoạt động của loa: 8m - thích hợp cho phòng họp lớn
+ • Công suất loa: 8W
+ • Cảm biến: 12MP 1/2.3inch
+92. Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN -
+Tenda F3:
+- Mã sản phẩm 608095
+- Tên sản phẩm: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3
+cổng LAN - Tenda F3
+- Mô tả:
+Thương hiệu Tenda Tên sản phẩm Router Tenda F3 Wireless N300Mbps Chi tiết Cổng kết nối
+1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) Kích thước
+(L x W x H) 127.4mm*90.5mm*26mm TÍNH NĂNG WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng
+tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES
+Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC
+93. Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna
+( IMDA Approved ):
+- Mã sản phẩm 577857
+- Tên sản phẩm: Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI
+Antenna ( IMDA Approved )
+- Mô tả:
+Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps Công suất
+truyền: Lên đến 20dBm
+94. Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6:
+- Mã sản phẩm 608096
+- Tên sản phẩm: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6
+- Mô tả:
+Thương hiệu Tenda Tên sản phẩm Router Tenda F6 Wireless N300Mbps Chi tiết Cổng kết nối
+1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas Kích thước (L x W x
+H) 204*147.5*211mm TÍNH NĂNG WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần
+2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi WPA-PSK/WPA2-PSK, WPA/WPA2
+95. Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC6 băng tần 2.4/5Ghz:
+- Mã sản phẩm 571602
+- Tên sản phẩm: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC6 băng tần
+2.4/5Ghz
+- Mô tả:
+ • Giao tiếp: 1*10/100Mbps WAN port3*10/100Mbps LAN ports
+ • Dải tần số: Simultaneous dual band 2.4 & 5GHz
+ • Antenna dBi: 4*5dBi external antennas
+ • Cơ chế bảo mật mạng: WPA-PSK/WPA2-PSK, WPA/WPA2 Wireless Security: Enable/Disable
+WPS(WiFi Protected Set-up) fast encryption
+ • Button: 1*WiFi on/off, 1* Reset/WPS button
+ • Nguồn: + Input: 100-240V—50/60Hz, 0.2A + Output: DC 12V==1A
+ • Khối lượng: 220*141.5*49mm
+ • Standard: IEEE 802.11ac/a/n 5GHzIEEE 802.11b/g/n 2.4GHz
+ • Hãng sản xuất: TENDA
+96. Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5:
+- Mã sản phẩm 608094
+- Tên sản phẩm: Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5
+- Mô tả:
+Dòng điện ra: 9V 1A Dòng điện vào: 100-240V-50/60Hz, 0.2A Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac)
+Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps Hãng sản xuất:
+Tenda Cổng giao tiếp: + 10/100 Mbps 3 cổng Lan + 10/100 Mbps 1 cổng Wan
+97. Thiết bị thu phát vô tuyến Ruijie RG-EW1200:
+- Mã sản phẩm 577854
+- Tên sản phẩm: Thiết bị thu phát vô tuyến Ruijie RG-EW1200
+- Mô tả:
+ • Tốc độ: 1167Mbps
+ • Băng tần: 2 băng tần 2.4GHz và 5GHz
+ • Số lượng người dùng truy cập đồng thời: 20+ 1
+ • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps
+ • Băng thông truy cập tối đa: 100Mbps
+ • Hỗ trợ: Dịch vụ Ruijie Cloud miễn phí; hỗ trợ Mesh nhiều bộ Wifi với nhau.
+98. Wifi Ruijie RG-EW1200G Pro:
+- Mã sản phẩm 577864
+- Tên sản phẩm: Wifi Ruijie RG-EW1200G Pro
+- Mô tả:
+ • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz)
+ • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép
+ • Cổng LAN: 3 cổng LAN 10/100/1000M
+ • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc
+ • Dải tần số đầu vào: 50Hz-60Hz
+ • Kích thước (R*S*C), không bao gồm ăng-ten: 220*140*36mm
+ • Ăng-ten: Ăng-ten đa hướng 6dBi ngoại vi
+ • Cổng WAN: 1 cổng WAN 10/100/1000M
+ • Đèn báo LED: 1 đèn LED hệ thống màu xanh lam, 4 đèn LED báo cổng mạng
+ • Dải điện áp định mức: 100Vac-240Vac
+ • Giao diện: 1 giao diện nguồn đầu vào(DC12V 1,5A)
+ • Trọng lượng: 0,98kg
+99. Ấm đun nước điện KALITE KL-301 1,7 lít 1850W:
+- Mã sản phẩm 577875
+- Tên sản phẩm: Ấm đun nước điện KALITE KL-301 1,7 lít 1850W
+- Mô tả:
+ • Thương hiệu: KALITE
+ • Dung tích thực: 1.7L
+ • Công suất: 1850 W
+ • Chất liệu ruột bình: Inox
+ • Đế tiếp điện: Xoay 360 độ tiện dụng
+ • Đặc điểm nổi bật: - 3 chế độ ngắt điện - Khả năng giữ ấm đỉnh cao mà không cần đun sôi lại
+ • Kích thước: 185 x 155 x 190 mm
+100. Nồi thủy tinh Visions 2.25l VS-22/CL1:
+- Mã sản phẩm 577778
+- Tên sản phẩm: Nồi thủy tinh Visions 2.25l VS-22/CL1
+- Mô tả:
+ • Dùng cho bếp: Bếp gas, Bếp hồng ngoại
+ • Chất liệu nồi: Thủy tinh
+ • Nắp nồi: Nắp thủy tinh
+ • Nồi chống dính: Không có
+ • Kích thước: 22 x 9 x 28 cm
+ • Độ dày: 5.784 mm
+ • Thương hiệu của: Mỹ
+ • Nơi sản xuất: Pháp
+ • Hãng: Visions.
+101. Nồi chiên không dầu Rapido 6.5L, RAF-6.5D:
+- Mã sản phẩm 571239
+- Tên sản phẩm: Nồi chiên không dầu Rapido 6.5L, RAF-6.5D
+- Mô tả:
+ • Công suất: 1800 W
+ • Chất liệu lòng nồi: Chống dính CERAMIC cao cấp
+ • Dung tích: 6.5 lít
+ • Khối lượng sản phẩm: 6.5 kg
+ • Kích thước sản phẩm: 380 x 380 x 330 mm • Bảng điều khiển: Điện tử
+102. Máy ép chậm KALITE KL-531 200W:
+- Mã sản phẩm 577873
+- Tên sản phẩm: Máy ép chậm KALITE KL-531 200W
+- Mô tả:
+ • Màu sắc: Xám trắng
+ • Nhà sản xuất: Kalite
+ • Loại máy ép trái cây: Máy ép chậm
+ • Công suất: 200W
+ • Vòng quay: 60 vòng/phút
+ • Chân đỡ: cao su
+ • Chất liệu bề mặt: Inox 304
+103. Quạt sưởi không khí AIO Smart:
+- Mã sản phẩm 616574
+- Tên sản phẩm: Quạt sưởi không khí AIO Smart
+- Mô tả:
+Khối lượng: 3.54kg Diện tích sưởi : Từ 10 đến 20m2 Công suất định mức : 2000W Điện áp hoạt
+động : 220V AC ±10% Độ ồn: ≤ 42 dB Kiểu dáng : Dạng tháp Chất liệu thân vỏ : Nhựa ABS Có
+chức năng sưởi gốm Có chức năng quạt gió Công nghệ sưởi : công nghệ Trở nhiệt gốm bức xạ ra
+không gian Màn LCD hiển thị trạng thái hoạt động và cài đặt Chế độ gió : 3 chế độ ( gió tự nhiên,
+gió ấm, gió nóng ) Tính năng tự ngắt : có khi bị quá nhiệt hay bị đổ Tính năng hẹn giờ : có ( dưới 10
+tiếng ) Tay cầm : có Khoá trẻ em : có Tăng giảm nhiệt độ sưởi : có Điều khiển từ xa : có Bảo hành
+12 tháng 1 đổi 1 trong vòng 7 ngày Xuất xứ : Trung Quốc
+104. Quạt điều hòa không khí Everest 6000D:
+- Mã sản phẩm 577872
+- Tên sản phẩm: Quạt điều hòa không khí Everest 6000D
+- Mô tả:
+ • Điện áp: 220V - 50Hz
+ • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm
+ • Lưu lượng gió: 6000m3/h
+ • Dung tích khay chứa nước: 45L
+ • Công suất: 80W
+ • Điều khiển từ xa: Có
+ • Cảm biến chất lượng không khí: Có
+ • Chức năng tạo ion: Có
+ • Tốc độ gió: 3 tốc độ
+ • Hướng gió: 4 chiều trái phải, lên xuống
+105. Máy làm sữa hạt Kalite KL-950 1,75 lít:
+- Mã sản phẩm 577840
+- Tên sản phẩm: Máy làm sữa hạt Kalite KL-950 1,75 lít
+- Mô tả:
+ • Dung tích cối xay: 1,75L
+ • Công suất nấu: 1200W
+ • Công suất xay: 1500W
+ • Chất liệu: Thuỷ tinh Borosilicate 5 lớp/ Gioăng silicon/ Inox 304
+ • Điện áp sử dụng: 220~240V – 50Hz
+ • Tốc độ vòng quay: 60.000 vòng/ phút
+ • Công nghệ: Thông báo giọng nói; Sấy khô khử khuẩn độc quyền
+ • Dụng cụ đi kèm: Dụng cụ vệ sinh (chổi xoay và bàn chải), khay hấp inox 304, ống nhồi
+106. Tủ Mát Aqua 280L AQS-AF400S V190:
+- Mã sản phẩm 571606
+- Tên sản phẩm: Tủ Mát Aqua 280L AQS-AF400S V190
+- Mô tả:
+Dung tích tổng: 300 lít Dung tích sử dụng: 280 lít - Ngăn mát 280 lít Công suất tiêu thụ theo
+TCVN: 1.94 kWh/ngày Số cửa: 1 cửa Số ngăn: 1 ngăn mát Nhiệt độ ngăn mát (độ C): 0 - 10°C
+Công nghệ tiết kiệm điện: Không có Công nghệ tích hợp: Công nghệ làm mát đa chiều 360 độ Chất
+liệu dàn lạnh: Nhôm Chất liệu lòng tủ: Nhựa HIPS kháng khuẩn Thân tủ: Thép sơn tĩnh điện, Viền
+cửa tủ: Nhựa PVC Kính cách nhiệt Low-E Kích thước, khối lượng: Dài 60 cm - Rộng 63 cm - Cao
+179.2 cm - Nặng 55 kg Loại Gas: R600a Độ ồn: 57 dB
+107. Điều hòa MDV - Inverter 9000 BTU:
+- Mã sản phẩm 606038
+- Tên sản phẩm: Điều hòa MDV - Inverter 9000 BTU
+- Mô tả:
+Nguồn điện: 220-240V Công suất: 9500 Btu/h Công suất tiêu thụ: 745 W Cường độ dòng điện: 3.4
+A ERR: 3.54 W/W Inverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) Khối lượng
+thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg Kích thước máy ngoài (DxRxC): 835x300x540
+(mm) Khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg Loại gas/ khối lượng nạp:
+R32/0.38 Ap suất thiết kế: 4.3/1.7 Mpa Chiều dài đường ống tối đa: 25m Chênh lệch độ cao tối đa:
+10m Phạm vi lành lạnh hiệu quả : 12~18 m2 Hiệu suất năng lượng : 4.48 CSPF Bảo hành 3 năm
+cho sản phẩm Bảo hành 5 năm cho máy nén Suất xứ : Thái lan
+108. Điều hòa MDV 1 chiều 12000 BTU - Model 2023:
+- Mã sản phẩm 609541
+- Tên sản phẩm: Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+- Mô tả:
+Model: MDVG-13CRDN8 Công suất: 12.000 BTU/h Loại: 1 chiều Inverter Diện tích sử dụng: 15 -
+20m² Gas: R32 Mức tiêu thụ điện: 1.15 kW/h Độ ồn: 22/19 dB(A) Kích thước dàn lạnh: 810 x 285
+x 210 mm Kích thước dàn nóng: 770 x 285 x 540 mm Trọng lượng dàn lạnh: 14 kg Trọng lượng
+dàn nóng: 25 kg
+109. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023:
+- Mã sản phẩm 609530
+- Tên sản phẩm: Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023
+- Mô tả:
+Loại: Điều hòa 1 chiều Inverter Công suất: 9.000 BTU/h (1 HP) Diện tích sử dụng: Dưới 15m² Mức
+tiêu thụ điện: Làm lạnh: 1.15 kW/h Sưởi ấm: - Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế độ
+Inverter: Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió
+Coanda Hẹn giờ Điều khiển từ xa Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) Kích
+thước: Dàn lạnh: 800 x 295 x 200 mm Dàn nóng: 770 x 285 x 540 mm Trọng lượng: Dàn lạnh: 12
+kg Dàn nóng: 25 kg
+110. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023:
+- Mã sản phẩm 609531
+- Tên sản phẩm: Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023
+- Mô tả:
+Loại: Điều hòa 1 chiều Inverter Công suất: 12.000 BTU/h (1.5 HP) Diện tích sử dụng: 15 - 20m²
+Mức tiêu thụ điện: Làm lạnh: 1.20 kW/h Sưởi ấm: - Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế
+độ Inverter: Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió
+Coanda Hẹn giờ Điều khiển từ xa Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) Kích
+thước: Dàn lạnh: 840 x 295 x 200 mm Dàn nóng: 770 x 285 x 540 mm Trọng lượng: Dàn lạnh: 13
+kg Dàn nóng: 25 kg
+111. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023:
+- Mã sản phẩm 609542
+- Tên sản phẩm: Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+- Mô tả:
+Model: MDVG-18CRDN8 Công suất: 18.000 BTU/h Loại: 1 chiều Inverter Diện tích sử dụng: 20 -
+30m² Gas: R32 Mức tiêu thụ điện: 1.65 kW/h Độ ồn: 22/19 dB(A) Kích thước dàn lạnh: 969 x 320
+x 241 mm Kích thước dàn nóng: 770 x 285 x 540 mm Trọng lượng dàn lạnh: 18 kg Trọng lượng
+dàn nóng: 28 kg
+112. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023:
+- Mã sản phẩm 609538
+- Tên sản phẩm: Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -
+Model 2023
+- Mô tả:
+Loại: Điều hòa 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) Diện tích sử dụng: 15 - 20m² Mức
+tiêu thụ điện: Làm lạnh: 555 (230 - 1.250) W/h Sưởi ấm: 670 (190 - 1.530) W/h Hiệu suất năng
+lượng: Làm lạnh: 6.13 (A**) Sưởi ấm: 5.14 (A) Gas: R32 Chế độ Inverter: Có Công nghệ: Công
+nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc Apatit
+Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh Sưởi
+ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn
+nóng: 49 dB(A) Kích thước: Dàn lạnh: 285 x 770 x 223 mm Dàn nóng: 540 x 670 x 240 mm Trọng
+lượng: Dàn lạnh: 12 kg Dàn nóng: 24 kg
+113. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023:
+- Mã sản phẩm 609534
+- Tên sản phẩm: Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023
+- Mô tả:
+Loại: Điều hòa 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) Diện tích sử dụng: Dưới 15m² Mức
+tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h Hiệu suất năng
+lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: Có Chức năng: Làm lạnh
+nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa Độ
+ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) Kích thước: Dàn lạnh: 293 x 798 x 230 mm
+Dàn nóng: 530 x 660 x 240 mm Trọng lượng: Dàn lạnh: 9 kg Dàn nóng: 23 kg
+114. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023:
+- Mã sản phẩm 609539
+- Tên sản phẩm: Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA -
+Model 2023
+- Mô tả:
+Loại: Điều hòa 2 chiều Inverter Công suất: 12.000 BTU/h (1.5 HP) Diện tích sử dụng: 20 - 30m²
+Mức tiêu thụ điện: Làm lạnh: 585 (230 - 1.310) W/h Sưởi ấm: 700 (190 - 1.600) W/h Hiệu suất
+năng lượng: Làm lạnh: 6.11 (A**) Sưởi ấm: 5.08 (A) Gas: R32 Chế độ Inverter: Có Công nghệ:
+Công nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc
+Apatit Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh
+Sưởi ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn
+nóng: 49 dB(A) Kích thước: Dàn lạnh: 285 x 770 x 223 mm Dàn nóng: 540 x 670 x 240 mm Trọng
+lượng: Dàn lạnh: 13 kg Dàn nóng: 26 kg
+115. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023:
+- Mã sản phẩm 609535
+- Tên sản phẩm: Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model
+2023
+- Mô tả:
+Loại: Điều hòa 2 chiều Inverter Công suất: 12.000 BTU/h (1.5 HP) Diện tích sử dụng: 15 - 20m²
+Mức tiêu thụ điện: Làm lạnh: 0.83 (0.24-1.12) kW/h Sưởi ấm: 0.94 (0.22-1.22) kW/h Hiệu suất
+năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: Có Chức năng:
+Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển
+từ xa Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) Kích thước: Dàn lạnh: 293 x 798 x
+230 mm Dàn nóng: 530 x 660 x 240 mm Trọng lượng: Dàn lạnh: 10 kg Dàn nóng: 25 kg
+116. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023:
+- Mã sản phẩm 609532
+- Tên sản phẩm: Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023
+- Mô tả:
+Loại: Điều hòa 1 chiều Inverter Công suất: 18.000 BTU/h (2 HP) Diện tích sử dụng: 20 - 30m² Mức
+tiêu thụ điện: Làm lạnh: 1.50 kW/h Sưởi ấm: - Hiệu suất năng lượng: 5.8 (A++) Gas: R32 Chế độ
+Inverter: Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió
+Coanda Hẹn giờ Điều khiển từ xa Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) Kích
+thước: Dàn lạnh: 910 x 320 x 230 mm Dàn nóng: 770 x 285 x 540 mm Trọng lượng: Dàn lạnh: 14
+kg Dàn nóng: 28 kg
+117. Điều hòa Carrier 1 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023:
+- Mã sản phẩm 609533
+- Tên sản phẩm: Điều hòa Carrier 1 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model
+2023
+- Mô tả:
+Loại: Điều hòa 1 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) Diện tích sử dụng: 30 - 40m²
+Mức tiêu thụ điện: Làm lạnh: 2.00 (0.28-2.30) kW/h Sưởi ấm: - Hiệu suất năng lượng: 5.8 (A++)
+Gas: R32 Chế độ Inverter: Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử
+mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48
+dB(A) Kích thước: Dàn lạnh: 1050 x 320 x 250 mm Dàn nóng: 770 x 285 x 540 mm Trọng lượng:
+Dàn lạnh: 14 kg Dàn nóng: 33 kg
+118. Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) - Model 2023:
+- Mã sản phẩm 609536
+- Tên sản phẩm: Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) - Model 2023
+- Mô tả:
+Loại: Điều hòa 2 chiều Inverter Công suất: 18.000 BTU/h (2 HP) Diện tích sử dụng: 20 - 30m² Mức
+tiêu thụ điện: Làm lạnh: 1.12 (0.28-1.48) kW/h Sưởi ấm: 1.27 (0.25-1.60) kW/h Hiệu suất năng
+lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: Có Chức năng: Làm lạnh
+nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa Độ
+ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) Kích thước: Dàn lạnh: 293 x 898 x 230 mm
+Dàn nóng: 530 x 660 x 240 mm Trọng lượng: Dàn lạnh: 11 kg Dàn nóng: 28 kg
+119. Điều hòa Daikin 18000BTU 2 chiều Inverter - Serie FTHF-VV - Dòng tiêu chuẩn - Model
+2023:
+- Mã sản phẩm 609540
+- Tên sản phẩm: Điều hòa Daikin 18000BTU 2 chiều Inverter - Serie FTHF-VV - Dòng tiêu chuẩn -
+Model 2023
+- Mô tả:
+Loại: Điều hòa 2 chiều Inverter Công suất: 18.000 BTU/h (2 HP) Diện tích sử dụng: 25 - 35m² Mức
+tiêu thụ điện: Làm lạnh: 665 (280 - 1.585) W/h Sưởi ấm: 810 (230 - 1.885) W/h Hiệu suất năng
+lượng: Làm lạnh: 6.00 (A**) Sưởi ấm: 4.92 (A) Gas: R32 Chế độ Inverter: Có Công nghệ: Công
+nghệ inverter tiết kiệm điện Công nghệ luồng gió Coanda Mắt thần thông minh Phin lọc Apatit
+Titan Chế độ Powerful làm lạnh nhanh Chế độ vận hành khi ngủ Chức năng: Làm lạnh nhanh Sưởi
+ấm Lọc bụi mịn PM2.5 Khử mùi Hẹn giờ Điều khiển từ xa Độ ồn: Dàn lạnh: 28/25 dB(A) Dàn
+nóng: 48 dB(A) Kích thước: Dàn lạnh: 295 x 990 x 263 mm Dàn nóng: 540 x 670 x 240 mm Trọng
+lượng: Dàn lạnh: 15 kg Dàn nóng: 28 kg
+120. Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023:
+- Mã sản phẩm 609537
+- Tên sản phẩm: Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023
+- Mô tả:
+Loại: Điều hòa 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) Diện tích sử dụng: 30 - 40m²
+Mức tiêu thụ điện: Làm lạnh: 1.44 (0.32-1.84) kW/h Sưởi ấm: 1.61 (0.30-2.00) kW/h Hiệu suất
+năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: Có Chức năng:
+Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển
+từ xa Độ ồn: Dàn lạnh: 22/19 dB(A) Dàn nóng: 52/48 dB(A) Kích thước: Dàn lạnh: 320 x 1050 x
+250 mm Dàn nóng: 550 x 780 x 290 mm Trọng lượng: Dàn lạnh: 14 kg Dàn nóng: 38 kg
+121. Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126:
+- Mã sản phẩm 577815
+- Tên sản phẩm: Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126
+- Mô tả:
+ • Công suất định mức: 50W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Thời gian chiếu sáng: 5-6h liên tục
+ • PIN: 4.500mAh
+ • Kích thước đèn: 10 x 17 cm
+ • Kích thước tấm năng lượng mặt trời: 13.5 x 2 x 23 Cm
+ • Cân nặng: 0.5kg
+122. Đèn NLMT xách Tay 60W:
+- Mã sản phẩm 577852
+- Tên sản phẩm: Đèn NLMT xách Tay 60W
+- Mô tả:
+ • Công suất: 60W
+ • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm
+ • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian
+ • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực
+ • Dung lượng pin :18000 mAH Pin lithium sắt phosphate
+ • Bố trí sản phẩm: dây chống nước 5m, điều khiển hẹn thời gian, ốc vít giãn nở
+ • Mức độ ánh sáng: Sáng mạnh, sáng yếu
+ • Thời gian chiếu sáng: 3h/5h/8h
+ • Loại mắt led: 5630/180mắt led Lumen: 2250
+123. Đèn NLMT xách Tay 100W:
+- Mã sản phẩm 577853
+- Tên sản phẩm: Đèn NLMT xách Tay 100W
+- Mô tả:
+ • Công suất: 100w
+ • Kích thước tấm năng lượng mặt trời: 300*250 mm
+ • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian
+ • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực
+ • Dung lượng pin: 20.000MAH Pin lithium sắt phosphate
+ • Bố trí sản phẩm: dây chống nước 5m, điều khiển hẹn thời gian, ốc vít giãn nở
+ • Mức độ ánh sáng: Sáng mạnh, sáng yếu
+ • Thời gian chiếu sáng :3h/5h/8h
+124. Đèn trụ cổng năng lượng mặt trời.Model: TC01 plus.:
+- Mã sản phẩm 577829
+- Tên sản phẩm: Đèn trụ cổng năng lượng mặt trời.Model: TC01 plus.
+- Mô tả:
+ • Công suất định mức: 7W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-65
+ • Thời gian chiếu sáng: 14-16h liên tục
+ • PIN: 6.000mAh LifePO4
+ • Kích thước: 20 x 20 x 36 Cm(DxRxC), Chân đế: 16x16 Cm
+ • Cân nặng: 1.2kg
+125. Đèn led năng lượng mặt trời SUNTEK GT-01
+Bảo hành 1 năm:
+- Mã sản phẩm 577814
+- Tên sản phẩm: Đèn led năng lượng mặt trời SUNTEK GT-01
+Bảo hành 1 năm
+- Mô tả:
+ • Công suất định mức: 7W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ (tương đương 12 năm)
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-65
+ • Thời gian chiếu sáng: 15-16h liên tục
+ • PIN: 6.000mAh LifePO4
+ • Kích thước: 19 x 24 x 26 Cm(DxRxC), Chân đế: 16x16 Cm
+ • Cân nặng: 1.2kg
+126. Đèn NLMT rời thể 1 pha 40W (Nhôm):
+- Mã sản phẩm 577862
+- Tên sản phẩm: Đèn NLMT rời thể 1 pha 40W (Nhôm)
+- Mô tả:
+ • Thời gian chiếu sáng: 8-12 giờ/ngày
+ • Diện tích chiếu sáng: 40-50 m2
+ • Thời gian nạp pin: 3-4 giờ/ngày
+ • Tuổi thọ đèn: 3-5 năm
+ • Tuổi thọ tấm pin NLMT: 10-12 năm
+ • Dung lượng pin: 12800 mAh
+ • Mắt LED: siêu sáng
+ • Chất liệu đèn: Nhôm đúc nguyên khối + Kính cường lực
+ • Tuổi thọ chíp Led: 50.000 giờ
+ • Thời gian chiếu sáng khi đầy pin: hơn 12 giờ
+ • Tính năng chống sét, chống nước: IP67
+ • Phụ kiện: Điều khiển, dây kết nối, giá gắn tấm NLMT, ốc vít
+ • Khuyến nghị lắp đặt: Chiều cao: 5-7m
+127. Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W.:
+- Mã sản phẩm 577833
+- Tên sản phẩm: Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W.
+- Mô tả:
+ • Thời gian chiếu sáng: 10-12 giờ/ngày
+ • Thời gian nạp pin: 3-4 giờ/ngày
+ • Tuổi thọ đèn: 3-5 năm
+ • Tuổi thọ tấm pin NLMT: 10-12 năm
+ • Dung lượng pin: 16000 mAh Pin
+ • Công nghệ: Lithium photphase chống chai, tuổi thọ lên đến 3-5 năm
+ • Chống nước: Đèn nguyên khối được trang bị chống nước IP67 thoả mái để ngoài trời
+ • Kích thước đèn: 21x24 cm
+ • KT tấm pin NLMT: 35x45 cm
+ • Diện tích chiếu sáng: 100 - 120 m2
+128. Đèn NLMT rời thể 1 pha 60W (Nhôm):
+- Mã sản phẩm 577859
+- Tên sản phẩm: Đèn NLMT rời thể 1 pha 60W (Nhôm)
+- Mô tả:
+ • Công suất: 60W
+ • Tấm Pin: Polysilicon: 10V
+ • Kích thước: 349 * 349 * 17mm
+ • Pin: Lithium ion Lifepo4 - 3.2V /15000MAH
+ • Chip LED: 124 chip LED SMD5730
+ • Tuổi thọ: 50.000 giờ (Tương đương 12 năm)
+ • Màu ánh sáng: Trắng
+ • Góc chiếu sáng: 160 độ
+ • Chất liệu: Nhựa + kính cường lực
+ • Tiêu chuẩn chống nước: IP67
+ • Cảm biến ánh sáng: tối tự sáng - sáng tự tắt
+ • Điều khiển: Remote từ xa: tắt/ mở - hẹn giờ - tăng giảm độ sáng
+ • Thời gian sạc: 5-8 giờ
+ • Thời gian chiếu sáng > 12 giờ
+129. Đèn NLMT Sân vườn UFO 150W:
+- Mã sản phẩm 577849
+- Tên sản phẩm: Đèn NLMT Sân vườn UFO 150W
+- Mô tả:
+ • Công suất đèn: 150w
+ • Bóng led: hình tháp tròn UFO
+ • Diện tích chiếu sáng: 100m2
+ • Pin: Lithium
+ • Thời gian sạc: 4-6 giờ
+ • Thời gian chiếu sáng: >12 giờ
+ • Góc chùm (°): 120
+ • Chủng loại: Đèn trang trí sân vườn
+ • Tiêu chuẩn chống nước: IP67
+ • Số mắt Led: 240 Led
+ • Ánh sáng: Trắng
+ • Kích thước Panel: 350x350mm (6V/20W)
+ • Dung lượng pin: 3.2V/18000mAh
+130. Đèn liền thể NLMT LOTUS - 90W:
+- Mã sản phẩm 577805
+- Tên sản phẩm: Đèn liền thể NLMT LOTUS - 90W
+- Mô tả:
+ • Kích thước đèn: 630 x 250 x70 mm
+ • Nguồn điện danh định: Năng lượng mặt trời
+ • Góc chùm tia: 300 độ
+ • Tuổi thọ đèn: 15000h
+ • Chu kỳ tắt/bật: không giới hạn số lần
+ • Công suất: 90W
+ • Dòng điện (Max): 30 mA
+ • Hệ số công suất: 0.6
+131. Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 90W:
+- Mã sản phẩm 571234
+- Tên sản phẩm: Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 90W
+- Mô tả:
+ • Công suất định mức: 90W • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến chuyển động, cảm biến ánh sáng, tự động bật đèn
+132. Đèn NLMT bàn chải liền thể 100W 3F:
+- Mã sản phẩm 577788
+- Tên sản phẩm: Đèn NLMT bàn chải liền thể 100W 3F
+- Mô tả:
+ • Công suất định mức: 100W
+ • Diện tích sử dụng đề xuất:100m2 – 120m2
+ • Cấu hình sản phẩm: Điều khiển từ xa, vít lắp, cán đèn
+ • Thời gian chiếu sáng: 12H
+ • Thời gian sạc: 6-8H
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k LED
+ • Loại mắt: SMD 2835-480CS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+133. Đèn Trụ cổng Năng Lượng Mặt Trời.:
+- Mã sản phẩm 571235
+- Tên sản phẩm: Đèn Trụ cổng Năng Lượng Mặt Trời.
+- Mô tả:
+ • Công suất định mức: 5W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng.
+ • Lớp chống thấm nước: IP-65 • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 8.000mAh Li-Pin
+ • Kích thước đèn vuông: 19.5 x 19.5 x 17 Cm(DxRxC), Chân đế: 11x11 Cm
+ • Kích thước đèn tròn: 20.5 x 20.5 x 16.5 Cm(DxRxC), Chân đế: 11x11 Cm • Cân nặng: 0.95kg
+134. Đèn NLMT sân vườn UFO 200W:
+- Mã sản phẩm 577851
+- Tên sản phẩm: Đèn NLMT sân vườn UFO 200W
+- Mô tả:
+ • Công suất: 200W
+ • Tấm Pin: polysilicon 6V
+ • Kích thước: 420mm*320mm
+ • Kích thước tổng thể: ø550mm x H120 mm
+ • Pin: Lithium ion Lifepo4 – 3.2V
+ • Chip LED: Bridgelux, Epistar…
+ • Số đèn tích hợp: 5 đèn
+ • Số mắt led: 400 mắt (80 mắt mỗi đèn)
+ • Tuổi thọ: 50.000 giờ
+ • Chất liệu: nhựa ABS cao cấp
+ • Mức độ bảo vệ chống nước: IP67
+ • Cảm biến ánh sáng ( tối tự sáng – sáng tự tắt)
+ • Điều khiển Remote từ xa: tắt/ mở – hẹn giờ – tăng giảm độ sáng
+ • Thời gian sạc: 6 – 8 giờ
+ • Thời gian chiếu sáng > 14 giờ
+ • Trọng lượng: 3,5kg
+135. Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8840L:
+- Mã sản phẩm 577774
+- Tên sản phẩm: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8840L
+- Mô tả:
+ • Bảng điều khiển năng lượng mặt trời: 16W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-67
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 20-24h liên tục
+ • PIN: 24.000mAh LiFePO4
+ • Kích thước đèn: 25.4 x 20.2 Cm
+ • Kích thước tấm năng lượng mặt trời: 34 x 29 x 1.7 Cm
+ • Cân nặng: 2.8kg
+136. Đèn NLMT ốp trần 300W:
+- Mã sản phẩm 577855
+- Tên sản phẩm: Đèn NLMT ốp trần 300W
+- Mô tả:
+ • Kích thước đèn: 320 x 320 mm
+ • Kích thước tấm pin: 360 x 530 mm
+ • Bảng năng lượng mặt trời: Silic đa tinh thể LED
+ • Công suất: 300w
+ • Thông quang ánh sáng: 1800 LM
+ • Chỉ số chống nước: IP67
+ • Pin :3.5V/22500mAh
+ • Thời gian sạc pin: 5H - 8H
+ • Thời gian chiếu sáng: có thể liên tục 12-15H
+137. Bộ đèn led năng lượng mặt trời công suất 60w. Hiệu: SUNTEK.
+Bảo hành 2 năm:
+- Mã sản phẩm 577823
+- Tên sản phẩm: Bộ đèn led năng lượng mặt trời công suất 60w. Hiệu: SUNTEK.
+Bảo hành 2 năm
+- Mô tả:
+ • Công suất định mức: 60W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/15W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa.
+138. Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 120W:
+- Mã sản phẩm 577820
+- Tên sản phẩm: Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 120W
+- Mô tả:
+ • Công suất định mức: 120W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến chuyển động, cảm biến ánh sáng, tự động bật đèn
+139. Đèn NLMT bàn chải liền thể 200W 3F:
+- Mã sản phẩm 577782
+- Tên sản phẩm: Đèn NLMT bàn chải liền thể 200W 3F
+- Mô tả:
+ • Công suất định mức: 200W
+ • Kích thước thân đèn: 645mm* 300mm * 70mm
+ • Kích thước bảng điều khiển: 4V / 15W polysilicon, 535mm * 210mm
+ • Loại pin: Pin lithium sắt phosphate 3.2V / 18000mAH
+ • Diện tích sử dụng đề xuất: 100m2 – 150m2
+ • Cấu hình sản phẩm: Điều khiển từ xa, vít lắp, cán đèn
+ • Thời gian chiếu sáng: 12H
+ • Thời gian sạc: 6-8H
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k LED
+ • Loại mắt: SMD 2835-480CS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+140. Đèn NLMT bàn chải rời thể 100W (Nhôm):
+- Mã sản phẩm 571236
+- Tên sản phẩm: Đèn NLMT bàn chải rời thể 100W (Nhôm)
+- Mô tả:
+ • Công suất định mức: 100W • Kích thước thân đèn: 495mm * 210mm * 70mm
+ • Bảng điều khiển: Bảng điều khiển NLMT đa tinh thể 6V / 25W • Loại pin: Lithium sắt
+phosphate 32650 / 3.2V 25000mAh • Diện tích sử dụng đề xuất: 200m2 – 300m2
+ • Cấu hình sản phẩm: Điều khiển từ xa, cáp chống thấm 1,2M, vít lắp, cán đèn, cột đèn, khung
+bảng quang điện • Thời gian chiếu sáng: 12 giờ
+ • Thời gian sạc: 6-8 giờ
+ • Tiêu chuẩn bảo vệ chống nước: IP67 • Nhiệt độ màu: 6.500k
+ • LED Loại mắt: SMD 5730-360PCS • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật
+vào lúc hoàng hôn và tắt lúc bình minh, có thể điều khiển từ xa bằng điều khiển từ xa.
+141. Đèn NLMT đĩa bay UFO 300W:
+- Mã sản phẩm 577877
+- Tên sản phẩm: Đèn NLMT đĩa bay UFO 300W
+- Mô tả:
+ • Công suất: 300W
+ • Kích thước Panel: 420x420mm
+ • Dung lượng pin: 3.2V/25000mAh
+ • Thời gian sạc: 4h-6h
+ • Thời gian chiếu sáng: 10h-12h
+ • Hệ số chống nước: IP66
+142. Bộ đèn đường năng lượng mặt trời công suất 70w
+Bảo hành 2 năm:
+- Mã sản phẩm 577809
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời công suất 70w
+Bảo hành 2 năm
+- Mô tả:
+ • Công suất: 70W
+ • Thời gian chiếu sáng: 10~12h
+ • Diện tích chiếu sáng: 120m2
+ • Công suất tấm pin: 6V/22W
+ • Thời gian sạc: 4~6h
+143. Đèn pha led năng lượng mặt trời SUNTEK RP-100, công suất 100W:
+- Mã sản phẩm 509180
+- Tên sản phẩm: Đèn pha led năng lượng mặt trời SUNTEK RP-100, công suất 100W
+- Mô tả:
+ • Công suất định mức: 100W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 25W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 14-16h liên tục
+ • PIN: 36.000mAh LifePO4
+ • Kích thước đèn: 29 x 9 x 25.5 Cm
+ • Kích thước tấm năng lượng mặt trời: 35 x 1.7 x 53Cm
+ • Cân nặng: 4.8kg
+144. Đèn đường năng lượng mặt trời SUNTEK RV-300, công suất 300W:
+- Mã sản phẩm 509185
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RV-300, công suất 300W
+- Mô tả:
+ • Công suất định mức: 300W
+ • Tấm pin năng lượng mặt trời: Polycrystal 6V/18W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 24.000mAh LifePO4
+ • Kích thước: 34.5 x 7 x 45.5 Cm
+ • Cân nặng: 2.7kg
+145. Đèn Bàn chải NLMT LOTUS - 120W:
+- Mã sản phẩm 577796
+- Tên sản phẩm: Đèn Bàn chải NLMT LOTUS - 120W
+- Mô tả:
+ • Kích thước đèn: 550 x 235 x 70 mm
+ • Nguồn điện danh định: Năng lượng mặt trời
+ • Góc chùm tia: 300 độ
+ • Tuổi thọ đèn: 50000h
+ • Chu kỳ tắt/bật: không giới hạn số lần
+ • Công suất: 120W
+ • Dòng điện (Max): 30 mA
+ • Hệ số công suất: 0.6
+146. Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8860L:
+- Mã sản phẩm 577777
+- Tên sản phẩm: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8860L
+- Mô tả:
+ • Bảng điều khiển năng lượng mặt trời: Mono 20W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Số lượng bóng LED: 100
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-67
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 20-24h liên tục
+ • PIN: 36.000mAh LiFePO4
+ • Kích thước đèn: 28.2 x 22.3 Cm
+ • Kích thước tấm năng lượng mặt trời: 35 x 35 x 1.7 Cm
+ • Cân nặng: 3.7kg
+147. Đèn NLMT rời thể chống lóa 200W (Nhôm):
+- Mã sản phẩm 577878
+- Tên sản phẩm: Đèn NLMT rời thể chống lóa 200W (Nhôm)
+- Mô tả:
+ • Công suất định mức: 200W
+ • Kích thước thân đèn: 240mm * 300mm * 80mm
+ • Kích thước bảng điều khiển: 600mm * 350mm * 17mm
+ • Bảng điều khiển: Bảng điều khiển năng lượng mặt trời đa tinh thể 6V / 30W
+ • Loại pin: Lithium sắt phosphate 32650 / 3.2V 25000mAh
+ • Diện tích sử dụng đề xuất: 100m2 – 200m2
+ • Cấu hình sản phẩm: Khung lắp hình chữ U, điều khiển từ xa, có cáp chống nước 5 mét, vít lắp
+ • Thời gian chiếu sáng: 12H
+ • Thời gian sạc: 6-8H
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k LED
+ • Loại mắt: SMD 2835-142PCS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+148. Đèn NLMT rời thể chống lóa 100W (Nhôm):
+- Mã sản phẩm 577786
+- Tên sản phẩm: Đèn NLMT rời thể chống lóa 100W (Nhôm)
+- Mô tả:
+ • Công suất định mức: 100W
+ • Kích thước thân đèn: 200mm * 260mm * 80mm
+ • Kích thước bảng điều khiển: 350mm * 530mm * 17mm
+ • Bảng điều khiển: Bảng điều khiển năng lượng mặt trời đa tinh thể 6V / 25W
+ • Loại pin: Lithium iron phosphate 32650 / 3.2V 20000mAh
+ • Diện tích sử dụng đề xuất: 100m2 – 200m2
+ • Cấu hình sản phẩm: Khung lắp hình chữ U, điều khiển từ xa, có cáp chống nước 5 mét, vít lắp
+ • Thời gian chiếu sáng: 12H
+ • Ngày mưa: 1-2 ngày
+ • Thời gian sạc: 6-8H
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k LED
+ • Loại mắt: SMD 2835-110PCS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+149. Đèn NLMT rời thể 1 pha 100W (Nhôm):
+- Mã sản phẩm 577779
+- Tên sản phẩm: Đèn NLMT rời thể 1 pha 100W (Nhôm)
+- Mô tả:
+ • Công suất định mức: 100W
+ • Kích thước thân đèn: 315mm * 265mm * 70mm
+ • Kích thước bảng điều khiển: 530mm X 350 mm* 17mm
+ • Bảng điều khiển: Bảng điều khiển năng lượng mặt trời đa tinh thể 6V / 25W
+ • Loại pin: Lithium iron phosphate 32650 / 3.2V 20000mAh
+ • Diện tích sử dụng đề xuất: 100m2 – 200m2
+ • Cấu hình sản phẩm: Khung lắp hình chữ U, điều khiển từ xa, có cáp chống nước 5 mét, vít lắp
+ • Thời gian chiếu sáng: 12H
+ • Thời gian sạc: 6-8H
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k LED
+ • Loại mắt: SMD 5730-230PCS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+150. Đèn NLMT bàn chải liền thể 300W 3F:
+- Mã sản phẩm 577791
+- Tên sản phẩm: Đèn NLMT bàn chải liền thể 300W 3F
+- Mô tả:
+ • Công suất định mức: 300W
+ • Kích thước thân đèn: 750mm* 300mm * 70mm
+ • Kích thước bảng điều khiển: 4V / 18W polysilicon, 635mm * 210mm
+ • Loại pin: Pin lithium sắt phosphate 3.2V / 24000mAH)
+ • Diện tích sử dụng đề xuất: 150m2 – 200m2
+ • Cấu hình sản phẩm: Điều khiển từ xa, vít lắp, cán đèn
+ • Thời gian chiếu sáng: 12H
+ • Thời gian sạc: 6-8H
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k LED
+ • Loại mắt: SMD 2835-600CS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+151. Đèn đường năng lượng mặt trời SUNTEK RD-100, công suất 100W:
+- Mã sản phẩm 509188
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RD-100, công suất 100W
+- Mô tả:
+ • Công suất định mức: 100W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/20W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp bảo vệ: IP67; IK08
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 3.2V/24.000mAh LiFePo4
+ • Kích thước đèn: 21 x 9 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 45 x 1.5 x 35Cm (DxRxC)
+152. Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-100, công suất 100W:
+- Mã sản phẩm 509183
+- Tên sản phẩm: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-100, công suất 100W
+- Mô tả:
+ • Công suất định mức: 100W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6/20W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 30.000mAh LifePO4
+ • Kích thước đèn: 19 x 22.5 Cm
+ • Kích thước tấm năng lượng mặt trời: 35 x 1.7 x 45Cm
+153. Quạt NLMT Solar fan:
+- Mã sản phẩm 577817
+- Tên sản phẩm: Quạt NLMT Solar fan
+- Mô tả:
+ • Kích cỡ quạt: 49*22*44 cm
+ • Tấm pin NLMT: Poly 2W hiệu suất cao
+ • Pin: gắn liền quạt
+ • Công nghệ: Lithium chống chai
+ • Dung lượng pin: 18000 mAh
+ • Thời gian sạc: 4 – 6 giờ
+ • Thời gian sử dụng: 8 – 12 giờ
+ • Chất liệu: Nhựa ABS + KIM LOẠI sơn tĩnh điện
+ • Có kèm bộ sạc điện 220V
+ • Có cổng USB sạc điện thoại và nhiều thiết bị khác: 5V/1A.
+154. Đèn pha led năng lượng mặt trời SUNTEK RP-200, công suất 200W:
+- Mã sản phẩm 509181
+- Tên sản phẩm: Đèn pha led năng lượng mặt trời SUNTEK RP-200, công suất 200W
+- Mô tả:
+ • Công suất định mức: 200W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/40W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 14-16h liên tục
+ • PIN: 48.000mAh LifePO4
+ • Kích thước đèn: 35.8 x 9 x 29 Cm
+ • Kích thước tấm năng lượng mặt trời: 68 x 1.7 x 35Cm
+ • Cân nặng: 6.3kg
+155. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK.:
+- Mã sản phẩm 577832
+- Tên sản phẩm: Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK.
+- Mô tả:
+ • Công suất định mức: 90W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/20W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa
+ • Thời gian chiếu sáng: 18-20h liên tục
+ • PIN: 24.000mAh LiFePo4
+ • Kích thước đèn: 36 x 36 x 6Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 35 x 1.5 x 45Cm (DxRxC)
+ • Cân nặng: 3kg
+156. Đèn NLMT bàn chải rời thể 200W (Nhôm) SMSMH000041:
+- Mã sản phẩm 509176
+- Tên sản phẩm: Đèn NLMT bàn chải rời thể 200W (Nhôm) SMSMH000041
+- Mô tả:
+ • Công suất định mức: 200W
+ • Kích thước thân đèn: 495mm * 210mm * 70mm
+ • Kích thước bảng điều khiển: 600mm * 350mm * 17mm
+ • Bảng điều khiển: Bảng điều khiển NLMT đa tinh thể 6V / 25W
+ • Loại pin: Lithium sắt phosphate 32650 / 3.2V 25000mAh
+ • Diện tích sử dụng đề xuất: 200m2 – 300m2
+ • Cấu hình sản phẩm: Điều khiển từ xa, cáp chống thấm 1,2M, vít lắp, cán đèn, cột đèn, khung
+bảng quang điện
+ • Thời gian chiếu sáng: 12 giờ
+ • Thời gian sạc: 6-8 giờ
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k
+ • LED Loại mắt: SMD 5730-360PCS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+157. Đèn đường năng lượng mặt trời SUNTEK RD-200, công suất 200W:
+- Mã sản phẩm 509189
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RD-200, công suất 200W
+- Mô tả:
+ • Công suất định mức: 200W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/25W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp bảo vệ: IP67; IK08
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 3.2V/30.000mAh LiFePo4
+ • Kích thước đèn: 21 x 9 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 53 x 1.5 x 35Cm (DxRxC)
+158. Bộ đèn pha led chống lóa năng lượng mặt trời AIO Smart. Công suất 200W. Bảo hành 18
+tháng:
+- Mã sản phẩm 608084
+- Tên sản phẩm: Bộ đèn pha led chống lóa năng lượng mặt trời AIO Smart. Công suất 200W. Bảo
+hành 18 tháng
+- Mô tả:
+Công suất định mức : 200W Công suất tấm pin NLMT : Polycrystal 6V/25W Pin lưu trữ :
+3.2V/36.000mAh LiFePO4 Chip Led : SMD Quang thông: 1650lm Tuổi thọ: 50.000 giờ Cấp bảo
+vệ: IP 67; IK08 Chống sét: TVS Độ hoàn màu (CRI): ≥70Ra Nhiệt độ màu: 6500k Nhiệt độ làm
+việc: -10oC ~ 45oC Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối,
+tắt đèn khi trời sáng + Có điều khiển từ xa Kích thước đèn : 29.5 x 23.8 x 7.8 Cm Kích tấm pin: 53
+x 35 x 1.5 Cm Thời gian sạc: 6h - 8h Số giờ chiếu sáng của bộ đèn: 10h - 12h liên tục Bảo hành : 18
+tháng
+159. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09:
+- Mã sản phẩm 571237
+- Tên sản phẩm: Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09
+- Mô tả:
+ • Công suất định mức: 7W
+ • Nhiệt độ làm việc: -20C ~ 65C • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng
+ • Lớp chống thấm nước: IP-65
+ • Thời gian chiếu sáng: 16-18h liên tục • PIN: 6.000mAh LifePO4
+ • Màu sắc: Đen – Trắng
+ • Kích thước đèn tròn: 20.5 x 20.5 x 82 Cm(DxRxC), Chân đế: 11x11 Cm • Kích thước đèn
+vuông: 19.5 x 19.5 x 82 Cm(DxRxC), Chân đế: 11x11 Cm • Cân nặng: 1.5kg
+160. Bộ đèn đường năng lượng mặt trời .Model:S100,hiệu:SUNTEK.
+Bảo hành 2 năm:
+- Mã sản phẩm 577810
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời .Model:S100,hiệu:SUNTEK.
+Bảo hành 2 năm
+- Mô tả:
+ • Công suất định mức: 100W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/20W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-65
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 14-16h liên tục
+ • PIN: 30.000mAh LiFePo4
+ • Kích thước đèn: 22 x 5 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 35 x 1.7 x 45Cm (DxRxC)
+161. Đèn đường năng lượng mặt trời SUNTEK RV-400, công suất 400W:
+- Mã sản phẩm 509186
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RV-400, công suất 400W
+- Mô tả:
+ • Công suất định mức: 400W
+ • Tấm pin năng lượng mặt trời: Polycrystal 6V/25W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 36.000mAh LifePO4
+ • Kích thước: 34.5 x 7 x 60 Cm
+ • Cân nặng: 3.7kg
+162. Đèn NLMT rời thể 1 pha 200W (Nhôm):
+- Mã sản phẩm 577783
+- Tên sản phẩm: Đèn NLMT rời thể 1 pha 200W (Nhôm)
+- Mô tả:
+ • Công suất định mức: 200W
+ • Kích thước thân đèn: 350mm * 290mm * 75mm
+ • Kích thước bảng điều khiển: 700mm * 350mm * 17mm
+ • Bảng điều khiển: Bảng điều khiển năng lượng mặt trời đa tinh thể 6V/35W
+ • Loại pin: Lithium iron phosphate 32650/3.2V 30000mAh
+ • Diện tích sử dụng đề xuất: 200m2 – 300m2
+ • Cấu hình sản phẩm: Khung lắp hình chữ U, điều khiển từ xa, có cáp chống nước 5 mét, vít lắp
+ • Thời gian chiếu sáng: 12H
+ • Ngày mưa: 1-2 ngày
+ • Thời gian sạc: 6-8H
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k LED
+ • Loại mắt: SMD 5730-425PCS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+163. Đèn pha led năng lượng mặt trời SUNTEK RP-300, công suất 300W:
+- Mã sản phẩm 509182
+- Tên sản phẩm: Đèn pha led năng lượng mặt trời SUNTEK RP-300, công suất 300W
+- Mô tả:
+ • Công suất định mức: 300W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6/35W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 42.000mAh LifePO4
+164. Đèn NLMT bàn chải rời thể 300W (Nhôm):
+- Mã sản phẩm 577797
+- Tên sản phẩm: Đèn NLMT bàn chải rời thể 300W (Nhôm)
+- Mô tả:
+ • Công suất định mức: 300W
+ • Kích thước thân đèn: 495mm * 210mm * 70mm
+ • Bảng điều khiển: Bảng điều khiển NLMT đa tinh thể 6V / 25W
+ • Loại pin: Lithium sắt phosphate 32650 / 3.2V 25000mAh
+ • Diện tích sử dụng đề xuất: 200m2 – 300m2
+ • Cấu hình sản phẩm: Điều khiển từ xa, cáp chống thấm 1,2M, vít lắp, cán đèn, cột đèn, khung
+bảng quang điện
+ • Thời gian chiếu sáng: 12 giờ
+ • Thời gian sạc: 6-8 giờ
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k
+ • LED Loại mắt: SMD 5730-360PCS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+165. Bộ đèn đường năng lượng mặt trời công suất 300w. Model: RD-300, hiệu: Suntek:
+- Mã sản phẩm 571640
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời công suất 300w. Model: RD-300, hiệu: Suntek
+- Mô tả:
+ • Công suất định mức: 300W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/35W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp bảo vệ: IP67; IK08
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 3.2V/36.000mAh LiFePo4
+ • Kích thước đèn: 21.5 x 5 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 59.5 x 1.5 x 35Cm (DxRxC)
+166. Đèn đường năng lượng mặt trời SUNTEK RV-500, công suất 500W:
+- Mã sản phẩm 509187
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK RV-500, công suất 500W
+- Mô tả:
+ • Công suất định mức: 500W
+ • Tấm pin năng lượng mặt trời: Polycrystal 6V/30W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 42.000mAh LifePO4
+ • Kích thước: 34.5 x 7 x 67.5 Cm
+ • Cân nặng: 4.3kg
+167. Đèn trụ cổng năng lượng mặt trời.Model: TC02.:
+- Mã sản phẩm 571238
+- Tên sản phẩm: Đèn trụ cổng năng lượng mặt trời.Model: TC02.
+- Mô tả:
+ • Công suất định mức: 7W
+ • Nhiệt độ làm việc: -20C ~ 65C • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sang, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-65
+ • Thời gian chiếu sáng: 22-24h liên tục • PIN: 12.000mAh LifePO4
+ • Kích thước: 30 x 30 x 35 Cm(DxRxC), Chân đế: 25.5x25.5 Cm • Cân nặng: 4kg
+168. Đèn NLMT rời thể chống lóa 300W (Nhôm) SMSMH000051:
+- Mã sản phẩm 509175
+- Tên sản phẩm: Đèn NLMT rời thể chống lóa 300W (Nhôm) SMSMH000051
+- Mô tả:
+ • Công suất định mức: 300W
+ • Kích thước thân đèn: 360mm * 290mm * 80mm
+ • Kích thước bảng điều khiển: 350mm * 700mm * 17mm
+ • Bảng điều khiển: Bảng điều khiển năng lượng mặt trời đa tinh thể 6V / 35W
+ • Loại pin: Lithium iron phosphate 32650 / 3.2V 30000mAh
+ • Diện tích sử dụng đề xuất: 200m2 – 300m2
+ • Cấu hình sản phẩm: Khung lắp hình chữ U, điều khiển từ xa, có cáp chống nước 5 mét, vít lắp
+ • Thời gian chiếu sáng: 12 giờ
+ • Thời gian sạc: 6-8 giờ
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k
+ • LED Loại mắt: SMD 2835-240PCS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+169. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150:
+- Mã sản phẩm 577803
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời Suntek, Model: S150
+- Mô tả:
+ • Công suất định mức: 150W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/25W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-65
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 14 - 16h liên tục
+ • PIN: 42.000mAh LiFePo4
+ • Kích thước đèn: 22 x 5 x 50cm (DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 53x 1.7 x 35cm (DxRxC)
+170. Bộ đèn led năng lượng mặt trời Suntek, Model: S2:
+- Mã sản phẩm 577800
+- Tên sản phẩm: Bộ đèn led năng lượng mặt trời Suntek, Model: S2
+- Mô tả:
+ • Công suất định mức: 120W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 22W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-65
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 38-40h liên tục
+ • PIN: 30.000mAh LiFePo4
+ • Kích thước đèn: 21 x 5 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 50 x 1.7 x 34Cm (DxRxC)
+ • Trọng lượng: 5kg
+171. Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8800L:
+- Mã sản phẩm 577802
+- Tên sản phẩm: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8800L
+- Mô tả:
+ • Công suất định mức: 100W
+ • Bảng điều khiển năng lượng mặt trời: 35W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-67
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 22-24h liên tục
+ • PIN: 54.000mAh LiFePO4
+ • Kích thước đèn: 33 x 26 Cm
+ • Kích thước tấm năng lượng mặt trời: 36 x 58 x 1.7cm
+ • Cân nặng: 6kg
+172. Đèn Led Năng Lượng Mặt Trời gắn liền tấm pin. Model AIO-200. Hiệu SUNTEK..:
+- Mã sản phẩm 571593
+- Tên sản phẩm: Đèn Led Năng Lượng Mặt Trời gắn liền tấm pin. Model AIO-200. Hiệu SUNTEK..
+- Mô tả:
+ • Công suất định mức: 200W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng, Có cảm biến chuyển động khi có người qua lại dưới đèn thì sáng 100%, còn không có người
+qua lại sáng 50% + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-67
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 20-22h liên tục
+ • PIN: 45.500mAh LifePO4
+ • Kích thước: 27 x 7.5 x 75 Cm
+ • Cân nặng: 4.2 kg
+173. Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-300, công suất 300W:
+- Mã sản phẩm 509184
+- Tên sản phẩm: Đèn pha led chống lóa năng lượng mặt trời SUNTEK RL-300, công suất 300W
+- Mô tả:
+ • Công suất định mức: 300W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6/35W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 10-12h liên tục
+ • PIN: 42.000mAh LifePO4
+ • Kích thước đèn: 28 x 37Cm
+ • Kích thước tấm năng lượng mặt trời: 35 x 1.7 x 70Cm
+174. Bộ đèn pha led năng lượng mặt trời công suất 200w.
+Bảo hành 2 năm:
+- Mã sản phẩm 577835
+- Tên sản phẩm: Bộ đèn pha led năng lượng mặt trời công suất 200w.
+Bảo hành 2 năm
+- Mô tả:
+ • Công suất định mức: 200W
+ • Tấm pin năng lượng mặt trời: Poly 6V/35W Tích hợp cảm biến ánh sáng và điều khiển từ xa
+ • Dung lượng: Pin lưu trữ 3.2V/12.000mAh LiFePO4
+ • Lớp chống nước: IP67
+ • Nhiệt độ màu: 6500K
+ • Thời gian sạc: 6-7h
+ • Thời gian sáng liên tục: 14-16h
+175. Đèn NLMT 1 pha 300W ( Nhôm ):
+- Mã sản phẩm 577818
+- Tên sản phẩm: Đèn NLMT 1 pha 300W ( Nhôm )
+- Mô tả:
+ • Công suất định mức: 300W
+ • Kích thước thân đèn: 400mm * 328mm * 80mm
+ • Kích thước bảng điều khiển: 670mm * 450mm * 25mm
+ • Bảng điều khiển: Bảng điều khiển năng lượng mặt trời đa tinh thể 6V / 35W
+ • Loại pin: Lithium iron phosphate 32650 / 3.2V 35000mAh
+ • Diện tích sử dụng đề xuất: 300m2 – 400m2
+ • Cấu hình sản phẩm: Khung lắp hình chữ U, điều khiển từ xa, có cáp chống nước 5 mét, vít lắp
+ • Thời gian chiếu sáng: 12H
+ • Thời gian sạc: 6-8H
+ • Tiêu chuẩn bảo vệ chống nước: IP67
+ • Nhiệt độ màu: 6.500k LED
+ • Loại mắt: SMD 5730-632PCS
+ • Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh,
+có thể điều khiển từ xa bằng điều khiển từ xa.
+176. Bộ đèn đường năng lượng mặt trời Suntek, Model: S200:
+- Mã sản phẩm 577804
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời Suntek, Model: S200
+- Mô tả:
+ • Công suất định mức: 200W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/30W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-65
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 14-16h liên tục
+ • PIN: 48.000mAh LiFePo4
+ • Kích thước đèn: 22 x 5 x 50cm (DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 60x 1.7 x 35cm (DxRxC)
+177. Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK. Model: SF-02:
+- Mã sản phẩm 577827
+- Tên sản phẩm: Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK. Model:
+SF-02
+- Mô tả:
+ • Tấm điều khiển năng lượng mặt trời: Poly 9V/12W
+ • Kích thước: 35 x 29, kèm dây 5m
+ • AC: 110-220V~50/60Hz
+ • DC, Solar: 9V
+ • Công suất quạt: 15W
+ • Chức năng: Quạt tích điện
+ • Quạt sạc: có 3 số 3 tốc độ
+ • PIN: 6V/ 6.600 mAh (Lithium-ion 18650)
+ • Kích thước: Cao: 59 cm, Chân đế: 29 cm, Lồng quạt: 43 cm, Cánh quạt: 35Cm
+ • Số cánh: 5
+ • Trọng lượng: 2.2 kg
+ • Lưu ý sạc quạt: Sạc lần đầu khoảng 20h, những lần xạc sau khoảng 6h – 8h.
+178. Đèn NLMT bàn chải rời thể 400W (Nhôm):
+- Mã sản phẩm 577874
+- Tên sản phẩm: Đèn NLMT bàn chải rời thể 400W (Nhôm)
+- Mô tả:
+ • Chất liệu: Nhôm nguyên khối , mặt kính cường lực chống xước
+ • Công suất đèn: 400W
+ • Thông lượng as: 4000LM
+ • Kích thước tấm pin: 64 x 67 cm
+ • Công suất Tấm Pin: 60W/6V
+ • Kích thước đèn: 21 x 50 cm
+ • Số Led: SMD 5730 - 630 chíp
+ • Diện tích ánh sáng: 120m2
+ • Dung lượng pin: 3,2V/ 60.000 maH - 10 pin
+ • Thời gian chiếu sáng: 16 -20 giờ
+ • Diện tích chiếu sáng: 140 m2
+ • Chiều cao lắp đặt: 6 - 8m
+ • Tiện ích: Đèn được trang bị bộ cảm biến ánh sáng ( Tự động bật sáng khi trời tối và tắt khi trời
+sáng)
+ • Bộ sản phẩm gồm: Đèn + Tấm pin NL + Cần Đèn + Remote + Và một số phụ khiện ốc vít đi
+kèm
+179. Bộ đèn đường năng lượng mặt trời..Model: S300,hiệu: SUNTEK.
+Bảo hành 2 năm:
+- Mã sản phẩm 577812
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời..Model: S300,hiệu: SUNTEK.
+Bảo hành 2 năm
+- Mô tả:
+ • Công suất định mức: 300W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/35W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-65
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 14-16h liên tục
+ • PIN: 54.000mAh LiFePo4
+ • Kích thước đèn: 22 x 5 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 68x 1.7 x 35Cm (DxRxC)
+180. Bộ đèn pha năng lượng mặt trời AIO Smart. Công suất 200W. Bảo hành 24 tháng:
+- Mã sản phẩm 509162
+- Tên sản phẩm: Bộ đèn pha năng lượng mặt trời AIO Smart. Công suất 200W. Bảo hành 24 tháng
+- Mô tả:
+ • Công suất định mức: 200W
+ • Công suất tấm pin NLMT: Polycrystal 6V/25W
+ • Pin lưu trữ: 3.2V/36.000mAh LiFePO4
+ • Chip Led: SMD
+ • Quang thông: 1650lm
+ • Tuổi thọ: 50.000 giờ
+ • Cấp bảo vệ: IP 67; IK08
+ • Chống sét: TVS
+ • Độ hoàn màu (CRI): ≥70Ra
+ • Nhiệt độ màu: 6500k
+ • Nhiệt độ làm việc: -10oC ~ 45oC
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Kích thước đèn: 29.5 x 23.8 x 7.8 Cm
+ • Kích tấm pin: 53 x 35 x 1.5 Cm
+ • Thời gian sạc: 6h - 8h
+ • Số giờ chiếu sáng của bộ đèn: 10h - 12h liên tục
+ • Bảo hành: 18 tháng
+181. Bộ đèn pha led năng lượng mặt trời Suntek công suất 300W:
+- Mã sản phẩm 577807
+- Tên sản phẩm: Bộ đèn pha led năng lượng mặt trời Suntek công suất 300W
+- Mô tả:
+ • Công suất định mức: 300W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/40W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-67
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 12-14h liên tục
+ • PIN: 60.000mAh LifePO4
+ • Kích thước đèn: 35.8 x 9 x 29 Cm
+ • Kích thước tấm năng lượng mặt trời: 67 x 2.5 x 45Cm
+ • Cân nặng: 7.3kg
+182. Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK. Model: SF-01:
+- Mã sản phẩm 577825
+- Tên sản phẩm: Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK. Model:
+SF-01
+- Mô tả:
+ • Tấm điều khiển năng lượng mặt trời: Poly 18V/20W
+ • Kích thước: 42 x 35Cm, kèm dây 5m
+ • AC: 110-220V~50/60Hz
+ • DC, Solar: 12V
+ • Công suất quạt: 25W
+ • Quạt sạc: có 10 số 10 tốc độ
+ • PIN: 12V/4.800 mAh(18650) – Kiêm PIN sạc dự phòng
+ • Kích thước: Cao: 37 Cm, Rộng: 42Cm, Sâu: 16Cm, Lồng quạt: 35Cm, Cánh quạt: 28Cm
+ • Số cánh: 5
+ • Vật liệu: Kim loại
+ • Trọng lượng: 1.9 kg
+ • Lưu ý sạc quạt: Sạc lần đầu khoảng 20h, những lần xạc sau khoảng 6h – 8h.
+183. Quạt sạc tích điện sử dụng điện và năng lượng mặt trời, Hiệu:SUNTEK. Model: SF-05:
+- Mã sản phẩm 577824
+- Tên sản phẩm: Quạt sạc tích điện sử dụng điện và năng lượng mặt trời, Hiệu:SUNTEK. Model:
+SF-05
+- Mô tả:
+ • Tấm điều khiển năng lượng mặt trời: Poly 18V/20W
+ • Kích thước: 35 x 46, kèm dây 5m
+ • AC: 110-220V~50/60Hz
+ • DC, Solar: 18V
+ • Công suất quạt: 25W
+ • Chức năng: “3 trong 1” Quạt tích điện Không Lo mất điện + PIN sạc dự phòng + Đèn LED
+chiếu sáng
+ • Quạt sạc: có 3 số 3 tốc độ
+ • PIN: 12V/7.500 mAh (Li-ion 18650) – Kiêm PIN sạc dự phòng
+ • Kích thước: Cao: 130Cm, Lồng quạt: 43Cm, Cánh quạt: 33Cm
+ • Số cánh: 5
+ • Thời gian sử dụng: 10-14h liên tục tùy theo công suất sử dụng
+ • Lưu ý sạc quạt: Sạc lần đầu khoảng 20h, những lần xạc sau khoảng 6h – 8h.
+184. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200:
+- Mã sản phẩm 571585
+- Tên sản phẩm: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200
+- Mô tả:
+ • Công suất định mức: 200W
+ • Công suất tấm pin NLMT: Polycrystal 6V/30W
+ • Pin lưu trữ: 3.2V/42.000mAh LiFePO4
+ • Chip Led: SMD
+ • Quang thông: 1700lm Tuổi thọ: 50.000 giờ
+ • Cấp bảo vệ: IP 67; IK08 Chống sét: TVS
+ • Độ hoàn màu (CRI): ≥70Ra
+ • Nhiệt độ màu: 6500k
+ • Nhiệt độ làm việc: -10oC ~ 45oC
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Kích thước đèn: 20.8 x 5 x 39.5 Cm
+ • Kích tấm pin: 60 x 34.8 x 1.5 Cm
+ • Thời gian sạc: 6h - 8h
+ • Số giờ chiếu sáng của bộ đèn: 14h - 16h liên tục
+185. Đèn đường năng lượng mặt trời SUNTEK DA-01, công suất 100W
+:
+- Mã sản phẩm 509192
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK DA-01, công suất 100W
+- Mô tả:
+ • Công suất định mức:100W
+ • Chip: High quality Brightest 5054 Smd Chip Led
+ • Quang thông: 1560 Lumen
+ • Nhiệt độ màu: 6500K
+ • Chỉ số hoàn màu(CRI): 70Ra
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/30W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Cấp bảo vệ: IP-67, IK-08
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 18-20h liên tục
+ • PIN: 3.2V/54.000mAh LiFePo4 32700
+ • Kích thước đèn: 20.5 x 8 x 51.5Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 60 x 1.7 x 35Cm (DxRxC)
+186. Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8200L:
+- Mã sản phẩm 577780
+- Tên sản phẩm: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8200L
+- Mô tả:
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 45W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-67
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 22-24h liên tục
+ • PIN: 60.000mAh LiFePO4
+ • Kích thước đèn: 36.5 x 9 x26.5Cm (DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 36 x 1.7x 58Cm (DxRxC)
+ • Cân nặng: 6.8kg
+187. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300:
+- Mã sản phẩm 571586
+- Tên sản phẩm: ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300
+- Mô tả:
+ • Công suất định mức: 300W
+ • Công suất tấm pin NLMT: Polycrystal 6V/35W
+ • Pin lưu trữ: 3.2V/48.000mAh LiFePO4
+ • Chip Led: SMD
+ • Quang thông: 2750lm
+ • Tuổi thọ: 50.000 giờ
+ • Cấp bảo vệ: IP 67; IK08
+ • Chống sét: TVS
+ • Độ hoàn màu (CRI): ≥70Ra
+ • Nhiệt độ màu: 6500k
+ • Nhiệt độ làm việc: -10oC ~ 45oC
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Kích thước đèn: 20.8 x 5 x 39.5 Cm
+ • Kích tấm pin: 67.5 x 35 x 1.6 Cm
+ • Thời gian sạc: 6h - 8h
+ • Số giờ chiếu sáng của bộ đèn: 14h - 16h liên tục
+188. Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8300L:
+- Mã sản phẩm 577784
+- Tên sản phẩm: Bộ đèn pha led năng lượng mặt trời Suntek, Model: 8300L
+- Mô tả:
+ • Công suất đèn: 300W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 55W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Số lượng bóng LED: 696
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-67
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 14 - 18h liên tục
+ • Thời gian làm việc: 1-3 ngày mưa hoặc nhiều mây
+ • PIN: 50.000mAh LiFePO4
+ • Kích thước đèn: 41.5 x 9 x 36Cm (DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 42 x 1.7 x 72Cm (DxRxC)
+ • Cân nặng: 8.5kg
+189. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300:
+- Mã sản phẩm 571587
+- Tên sản phẩm: ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300
+- Mô tả:
+ • Công suất định mức: 300W
+ • Công suất tấm pin NLMT: Polycrystal 6V/40W
+ • Pin lưu trữ: 3.2V/48.000mAh LiFePO4
+ • Chip Led: SMD Quang thông: 2970lm
+ • Tuổi thọ: 50.000 giờ
+ • Cấp bảo vệ: IP 67; IK08
+ • Chống sét: TVS
+ • Độ hoàn màu (CRI): ≥70Ra
+ • Nhiệt độ màu: 6500k
+ • Nhiệt độ làm việc: -10oC ~ 45oC
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Kích thước đèn: 35 x 8.5 x 28 Cm
+ • Kích thước tấm pin: 67 x 44.5 x 2.5 Cm
+ • Thời gian sạc: 6h - 8h
+ • Số giờ chiếu sáng của bộ đèn: 14h - 16h liên tục
+190. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK:
+- Mã sản phẩm 577828
+- Tên sản phẩm: Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK
+- Mô tả:
+ • Công suất định mức: 250W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/25W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng
+ • Lớp chống thấm nước: IP-65
+ • Thời gian sạc: 7-8h
+ • Thời gian chiếu sáng: 16-18h liên tục
+ • PIN: 3.2V/60.000mAh LifePO4
+ • Màu sắc: Đen
+ • Kích thước: 57.5 x 57.5 x 12 Cm (DxRxC)
+ • Cân nặng: 5kg
+191. Bộ đèn đường năng lượng mặt trời Suntek, Model: S3:
+- Mã sản phẩm 577798
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời Suntek, Model: S3
+- Mô tả:
+ • Công suất định mức: 135W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/45W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-65
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 28-30h liên tục
+ • PIN: 3.2V/54.000mAh LiFePo4
+ • Kích thước đèn: 23.5 x 8 x 57Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 67 x 2.5 x 44.5Cm (DxRxC)
+192. Đèn tín hiệu giao thông năng lượng mặt trời SUNTEK TL-01:
+- Mã sản phẩm 571240
+- Tên sản phẩm: Đèn tín hiệu giao thông năng lượng mặt trời SUNTEK TL-01
+- Mô tả:
+ • Công suất định mức: 5W
+ • Bảng điều khiển năng lượng mặt trời: Poly 10V/20W
+ • Số bóng LED: 91 • Tần số nhấp nháy: 30 lần/ phút
+ • Tuổi thọ bóng đèn LED: 70.000 giờ • Tầm nhìn: ~800m
+ • Nhiệt độ làm việc: -20C ~ 70C • Thời gian hoạt động: 24/24
+ • Lớp chống thấm nước: IP-65 • PIN: 6V/12Ah LifePO4 32700
+ • Màu sắc: Đen • Kích thước:37x 38x 40 Cm (DxRxC)
+ • Đường kính đèn: 30Cm • Cân nặng: 5.5 kg
+193. Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK. Model: SF-03:
+- Mã sản phẩm 577821
+- Tên sản phẩm: Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK. Model:
+SF-03
+- Mô tả:
+ • Tấm điều khiển năng lượng mặt trời: Poly 9V/35W
+ • Kích thước: 35 x 60, kèm dây 5m
+ • AC: 110-220V~50/60Hz
+ • DC, Solar: 9V
+ • Công suất quạt: 26W
+ • Chức năng: “3 trong 1” Quạt tích điện Không Lo mất điện + PIN sạc dự phòng + Đèn LED
+chiếu sáng
+ • Quạt sạc: có 3 số 3 tốc độ
+ • PIN: 6V/12.000 mAh (LifePO4 32700) – Kiêm PIN sạc dự phòng
+ • Kích thước: Cao: 140Cm, Lồng quạt: 43Cm, Cánh quạt: 37Cm
+ • Số cánh: 5
+ • Thời gian sử dụng: 10-14h liên tục tùy theo công suất sử dụng
+ • Lưu ý sạc quạt: Sạc lần đầu khoảng 20h, những lần xạc sau khoảng 6h – 8h.
+194. Đèn đường năng lượng mặt trời SUNTEK DA-02, công suất 200W:
+- Mã sản phẩm 509193
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK DA-02, công suất 200W
+- Mô tả:
+ • Công suất định mức: 200W
+ • Chip: High quality Brightest 5054 Smd Chip Led
+ • Quang thông: 2340 Lumen
+ • Nhiệt độ màu: 6500K
+ • Chỉ số hoàn màu (CRI): 70Ra
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/40W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Cấp bảo vệ: IP-67, IK-08
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 18-20h liên tục
+ • PIN: 3.2V/66.000mAh LiFePo4 32700
+ • Kích thước đèn: 20.5 x 8 x 55Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 67 x 2.5 x 35Cm (DxRxC)
+195. Đèn pha năng lượng mặt trời SUNTEK LED SOLAR 500W:
+- Mã sản phẩm 509179
+- Tên sản phẩm: Đèn pha năng lượng mặt trời SUNTEK LED SOLAR 500W
+- Mô tả:
+ • Công suất định mức: 500W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/50W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-67
+ • Chống sét TVS
+ • Thời gian sạc: 7-8h
+ • Thời gian chiếu sáng: 16-18h liên tục
+ • PIN: 3.2V/72.000mAh LifePO4
+ • Kích thước đèn: 43 x 9 x 36.5 Cm (DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 67 x 53 x 2.5Cm (DxRxC)
+ • Cân nặng: 9kg
+196. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK:
+- Mã sản phẩm 577830
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK
+- Mô tả:
+ • Công suất định mức: 400W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/50W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-66
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 18-20h liên tục
+ • PIN: 3.2V/60.000mAh LiFePo4
+ • Kích thước đèn: 21 x 9 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 53 x 67 x 2.5Cm (DxRxC)
+ • Cân nặng: 7.5kg (chưa trụ cần)
+197. Đèn đường năng lượng mặt trời SUNTEK DA-03, công suất 300W:
+- Mã sản phẩm 509194
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK DA-03, công suất 300W
+- Mô tả:
+ • Công suất định mức: 300W
+ • Chip: High quality Brightest 5054 Smd Chip Led
+ • Quang thông: 3000 Lumen
+ • Nhiệt độ màu: 6500K
+ • Chỉ số hoàn màu (CRI): 70Ra
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/50W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa.
+ • Cấp bảo vệ: IP-67, IK-08
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 18-20h liên tục
+ • PIN: 3.2V/78.000mAh LiFePo4 32700(PWM Solar Charge Controller With -Up LED Driver,
+BMS)
+ • Kích thước đèn: 23 x 8.5 x 58Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 67 x 1.7 x 45Cm (DxRxC)
+198. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK:
+- Mã sản phẩm 577831
+- Tên sản phẩm: Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK
+- Mô tả:
+ • Công suất định mức: 500W
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/60W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sang + Có điều khiển từ xa
+ • Lớp chống thấm nước: IP-66
+ • Chống sét: TVS
+ • Thời gian chiếu sáng: 20-24h liên tục
+ • PIN: 3.2V/72.000mAh LiFePo4
+ • Kích thước đèn: 21 x 9 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 63 x 67 x 2.5Cm (DxRxC)
+ • Cân nặng: 8.5kg (chưa trụ cần)
+199. Đèn trụ cổng năng lượng mặt trời.Model: CV02.
+Bảo hành 3 năm:
+- Mã sản phẩm 577826
+- Tên sản phẩm: Đèn trụ cổng năng lượng mặt trời.Model: CV02.
+Bảo hành 3 năm
+- Mô tả:
+ • Công suất: 100W
+ • Bảng điều khiển năng lượng mặt trời: Mono 25W
+ • Đèn sử dụng: LED Drive
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Nhiệt độ màu: 6500K
+ • Tuổi thọ bóng đèn LED: 50.000 giờ
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng
+ • Lớp chống thấm nước: IP-65
+ • Thời gian chiếu sáng: 22-24h liên tục
+ • PIN: 60Ah LifePO4
+ • Màu sắc: Đen
+ • Kích thước: 53.5 x 53.5 x 48.5 Cm (DxRxC)
+ • Cân nặng: 8.3kg
+200. Đèn đường năng lượng mặt trời SUNTEK S500 PLUS, công suất 500W:
+- Mã sản phẩm 509195
+- Tên sản phẩm: Đèn đường năng lượng mặt trời SUNTEK S500 PLUS, công suất 500W
+- Mô tả:
+ • Công suất định mức: 500W
+ • Chip LED 5054
+ • Quang thông: 3000Lm
+ • CRI: >70Ra
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/60W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng + Có điều khiển từ xa.
+ • Lớp chống thấm nước: IP-66
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 20-24h liên tục
+ • PIN: 3.2V/72.000mAh LiFePo4
+ • Kích thước đèn: 21 x 9 x 50Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 63 x 67 x 2.5Cm (DxRxC)
+ • Cân nặng: 8.5kg (chưa trụ cần)
+201. Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK Battery Power 12V/25Ah cho Camera:
+- Mã sản phẩm 509177
+- Tên sản phẩm: Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK Battery Power 12V/25Ah cho
+Camera
+- Mô tả:
+ • Dung lượng: 25.000mAh LiFePO4(Pin Lithium sắt phốt phát 32700)
+ • Sạc năng lượng mặt trời: 30A
+ • Đồng hồ hiển thị dung lượng pin, điện áp pin
+ • 01 Đầu ra 12V/10A DC
+ • 01 Đầu ra 5v/2A
+ • Chất liệu: Nhựa ABS chống nước
+ • Màu sắc: trắng
+ • Kích thước: 230x150x85mm (DxRxC)
+202. Bộ lưu trữ năng lượng mặt trời SUNTEK Battery Power 12V/35Ah cho Camera:
+- Mã sản phẩm 571600
+- Tên sản phẩm: Bộ lưu trữ năng lượng mặt trời SUNTEK Battery Power 12V/35Ah cho Camera
+- Mô tả:
+ • Công suất: 35.000mAh LiFePO4(Pin Lithium sắt phốt phát 32.700)
+ • Sạc năng lượng mặt trời: 30A
+ • Đồng hồ hiển thị dung lượng pin, điện áp pin
+ • 01 Đầu ra 12V/10A DC
+ • 01 Đầu ra 5v/2A
+ • Chất liệu: Nhựa
+ • Màu sắc: trắng
+ • Kích thước: 265x185x95Mmm (DxRxC)
+203. Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK 12V/25Ah PLUS:
+- Mã sản phẩm 509196
+- Tên sản phẩm: Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK 12V/25Ah PLUS
+- Mô tả:
+ • Dung lượng: 25.000mAh LiFePO4 (Pin Lithium sắt phốt phát 32700).
+ • Sạc năng lượng mặt trời: 30A.
+ • Đồng hồ hiển thị dung lượng pin, điện áp pin.
+ • 01 Đầu ra 12V/10A DC.
+ • 01 Đầu ra 5V/2A.
+ • Chất liệu: Nhựa ABS chống nước.
+ • Màu sắc: Trắng.
+ • Kích thước: 230x150x85mm (DxRxC).
+204. Đèn cao áp năng lượng mặt trời SUNTEK SP-S30, công suất 30W:
+- Mã sản phẩm 509191
+- Tên sản phẩm: Đèn cao áp năng lượng mặt trời SUNTEK SP-S30, công suất 30W
+- Mô tả:
+ • Công suất tiêu thụ: 30W
+ • Chip: LED Philips
+ • Bảng điều khiển năng lượng mặt trời: Polycrystal 110W
+ • Nhiệt độ làm việc: -20C ~ 65C
+ • Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời
+sáng.
+ • Lớp bảo vệ: IP67;IK08
+ • Chống sét TVS
+ • Thời gian chiếu sáng: 20-22h liên tục
+ • Bộ lưu trữ: 3.2V/120Ah LiFePo4 32700 Date 2022 (MPPT Solar Charge Controller With -Up
+LED Driver, BMS)
+ • Kích thước đèn: 25.5 x 10 x 60Cm(DxRxC)
+ • Kích thước tấm năng lượng mặt trời: 67 x 3 x 108Cm (DxRxC)

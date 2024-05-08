@@ -1,0 +1,14 @@
+INFO:     Started server process [97477]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+numberrequest 1
+r: [{'recipient_id': 'test', 'text': 'Dựa trên yêu cầu của anh/chị:\n\t- 1 máy giặt với giá dưới 10 triệu 500 nghìn'}, {'recipient_id': 'test', 'text': 'Để phù hợp với ngân sách và nhu cầu sử dụng của khách hàng, chúng tôi đề xuất sản phẩm sau:\n\t+ Với 1 Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB: 11500280.0VND - GÓI MUA SẮM MỨC 1\n\t\t(Hoa hòng bán hàng nhận được là: 649040.0000000001VND và hoa hồng triển khai nhận được là: 104548.0VND)'}, {'recipient_id': 'test', 'text': 'Tổng giá trị của gói sản phẩm này là 11500280.0VND, giúp khách hàng tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với chúng tôi. Chúng tôi luôn sẵn lòng hỗ trợ.'}]
+INFO:     127.0.0.1:50938 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 2
+r: [{'recipient_id': 'test', 'text': 'Số lượng điều hòa 2 chiều: 7 sản phẩm'}]
+INFO:     127.0.0.1:47304 - "POST /llm HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [97477]

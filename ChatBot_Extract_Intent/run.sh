@@ -1,0 +1,1 @@
+nohup python app.py >logs.txt 2>&1 & echo $! > run.pid

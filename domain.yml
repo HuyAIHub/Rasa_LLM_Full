@@ -1,0 +1,179 @@
+version: '3.1'
+intents:
+- ask_name
+- ask_product
+- ask_service_name
+- begin_chatgpt
+- birthday
+- deny
+- give_name
+- goodbye
+- greet
+- search_product
+- thanks
+- unclear
+- love
+- home
+- question_offen_met
+- change_product
+- order_from_overseas
+- list_product
+- cancel_product
+- evaluate_product
+- buy_dont_money
+- warranty_policy_1
+- warranty_policy_2
+- warranty_policy_1vs1
+- warranty_policy_bark
+entities:
+- user_name
+- produce_name_policy
+responses:
+  utter_buy_dont_money:
+  - text: Thông tin ngữ cảnh không cung cấp chi tiết cụ thể về việc có thể mua hàng mà không phải trả tiền hay không. Tuy nhiên, nhìn chung, khi mua sắm trực tuyến, việc thanh toán là bắt buộc để hoàn tất giao dịch mua. Nếu bạn có câu hỏi cụ thể về các tùy chọn thanh toán hoặc nếu có bất kỳ chương trình khuyến mãi hoặc giảm giá nào, vui lòng cho tôi biết và tôi sẽ cố gắng hết sức để hỗ trợ bạn.
+  utter_evaluate_product:
+  - text: Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.
+  utter_greet:
+  - text: |-
+      Xin chào! Tôi là trợ lý mua sắm.
+      Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+  - text: |-
+      Chào bạn! Tôi là trợ lý mua sắm.
+      Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+  utter_cheer_up:
+  - text: 'Here is something to cheer you up:'
+    image: https://i.imgur.com/nGF1K8f.jpg
+  utter_goodbye:
+  - text: |-
+      Rất vui được giúp bạn!
+      Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, hãy để tôi biết. Tôi sẽ cố gắng giúp bạn trong khả năng của mình. Chúc bạn có một trải nghiệm mua sắm tuyệt vời!
+  utter_birthday:
+  - text: Tôi không có ngày sinh như con người. Tôi là một trợ lý ảo được tạo ra bởi VCC, với mục đích là cung cấp hỗ trợ và thông tin cho mọi người. Tuy nhiên, nếu bạn muốn biết, tôi đã được phát triển và ra mắt vào năm 2024.
+  utter_question_offen_met:
+  - text: |-
+      Dưới đây là một số câu hỏi phổ biến mà người dùng thường đặt khi mua sắm:
+        1. Có sản phẩm nào đang được giảm giá không?
+        2. Bạn có thể giúp tôi tìm sản phẩm này không?
+        3. Sản phẩm này có sẵn trong cửa hàng gần nhất không?
+        4. Bạn có thể so sánh giá của sản phẩm này ở các cửa hàng khác nhau không?
+        5. Tôi có thể trả hàng nếu không hài lòng với sản phẩm không?
+        6. Bạn có thể tư vấn cho tôi về sản phẩm này không?
+        7. Tôi có thể thanh toán bằng phương thức nào?
+        8. Bạn có thể gửi hàng đến địa chỉ của tôi không?
+        9. Sản phẩm này có bảo hành không?
+       10. Bạn có thể giúp tôi đặt hàng trực tuyến không?
+      Nếu bạn có bất kỳ câu hỏi cụ thể nào hoặc cần hỗ trợ với một yêu cầu cụ thể, hãy cho tôi biết để tôi có thể giúp bạn tốt hơn.
+  - text: |-
+      Dưới đây là một số câu hỏi phổ biến mà người dùng thường đặt khi mua sắm:
+        1. Sản phẩm này có đánh giá tốt không?
+        2. Bạn có thể giúp tôi chọn kích cỡ/phù hợp không?
+        3. Sản phẩm này có sẵn trong màu sắc/kích thước khác không?
+        4. Bạn có thể giúp tôi tìm sản phẩm tương tự không?
+        5. Sản phẩm này có thể được vận chuyển quốc tế không?
+        6. Bạn có thể giúp tôi tìm sản phẩm trong phạm vi giá nhất định không?
+        7. Sản phẩm này có được bảo vệ bởi chính sách bảo mật không?
+        8. Bạn có thể giúp tôi tìm sản phẩm phù hợp với ngân sách của tôi không?
+        9. Sản phẩm này có thể được trả góp không?
+       10. Bạn có thể giúp tôi tìm sản phẩm theo thương hiệu nào đó không?
+      Nếu bạn có bất kỳ câu hỏi cụ thể nào khác hoặc cần hỗ trợ với một yêu cầu cụ thể, hãy cho tôi biết để tôi có thể giúp bạn tốt hơn.
+  utter_ask_service_name:
+  - text: |-
+      Tôi có thể thực hiện những yêu cầu sau: 
+        1. Tìm kiếm sản phẩm mà quý khách cần 
+        2. Đưa ra các thông tin chi tiết về sản phẩm 
+        3. Đưa ra giá thành sản phẩm với số tiền bạn có 
+        4. Gợi ý những sản phẩm tương tự 
+        5. Chính sách bảo hành
+      Hãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.
+  utter_unclear:
+  - text: Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.
+  - text: Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?
+  - text: Tôi là bot được tạo ra để hỗ trợ tư vẫn bán hàng nên những câu hỏi không liên quan tôi sẽ không thể giải đáp được.
+  - text: Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!
+  - text: Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?
+  utter_home:
+  - text: Tôi là một trợ lý ảo và không có một nơi cụ thể để ở. Tôi được tạo ra để hỗ trợ bạn trong việc mua sắm và cung cấp thông tin hữu ích. Bạn có câu hỏi hoặc yêu cầu gì khác không? Tôi sẽ cố gắng giúp bạn.
+
+  utter_love:
+  - text: Vì tôi chỉ là một trợ lý ảo không có cảm xúc và khả năng tương tác cá nhân, nên tôi không có khái niệm về việc có người yêu hay không. Tuy nhiên, nếu bạn có bất kỳ câu hỏi nào về sản phẩm hoặc dịch vụ bạn quan tâm, tôi sẽ rất vui được giúp đỡ!
+  utter_thanks:
+  - text: |-
+      Cảm ơn bạn về lời khen!
+      Tôi được thiết kế để hỗ trợ bạn trong việc mua sắm và cung cấp thông tin chi tiết về sản phẩm, giá cả và các dịch vụ của VCC. Nếu bạn có bất kỳ câu hỏi nào hoặc cần giúp đỡ về mua sắm, hãy nói cho tôi biết và tôi sẽ cố gắng giúp bạn một cách tốt nhất.
+  - text: Không có gì, rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn.
+  - text: Rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn. Bạn có câu hỏi hoặc yêu cầu gì khác không?
+  - text: Không có gì, rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn. Bạn có câu hỏi hoặc yêu cầu gì khác không?
+  utter_iamabot:
+  - text: |-
+      Xin chào! Tôi là trợ lý mua sắm.
+      Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+  utter_change_product:
+  - text: |-
+      Có, bạn có thể đổi/trả sản phẩm nếu không hài lòng. VCC có chính sách đổi trả hàng bao gồm:
+         1. Thời gian áp dụng
+        - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+        - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
+        2. Điều kiện:
+        - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
+        - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
+        - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
+        - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
+        - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+        Lưu ý: Không áp dụng hoàn tiền sản phẩm
+  utter_cancel_product:
+  - text: Có, bạn có thể hủy đơn hàng sau khi đã đặt. Để hủy đơn hàng, bạn cần đăng nhập vào tài khoản của mình
+  utter_order_from_overseas:
+  - text: Khách hàng chỉ có thể mua hàng từ nhà bán trong lãnh thổ Việt Nam trên trang thương mại điện tử VCC.
+  - text: Bạn chỉ có thể mua hàng từ nhà bán trong lãnh thổ Việt Nam trên trang thương mại điện tử VCC.
+  utter_list_product:
+  - text: |-
+      Chúng tôi cung cấp đa dạng các sản phẩm thuộc 19 danh mục, bao gồm:
+        Chăm sóc cá nhân: Bàn là - Bàn ủi, Máy sấy tóc
+        Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+        Thiết bị gia đình: Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+        Công nghệ & Tiện ích: Thiết bị Wifi, Đèn năng lượng mặt trời
+        Khác: Thiết bị gia dụng
+  utter_warranty_policy_1:
+  - text: |-
+      Chính sách bảo hành sản phẩm của chúng tôi bao gồm:
+        1. Chính sách bảo hành 1 đổi 1
+        2. Chính sách bảo hành sửa chữa, thay thế linh kiện
+      Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
+      Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+  utter_warranty_policy_1vs1:
+  - text: |-
+      Chính sách 1 đổi 1:
+        1. Thời gian áp dụng
+        - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+        - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
+        2. Điều kiện:
+        - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
+        - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
+        - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
+        - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
+        - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+        Lưu ý: Không áp dụng hoàn tiền sản phẩm
+  utter_warranty_policy_bark:
+  - text: |-
+      Chính sách bảo hành sửa chữa, thay thế linh kiện:
+        1. Thời gian
+        - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên
+        bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+        2. Phạm vi
+        - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản
+        xuất quy định với từng sản phẩm).
+        - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng
+        cách hoặc hỏng hóc do nguyên nhân bên ngoài.
+        3. Điều kiện được bảo hành
+        - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ
+        theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
+        phẩm bảo hành do TT. GP&DVKT ban hành.
+        - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+actions:
+- action_extract_name
+# - action_default_fallback
+- action_search_product
+- action_extract_produce
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
