@@ -11,13 +11,14 @@ from langchain.schema import messages_from_dict, messages_to_dict
 from langchain_community.chat_models import ChatOpenAI
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
-from ChatBot_Extract_Intent.main import process_command
+from ChatBot_Extract_Intent.main import search_db
 
 config_app = get_config()
 
 os.environ['OPENAI_API_KEY'] = config_app["parameter"]["openai_api_key"]
 agent_chat_model = ChatOpenAI(model_name=config_app["parameter"]["gpt_model_to_use"], temperature=config_app["parameter"]["temperature"])
-
+os.environ['OPENAI_API_KEY'] = config_app["parameter"]["openai_api_key"]
+llm = ChatOpenAI(model_name=config_app["parameter"]["gpt_model_to_use"], temperature=config_app["parameter"]["temperature"])
 faiss_index = load_and_index_pdf()
 
 
@@ -55,14 +56,15 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
             results['out_text'] = 'Hiện tại hệ thống đang được bảo trì trong ít phút, mong sớm được quay trở lại hỗ trợ bạn!'
         else:
             results['out_text'] = response.json()[0]["text"]
-    elif type == 'llm_rule':
-        response_rules = process_command(query_text,IdRequest,NameBot,User)
-        results['out_text'] = response_rules
-    else:
-        response_llm = conversation.predict(input=query_text, user_messages_history=user_messages_history)
-        results['out_text'] = response_llm
 
-
+    if results['out_text'] == "LLM_predict":
+        response = search_db(query_text)
+        num_check , response_rules = response[0], response[1]
+        if num_check == 0:
+            results['out_text'] = response_rules
+        else:
+            result = llm.invoke("Trả lời câu hỏi sau: '" + query_text + "' dựa trên các thông tin dưới đây\n" + response_rules)
+            results['out_text'] = result
     # Save DB
     conversation_messages_conv = conversation.memory.memories[0].chat_memory.messages
     conversation_messages_snippets = conversation.memory.memories[1].chat_memory.messages

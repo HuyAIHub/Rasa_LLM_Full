@@ -2,7 +2,7 @@
     {
         "type": "human",
         "data": {
-            "content": "tôi muốn tra cứu thông tin sản phẩm điều hòa",
+            "content": "hello",
             "additional_kwargs": {},
             "response_metadata": {},
             "type": "human",
@@ -14,30 +14,821 @@
     {
         "type": "ai",
         "data": {
-            "content": "Bạn muốn tra cứu thông tin về sản phẩm điều hòa à?",
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
             "additional_kwargs": {},
             "response_metadata": {},
             "type": "ai",
             "name": null,
             "id": null,
-            "example": false
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
         }
-    }
-][
+    },
     {
         "type": "human",
         "data": {
-            "content": "tôi muốn tra cứu thông tin sản phẩm điều hòa",
+            "content": "Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
             "type": "human",
-            "time": "2024-05-06 09:27:31"
+            "name": null,
+            "id": null,
+            "example": false
         }
     },
     {
         "type": "ai",
         "data": {
-            "content": "Bạn muốn tra cứu thông tin về sản phẩm điều hòa à?",
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 9.000 BTU/h (1 HP) \n    Diện tích sử dụng: Dưới 15m² \n    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:\n- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184\n  Thông số kỹ thuật:\n    Nguồn điện: 220-240V \n    Công suất: 9500 Btu/h \n    Công suất tiêu thụ: 745 W \n    Cường độ dòng điện: 3.4 A\n     ERR: 3.54 W/W \nKhông tìm thấy sản phẩm 'Thiết bị Wifi'.\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
             "type": "ai",
-            "time": "2024-05-06 09:27:31"
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "HELLO",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn là ai",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi là hảo",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào hảo,IdRequest:a,NameBot:b,User:c!\nRất vui được gặp hảo,IdRequest:a,NameBot:b,User:c.Bạn có câu hỏi hoặc yêu cầu cụ thể nào liên quan đến dịch vụ mua sắm của VCC không? Tôi sẽ cố gắng giúp bạn một cách tốt nhất.!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi là hảo",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào hảo!\nRất vui được gặp hảo.Bạn có câu hỏi hoặc yêu cầu cụ thể nào liên quan đến dịch vụ mua sắm của VCC không? Tôi sẽ cố gắng giúp bạn một cách tốt nhất.!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "dịch vụ bên m là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n  1. Tìm kiếm sản phẩm mà quý khách cần \n  2. Đưa ra các thông tin chi tiết về sản phẩm \n  3. Đưa ra giá thành sản phẩm với số tiền bạn có \n  4. Gợi ý những sản phẩm tương tự \n  5. Chính sách bảo hành\nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách bên m là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Hiện tại hệ thống đang được bảo trì trong ít phút, mong sớm được quay trở lại hỗ trợ bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách bảo hành là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu \"Danh sách sản phẩm\".\nDưới đây là chính sách bảo hành sản phẩm của chúng tôi:\n  1. Chính sách bảo hành 1 đổi 1\n  2. Chính sách bảo hành sửa chữa, thay thế linh kiện\nNếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.\nLưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách bên mình là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa giá trên 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong danh mục sản phẩm của chúng tôi, có một số sản phẩm điều hòa có giá trên 10 triệu đồng. Dưới đây là một số sản phẩm điều hòa có giá trên 10 triệu đồng:\n1. Điều hòa không khí Daikin Inverter 2 chiều 18.000 BTU - Giá: 12.500.000 đồng\n2. Điều hòa không khí Panasonic Inverter 1 chiều 12.000 BTU - Giá: 11.800.000 đồng\n3. Điều hòa không khí Mitsubishi Electric Inverter 2 chiều 24.000 BTU - Giá: 15.200.000 đồng\n\nĐây chỉ là một số sản phẩm điều hòa có giá trên 10 triệu đồng. Nếu bạn quan tâm đến các sản phẩm khác hoặc muốn biết thông tin chi tiết về các sản phẩm này, vui lòng cho tôi biết thêm thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa giá trên 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong danh mục sản phẩm của chúng tôi, có một số sản phẩm điều hòa có giá trên 10 triệu đồng. Dưới đây là một số sản phẩm điều hòa có giá trên 10 triệu đồng:\n1. Điều hòa không khí Daikin Inverter 2 chiều 18.000 BTU - Giá: 12.500.000 đồng\n2. Điều hòa không khí Panasonic Inverter 1 chiều 12.000 BTU - Giá: 11.800.000 đồng\n3. Điều hòa không khí Mitsubishi Electric Inverter 2 chiều 24.000 BTU - Giá: 15.200.000 đồng\n\nĐây chỉ là một số sản phẩm điều hòa có giá trên 10 triệu đồng. Nếu bạn quan tâm đến các sản phẩm khác hoặc muốn biết thông tin chi tiết về các sản phẩm này, vui lòng cho tôi biết thêm thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Số lượng đèn năng lượng mặt trời : 84 sản phẩm\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "so sánh điều hòa daikin và điều hòa LG tầm giá 10tr",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa Daikin và điều hòa LG là hai thương hiệu nổi tiếng trong lĩnh vực điều hòa không khí. Dưới đây là một số thông tin so sánh giữa hai thương hiệu này trong tầm giá 10 triệu đồng:\n\n1. Điều hòa Daikin:\n- Điều hòa Daikin thường có công nghệ Inverter, giúp tiết kiệm năng lượng và làm lạnh nhanh chóng.\n- Daikin thường có độ ồn thấp và hiệu suất làm lạnh cao.\n- Có nhiều tính năng thông minh như tự động làm sạch, tự động điều chỉnh nhiệt độ, và khả năng kết nối thông qua điều khiển từ xa.\n\n2. Điều hòa LG:\n- Điều hòa LG cũng sử dụng công nghệ Inverter, giúp tiết kiệm điện năng và làm lạnh nhanh chóng.\n- LG thường có thiết kế hiện đại và tính năng thông minh như điều khiển bằng giọng nói và kết nối thông qua điện thoại di động.\n- Điều hòa LG có độ ồn thấp và khả năng làm lạnh hiệu quả.\n\nTuy nhiên, để có sự so sánh chi tiết hơn về các model cụ thể của hai thương hiệu này trong tầm giá 10 triệu đồng, tôi cần biết thêm thông tin về các yêu cầu và ưu tiên của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "so sánh điều hòa daikin và điều hòa LG tầm giá 10tr",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa Daikin và điều hòa LG là hai thương hiệu nổi tiếng trong lĩnh vực điều hòa không khí. Dưới đây là một số thông tin so sánh giữa hai thương hiệu này trong tầm giá 10 triệu đồng:\n\n1. Điều hòa Daikin:\n- Điều hòa Daikin thường có công nghệ Inverter, giúp tiết kiệm năng lượng và làm lạnh nhanh chóng.\n- Daikin thường có độ ồn thấp và hiệu suất làm lạnh cao.\n- Có nhiều tính năng thông minh như tự động làm sạch, tự động điều chỉnh nhiệt độ, và khả năng kết nối thông qua điều khiển từ xa.\n\n2. Điều hòa LG:\n- Điều hòa LG cũng sử dụng công nghệ Inverter, giúp tiết kiệm điện năng và làm lạnh nhanh chóng.\n- LG thường có thiết kế hiện đại và tính năng thông minh như điều khiển bằng giọng nói và kết nối thông qua điện thoại di động.\n- Điều hòa LG có độ ồn thấp và khả năng làm lạnh hiệu quả.\n\nTuy nhiên, để có sự so sánh chi tiết hơn về các model cụ thể của hai thương hiệu này trong tầm giá 10 triệu đồng, tôi cần biết thêm thông tin về các yêu cầu và ưu tiên của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bên bạn có chính sách nào ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu \"Danh sách sản phẩm\".\nDưới đây là chính sách bảo hành sản phẩm của chúng tôi:\n  1. Chính sách bảo hành 1 đổi 1\n  2. Chính sách bảo hành sửa chữa, thay thế linh kiện\nNếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.\nLưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành bên mình là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu \"Danh sách sản phẩm\".\nDưới đây là chính sách bảo hành sản phẩm của chúng tôi:\n  1. Chính sách bảo hành 1 đổi 1\n  2. Chính sách bảo hành sửa chữa, thay thế linh kiện\nNếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.\nLưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có những bảo hanh nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu \"Danh sách sản phẩm\".\nDưới đây là chính sách bảo hành sản phẩm của chúng tôi:\n  1. Chính sách bảo hành 1 đổi 1\n  2. Chính sách bảo hành sửa chữa, thay thế linh kiện\nNếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.\nLưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu \"Danh sách sản phẩm\".\nDưới đây là chính sách bảo hành sản phẩm của chúng tôi:\n  1. Chính sách bảo hành 1 đổi 1\n  2. Chính sách bảo hành sửa chữa, thay thế linh kiện\nNếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.\nLưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bên m cso dịch vu gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n  1. Tìm kiếm sản phẩm mà quý khách cần \n  2. Đưa ra các thông tin chi tiết về sản phẩm \n  3. Đưa ra giá thành sản phẩm với số tiền bạn có \n  4. Gợi ý những sản phẩm tương tự \n  5. Chính sách bảo hành\nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có những chính sách nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm thuộc 19 danh mục, bao gồm:\n  Chăm sóc cá nhân: Bàn là - Bàn ủi, Máy sấy tóc\n  Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n  Thiết bị gia đình: Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n  Công nghệ & Tiện ích: Thiết bị Wifi, Đèn năng lượng mặt trời\n  Khác: Thiết bị gia dụng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách bên m là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Hiện tại hệ thống đang được bảo trì trong ít phút, mong sớm được quay trở lại hỗ trợ bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có bao nhiêu chính sách",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "mua sản phẩm không cần trả tiên",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Thông tin ngữ cảnh không cung cấp chi tiết cụ thể về việc có thể mua hàng mà không phải trả tiền hay không. Tuy nhiên, nhìn chung, khi mua sắm trực tuyến, việc thanh toán là bắt buộc để hoàn tất giao dịch mua. Nếu bạn có câu hỏi cụ thể về các tùy chọn thanh toán hoặc nếu có bất kỳ chương trình khuyến mãi hoặc giảm giá nào, vui lòng cho tôi biết và tôi sẽ cố gắng hết sức để hỗ trợ bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm xấu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm bị hỏng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm bị hỏng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "so sánh điều hòa daikin và điều hòa LG tầm giá 10tr",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của điều hòa LG",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "so sánh điều hòa daikin và điều hòa LG tầm giá 10tr",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của điều hòa LG",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hello",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách bảo hành là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Quý khách xin thông cảm! Sản phẩm này không nằm trong danh mục các sản phẩm bảo hành của công ty chúng tôi.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành bên bạn là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu \"Danh sách sản phẩm\".\nDưới đây là chính sách bảo hành sản phẩm của chúng tôi:\n  1. Chính sách bảo hành 1 đổi 1\n  2. Chính sách bảo hành sửa chữa, thay thế linh kiện\nNếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.\nLưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
         }
     }
 ]
