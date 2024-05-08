@@ -226,19 +226,17 @@ def take_top3_product(demands, list_product):
 
 def handle_tskt(demands, list_product):
     # Xử lý yêu cầu tskt sản phẩm
+    lst_compare = ['so sánh','tốt hơn']
+
     if demands['value'] == '':
         for i in list_product:
             if len(list_product[i]) > 1:
                 return [0,"Tôi cần tên cụ thể của  " + list_product[i][1]]
-    
-        return take_top3_product(demands, list_product)
+        if demands['demand'].lower() in lst_compare:
+            return [1, take_top3_product(demands, list_product)]
+        else:
+            return [0, take_top3_product(demands, list_product)]
     else:
-        inner_join = pd.read_excel("./ChatBot_Extract_Intent/data/product_final_204_oke.xlsx")
-        dict_test = {}
-        for i in range(len(inner_join['SPECIFICATION_BACKUP'])):
-            key = inner_join['GROUP_PRODUCT_NAME'][i].lower()
-            dict_test[key] = [x.split(':')[0].replace('• ','') for x in inner_join['SPECIFICATION_BACKUP'][i].split('\n') if x != '']
-
         result_string = ''
         for name_product in demands['object']:
             cnt = 0
@@ -256,7 +254,11 @@ def handle_tskt(demands, list_product):
                         break
             if cnt == 0:
                 return [1, take_top3_product(demands, list_product)]
-        return [0, result_string]
+        if demands['demand'].lower() in lst_compare:
+            return [1, result_string]
+        else:
+            return [0, result_string]
+
 
 
 
