@@ -69,7 +69,7 @@ stories:
 - story: path8
   steps:
   - intent: search_product
-  - action: action_search_product
+  - action: utter_search_product
 
 - story: path10
   steps:
@@ -140,3 +140,43 @@ stories:
   steps:
    - intent: warranty_policy_2
    - action: action_extract_produce
+
+- story: path24
+  steps:
+   - intent: promotion
+   - action: utter_promotion
+
+- story: path25
+  steps:
+   - intent: order_produce
+   - action: utter_order_produce
+
+- story: path26
+  steps:
+   - intent: delivery_time
+   - action: utter_delivery_time
+
+- story: path27
+  steps:
+   - intent: order_status
+   - action: utter_order_status
+
+- story: path28
+  steps:
+   - intent: pay_produce
+   - action: utter_pay_produce
+
+- story: path29
+  steps:
+   - intent: delivery_free
+   - action: utter_delivery_free
+
+- story: path30
+  steps:
+   - intent: time_open_door
+   - action: utter_time_open_door
+
+- story: path33
+  steps:
+   - intent: support_KH
+   - action: utter_support_KH

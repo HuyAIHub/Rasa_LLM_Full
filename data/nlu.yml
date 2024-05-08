@@ -7,6 +7,11 @@ nlu:
     - Tôi tên là [đáng yêu](user_name)
     - Tôi tên là [đáng yêu Quá](user_name)
     - Tôi tên là [Hoàng nam](user_name)
+    - Toi ten la [Nam](user_name)
+    - Toi ten la [cún con](user_name)
+    - Toi ten la [đáng yêu](user_name)
+    - Toi ten la [đáng yêu Quá](user_name)
+    - Toi ten la [Hoàng nam](user_name)
     - Chị tên là [Hoa](user_name)
     - Chị tên là [Mai Hoa](user_name)
     - Chị tên là [mai hoa](user_name)
@@ -17,6 +22,12 @@ nlu:
     - Anh tên là [Quang Huy](user_name)
     - Anh tên là [xuan long](user_name)
     - Anh tên là [tran van long](user_name)
+    - Anh ten la [Long](user_name)
+    - Anh ten la [Hoàng Anh](user_name)
+    - Anh ten la [Quang huy](user_name)
+    - Anh ten la [Quang Huy](user_name)
+    - Anh ten la [xuan long](user_name)
+    - Anh ten la [tran van long](user_name)
     - Tôi là [nam xinh trai](user_name)
     - Tôi là [cún con](user_name)
     - Tôi là [đáng yêu](user_name)
@@ -27,6 +38,7 @@ nlu:
     - Chị là [mai hoa](user_name)
     - Chị là [bé mèo](user_name)
     - Anh là [Long](user_name)
+    - Anh là [vũ mai phương](user_name)
     - Anh là [Hoàng Anh](user_name)
     - Anh là [Quang huy](user_name)
     - Anh là [Quang Huy](user_name)
@@ -38,6 +50,17 @@ nlu:
     - Anh tên [Quang Huy](user_name)
     - Anh tên [xuan long](user_name)
     - Anh tên [tran van long](user_name)
+    - Anh tên [bé bụng to](user_name)
+    - Anh tên [bé hạt tiêu](user_name)
+    - Anh ten là [tran van long](user_name)
+    - Anh ten [Long](user_name)
+    - Anh ten [Hoàng Anh](user_name)
+    - Anh ten [Quang huy](user_name)
+    - Anh ten [Quang Huy](user_name)
+    - Anh ten [xuan long](user_name)
+    - Anh ten [tran van long](user_name)
+    - Anh ten [bé bụng to](user_name)
+    - Anh ten [bé hạt tiêu](user_name)
     - Mình tên là [Phúc](user_name)
     - Mình tên [Phát](user_name)
     - Em tên [Hà](user_name) nhé
@@ -87,6 +110,9 @@ nlu:
     - chị [Huyền](user_name)
     - chị [Huyền Anh](user_name)
     - chị [Huyền anh](user_name)
+    - chị [tran huyen anh](user_name)
+    - chị [trần Huyền anh](user_name)
+    - chị [trần huyền Anh](user_name)
     - là [Minh](user_name)
     - là [David](user_name)
     - tên [Sung](user_name)
@@ -113,7 +139,16 @@ nlu:
     - tên là [Bùi Vân Khánh](user_name)
     - tên [đặng thúy hiền](user_name)
     - tên của tôi [Trần Đức Long](user_name)
-    - tên tôi [Lê Thị Thủy Tiên](user_name)
+    - tên tôi là [Lê Thị Thủy Tiên](user_name)
+    - tên tôi là [Thủy Tiên](user_name)
+    - tên tôi là [thị Thủy Tiên](user_name)
+    - tên tôi là [bé đào xinhh](user_name)
+    - tên tôi là [Lê Thị Thủy Tiên nữ](user_name)
+    - ten toi la [Lê Thị Thủy Tiên](user_name)
+    - ten toi la [Thủy Tiên](user_name)
+    - ten toi la [thị Thủy Tiên](user_name)
+    - ten toi la [bé đào xinhh](user_name)
+    - ten toi la [Lê Thị Thủy Tiên nữ](user_name)
     - tên chủ thẻ [Hà Huyền Trang](user_name)
     - chị tên [Đõ Thị Chung](user_name)
     - chị tên [Kiều Phương Quỳnh](user_name)
@@ -122,18 +157,26 @@ nlu:
     - cho mình xem những câu hỏi mà khách hàng hay hỏi
     - cho anh xem những câu hỏi khách hàng hay hỏi
     - cho xem những câu hỏi khách hàng hay hỏi
+    - cho anh xem nhung cau ma khach hang hay hoi
     - anh muốn biết những câu hỏi khách hàng hay hỏi
     - khách hàng hay hỏi nhũng câu hỏi nào
     - khach hang hay hoi nhung cau hoi nao
     - cho anh nhung cau hoi khach hang hay hoi
     - còn câu nào khách hàng hay hỏi không
+    - cho minh xem nhung cau ma khach hang hay hoi
     - còn những câu nào khách hàng hay hỏi
+    - những câu hỏi mà khách hàng hay hỏi
+    - nhung cau hoi ma khach hang hay hoi
+    - cho anh xem nhung cau hoi ma khach hang hay hoi
 - intent: birthday
   examples: |
     - bạn sinh năm nào?
+    - ban sinh năm nao
     - bạn ra đời năm nào?
     - bot sinh năm nào
     - ban sinh nam bao nhieu?
+    - ban ra doi vao nam nao
+    - sinh nam nao
     - bạn sinh năm bao nhiêu?
     - bạn a đời khi nào?
     - sinh năm bao nhiêu?
@@ -144,6 +187,9 @@ nlu:
     - mày có người yêu chưa?
     - em có yêu anh không?
     - em co nguoi yeu chua
+    - anh yeu em
+    - aye
+    - em co nguoi yeu chua
     - bạn có người yêu chưa
     - anh yêu em
     - anh ghét em
@@ -153,6 +199,10 @@ nlu:
 - intent: home
   examples: |
     - nhà em ở đâu?
+    - nha em o dau
+    - cho anh xin cái địa chỉ
+    - cho anh dia chi nha em
+    - em o cho nao
     - mày ở đâu?
     - nhà em chỗ nào?
     - quê em ở đâu?
@@ -164,6 +214,7 @@ nlu:
     - cho tao xin số điện thoại
     - cho anh xin sđt
     - xin sđt 
+    - cho xin sđt
     - suhuhduf]
     - lakjshjdkhaskdhsj
     - 12345446db
@@ -178,11 +229,33 @@ nlu:
     - tiếp tục
     - ai là chủ tịch nước
     - mày có giá bao nhiêu
+    - ai la chu tich nuoc
+    - may co gia bao nhieu
+    - co ban hang gia khong
+    - co ho tro them/bot san pham sau khi dat hang thanh cong khong
+    - co cho phep kiem tra san pham khi nhan hang khong
+    - co ho tro doi tra hang khong
+    - co hoan lai tien neu don hang bi huy khong
+    - Lam the nao de lien he voi bo phan ho tro khach hang cua ban
+    - co ho tro gui hang tu nuoc ngoai khong
+    - co hoan lai ma giam gia neu don hang bi huy khong
+    - co huong dan dong goi san pham de gui tra hang khong
+    - co ho tro mua truoc - tra sau khong
+    - co ho tro kiem tra san pham khi nhan hang khong
+    - Ban co bi cam lanh khong
+    - Ban co thich an pizza khong
+    - Ban co tin vao nguoi ngoai hanh tinh khong
+    - Ban thich doc sach khong
+    - Ban biet noi tieng Anh khong
+    - Ban co the bay khong
+    - Ban co bao nhieu tuoi roi
+    - Ban thich ngu khong
     - có bán hàng giả không?
     - có hỗ trợ thêm/bớt sản phẩm sau khi đặt hàng thành công không?
     - có cho phép kiểm tra sản phẩm khi nhận hàng không?
     - có hỗ trợ đổi trả hàng không?
     - có hoàn lại tiền nếu đơn hàng bị hủy không?
+    - Làm thế nào để liên hệ với bộ phận hỗ trợ khách hàng của bạn?
     - có hỗ trợ gửi hàng từ nước ngoài không?
     - có hoàn lại mã giảm giá nếu đơn hàng bị hủy không?
     - có hướng dẫn đóng gói sản phẩm để gửi trả hàng không?
@@ -196,6 +269,7 @@ nlu:
     - Bạn có thể bay không?
     - Bạn có bao nhiêu tuổi rồi?
     - Bạn thích ngủ không?
+    - bạn co biet bay khong
     - Bạn đã từng yêu chưa?
     - Bạn có đang xem phim gì không?
     - Hôm nay là thứ mấy?
@@ -218,8 +292,60 @@ nlu:
     - Bạn có thể kể cho tôi một câu chuyện ngắn không?
     - Bạn có thể tư vấn cho tôi một bộ phim hay không?
     - Bạn có thể đoán tuổi của tôi không?
+    - Bạn có thể xác nhận lại thông tin đơn hàng của tôi không?
     - Bạn có thể nói cho tôi một câu đố không?
+    - Tôi muốn thay đổi địa chỉ giao hàng, làm thế nào để làm điều đó?
     - có biết chơi game không
+    - các câu hỏi vô tri người dùng hay hỏi bạn
+    - cách để có nhiều tiền
+    - cách mua hàng không mất tiền
+    - Thông tin cá nhân của thành viên được bảo mật như thế nào?
+    - x nc a
+    - nv vdi m
+    - ahdhaudsu ạid
+    - hi hi ha ha hu hu
+    - h hsud jji
+    - jsjd jisjd j
+    - hiushdu hsdhsjhduhdiusDSNUDSH
+    - UHSIUDH josjdos
+    - HHHHH hhijiotfyf HIAHU
+    - Bv 
+    - haus
+    - clm
+    - a
+    - A
+    - y
+    - UI
+    - mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+    - dm
+    - dmm
+    - vcl
+    - chính sách 2
+    - cc
+    - Bvv
+    - Kvsuc
+    - ggb
+    - hbs
+    - nbbj'
+    - bbbul'''
+    - bc'
+    - rtr
+    - ygyg 
+    - dc
+    - gggb
+    - glyu"
+    - guhgbyfy"
+    - hu
+    - H jj
+    - k KK nnnm
+    - dfg
+    - hhhk 
+    - sócf
+    - hạdfs
+    - 5b
+    - 12afffffffffff
+    - sdmk dsmf
+    - fd f fs
 - intent: deny
   examples: |
     - no
@@ -342,8 +468,9 @@ nlu:
 - intent: ask_name
   examples: |
     - bạn là ai
+    - bạn là ai?
     - mày là đứa nào
-    - bạn tên là gì
+    - bạn tên là gì?
     - tên gì
     - ban ten gi?
     - mày ten gì
@@ -364,6 +491,30 @@ nlu:
     - cho em xin tên của chị ạ
     - được biết tên bạn thì tốt nhỉ
     - vui lòng cho mình biết tên nhé
+    - ban la ai
+    - ban la ai
+    - may la dua nao
+    - ban ten la gi
+    - ten gi
+    - ban ten gi
+    - may ten gi
+    - may la ai
+    - ban ten la gi
+    - ban ten gi
+    - ten gi
+    - chi ten gi
+    - anh ten gi
+    - ten cua ban la gi
+    - ten cua chi la gi
+    - ten cua anh la gi
+    - cho minh hoi ten nhe
+    - minh muon biet ten ban
+    - minh muon tien xung ho hon cho minh biet ten nhe
+    - de tien xung ho thi ten ban la gi
+    - cho em xin ten cua anh a
+    - cho em xin ten cua chi a
+    - duoc biet ten ban thi tot nhi
+    - vui long cho minh biet ten nhe
 - intent: ask_service_name
   examples: |
     - may co dich vu gi
@@ -388,6 +539,7 @@ nlu:
     - có những dịch vụ gì
     - cho tôi xem dịch vụ
     - hỏi dịch vụ
+    - bạn có những dịch vụ nào?
     - co dich vu nao
     - Bên em có những dịch vụ gì
     - dich vu
@@ -406,6 +558,27 @@ nlu:
     - bot biết gì
     - giúp gì
     - giúp được gì
+    - cho toi xem dich vu
+    - hoi dich vu
+    - ban co nhung dich vu nao
+    - co dich vu nao
+    - Ben em co nhung dich vu gi
+    - dich vu
+    - hoi dich vu
+    - toi muon hoi dich vu
+    - xem dich vu
+    - ban co the lam gi nao
+    - em co the giup gi cho toi
+    - ban biet lam gi
+    - may duoc viec khong
+    - chi muon xem dich vu ben em
+    - co may dich vu nhi
+    - bot co gi
+    - bot lam duoc gi
+    - ban lam duoc gi
+    - bot biet gi
+    - giup gi
+    - giup duoc gi
 - intent: search_product
   examples: |
     - Tôi muốn hỏi số lượng sản phẩm điều hòa?
@@ -439,6 +612,37 @@ nlu:
     - Tôi muốn mua sản phẩm máy giặt có giá khoảng 10 triệu
     - Tôi muốn mua sản phẩm máy giặt có giá từ 5 triệu đến 8 triệu
     - Tôi muốn mua sản phẩm máy giặt có giá dưới 10 triệu 500 nghìn
+    - Toi muon hoi so luong san pham dieu hoa
+    - Ban co the cho biet gia cua san pham dieu hoa khong
+    - Xin hoi san pham lo vi song co gia la bao nhieu vay
+    - Xin thong tin mo ta ve den nang luong mat troi
+    - Binh nuoc nong co dung tich la bao nhieu
+    - Ban co the cho toi biet gia va so luong san pham A duoc khong
+    - Thong so mo ta cua san pham may hut bui
+    - Cho toi xem san pham binh nong lanh
+    - Toi can xem cac loai thiet bi camera
+    - Thong tin ve san pham may loc nuoc
+    - Co the cho toi xem gia cua may giat khong
+    - Dua ra cho toi mot vai loai may say toc
+    - Toi quan tam toi san pham dieu hoa va Thiet bi Wifi
+    - Toi quan tam toi san pham dieu hoa, may giat
+    - Toi quan tam toi san pham dieu hoa gia tren 10 trieu
+    - so luong san pham den nang luong mat troi
+    - San pham ban chay nhat la san pham nao
+    - Bep tu nao co cong suat lon nhat
+    - so sanh dieu hoa daikin va dieu hoa LG tam gia 10 trieu
+    - may giat pho bien nhat hien nay la loai nao
+    - binh dun nuoc co cong suat tren 1000w
+    - May Giặt Aqua 9 Kg AQW-F91GT.S la long ngang hay long dung
+    - toi muon mua may giat long ngang
+    - May loc nuoc Karofi KAQ-U06V va May loc nuoc Empire Nong Nguoi - 10 cap loc EPML038 cai nao tot hon
+    - Quat suoi khong khi AIO Smart bao hanh trong bao lau
+    - Quat suoi khong khi AIO Smart bao hanh trong bao lau
+    - Loai may giat nao la pho bien nhat hien nay
+    - Thoi gian su dung trung binh cua Ghe massage daikiosan la bao lau
+    - Toi muon mua san pham may giat co gia khoang 10 trieu
+    - Toi muon mua san pham may giat co gia tu 5 trieu den 8 trieu
+    - Toi muon mua san pham may giat co gia duoi 10 trieu 500 nghin
 - intent: change_product
   examples: |
     - Tôi có thể đổi/trả sản phẩm nếu không hài lòng không?
@@ -453,7 +657,18 @@ nlu:
     - mình cần đổi sản phẩm này
     - sản phẩm này đổi được không
     - có trả hàng được không
-
+    - Toi co the doi/tra san pham neu khong hai long khong?
+    - San pham nay co the duoc tra lai neu khong phu hop khong?
+    - Anh muon doi san pham
+    - Anh can doi san pham
+    - San pham nay co the tra lai duoc khong?
+    - toi co the doi tra san pham duoc khong
+    - anh co the doi tra san pham nay duoc khong?
+    - tra san pham
+    - doi san pham
+    - minh can doi san pham nay
+    - san pham nay doi duoc khong
+    - co tra hang duoc khong
 - intent: begin_chatgpt
   examples: |
     - Ai là người giàu nhất thế giới?
@@ -473,6 +688,36 @@ nlu:
     - tôi cần hủy đơn
     - đơn hàng này hủy được không
     - cách nào đẻ hủy đơn hàng này
+    - Toi co the huy don hang sau khi da dat khong?
+    - Huy don nhu the nao?
+    - Anh muon huy don hang
+    - minh muon huy don hang can lam the nao?
+    - Toi can lam gi de huy don hang?
+    - toi can lam gi de huy don hang
+    - Cach thuc de huy don hang
+    - huy don hang
+    - lam sao de huy don hang
+    - toi can huy don
+    - don hang nay huy duoc khong
+    - cach nao de huy don hang nay
+- intent: order_produce
+  examples: |
+    - làm sao để đặt hàng
+    - tôi muốn mua hàng thì phải làm gì
+    - cách thức mua hàng
+    - làm sao để mua hàng
+    - các bước để mua hàng là gì
+    - hướng dẫn tôi mua hàng
+    - đặt hàng kiểu gì
+    - mua hàng kiểu gì
+    - lam sao de dat hang
+    - toi muon mua hang thi phai lam gi
+    - cach thuc mua hang
+    - lam sao de mua hang
+    - cac buoc de mua hang la gi
+    - huong dan toi mua hang
+    - dat hang kieu gi
+    - mua hang kieu gi
 - intent: order_from_overseas
   examples: |
     - Tôi có thể đặt hàng từ nước ngoài không?
@@ -482,10 +727,20 @@ nlu:
     - Tôi muốn đặt hàng sang nươc ngoài có được không
     - đặt hàng sang nước khác được không
     - từ nước khách cúa mua được san phẩm hay không
+    - Toi co the dat hang tu nuoc ngoai khong?
+    - Anh co the dat hang tu nuoc ngoai khong
+    - co the dat hang sang nuoc khac khong
+    - o nuoc khac ma muon dat hang co duoc khong
+    - Toi muon dat hang sang nuoc ngoai co duoc khong
+    - dat hang sang nuoc khac duoc khong
+    - tu nuoc khach cua mua duoc san pham hay khong
 - intent: list_product
   examples: |
-    - Danh mục sản phẩm của VCC có những gì?
-    - Các loại danh mục sản phẩm mà VCC bán?
+    - Sản phẩm này có sẵn hàng không?
+    - Có sản phẩm này không?
+    - Danh mục sản phẩm của VCC bán?
+    - Bạn nên gợi ý sản phẩm nào cho tôi dựa trên nhu cầu của tôi?
+    - Các sản phẩm mà VCC bán?
     - Danh mục sản phẩm của VCC có những gì?
     - Các loại danh mục sản phẩm mà VCC bán?
     - VCC bán những mặt hàng nào?
@@ -510,6 +765,35 @@ nlu:
     - tôi cần mua bình nóng lạnh
     - muốn mua webcam
     - muốn mua tivi
+    - San pham nay co san hang khong?
+    - Co san pham nay khong?
+    - Danh muc san pham cua VCC ban?
+    - Ban nen goi y san pham nao cho toi dua tren nhu cau cua toi?
+    - Cac san pham ma VCC ban?
+    - Danh muc san pham cua VCC co nhung gi?
+    - Cac loai danh muc san pham ma VCC ban?
+    - VCC ban nhung mat hang nao?
+    - San pham cua VCC gom nhung gi?
+    - Mat hang nao VCC dang kinh doanh?
+    - co nhung san pham nao
+    - co nhung san pham nao
+    - cho xem san pham
+    - cho anh xem san pham
+    - danh sach san pham
+    - ben ban co nhung san pham nao
+    - co ban dieu hoa khong
+    - co ban may giat khong
+    - ban la ben ban co ban khong
+    - bep tu ben ban co ban khong
+    - ben ban co ban may loc nuoc khong
+    - co ban tivi khong
+    - co ban may bay khong
+    - co ban ban ghe khong
+    - ban dieu hoa khong
+    - ban nhung cai gi
+    - toi can mua binh nong lanh
+    - muon mua webcam
+    - muon mua tivi
 - intent: evaluate_product
   examples: |
     - Sản phẩm bên bạn không tốt
@@ -534,6 +818,28 @@ nlu:
     - sản phẩm nhanh hỏng
     - sản phẩm dễ hỏng
     - sản phẫm lõi
+    - San pham ben ban khong tot
+    - San pham bi hong a
+    - San pham nhin xau the
+    - San pham khong ra gi
+    - San pham phen the
+    - Hang loi a
+    - San pham deu qua
+    - hang fake a
+    - nhin san pham fake qua
+    - san pham kem chat luong the
+    - san pham bi hong
+    - san pham loi
+    - mat hang kem chat luong
+    - san pham khong dam bao
+    - san pham khong giong hinh anh
+    - san pham khong giong quang cao
+    - san pham khong dung voi mo ta
+    - kem chat luong
+    - san pham khong dung yeu cau
+    - san pham nhanh hong
+    - san pham de hong
+    - san pham loi
 - intent: buy_dont_money
   examples: |
     - mua san phẩm không cần trả tiền được không
@@ -543,9 +849,20 @@ nlu:
     - không trả tiền được không
     - không trả tiền
     - sản phẩm không cần trả tiền đâu nhỉ?
+    - mua san pham khong can tra tien duoc khong
+    - toi mua san pham ma khong tra tien duoc khong
+    - mua san pham nhung khong thanh toan duoc khong
+    - khong thanh toan khi mua san pham
+    - khong tra tien duoc khong
+    - khong tra tien
+    - san pham khong can tra tien dau nhi
 - intent: warranty_policy_1
   examples: |
-    - bên bạn có những chính sách bảo hành nào
+    - có những chính sách nào
+    - chính sách bên m là gì
+    - chinh sach laf gi
+    - có bao nhiêu chính sách
+    - bên bạn có những chính sách bảo hành nào?
     - có những chính sách bảo hành nào
     - chính sách bảo hành
     - bảo hành
@@ -566,6 +883,27 @@ nlu:
     - Nếu sản phẩm không thể sửa chữa, liệu tôi sẽ được đổi sản phẩm mới theo chính sách bảo hành?
     - Chính sách bảo hành của bạn có điều khoản nào đặc biệt mà tôi cần lưu ý?
     - Tôi có thể gia hạn thời gian bảo hành cho sản phẩm này không? Nếu có, thủ tục như thế nào?
+    - ben ban co nhung chinh sach bao hanh nao
+    - co nhung chinh sach bao hanh nao
+    - chinh sach bao hanh
+    - bao hanh
+    - co bao hanh khong
+    - cho xem chinh sach bao hanh
+    - anh muon xem chinh sach bao hanh
+    - toi can chinh sach bao hanh
+    - chinh sach bao hanh
+    - san pham ben ban co chinh sach bao hanh khong
+    - Chinh sach bao hanh ben ban la gi
+    - Xin vui long cho biet chinh sach bao hanh cua ban ap dung cho san pham nay
+    - Thoi han bao hanh cua san pham nay la bao lau
+    - Lieu san pham co duoc bao hanh mien phi sua chua hay thay the trong truong hop loi tu nha san xuat
+    - Toi can biet dieu kien de duoc bao hanh san pham nay
+    - Chinh sach bao hanh cua ban co bao gom ho tro ky thuat khong
+    - Toi muon yeu cau bao hanh san pham, lam the nao de tien hanh thu tuc
+    - Trong truong hop san pham can sua chua, toi co phai chiu cac chi phi van chuyen khong
+    - Neu san pham khong the sua chua, lieu toi se duoc doi san pham moi theo chinh sach bao hanh
+    - Chinh sach bao hanh cua ban co dieu khoan nao dac biet ma toi can luu y
+    - Toi co the gia han thoi gian bao hanh cho san pham nay khong Neu co, thu tuc nhu the nao
 - intent: warranty_policy_2
   examples: |
     - Sản phẩm [điều hòa](produce_name_policy) bên bạn có chính sách bảo hành không?
@@ -596,12 +934,19 @@ nlu:
     - Sản phẩm [lò nướng](produce_name_policy) bên bạn có chính sách bảo hành không?
     - Sản phẩm [bỉm](produce_name_policy) bên bạn có chính sách bảo hành không?
     - Sản phẩm [dép lê](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [cốc](produce_name_policy) bên bạn có chính sách bảo hành không?
     - Sản phẩm [xe máy](produce_name_policy) bên bạn có chính sách bảo hành không?
     - Sản phẩm [người](produce_name_policy) bên bạn có chính sách bảo hành không?
     - Sản phẩm [điện thoại](produce_name_policy) bên bạn có chính sách bảo hành không?
     - Sản phẩm [máy tính xách tay](produce_name_policy) bên bạn có chính sách bảo hành không?
     - Sản phẩm [máy tính cầm tay không dây](produce_name_policy) bên bạn có chính sách bảo hành không?
+    - [giầy da](produce_name_policy) có chính sách bảo hành không?
+    - [túi sách](produce_name_policy) có chính sách bảo hành không?
+    - [bỉm](produce_name_policy) có chính sách bảo hành không?
+    - [bếp diện](produce_name_policy) có chính sách bảo hành không?
+    - [điện thoại di động](produce_name_policy) có chính sách bảo hành không?
+    - [hoa quả](produce_name_policy) có chính sách bảo hành không?
+    - [em](produce_name_policy) có chính sách bảo hành không?
+    - [xe tăng](produce_name_policy) có chính sách bảo hành không?
     - [bàn là](produce_name_policy) có được bảo hành không
     - [điều hòa](produce_name_policy) có được bảo hành không
     - [máy giặt](produce_name_policy) có được bảo hành không
@@ -643,7 +988,40 @@ nlu:
     - chính sách bảo hành của [bình nóng lạnh](produce_name_policy)
     - chính sách bảo hành của [bàn là](produce_name_policy)
     - chính sách bảo hành của [Bỉm](produce_name_policy)
+    - chính sách bảo hành của [tai nghe](produce_name_policy)
+    - chính sách bảo hành của [cúc áo](produce_name_policy)
+    - chính sách bảo hành của [kính dâm](produce_name_policy)
+    - chính sách bảo hành của [xoong](produce_name_policy)
+    - chính sách bảo hành của [chảo](produce_name_policy)
+    - chính sách bảo hành của [Bếp ga](produce_name_policy)
+    - chính sách bảo hành của [bình nước](produce_name_policy)
+    - chính sách bảo hành của [xe đạp](produce_name_policy)
+    - chính sách bảo hành của [sim](produce_name_policy)
+    - chính sách bảo hành của [pin](produce_name_policy)
+    - chính sách bảo hành của [ô tô đồ chơi](produce_name_policy)
+    - chính sách bảo hành của [mũ bảo hiểm](produce_name_policy)
+    - chính sách bảo hành của [xe bò](produce_name_policy)
+    - chính sách bảo hành của [quạt điện](produce_name_policy)
     - chính sách bảo hành của [thiết bị camera](produce_name_policy)
+    - chinh sach bao hanh cua [Bếp từ](produce_name_policy)
+    - chinh sach bao hanh cua [bình nóng lạnh](produce_name_policy)
+    - chinh sach bao hanh cua [bàn là](produce_name_policy)
+    - chinh sach bao hanh cua [Bỉm](produce_name_policy)
+    - chinh sach bao hanh cua [tai nghe](produce_name_policy)
+    - chinh sach bao hanh cua [cúc áo](produce_name_policy)
+    - chinh sach bao hanh cua [kính dâm](produce_name_policy)
+    - chinh sach bao hanh cua [xoong](produce_name_policy)
+    - chinh sach bao hanh cua [chảo](produce_name_policy)
+    - chinh sach bao hanh cua [Bếp ga](produce_name_policy)
+    - chinh sach bao hanh cua [bình nước](produce_name_policy)
+    - chinh sach bao hanh cua [xe đạp](produce_name_policy)
+    - chinh sach bao hanh cua [sim](produce_name_policy)
+    - chinh sach bao hanh cua [pin](produce_name_policy)
+    - chinh sach bao hanh cua [ô tô đồ chơi](produce_name_policy)
+    - chinh sach bao hanh cua [mũ bảo hiểm](produce_name_policy)
+    - chinh sach bao hanh cua [xe bò](produce_name_policy)
+    - chinh sach bao hanh cua [quạt điện](produce_name_policy)
+    - chinh sach bao hanh cua [thiết bị camera](produce_name_policy)
     - bảo hành [Bỉm](produce_name_policy)
     - bảo hành [bình đun nước](produce_name_policy)
     - bảo hành [bàn là](produce_name_policy)
@@ -696,11 +1074,35 @@ nlu:
     - Bảo hành [máy cạo râu](produce_name_policy) 
     - Bảo hành [máy đánh trứng](produce_name_policy) 
     - Bảo hành [máy ép](produce_name_policy) 
+    - Bảo hành [áo](produce_name_policy)
+    - Bảo hành [quần](produce_name_policy)  
+    - Bảo hành [kính](produce_name_policy)
     - Bảo hành [máy giặt](produce_name_policy) 
     - Bảo hành [máy hút bụi nước](produce_name_policy) 
     - Bảo hành [máy lọc không khí](produce_name_policy) 
     - Bảo hành [máy sấy tóc](produce_name_policy) 
-    - Bảo hành [máy xay](produce_name_policy) 
+    - Bảo hành [máy xay](produce_name_policy)
+    - bao hanh [điều hòa](produce_name_policy) 
+    - bao hanh [bếp từ](produce_name_policy) 
+    - bao hanh [máy lọc nước](produce_name_policy) 
+    - bao hanh [bàn chải điện](produce_name_policy) 
+    - bao hanh [bếp từ](produce_name_policy) 
+    - bao hanh [bình đun nước](produce_name_policy) 
+    - bao hanh [bình nóng lạnh](produce_name_policy) 
+    - bao hanh [đen năng lượng mặt trời](produce_name_policy) 
+    - bao hanh [ghế massage daikiosan](produce_name_policy) 
+    - bao hanh [lò vi sóng](produce_name_policy) 
+    - bao hanh [máy cạo râu](produce_name_policy) 
+    - bao hanh [máy đánh trứng](produce_name_policy) 
+    - bao hanh [máy ép](produce_name_policy) 
+    - bao hanh [áo](produce_name_policy)
+    - bao hanh [quần](produce_name_policy)  
+    - bao hanh [kính](produce_name_policy)
+    - bao hanh [máy giặt](produce_name_policy) 
+    - bao hanh [máy hút bụi nước](produce_name_policy) 
+    - bao hanh [máy lọc không khí](produce_name_policy) 
+    - bao hanh [máy sấy tóc](produce_name_policy) 
+    - bao hanh [máy xay](produce_name_policy)  
     - Bảo hành [nồi áp suất](produce_name_policy) 
     - Bảo hành [nòi chiên không dầu](produce_name_policy) 
     - Bảo hành [nồi cơm điện](produce_name_policy) 
@@ -733,9 +1135,18 @@ nlu:
     - tôi muốn bảo hành [lá cây](produce_name_policy)
     - tôi muốn bảo hành [bát](produce_name_policy)
     - tôi muốn bảo hành [xe điện](produce_name_policy)
+    - toi muon bao hanh [đồng hồ](produce_name_policy)
+    - toi muon bao hanh [tôi](produce_name_policy)
+    - toi muon bao hanh [người](produce_name_policy)
+    - toi muon bao hanh [](produce_name_policy)
+    - toi muon bao hanh [dao](produce_name_policy)
+    - toi muon bao hanh [lá cây](produce_name_policy)
+    - toi muon bao hanh [bát](produce_name_policy)
+    - toi muon bao hanh [xe điện](produce_name_policy)
  
 - intent: warranty_policy_1vs1
   examples: |
+    - chính sách 1
     - Chính sách bảo hành 1 đổi 1
     - tôi muốn biết cụ thể chính sách 1 đổi 1
     - chính sách 1 đổi 1
@@ -752,6 +1163,23 @@ nlu:
     - Có bất kỳ chi phí nào liên quan đến quá trình đổi trả không?
     - Chính sách đổi trả của bạn có áp dụng cho tất cả sản phẩm không?
     - Tôi cần biết về điều kiện và điều khoản của chính sách đổi trả.
+    - chinh sach 1
+    - Chinh sach bao hanh 1 doi 1
+    - toi muon biet cu the chinh sach 1 doi 1
+    - chinh sach 1 doi 1
+    - bao hanh 1 doi 1
+    - chi tiet chinh sach 1 doi 1
+    - 1 doi 1
+    - hay cho toi biet chinh sach 1 doi 1
+    - San pham cua ban co chinh sach doi tra khong
+    - Toi muon biet ve chinh sach doi san pham 1 doi 1 cua cua hang
+    - Co bao lau toi co the doi tra san pham sau khi mua
+    - Chinh sach doi tra cua ban ap dung nhu the nao
+    - Neu toi khong hai long voi san pham, toi co the doi tra khong
+    - Toi muon biet ve quy dinh doi tra trong truong hop san pham bi loi
+    - Co bat ky chi phi nao lien quan den qua trinh doi tra khong
+    - Chinh sach doi tra cua ban co ap dung cho tat ca san pham khong
+    - Toi can biet ve dieu kien va dieu khoan cua chinh sach doi tra
     - Nếu tôi muốn đổi sản phẩm, tôi cần mang theo gì?
     - Có bất kỳ hạn chế nào về thời gian đổi trả sản phẩm không?
     - Chính sách đổi trả của bạn áp dụng cho hàng giảm giá không?
@@ -774,6 +1202,9 @@ nlu:
     - Tôi muốn biết về quy trình và thời gian xử lý khi tôi yêu cầu đổi trả sản phẩm.
 - intent: warranty_policy_bark
   examples: |
+    - cs2
+    - số 2
+    - chính sách số 2
     - chính sách sửa chữa
     - chính sách thay thế linh kiện
     - sửa chữa và thay thế linh kiện
@@ -806,3 +1237,149 @@ nlu:
     - Nếu tôi mua sản phẩm từ một quốc gia khác, chính sách bảo hành có áp dụng không?
     - Có cần thiết phải bảo quản hóa đơn mua hàng để yêu cầu bảo hành không?
     - Tôi muốn biết về quy định bảo hành cho các sản phẩm mua từ các kênh phân phối không chính thức.
+    - chinh sach so 2
+    - chinh sach sua chua
+    - chinh sach thay the linh kien
+    - sua chua va thay the linh kien
+    - bao hanh sua chua
+    - bao hanh thay the linh kien
+    - chinh sach bao hanh va sua chua
+    - Chinh sach bao hanh sua chua, thay the linh kien
+    - Chinh sach bao hanh cua ban ap dung trong bao lau
+    - Toi muon biet ve dieu kien va dieu khoan cua chinh sach bao hanh cua ban
+    - Co bat ky loai hong hoc hoac su co cu the nao duoc bao hanh khong
+    - Toi muon biet ve quy trinh bao hanh khi san pham cua toi gap su co
+    - Neu san pham cua toi can sua chua, quy trinh sua chua nhu the nao
+    - Chinh sach bao hanh cua ban ap dung cho tat ca san pham khong
+    - Toi muon biet ve quy dinh bao hanh khi mua san pham tu cac kenh phan phoi khac nhau (truc tuyen, cua hang, qua dai ly, vv)
+    - Co can dang ky san pham de duoc huong chinh sach bao hanh khong
+    - Toi co the sua chua san pham cua minh tai cua hang cua ban khong
+    - Co bat ky chi phi nao lien quan den viec sua chua hoac thay the linh kien khong
+- intent: promotion
+  examples: |
+    - có chương trình khuyễn mãi nào đang diễn ra không
+    - Bạn có sản phẩm nào giảm giá không?
+    - có sản phẩm nào giảm giá không
+    - sản phẩm giảm giá
+    - sản phẩm này có giảm giá không
+    - Bạn có chương trình giảm giá cho các sản phẩm đã qua sử dụng không?
+    - Có chương trình khuyến mãi nào đang diễn ra hiện nay không?
+    - Có giá ưu đãi cho khách hàng thường xuyên không?
+    - Có bất kỳ chiết khấu nào cho mua sỉ không?
+    - Có chương trình thẻ thành viên để nhận ưu đãi giá không?
+    - có chương trình khuyến mãi nào không
+    - chương trình khuyến mãi
+    - Thành viên được hưởng những ưu đãi gì?
+    - Thành viên có được giảm giá trực tiếp khi mua hàng không?
+    - tôi muốn xem chương trình khuyến mãi
+    - hiện nay đang có chương trình khuyến mãi nào
+    - Có chương trình khuyến mãi dành riêng cho thành viên không?
+    - khuyễn mãi
+    - co chuong trinh khuyen mai nao dang dien ra khong
+    - Ban co san pham nao giam gia khong
+    - co san pham nao giam gia khong
+    - san pham giam gia
+    - san pham nay co giam gia khong
+    - Ban co chuong trinh giam gia cho cac san pham da qua su dung khong
+    - Co chuong trinh khuyen mai nao dang dien ra hien nay khong
+    - Co gia uu dai cho khach hang thuong xuyen khong
+    - Co bat ky chiet khau nao cho mua si khong
+    - Co chuong trinh the thanh vien de nhan uu dai gia khong
+    - co chuong trinh khuyen mai nao khong
+    - chuong trinh khuyen mai
+    - Thanh vien duoc huong nhung uu dai gi
+    - Thanh vien co duoc giam gia truc tiep khi mua hang khong
+    - toi muon xem chuong trinh khuyen mai
+    - hien nay dang co chuong trinh khuyen mai nao
+    - Co chuong trinh khuyen mai danh rieng cho thanh vien khong
+    - khuyen mai
+- intent: delivery_time
+  examples: |
+    - thời gian giao hàng bao lâu?
+    - thời gian giao hàng
+    - bao giờ giao hàng
+    - giao hàng trong bao lâu
+    - thời gian giao
+    - bên bạn giao hàng tỏng bao lâu
+    - shop giao hàng trong bao lâu
+    - bao lâu thì giao hàng
+    - khi nào giao hàng
+    - lúc nào giao hàng
+    - thoi gian giao hang bao lau
+    - thoi gian giao hang
+    - bao gio giao hang
+    - giao hang trong bao lau
+    - thoi gian giao
+    - ben ban giao hang trong bao lau
+    - shop giao hang trong bao lau
+    - bao lau thi giao hang
+    - khi nao giao hang
+    - luc nao giao hang
+- intent: order_status
+  examples: |
+    - tôi muốn xem tình trạng đơn hàng
+    - tình trạng đơn hàng
+    - có cách nào xem tình trạng đơn hàng của tôi không
+    - có cách nào xem tình trạng đơn hàng không
+    - xem tình trạng đơn hàng ở đâu
+    - làm cách nào để xem tình trạng đơn hàng
+    - toi muon xem tinh trang don hang
+    - tinh trang don hang
+    - co cach nao xem tinh trang don hang cua toi khong
+    - co cach nao xem tinh trang don hang khong
+    - xem tinh trang don hang o dau
+    - lam cach nao de xem tinh trang don hang
+- intent: pay_produce
+  examples: |
+    - bạn hỗ trợ thanh toán bằng những phương thức nào
+    - thanh toán bằng những phương thức nào
+    - phương thức thanh toán 
+    - thanh toán
+    - làm sao để thanh toán
+    - cách thức thanh toán
+    - thanh toán bằng cách nào
+    - ban ho tro thanh toan bang nhung phuong thuc nao
+    - thanh toan bang nhung phuong thuc nao
+    - phuong thuc thanh toan
+    - thanh toan
+    - lam sao de thanh toan
+    - cach thuc thanh toan
+    - thanh toan bang cach nao
+- intent: delivery_free
+  examples: |
+    - bạn có giao hàng miễn phí không
+    - bên bạn có giao hàng free không
+    - giao hàng miễn phí không
+    - có chính sách giao hàng miễn phí không
+    - mua hàng có được giao miễn phí không
+    - ban co giao hang mien phi khong
+    - ben ban co giao hang free khong
+    - giao hang mien phi khong
+    - co chinh sach giao hang mien phi khong
+    - mua hang co duoc giao mien phi khong
+- intent: time_open_door
+  examples: |
+    - thời gian mở cửa của bạn
+    - khi nào mở cửa
+    - thời giao làm việc
+    - khi nào làm việc
+    - có làm việc cả ngày không
+    - thời gian mở cửa
+    - bạn hoạt động khi nào
+    - lúc nào mở cửa hoạt động
+    - thoi gian mo cua cua ban
+    - khi nao mo cua
+    - thoi gian lam viec
+    - khi nao lam viec
+    - co lam viec ca ngay khong
+    - thoi gian mo cua
+    - ban hoat dong khi nao
+    - luc nao mo cua hoat dong
+
+- intent: support_KH
+  examples: |
+    - Tôi gặp vấn đề với đơn hàng của mình, làm thế nào để giải quyết?
+    - toi gap van de ve don hang lam the nao de giai quyet
+    - tôi gặp vấn đề về đơn hàng làm sao để giải quyết
+    - tôi muốn giải quyết vẫn đề về đơn hàng
+    - giải quyết đơn hàng gặp vấn đề

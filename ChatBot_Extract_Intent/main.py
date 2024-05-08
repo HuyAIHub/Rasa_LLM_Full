@@ -1,4 +1,3 @@
-
 import os,re
 from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts.few_shot import FewShotPromptTemplate
@@ -8,13 +7,17 @@ from langchain.chains import LLMChain
 from difflib import get_close_matches
 import csv
 from ChatBot_Extract_Intent.extract_price_info import take_product
-from chat import predict_rasa_llm
 import random
+import pandas as pd
 
 config_app = get_config()
 
 os.environ['OPENAI_API_KEY'] = config_app["parameter"]["openai_api_key"]
 llm = ChatOpenAI(model_name=config_app["parameter"]["gpt_model_to_use"], temperature=config_app["parameter"]["temperature"])
+
+path=config_app['parameter']['data_private']
+df = pd.read_excel(path)
+df = df.fillna('')
 
 with open('ChatBot_Extract_Intent/data/product_final_204_oke.xlsx - Sheet1.csv', 'r') as file:
     reader = csv.DictReader(file)
@@ -83,31 +86,26 @@ def extract_info(chuoi):
     return variables
 
 # Hàm xử lý yêu cầu
-def process_command(command,IdRequest,NameBot,User):
+def process_command(demands,list_product):
     lst_mua = ['mua','quan tâm','tìm','thích','bán']
     lst_so_luong = ['số lượng','bao nhiêu','mấy loại']
-    demands = extract_info(command)
+    # demands = extract_info(command)
     print("info:",demands)
     
-    if ((demands['demand'].lower() in lst_mua) and len(demands['value']) >= 1) or (len(demands['value']) >= 1 and len(demands['object']) > 0 and len(demands['demand']) == 0):
-        return handle_buy(demands)
+    # if ((demands['demand'].lower() in lst_mua) and len(demands['value']) >= 1) or (len(demands['value']) >= 1 and len(demands['object']) > 0 and len(demands['demand']) == 0):
+    #     return [0, handle_buy(demands)]
+    # elif (demands['demand'].lower() in lst_mua) and len(demands['value']) == 0:
+    #     return handle_interest(demands)
+    # elif demands['demand'].lower() in lst_so_luong:
+    #     return handle_count(demands)
+    if (demands['demand'].lower() in lst_mua) and len(demands['value']) >= 1:
+        return [0, handle_buy(demands)]
     elif (demands['demand'].lower() in lst_mua) and len(demands['value']) == 0:
-        return handle_interest(demands)
+        return [0, handle_interest(demands)]
     elif demands['demand'].lower() in lst_so_luong:
-        return handle_count(demands)
-    elif demands['object'] == '':
-        random_number = random.randint(0, 1)
-        return config_app['parameter']['raw_answer'][random_number]
-    # elif demands['demand'].lower() == 'loại':
-    #     return handle_type(demands)
-    # elif demands['demand'].lower() == 'bảo hành':
-    #     return handle_warranty(demands)
-    # elif demands['demand'].lower() == 'thời gian sử dụng trung bình':
-    #     return handle_average_usage(demands)
-    # elif demands['demand'].lower() == 'tốt hơn':
-    #     return handle_better(demands)
+        return [0, handle_count(demands)]
     else:
-        return predict_rasa_llm(demands["command"],IdRequest,NameBot,User,type='llm')
+        return handle_tskt(demands, list_product)
 
 
 def handle_buy(demands):
@@ -213,22 +211,129 @@ def handle_count(demands):
 
     return result_string
 
-def handle_power(demands):
-    # Xử lý yêu cầu về công suất của sản phẩm
-    pass
+# Lấy 3 phần tử đầu tiên trong list_product
+def take_top3_product(demands, list_product):
+    result_string = ''
+    for name_product in demands['object']:
+        result_string += f"Sản phẩm '{name_product}' tìm thấy:\n"
+        for product in list_product[name_product][:3]:
+            result_string += f"- {product['PRODUCT_NAME']} - Giá: {product['RAW_PRICE']} - Số lượng đã bán: {product['QUANTITY_SOLD']}\n"
+            specifications = product['SPECIFICATION_BACKUP'].split('\n')
+            result_string += "  Thông số kỹ thuật:\n"
+            for spec in specifications[:5]:  # In ra 5 dòng đầu tiên của thông số kỹ thuật
+                result_string += f"    {spec}\n"
+    return result_string
 
-def handle_type(demands):
-    # Xử lý yêu cầu về loại sản phẩm phổ biến
-    pass
+def handle_tskt(demands, list_product):
+    # Xử lý yêu cầu tskt sản phẩm
+    if demands['value'] == '':
+        for i in list_product:
+            if len(list_product[i]) > 1:
+                return [0,"Tôi cần tên cụ thể của  " + list_product[i][1]]
+    
+        return take_top3_product(demands, list_product)
+    else:
+        inner_join = pd.read_excel("./ChatBot_Extract_Intent/data/product_final_204_oke.xlsx")
+        dict_test = {}
+        for i in range(len(inner_join['SPECIFICATION_BACKUP'])):
+            key = inner_join['GROUP_PRODUCT_NAME'][i].lower()
+            dict_test[key] = [x.split(':')[0].replace('• ','') for x in inner_join['SPECIFICATION_BACKUP'][i].split('\n') if x != '']
 
-def handle_warranty(demands):
-    # Xử lý yêu cầu về thời gian bảo hành
-    pass
+        result_string = ''
+        for name_product in demands['object']:
+            cnt = 0
+            for product in list_product[name_product]:
+                if demands['value'].lower() in product['SPECIFICATION_BACKUP'].lower():
+                    if cnt == 0:
+                        result_string += f"Sản phẩm '{name_product}' tìm thấy:\n"
+                    result_string += f"- {product['PRODUCT_NAME']} - Giá: {product['RAW_PRICE']} - Số lượng đã bán: {product['QUANTITY_SOLD']}\n"
+                    specifications = product['SPECIFICATION_BACKUP'].split('\n')
+                    result_string += "  Thông số kỹ thuật:\n"
+                    for spec in specifications[:5]:  # In ra 5 dòng đầu tiên của thông số kỹ thuật
+                        result_string += f"    {spec}\n"
+                    cnt += 1
+                    if cnt == 3:
+                        break
+            if cnt == 0:
+                return [1, take_top3_product(demands, list_product)]
+        return [0, result_string]
 
-def handle_average_usage(demands):
-    # Xử lý yêu cầu về thời gian sử dụng trung bình
-    pass
 
-def handle_better(objects):
-    # Xử lý yêu cầu so sánh sản phẩm
-    pass
+
+def take_db(demands):
+    list_product = {}
+    for name_product in demands['object']:
+        product = []
+        check_group = True
+
+        # Find product by product name
+        for index, row in df.iterrows():
+            if name_product.lower() not in row['GROUP_PRODUCT_NAME'].lower() and name_product.lower() in row['PRODUCT_NAME'].lower():
+                if name_product not in list_product:
+                    list_product[name_product] = []
+                list_product[name_product].append({'LINK_SP' : row['LINK_SP'],
+                                                   'GROUP_PRODUCT_NAME' : row['GROUP_PRODUCT_NAME'],
+                                                   'SPECIFICATION_BACKUP' : row['SPECIFICATION_BACKUP'],
+                                                   'PRODUCT_NAME' : row['PRODUCT_NAME'],
+                                                   'RAW_PRICE' : row['RAW_PRICE'],
+                                                   'QUANTITY_SOLD' : row['QUANTITY_SOLD']})
+                check_group = False
+                break
+        if not check_group:
+            continue
+
+        # Find product by group product name
+        for index, row in df.iterrows():
+            if name_product.lower() in row['GROUP_PRODUCT_NAME'].lower():
+                if name_product not in list_product:
+                    list_product[name_product] = []
+                list_product[name_product].append({'LINK_SP' : row['LINK_SP'],
+                                                   'GROUP_PRODUCT_NAME' : row['GROUP_PRODUCT_NAME'],
+                                                   'SPECIFICATION_BACKUP' : row['SPECIFICATION_BACKUP'],
+                                                   'PRODUCT_NAME' : row['PRODUCT_NAME'],
+                                                   'RAW_PRICE' : row['RAW_PRICE'],
+                                                   'QUANTITY_SOLD' : row['QUANTITY_SOLD']})
+
+    # sort product from highest price to lowest
+    def QUANTITY_SOLD_sort(s):
+        return s['QUANTITY_SOLD']
+    for i in list_product:
+        list_product[i] = sorted(list_product[i], key = QUANTITY_SOLD_sort, reverse=True)
+    
+    return list_product
+
+def search_db(command):
+    '''
+    0: return product
+    1: return product for bot
+    '''
+    # If don't have object return type 0
+    demands = extract_info(command)
+    if demands['object'] == "":
+        return [0, 'Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?']
+
+    # take data from db
+    list_product = take_db(demands)
+    
+    for name_product in demands['object']:
+        if name_product not in list_product:
+            return [0, "Tôi cần tên cụ thể của " + name_product]
+    
+    if demands['demand'] == "":
+        type = 'SPECIFICATION_BACKUP' # 2: SPECIFICATION_BACKUP, default
+        list_type = [
+            ['RAW_PRICE', 'trieu', 'nghin'], # 4: RAW_PRICE
+            ['QUANTITY_SOLD', 'ban chay nhat', 'nhieu luot mua', 'pho bien nhat'] # 5: QUANTITY_SOLD
+        ]
+        # Find type of demand
+        for i in list_type:
+            for j in range(1,len(i)):
+                if j[i] in demands['value']:
+                    type = j[0]
+        result = []
+        if type == 'RAW_PRICE':
+            return [1, take_product(demands['command'])]
+        
+        return [1,take_top3_product(demands, list_product)]
+    else:
+        return process_command(demands, list_product)
