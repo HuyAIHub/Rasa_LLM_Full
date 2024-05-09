@@ -152,6 +152,12 @@ nlu:
     - tên chủ thẻ [Hà Huyền Trang](user_name)
     - chị tên [Đõ Thị Chung](user_name)
     - chị tên [Kiều Phương Quỳnh](user_name)
+    - tên của anh là [Trần Đức Long](user_name)
+    - tên anh là [Lê Thị Thủy Tiên](user_name)
+    - tên anh là [Thủy Tiên](user_name)
+    - tên anh là [thị Thủy Tiên](user_name)
+    - tên anh là [bé đào xinhh](user_name)
+    - tên anh là [Lê Thị Thủy Tiên nữ](user_name)
 - intent: question_offen_met
   examples: |
     - cho mình xem những câu hỏi mà khách hàng hay hỏi
@@ -300,6 +306,8 @@ nlu:
     - cách để có nhiều tiền
     - cách mua hàng không mất tiền
     - Thông tin cá nhân của thành viên được bảo mật như thế nào?
+    - Giải thích cho tôi về thuyết tương đối.
+    - Tương lai sẽ như thế nào?
     - x nc a
     - nv vdi m
     - ahdhaudsu ạid
@@ -387,14 +395,19 @@ nlu:
     - em ơi, cho anh hỏi
     - em ơi, cho chị hỏi
     - xin chào
+    - Rất vui được gặp bạn!
     - xin chào !
     - xinn chào
     - có ai ko
     - có ai ở đây không
     - is there anyone
+    - rất vui được làm quen với bạn
+    - hân hạnh được gặp bạn
     - anyone here
     - chào
     - có ai không
+    - rát vui khi được gặp bạn
+    - hoan hỉ khi được làm quen với bạn
     - alo
     - alo alo
     - cốc cốc
@@ -494,6 +507,8 @@ nlu:
     - ban la ai
     - ban la ai
     - may la dua nao
+    - Cho anh/chị hỏi quý danh?
+    - Xin lỗi, cho tôi hỏi tên bạn là gì?
     - ban ten la gi
     - ten gi
     - ban ten gi
@@ -661,10 +676,16 @@ nlu:
     - San pham nay co the duoc tra lai neu khong phu hop khong?
     - Anh muon doi san pham
     - Anh can doi san pham
+    - Sản phẩm này bị lỗi, tôi muốn đổi cái mới.
     - San pham nay co the tra lai duoc khong?
+    - Tôi muốn trả lại và hoàn tiền.
     - toi co the doi tra san pham duoc khong
     - anh co the doi tra san pham nay duoc khong?
     - tra san pham
+    - Tôi lỡ đặt nhầm, có thể đổi sang sản phẩm khác được không?
+    - Sản phẩm bị hư, tôi muốn đổi.
+    - Mình muốn trả hàng, sản phẩm không đúng size.
+    - Tôi có thể đổi trả sản phẩm vì lý do cá nhân được không?
     - doi san pham
     - minh can doi san pham nay
     - san pham nay doi duoc khong
@@ -819,6 +840,7 @@ nlu:
     - sản phẩm dễ hỏng
     - sản phẫm lõi
     - San pham ben ban khong tot
+    - VCC bán sản phẩm kém chất lượng
     - San pham bi hong a
     - San pham nhin xau the
     - San pham khong ra gi

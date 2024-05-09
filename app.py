@@ -4,7 +4,10 @@ from fastapi import FastAPI, UploadFile, Form, File
 import requests
 import time
 from chat import predict_rasa_llm
-from ChatBot_Extract_Intent.module.search_product import product_seeking 
+from ChatBot_Extract_Intent.module.search_product import product_seeking
+from ChatBot_Extract_Intent.config_app.config import get_config
+config_app = get_config()
+
 app = FastAPI()
 
 numberrequest = 0
@@ -32,6 +35,7 @@ async def post(InputText: str = Form(None),
     chat_out = predict_rasa_llm(InputText,IdRequest,NameBot,User)
     results = product_seeking(results = results, texts=chat_out)
     results['content'] = chat_out
-    return results['content']
+    print(results)
+    return results
 
-uvicorn.run(app, host="0.0.0.0", port=8002)
+uvicorn.run(app, host="0.0.0.0", port=int(config_app['server']['port']))

@@ -98,7 +98,7 @@ responses:
       Nếu bạn có bất kỳ câu hỏi cụ thể nào khác hoặc cần hỗ trợ với một yêu cầu cụ thể, hãy cho tôi biết để tôi có thể giúp bạn tốt hơn.
   utter_ask_service_name:
   - text: |-
-      Tôi có thể thực hiện những yêu cầu sau: 
+      Tôi có thể thực hiện những dịch vụ mà quý khách yêu cầu: 
         1. Tìm kiếm sản phẩm mà quý khách cần 
         2. Đưa ra các thông tin chi tiết về sản phẩm 
         3. Đưa ra giá thành sản phẩm với số tiền bạn có 
@@ -254,7 +254,7 @@ responses:
 actions:
 - action_extract_name
 # - action_default_fallback
-# - action_search_product
+- action_search_product
 - action_extract_produce
 session_config:
   session_expiration_time: 60

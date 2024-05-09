@@ -3,3 +3,15 @@ conda activate langchain
 
 rasa run actions
 rasa run --enable-api
+
+rasa
+uvicorn
+fastapi
+requests
+langchain=0.1.13
+langchain-community=0.0.29
+faiss-cpu
+pypdfium2
+openai
+pandas
+openpyxl

@@ -87,7 +87,8 @@ def extract_info(chuoi):
 
 # Hàm xử lý yêu cầu
 def process_command(demands,list_product):
-    lst_mua = ['mua','quan tâm','tìm','thích','bán']
+    print('======process_command======')
+    lst_mua = ['mua','quan tâm','giá','tìm','thích','bán']
     lst_so_luong = ['số lượng','bao nhiêu','mấy loại']
     # demands = extract_info(command)
     print("info:",demands)
@@ -173,9 +174,6 @@ def handle_interest(demands):
 
     return result_string
 
-def handle_sale(demands):
-    # Xử lý yêu cầu về sản phẩm bán chạy
-    pass
 
 def handle_count(demands):
     print('======handle_count======')
@@ -213,6 +211,7 @@ def handle_count(demands):
 
 # Lấy 3 phần tử đầu tiên trong list_product
 def take_top3_product(demands, list_product):
+    print('======take_top3_product======')
     result_string = ''
     for name_product in demands['object']:
         result_string += f"Sản phẩm '{name_product}' tìm thấy:\n"
@@ -226,19 +225,18 @@ def take_top3_product(demands, list_product):
 
 def handle_tskt(demands, list_product):
     # Xử lý yêu cầu tskt sản phẩm
+    print('======handle_tskt======')
+    lst_compare = ['so sánh','tốt hơn']
+
     if demands['value'] == '':
         for i in list_product:
             if len(list_product[i]) > 1:
                 return [0,"Tôi cần tên cụ thể của  " + list_product[i][1]]
-    
-        return take_top3_product(demands, list_product)
+        if demands['demand'].lower() in lst_compare:
+            return [1, take_top3_product(demands, list_product)]
+        else:
+            return [0, take_top3_product(demands, list_product)]
     else:
-        inner_join = pd.read_excel("./ChatBot_Extract_Intent/data/product_final_204_oke.xlsx")
-        dict_test = {}
-        for i in range(len(inner_join['SPECIFICATION_BACKUP'])):
-            key = inner_join['GROUP_PRODUCT_NAME'][i].lower()
-            dict_test[key] = [x.split(':')[0].replace('• ','') for x in inner_join['SPECIFICATION_BACKUP'][i].split('\n') if x != '']
-
         result_string = ''
         for name_product in demands['object']:
             cnt = 0
@@ -256,11 +254,14 @@ def handle_tskt(demands, list_product):
                         break
             if cnt == 0:
                 return [1, take_top3_product(demands, list_product)]
-        return [0, result_string]
-
+        if demands['demand'].lower() in lst_compare:
+            return [1, result_string]
+        else:
+            return [0, result_string]
 
 
 def take_db(demands):
+    print('======take_db======')
     list_product = {}
     for name_product in demands['object']:
         product = []
@@ -307,6 +308,7 @@ def search_db(command):
     0: return product
     1: return product for bot
     '''
+    print('======search_db======')
     # If don't have object return type 0
     demands = extract_info(command)
     if demands['object'] == "":
@@ -317,23 +319,25 @@ def search_db(command):
     
     for name_product in demands['object']:
         if name_product not in list_product:
-            return [0, "Tôi cần tên cụ thể của " + name_product]
+            return [0, "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về {}. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?".format(name_product)]
     
     if demands['demand'] == "":
         type = 'SPECIFICATION_BACKUP' # 2: SPECIFICATION_BACKUP, default
         list_type = [
             ['RAW_PRICE', 'trieu', 'nghin'], # 4: RAW_PRICE
-            ['QUANTITY_SOLD', 'ban chay nhat', 'nhieu luot mua', 'pho bien nhat'] # 5: QUANTITY_SOLD
+            ['QUANTITY_SOLD', 'ban chay nhat', 'nhieu luot mua', 'pho bien nhat','chay nhat'] # 5: QUANTITY_SOLD
         ]
         # Find type of demand
         for i in list_type:
             for j in range(1,len(i)):
+                print(j[i])
                 if j[i] in demands['value']:
                     type = j[0]
-        result = []
+        # result = []
         if type == 'RAW_PRICE':
             return [1, take_product(demands['command'])]
         
         return [1,take_top3_product(demands, list_product)]
     else:
+        
         return process_command(demands, list_product)

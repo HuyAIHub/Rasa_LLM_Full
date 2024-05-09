@@ -12,6 +12,9 @@ from langchain_community.chat_models import ChatOpenAI
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
 from ChatBot_Extract_Intent.main import search_db
+import random
+
+random_number = random.randint(0, 4)
 
 config_app = get_config()
 
@@ -49,22 +52,25 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
                                                 conversation_messages_conv, conversation_messages_snippets)
     results = {'out_text':''}
     if type == 'rasa':
-        message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
-        response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": message_data})
+        # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
+        response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
         
         if len(response.json()) == 0:
-            results['out_text'] = 'Hiện tại hệ thống đang được bảo trì trong ít phút, mong sớm được quay trở lại hỗ trợ bạn!'
+            results['out_text'] = config_app['parameter']['can_not_res'][random_number]
         else:
             results['out_text'] = response.json()[0]["text"]
 
     if results['out_text'] == "LLM_predict":
-        response = search_db(query_text)
-        num_check , response_rules = response[0], response[1]
-        if num_check == 0:
-            results['out_text'] = response_rules
-        else:
-            result = llm.invoke("Trả lời câu hỏi sau: '" + query_text + "' dựa trên các thông tin dưới đây\n" + response_rules)
-            results['out_text'] = result
+        try:
+            response = search_db(query_text)
+            num_check , response_rules = response[0], response[1]
+            if num_check == 0:
+                results['out_text'] = response_rules
+            else:
+                result = llm.invoke("Trả lời câu hỏi sau: '" + query_text + "' dựa trên các thông tin dưới đây\n" + response_rules)
+                results['out_text'] = result
+        except:
+            results['out_text'] = config_app['parameter']['can_not_res'][random_number]
     # Save DB
     conversation_messages_conv = conversation.memory.memories[0].chat_memory.messages
     conversation_messages_snippets = conversation.memory.memories[1].chat_memory.messages
