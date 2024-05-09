@@ -61,29 +61,4 @@ class ExtractProduceAction(Action):
             dispatcher.utter_message(text="Quý khách xin thông cảm! Sản phẩm này không nằm trong danh mục các sản phẩm bảo hành của công ty chúng tôi.")
 
         return []
-# class productAPI(object):
-
-#     def __init__(self) -> None:
-#         self.db =
-    
-class Actionseachproduct(Action):
-    def name(self) -> Text:
-        return "action_search_product"
-
-    def run(
-        self,
-        dispatcher: CollectingDispatcher,
-        tracker: Tracker,
-        domain: Dict[Text, Any], ) -> List[Dict[Text, Any]]:
-        # Lấy tin nhắn từ người dùng từ Rasa tracker
-        user_message = tracker.latest_message.get("text")
-
-        # Call the llm_predict function and retrieve its result
-        message = predict_llm(user_message, 'a', 'b', 'c', ' ')
-
-        # You can now use the result as needed
-        # print(f"Result from predict_llm: {result}")
-        dispatcher.utter_message(message)
-        # Return an empty list, as this is a custom action
-        return []
     
