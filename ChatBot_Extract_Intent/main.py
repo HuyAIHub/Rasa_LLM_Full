@@ -236,10 +236,6 @@ def handle_tskt(demands, list_product):
             return [1, take_top3_product(demands, list_product)]
         else:
             return [0, take_top3_product(demands, list_product)]
-        if demands['demand'].lower() in lst_compare:
-            return [1, take_top3_product(demands, list_product)]
-        else:
-            return [0, take_top3_product(demands, list_product)]
     else:
         result_string = ''
         for name_product in demands['object']:
@@ -258,10 +254,6 @@ def handle_tskt(demands, list_product):
                         break
             if cnt == 0:
                 return [1, take_top3_product(demands, list_product)]
-        if demands['demand'].lower() in lst_compare:
-            return [1, result_string]
-        else:
-            return [0, result_string]
         if demands['demand'].lower() in lst_compare:
             return [1, result_string]
         else:
