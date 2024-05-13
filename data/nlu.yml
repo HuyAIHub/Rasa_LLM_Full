@@ -158,22 +158,6 @@ nlu:
     - tên anh là [thị Thủy Tiên](user_name)
     - tên anh là [bé đào xinhh](user_name)
     - tên anh là [Lê Thị Thủy Tiên nữ](user_name)
-- intent: question_offen_met
-  examples: |
-    - cho mình xem những câu hỏi mà khách hàng hay hỏi
-    - cho anh xem những câu hỏi khách hàng hay hỏi
-    - cho xem những câu hỏi khách hàng hay hỏi
-    - cho anh xem nhung cau ma khach hang hay hoi
-    - anh muốn biết những câu hỏi khách hàng hay hỏi
-    - khách hàng hay hỏi nhũng câu hỏi nào
-    - khach hang hay hoi nhung cau hoi nao
-    - cho anh nhung cau hoi khach hang hay hoi
-    - còn câu nào khách hàng hay hỏi không
-    - cho minh xem nhung cau ma khach hang hay hoi
-    - còn những câu nào khách hàng hay hỏi
-    - những câu hỏi mà khách hàng hay hỏi
-    - nhung cau hoi ma khach hang hay hoi
-    - cho anh xem nhung cau hoi ma khach hang hay hoi
 - intent: birthday
   examples: |
     - bạn sinh năm nào?
@@ -218,6 +202,7 @@ nlu:
     - jjjjjjjjj
     - mày nguu thế
     - cho tao xin số điện thoại
+    - Sản phẩm có phù hợp với các chuẩn an toàn hoặc chứng nhận nào không?
     - cho anh xin sđt
     - xin sđt 
     - cho xin sđt
@@ -256,6 +241,7 @@ nlu:
     - Ban co the bay khong
     - Ban co bao nhieu tuoi roi
     - Ban thich ngu khong
+    - kể chuyện cho tôi
     - có bán hàng giả không?
     - có hỗ trợ thêm/bớt sản phẩm sau khi đặt hàng thành công không?
     - có cho phép kiểm tra sản phẩm khi nhận hàng không?
@@ -322,6 +308,10 @@ nlu:
     - clm
     - a
     - A
+    - 1
+    - 2
+    - 3
+    - 4
     - y
     - UI
     - mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
@@ -474,8 +464,6 @@ nlu:
     - chatbot mạnh dữ
     - thông minh quá ta
     - giỏi
-    - hay
-    - ổn phết
     - xong rồi cảm ơn
     - cảm ơn em
 - intent: ask_name
@@ -530,10 +518,34 @@ nlu:
     - cho em xin ten cua chi a
     - duoc biet ten ban thi tot nhi
     - vui long cho minh biet ten nhe
+- intent: ask_feature_bot
+  examples: |
+    - bot biết làm gì
+    - mày biết làm gì
+    - bot biết gì
+    - bạn biêt gì
+    - bot có gì
+    - bot làm được gì
+    - bạn làm được gì
+    - bot biết gì
+    - giúp gì
+    - giúp được gì
+    - ban co the lam gi nao
+    - em co the giup gi cho toi
+    - ban biet lam gi
+    - bạn có thể làm được những gì
+    - bạn làm được gì
+    - may duoc viec khong
+    - bot co gi
+    - bot lam duoc gi
+    - ban lam duoc gi
+    - bot biet gi
+    - giup gi
+    - giup duoc gi
 - intent: ask_service_name
   examples: |
     - may co dich vu gi
-    - may co nhung gi
+    - may co nhung dich vu nao
     - cho chi xem dich vu ben em
     - cho xem dich vu
     - có những dịch vụ gì nhỉ
@@ -567,12 +579,6 @@ nlu:
     - mày được việc không
     - [chị](cust_sex) muốn xem dịch vụ bên em
     - có mấy dịch vụ nhỉ?
-    - bot có gì
-    - bot làm được gì
-    - bạn làm được gì
-    - bot biết gì
-    - giúp gì
-    - giúp được gì
     - cho toi xem dich vu
     - hoi dich vu
     - ban co nhung dich vu nao
@@ -582,25 +588,18 @@ nlu:
     - hoi dich vu
     - toi muon hoi dich vu
     - xem dich vu
-    - ban co the lam gi nao
-    - em co the giup gi cho toi
-    - ban biet lam gi
-    - may duoc viec khong
     - chi muon xem dich vu ben em
     - co may dich vu nhi
-    - bot co gi
-    - bot lam duoc gi
-    - ban lam duoc gi
-    - bot biet gi
-    - giup gi
-    - giup duoc gi
 - intent: search_product
   examples: |
     - Tôi muốn hỏi số lượng sản phẩm điều hòa?
+    - bạn có thể tư vấn cho tôi máy giặt không
+    - bình đun nước làm bằng chất liệu gì
     - Bạn có thể cho biết giá của sản phẩm điều hòa không?
     - Xin hỏi sản phẩm lò vi sóng có giá là bao nhiêu vậy?
     - Xin thông tin mô tả về đèn năng lượng mặt trời?
     - Bình nước nóng có dung tích là bao nhiêu?
+    - robot hút bụi có những loại nào
     - Bạn có thể cho tôi biết giá và số lượng sản phẩm A được không?
     - Thông số mô tả của sản phẩm máy hút bụi?
     - Cho tôi xem sản phẩm bình nóng lạnh?
@@ -658,69 +657,120 @@ nlu:
     - Toi muon mua san pham may giat co gia khoang 10 trieu
     - Toi muon mua san pham may giat co gia tu 5 trieu den 8 trieu
     - Toi muon mua san pham may giat co gia duoi 10 trieu 500 nghin
-- intent: change_product
-  examples: |
-    - Tôi có thể đổi/trả sản phẩm nếu không hài lòng không?
-    - Sản phẩm này có thể được trả lại nếu không phù hợp không?
-    - Anh muốn đổi sản phẩm
-    - Anh cần đổi sản phẩm
-    - Sản phẩm này có thể trả lại được không?
-    - toi co the doi tra san pham duoc khong
-    - anh co the doi tra san pham nay duoc khong?
-    - trả sản phẩm
-    - đổi sản phẩm
-    - mình cần đổi sản phẩm này
-    - sản phẩm này đổi được không
-    - có trả hàng được không
-    - Toi co the doi/tra san pham neu khong hai long khong?
-    - San pham nay co the duoc tra lai neu khong phu hop khong?
-    - Anh muon doi san pham
-    - Anh can doi san pham
-    - Sản phẩm này bị lỗi, tôi muốn đổi cái mới.
-    - San pham nay co the tra lai duoc khong?
-    - Tôi muốn trả lại và hoàn tiền.
-    - toi co the doi tra san pham duoc khong
-    - anh co the doi tra san pham nay duoc khong?
-    - tra san pham
-    - Tôi lỡ đặt nhầm, có thể đổi sang sản phẩm khác được không?
-    - Sản phẩm bị hư, tôi muốn đổi.
-    - Mình muốn trả hàng, sản phẩm không đúng size.
-    - Tôi có thể đổi trả sản phẩm vì lý do cá nhân được không?
-    - doi san pham
-    - minh can doi san pham nay
-    - san pham nay doi duoc khong
-    - co tra hang duoc khong
+    - có bán điều hòa không
+    - bán tivi không
+    - bên bạn có bán máy lọc nước không
+    - Bàn chải điện
+    - Bàn là
+    - Bếp từ
+    - Bình đun nước
+    - Bình nóng lạnh
+    - Đèn năng lượng mặt trời
+    - Điều hòa
+    - Ghế massage đaikiosan
+    - Lò vi sóng
+    - Máy cạo rau
+    - Máy đánh trứng
+    - Máy ép
+    - Máy giặt
+    - Máy hút bụi
+    - Máy lọc không khí
+    - Máy lọc nước
+    - Máy sấy tóc
+    - Máy xay
+    - Nồi áp suất
+    - Nồi chiên không dầu
+    - Nồi cơm điện
+    - Robot hút bụi
+    - Thiết bị Webcam
+    - Thiết bị Wifi
+    - Thiết bị camera
+    - Lò nướng
+    - Cho tôi sản phẩm Bàn chải điện
+    - Cho tôi sản phẩm Bàn là
+    - Cho tôi sản phẩm Bếp từ
+    - Cho tôi sản phẩm Bình đun nước
+    - Cho tôi sản phẩm Bình nóng lạnh
+    - Cho tôi sản phẩm Đèn năng lượng mặt trời
+    - Cho tôi sản phẩm Điều hòa
+    - Cho tôi sản phẩm Ghế massage đaikiosan
+    - Cho tôi sản phẩm Lò vi sóng
+    - Cho tôi sản phẩm Máy cạo rau
+    - Cho tôi sản phẩm Máy đánh trứng
+    - Cho tôi sản phẩm Máy ép
+    - Cho tôi sản phẩm Máy giặt
+    - Cho tôi sản phẩm Máy hút bụi
+    - Cho tôi sản phẩm Máy lọc không khí
+    - Cho tôi sản phẩm Máy lọc nước
+    - Cho tôi sản phẩm Máy sấy tóc
+    - Cho tôi sản phẩm Máy xay
+    - Cho tôi sản phẩm Nồi áp suất
+    - Cho tôi sản phẩm Nồi chiên không dầu
+    - Cho tôi sản phẩm Nồi cơm điện
+    - Cho tôi sản phẩm Robot hút bụi
+    - Cho tôi sản phẩm Thiết bị Webcam
+    - Cho tôi sản phẩm Thiết bị Wifi
+    - Cho tôi sản phẩm Thiết bị camera
+    - Cho tôi sản phẩm Lò nướng
+    - điều hòa có gì khác so với bình nóng lạnh
+    - các sản phẩm giá rẻ
+    - có nhũng loại Bàn chải điện nào?
+    - có nhũng loại Bàn là nào?
+    - có nhũng loại Bếp từ nào?
+    - có nhũng loại Bình đun nước nào?
+    - có nhũng loại Bình nóng lạnh nào?
+    - có nhũng loại Đèn năng lượng mặt trời nào?
+    - có nhũng loại Điều hòa nào? 
+    - có nhũng loại Ghế massage đaikiosan nào?
+    - có nhũng loại Lò vi sóng nào?
+    - có nhũng loại Máy cạo rau nào? 
+    - có nhũng loại Máy đánh trứng nào? 
+    - có nhũng loại Máy ép nào?
+    - có nhũng loại Máy giặt nào?
+    - có nhũng loại Máy hút bụi nào?
+    - có nhũng loại Máy lọc không khí nào?
+    - có nhũng loại Máy lọc nước nào?
+    - có nhũng loại Máy sấy tóc nào?
+    - có nhũng loại Máy xay nào?
+    - có nhũng loại Nồi áp suất nào? 
+    - có nhũng loại Nồi chiên không dầu nào?
+    - có nhũng loại Nồi cơm điện nào?
+    - có nhũng loại Robot hút bụi nào?
+    - có nhũng loại Thiết bị Webcam nào?
+    - có nhũng loại Thiết bị Wifi nào?
+    - có nhũng loại Thiết bị camera nào?
+    - có nhũng loại Lò nướng nào?
+    - Tư vấn cho tôi sản phẩm Bàn chải điện không?
+    - Tư vấn cho tôi sản phẩm Bàn là không?
+    - Tư vấn cho tôi sản phẩm Bếp từ không?
+    - Tư vấn cho tôi sản phẩm Bình đun nước không?
+    - Tư vấn cho tôi sản phẩm Bình nóng lạnh không?
+    - Tư vấn cho tôi sản phẩm Đèn năng lượng mặt trời không?
+    - Tư vấn cho tôi sản phẩm Điều hòa không?
+    - Tư vấn cho tôi sản phẩm Ghế massage đaikiosan không?
+    - Tư vấn cho tôi sản phẩm Lò vi sóng không?
+    - Tư vấn cho tôi sản phẩm Máy cạo rau không?
+    - Tư vấn cho tôi sản phẩm Máy đánh trứng không?
+    - Tư vấn cho tôi sản phẩm Máy ép không?
+    - Tư vấn cho tôi sản phẩm Máy giặt không?
+    - Tư vấn cho tôi sản phẩm Máy hút bụi không?
+    - Tư vấn cho tôi sản phẩm Máy lọc không khí không?
+    - Tư vấn cho tôi sản phẩm Máy lọc nước không?
+    - Tư vấn cho tôi sản phẩm Máy sấy tóc không?
+    - Tư vấn cho tôi sản phẩm Máy xay không?
+    - Tư vấn cho tôi sản phẩm Nồi áp suất không?
+    - Tư vấn cho tôi sản phẩm Nồi chiên không dầu không?
+    - Tư vấn cho tôi sản phẩm Nồi cơm điện không?
+    - Tư vấn cho tôi sản phẩm Robot hút bụi không?
+    - Tư vấn cho tôi sản phẩm Thiết bị Webcam không?
+    - Tư vấn cho tôi sản phẩm Thiết bị Wifi không?
+    - Tư vấn cho tôi sản phẩm Thiết bị camera không?
+    - Tư vấn cho tôi sản phẩm Lò nướng không?
 - intent: begin_chatgpt
   examples: |
     - Ai là người giàu nhất thế giới?
     - Ai là người đẹp nhất?
     - 1+1=?
-- intent: cancel_product
-  examples: |
-    - Tôi có thể hủy đơn hàng sau khi đã đặt không?
-    - Hủy đơn như thế nào?
-    - Anh muốn hủy đơn hàng
-    - mình muốn hủy đơn hàng cần làm thế nào?
-    - Tôi cần làm gì để hủy đơn hàng?
-    - toi can lam gi de huy don hang
-    - Cách thức để hủy đơn hàng
-    - hủy dơn hàng
-    - làm sao để hủy đơn hàng
-    - tôi cần hủy đơn
-    - đơn hàng này hủy được không
-    - cách nào đẻ hủy đơn hàng này
-    - Toi co the huy don hang sau khi da dat khong?
-    - Huy don nhu the nao?
-    - Anh muon huy don hang
-    - minh muon huy don hang can lam the nao?
-    - Toi can lam gi de huy don hang?
-    - toi can lam gi de huy don hang
-    - Cach thuc de huy don hang
-    - huy don hang
-    - lam sao de huy don hang
-    - toi can huy don
-    - don hang nay huy duoc khong
-    - cach nao de huy don hang nay
 - intent: order_produce
   examples: |
     - làm sao để đặt hàng
@@ -739,22 +789,6 @@ nlu:
     - huong dan toi mua hang
     - dat hang kieu gi
     - mua hang kieu gi
-- intent: order_from_overseas
-  examples: |
-    - Tôi có thể đặt hàng từ nước ngoài không?
-    - Anh có thể đặt hàng từ nước ngoài không
-    - có thể đặt hàng sang nước khác không
-    - ở nước khác mà muốn đặt hàng có được không
-    - Tôi muốn đặt hàng sang nươc ngoài có được không
-    - đặt hàng sang nước khác được không
-    - từ nước khách cúa mua được san phẩm hay không
-    - Toi co the dat hang tu nuoc ngoai khong?
-    - Anh co the dat hang tu nuoc ngoai khong
-    - co the dat hang sang nuoc khac khong
-    - o nuoc khac ma muon dat hang co duoc khong
-    - Toi muon dat hang sang nuoc ngoai co duoc khong
-    - dat hang sang nuoc khac duoc khong
-    - tu nuoc khach cua mua duoc san pham hay khong
 - intent: list_product
   examples: |
     - Sản phẩm này có sẵn hàng không?
@@ -773,21 +807,10 @@ nlu:
     - cho anh xem sản phẩm
     - danh sách sản phẩm
     - bên bạn có những sản phẩm nào
-    - có bán điều hòa không
-    - có bán máy giặt không
-    - bàn là bên bạn có bán khộng
-    - bếp từ bên bạn có bán không
-    - bên bạn có bán máy lọc nước không
-    - có bán tivi không
-    - có bán máy bay không
-    - có bán bàn ghế không
-    - bán điều hòa không
     - bán những cái gì
-    - tôi cần mua bình nóng lạnh
-    - muốn mua webcam
-    - muốn mua tivi
     - San pham nay co san hang khong?
     - Co san pham nay khong?
+    - sản phẩm nào có chất lượng tốt nhất
     - Danh muc san pham cua VCC ban?
     - Ban nen goi y san pham nao cho toi dua tren nhu cau cua toi?
     - Cac san pham ma VCC ban?
@@ -802,19 +825,11 @@ nlu:
     - cho anh xem san pham
     - danh sach san pham
     - ben ban co nhung san pham nao
-    - co ban dieu hoa khong
-    - co ban may giat khong
-    - ban la ben ban co ban khong
-    - bep tu ben ban co ban khong
-    - ben ban co ban may loc nuoc khong
-    - co ban tivi khong
-    - co ban may bay khong
-    - co ban ban ghe khong
-    - ban dieu hoa khong
     - ban nhung cai gi
-    - toi can mua binh nong lanh
-    - muon mua webcam
-    - muon mua tivi
+    - có những mặt hàng nào
+    - có thể cho tôi xem tất cả san rphaamr bên bạn không
+    - show cho tôi tát cả sản phẩm
+    - cho xem tất cả sản phẩm đang bán 
 - intent: evaluate_product
   examples: |
     - Sản phẩm bên bạn không tốt
@@ -878,294 +893,110 @@ nlu:
     - khong tra tien duoc khong
     - khong tra tien
     - san pham khong can tra tien dau nhi
-- intent: warranty_policy_1
+- intent: warranty_policy
   examples: |
-    - có những chính sách nào
-    - chính sách bên m là gì
-    - chinh sach laf gi
-    - có bao nhiêu chính sách
-    - bên bạn có những chính sách bảo hành nào?
-    - có những chính sách bảo hành nào
-    - chính sách bảo hành
-    - bảo hành
-    - có bảo hành không
-    - cho xem chính sách bảo hành
-    - anh muốn xem chính sách bảo hành
-    - tôi cần chính sách bảo hành
-    - chính sách bảo hành
-    - sản phẩm bên bạn có chính sách bảo hành không
-    - Chính sách bảo hành bên bạn là gì
-    - Xin vui lòng cho biết chính sách bảo hành của bạn áp dụng cho sản phẩm này?
-    - Thời hạn bảo hành của sản phẩm này là bao lâu?
-    - Liệu sản phẩm có được bảo hành miễn phí sửa chữa hay thay thế trong trường hợp lỗi từ nhà sản xuất?
-    - Tôi cần biết điều kiện để được bảo hành sản phẩm này.
-    - Chính sách bảo hành của bạn có bao gồm hỗ trợ kỹ thuật không?
-    - Tôi muốn yêu cầu bảo hành sản phẩm, làm thế nào để tiến hành thủ tục?
-    - Trong trường hợp sản phẩm cần sửa chữa, tôi có phải chịu các chi phí vận chuyển không?
-    - Nếu sản phẩm không thể sửa chữa, liệu tôi sẽ được đổi sản phẩm mới theo chính sách bảo hành?
-    - Chính sách bảo hành của bạn có điều khoản nào đặc biệt mà tôi cần lưu ý?
-    - Tôi có thể gia hạn thời gian bảo hành cho sản phẩm này không? Nếu có, thủ tục như thế nào?
-    - ben ban co nhung chinh sach bao hanh nao
-    - co nhung chinh sach bao hanh nao
-    - chinh sach bao hanh
-    - bao hanh
-    - co bao hanh khong
-    - cho xem chinh sach bao hanh
-    - anh muon xem chinh sach bao hanh
-    - toi can chinh sach bao hanh
-    - chinh sach bao hanh
-    - san pham ben ban co chinh sach bao hanh khong
-    - Chinh sach bao hanh ben ban la gi
-    - Xin vui long cho biet chinh sach bao hanh cua ban ap dung cho san pham nay
-    - Thoi han bao hanh cua san pham nay la bao lau
-    - Lieu san pham co duoc bao hanh mien phi sua chua hay thay the trong truong hop loi tu nha san xuat
-    - Toi can biet dieu kien de duoc bao hanh san pham nay
-    - Chinh sach bao hanh cua ban co bao gom ho tro ky thuat khong
-    - Toi muon yeu cau bao hanh san pham, lam the nao de tien hanh thu tuc
-    - Trong truong hop san pham can sua chua, toi co phai chiu cac chi phi van chuyen khong
-    - Neu san pham khong the sua chua, lieu toi se duoc doi san pham moi theo chinh sach bao hanh
-    - Chinh sach bao hanh cua ban co dieu khoan nao dac biet ma toi can luu y
-    - Toi co the gia han thoi gian bao hanh cho san pham nay khong Neu co, thu tuc nhu the nao
-- intent: warranty_policy_2
-  examples: |
-    - Sản phẩm [điều hòa](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [bếp từ](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy lọc nước](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [bàn chải điện](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [bếp từ](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [bình đun nước](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [bình nóng lạnh](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [đen năng lượng mặt trời](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [ghế massage daikiosan](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [lò vi sóng](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy cạo râu](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy đánh trứng](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy ép](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy giặt](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy hút bụi nước](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy lọc không khí](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy sấy tóc](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy xay](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [nồi áp suất](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [nòi chiên không dầu](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [nồi cơm điện](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [robot hút bụi](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [thiết bị camera](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [thiết bị webcam](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [thiết bị wifi](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [lò nướng](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [bỉm](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [dép lê](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [xe máy](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [người](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [điện thoại](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy tính xách tay](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - Sản phẩm [máy tính cầm tay không dây](produce_name_policy) bên bạn có chính sách bảo hành không?
-    - [giầy da](produce_name_policy) có chính sách bảo hành không?
-    - [túi sách](produce_name_policy) có chính sách bảo hành không?
-    - [bỉm](produce_name_policy) có chính sách bảo hành không?
-    - [bếp diện](produce_name_policy) có chính sách bảo hành không?
-    - [điện thoại di động](produce_name_policy) có chính sách bảo hành không?
-    - [hoa quả](produce_name_policy) có chính sách bảo hành không?
-    - [em](produce_name_policy) có chính sách bảo hành không?
-    - [xe tăng](produce_name_policy) có chính sách bảo hành không?
-    - [bàn là](produce_name_policy) có được bảo hành không
-    - [điều hòa](produce_name_policy) có được bảo hành không
-    - [máy giặt](produce_name_policy) có được bảo hành không
-    - [bếp từ](produce_name_policy) có được bảo hành không
-    - [bàn chải điện](produce_name_policy) có được bảo hành không
-    - [bàn là](produce_name_policy) có được bảo hành không
-    - [bình đun nước](produce_name_policy) có được bảo hành không
-    - [bình nóng lạnh](produce_name_policy) có được bảo hành không
-    - [đèn năng lượng mặt trời](produce_name_policy) có được bảo hành không
-    - [ghế massage daikiosan](produce_name_policy) có được bảo hành không
-    - [lò vi sóng](produce_name_policy) có được bảo hành không
-    - [máy cạo râu](produce_name_policy) có được bảo hành không
-    - [máy đánh trứng](produce_name_policy) có được bảo hành không
-    - [máy ép](produce_name_policy) có được bảo hành không
-    - [máy giặt](produce_name_policy) có được bảo hành không
-    - [máy hút bụi](produce_name_policy) có được bảo hành không
-    - [máy lọc không khí](produce_name_policy) có được bảo hành không
-    - [máy lọc nước](produce_name_policy) có được bảo hành không
-    - [máy sấy tóc](produce_name_policy) có được bảo hành không
-    - [máy xay](produce_name_policy) có được bảo hành không
-    - [nồi áp suất](produce_name_policy) có được bảo hành không
-    - [nồi chiên không dầu](produce_name_policy) có được bảo hành không
-    - [nồi cơm điện](produce_name_policy) có được bảo hành không
-    - [robot hút bụi](produce_name_policy) có được bảo hành không
-    - [thiết bị webcam](produce_name_policy) có được bảo hành không
-    - [thiết bị camera](produce_name_policy) có được bảo hành không
-    - [thiết bị wifi](produce_name_policy) có được bảo hành không
-    - [lò nướng(produce_name_policy) có được bảo hành không
-    - [bỉm](produce_name_policy) có được bảo hành không
-    - [tên lửa nước](produce_name_policy) có được bảo hành không
-    - [điều hòa](produce_name_policy) có chính sách bảo hành không
-    - [máy giặt](produce_name_policy) có bảo hành không
-    - [Bếp từ](produce_name_policy) có bảo hành không
-    - [Bỉm](produce_name_policy) có bảo hành không
-    - [tivi](produce_name_policy) có bảo hành không
-    - [tủ lạnh](produce_name_policy) có bảo hành không
-    - [máy xay sinh tố](produce_name_policy) có bảo hành không
-    - chính sách bảo hành của [Bếp từ](produce_name_policy)
-    - chính sách bảo hành của [bình nóng lạnh](produce_name_policy)
-    - chính sách bảo hành của [bàn là](produce_name_policy)
-    - chính sách bảo hành của [Bỉm](produce_name_policy)
-    - chính sách bảo hành của [tai nghe](produce_name_policy)
-    - chính sách bảo hành của [cúc áo](produce_name_policy)
-    - chính sách bảo hành của [kính dâm](produce_name_policy)
-    - chính sách bảo hành của [xoong](produce_name_policy)
-    - chính sách bảo hành của [chảo](produce_name_policy)
-    - chính sách bảo hành của [Bếp ga](produce_name_policy)
-    - chính sách bảo hành của [bình nước](produce_name_policy)
-    - chính sách bảo hành của [xe đạp](produce_name_policy)
-    - chính sách bảo hành của [sim](produce_name_policy)
-    - chính sách bảo hành của [pin](produce_name_policy)
-    - chính sách bảo hành của [ô tô đồ chơi](produce_name_policy)
-    - chính sách bảo hành của [mũ bảo hiểm](produce_name_policy)
-    - chính sách bảo hành của [xe bò](produce_name_policy)
-    - chính sách bảo hành của [quạt điện](produce_name_policy)
-    - chính sách bảo hành của [thiết bị camera](produce_name_policy)
-    - chinh sach bao hanh cua [Bếp từ](produce_name_policy)
-    - chinh sach bao hanh cua [bình nóng lạnh](produce_name_policy)
-    - chinh sach bao hanh cua [bàn là](produce_name_policy)
-    - chinh sach bao hanh cua [Bỉm](produce_name_policy)
-    - chinh sach bao hanh cua [tai nghe](produce_name_policy)
-    - chinh sach bao hanh cua [cúc áo](produce_name_policy)
-    - chinh sach bao hanh cua [kính dâm](produce_name_policy)
-    - chinh sach bao hanh cua [xoong](produce_name_policy)
-    - chinh sach bao hanh cua [chảo](produce_name_policy)
-    - chinh sach bao hanh cua [Bếp ga](produce_name_policy)
-    - chinh sach bao hanh cua [bình nước](produce_name_policy)
-    - chinh sach bao hanh cua [xe đạp](produce_name_policy)
-    - chinh sach bao hanh cua [sim](produce_name_policy)
-    - chinh sach bao hanh cua [pin](produce_name_policy)
-    - chinh sach bao hanh cua [ô tô đồ chơi](produce_name_policy)
-    - chinh sach bao hanh cua [mũ bảo hiểm](produce_name_policy)
-    - chinh sach bao hanh cua [xe bò](produce_name_policy)
-    - chinh sach bao hanh cua [quạt điện](produce_name_policy)
-    - chinh sach bao hanh cua [thiết bị camera](produce_name_policy)
-    - bảo hành [Bỉm](produce_name_policy)
-    - bảo hành [bình đun nước](produce_name_policy)
-    - bảo hành [bàn là](produce_name_policy)
-    - bảo hành [Bàn chải điện](produce_name_policy)
-    - [điều hòa](produce_name_policy) có bảo hành không?
-    - [bếp từ](produce_name_policy) có bảo hành không?
-    - [máy lọc nước](produce_name_policy) có bảo hành không?
-    - [bàn chải điện](produce_name_policy) có bảo hành không?
-    - [bếp từ](produce_name_policy) có bảo hành không?
-    - [bình đun nước](produce_name_policy) có bảo hành không?
-    - [bình nóng lạnh](produce_name_policy) có bảo hành không?
-    - [đen năng lượng mặt trời](produce_name_policy) có bảo hành không?
-    - [ghế massage daikiosan](produce_name_policy) có bảo hành không?
-    - [lò vi sóng](produce_name_policy) có bảo hành không?
-    - [máy cạo râu](produce_name_policy) có bảo hành không?
-    - [máy đánh trứng](produce_name_policy) có bảo hành không?
-    - [máy ép](produce_name_policy) có bảo hành không?
-    - [máy giặt](produce_name_policy) có bảo hành không?
-    - [máy hút bụi nước](produce_name_policy) có bảo hành không?
-    - [máy lọc không khí](produce_name_policy) có bảo hành không?
-    - [máy sấy tóc](produce_name_policy) có bảo hành không?
-    - [máy xay](produce_name_policy) có bảo hành không?
-    - [nồi áp suất](produce_name_policy) có bảo hành không?
-    - [nòi chiên không dầu](produce_name_policy) có bảo hành không?
-    - [nồi cơm điện](produce_name_policy) có bảo hành không?
-    - [robot hút bụi](produce_name_policy) có bảo hành không?
-    - [thiết bị camera](produce_name_policy) có bảo hành không?
-    - [thiết bị webcam](produce_name_policy) có bảo hành không?
-    - [thiết bị wifi](produce_name_policy) có bảo hành không?
-    - [lò nướng](produce_name_policy) có bảo hành không?
-    - [bỉm](produce_name_policy) có bảo hành không?
-    - [bánh](produce_name_policy) có bảo hành không?
-    - [dép lê](produce_name_policy) có bảo hành không?
-    - [cốc](produce_name_policy) có bảo hành không?
-    - [xe máy](produce_name_policy) có bảo hành không?
-    - [người](produce_name_policy) có bảo hành không?
-    - [điện thoại](produce_name_policy) có bảo hành không?
-    - [máy tính xách tay](produce_name_policy) có bảo hành không?
-    - [máy tính cầm tay không dây](produce_name_policy) có bảo hành không?
-    - Bảo hành [điều hòa](produce_name_policy) 
-    - Bảo hành [bếp từ](produce_name_policy) 
-    - Bảo hành [máy lọc nước](produce_name_policy) 
-    - Bảo hành [bàn chải điện](produce_name_policy) 
-    - Bảo hành [bếp từ](produce_name_policy) 
-    - Bảo hành [bình đun nước](produce_name_policy) 
-    - Bảo hành [bình nóng lạnh](produce_name_policy) 
-    - Bảo hành [đen năng lượng mặt trời](produce_name_policy) 
-    - Bảo hành [ghế massage daikiosan](produce_name_policy) 
-    - Bảo hành [lò vi sóng](produce_name_policy) 
-    - Bảo hành [máy cạo râu](produce_name_policy) 
-    - Bảo hành [máy đánh trứng](produce_name_policy) 
-    - Bảo hành [máy ép](produce_name_policy) 
-    - Bảo hành [áo](produce_name_policy)
-    - Bảo hành [quần](produce_name_policy)  
-    - Bảo hành [kính](produce_name_policy)
-    - Bảo hành [máy giặt](produce_name_policy) 
-    - Bảo hành [máy hút bụi nước](produce_name_policy) 
-    - Bảo hành [máy lọc không khí](produce_name_policy) 
-    - Bảo hành [máy sấy tóc](produce_name_policy) 
-    - Bảo hành [máy xay](produce_name_policy)
-    - bao hanh [điều hòa](produce_name_policy) 
-    - bao hanh [bếp từ](produce_name_policy) 
-    - bao hanh [máy lọc nước](produce_name_policy) 
-    - bao hanh [bàn chải điện](produce_name_policy) 
-    - bao hanh [bếp từ](produce_name_policy) 
-    - bao hanh [bình đun nước](produce_name_policy) 
-    - bao hanh [bình nóng lạnh](produce_name_policy) 
-    - bao hanh [đen năng lượng mặt trời](produce_name_policy) 
-    - bao hanh [ghế massage daikiosan](produce_name_policy) 
-    - bao hanh [lò vi sóng](produce_name_policy) 
-    - bao hanh [máy cạo râu](produce_name_policy) 
-    - bao hanh [máy đánh trứng](produce_name_policy) 
-    - bao hanh [máy ép](produce_name_policy) 
-    - bao hanh [áo](produce_name_policy)
-    - bao hanh [quần](produce_name_policy)  
-    - bao hanh [kính](produce_name_policy)
-    - bao hanh [máy giặt](produce_name_policy) 
-    - bao hanh [máy hút bụi nước](produce_name_policy) 
-    - bao hanh [máy lọc không khí](produce_name_policy) 
-    - bao hanh [máy sấy tóc](produce_name_policy) 
-    - bao hanh [máy xay](produce_name_policy)  
-    - Bảo hành [nồi áp suất](produce_name_policy) 
-    - Bảo hành [nòi chiên không dầu](produce_name_policy) 
-    - Bảo hành [nồi cơm điện](produce_name_policy) 
-    - Bảo hành [robot hút bụi](produce_name_policy) 
-    - Bảo hành [thiết bị camera](produce_name_policy) 
-    - Bảo hành [thiết bị webcam](produce_name_policy) 
-    - Bảo hành [thiết bị wifi](produce_name_policy) 
-    - Bảo hành [lò nướng](produce_name_policy) 
-    - Bảo hành [bỉm](produce_name_policy) 
-    - Bảo hành [dép lê](produce_name_policy) 
-    - Bảo hành [cốc](produce_name_policy) 
-    - Bảo hành [xe máy](produce_name_policy) 
-    - Bảo hành [người](produce_name_policy) 
-    - Bảo hành [điện thoại](produce_name_policy) 
-    - Bảo hành [máy tính xách tay](produce_name_policy) 
-    - Bảo hành [máy tính cầm tay không dây](produce_name_policy) 
-    - Bảo hành [chậu cây](produce_name_policy)
-    - Bảo hành [ô tô](produce_name_policy)
-    - Bảo hành [bánh](produce_name_policy)
-    - [máy ép trái cây](produce_name_policy) có bảo hành không?
-    - [máy hâm sữa](produce_name_policy) có bảo hành không?
-    - [máy pha cà phê](produce_name_policy) có bảo hành không? 
-    - [cửa cuốn](produce_name_policy) có bảo hành không? 
-    - [chuột](produce_name_policy) có bảo hành không? 
-    - tôi muốn bảo hành [đồng hồ](produce_name_policy)
-    - tôi muốn bảo hành [tôi](produce_name_policy)
-    - tôi muốn bảo hành [người](produce_name_policy)
-    - tôi muốn bảo hành [](produce_name_policy)
-    - tôi muốn bảo hành [dao](produce_name_policy)
-    - tôi muốn bảo hành [lá cây](produce_name_policy)
-    - tôi muốn bảo hành [bát](produce_name_policy)
-    - tôi muốn bảo hành [xe điện](produce_name_policy)
-    - toi muon bao hanh [đồng hồ](produce_name_policy)
-    - toi muon bao hanh [tôi](produce_name_policy)
-    - toi muon bao hanh [người](produce_name_policy)
-    - toi muon bao hanh [](produce_name_policy)
-    - toi muon bao hanh [dao](produce_name_policy)
-    - toi muon bao hanh [lá cây](produce_name_policy)
-    - toi muon bao hanh [bát](produce_name_policy)
-    - toi muon bao hanh [xe điện](produce_name_policy)
- 
+    - [chính sách bảo hành](produce_name_policy) là gì 
+    - có những [chính sách](produce_name_policy) nào
+    - [chính sách](produce_name_policy) bên m là gì
+    - [chinh sach](produce_name_policy) la gi
+    - có bao nhiêu [chính sách](produce_name_policy)
+    - bên bạn có những [chính sách bảo hành](produce_name_policy) nào?
+    - có những [chính sách bảo hành](produce_name_policy) nào?
+    - [chính sách bảo hành](produce_name_policy)
+    - [bảo hành](produce_name_policy)
+    - có [bảo hành](produce_name_policy) không
+    - cho xem [chính sách bảo hành](produce_name_policy)
+    - anh muốn xem [chính sách bảo hành](produce_name_policy)
+    - tôi cần [chính sách bảo hành](produce_name_policy)
+    - [chính sách bảo hành](produce_name_policy) bên bạn 
+    - sản phẩm bên bạn có [chính sách bảo hành](produce_name_policy) không
+    - [Chính sách bảo hành](produce_name_policy) bên bạn là gì
+    - Xin vui lòng cho biết [chính sách bảo hành](produce_name_policy) của bạn áp dụng cho sản phẩm này?
+    - Thời hạn [bảo hành](produce_name_policy) của sản phẩm này là bao lâu?
+    - Liệu sản phẩm có được [bảo hành](produce_name_policy) miễn phí sửa chữa hay thay thế trong trường hợp lỗi từ nhà sản xuất?
+    - Tôi cần biết điều kiện để được [bảo hành](produce_name_policy) sản phẩm này.
+    - [Chính sách bảo hành](produce_name_policy) của bạn có bao gồm hỗ trợ kỹ thuật không?
+    - Tôi muốn yêu cầu [bảo hành](produce_name_policy) sản phẩm, làm thế nào để tiến hành thủ tục?
+    - Trong trường hợp sản phẩm cần [bảo hành](produce_name_policy) sửa chữa, tôi có phải chịu các chi phí vận chuyển không?
+    - Nếu sản phẩm không thể sửa chữa, liệu tôi sẽ được đổi sản phẩm mới theo [chính sách bảo hành](produce_name_policy)?
+    - [Chính sách bảo hành](produce_name_policy) của bạn có điều khoản nào đặc biệt mà tôi cần lưu ý?
+    - Tôi có thể gia hạn thời gian [bảo hành](produce_name_policy) cho sản phẩm này không? Nếu có, thủ tục như thế nào?
+    - ben ban co nhung chinh sach [bao hanh](produce_name_policy) nao
+    - co nhung chinh sach [bao hanh](produce_name_policy) nao
+    - [chinh sach bao hanh](produce_name_policy)
+    - [bao hanh](produce_name_policy)
+    - co [bao hanh](produce_name_policy) khong
+    - cho xem [chinh sach bao hanh](produce_name_policy)
+    - anh muon xem [chinh sach bao hanh](produce_name_policy)
+    - toi can [chinh sach bao hanh](produce_name_policy)
+    - [chinh sach bao hanh](produce_name_policy)
+    - san pham ben ban [co chinh sach bao hanh](produce_name_policy) khong
+    - [chinh sach bao hanh](produce_name_policy) ben ban la gi
+    - Xin vui long cho biet [chinh sach bao hanh](produce_name_policy) cua ban ap dung cho san pham nay
+    - Thoi han [bao hanh](produce_name_policy) cua san pham nay la bao lau
+    - Lieu san pham co duoc [bao hanh](produce_name_policy) mien phi sua chua hay thay the trong truong hop loi tu nha san xuat
+    - Toi can biet dieu kien de duoc [bao hanh](produce_name_policy) san pham nay
+    - [Chinh sach bao hanh](produce_name_policy) cua ban co bao gom ho tro ky thuat khong
+    - Toi muon yeu cau [bao hanh](produce_name_policy) san pham, lam the nao de tien hanh thu tuc
+    - Trong truong hop san pham can [bao hanh](produce_name_policy) sua chua, toi co phai chiu cac chi phi van chuyen khong
+    - Neu san pham khong the sua chua, lieu toi se duoc doi san pham moi theo [chinh sach bao hanh](produce_name_policy)
+    - [Chinh sach bao hanh](produce_name_policy) cua ban co dieu khoan nao dac biet ma toi can luu y
+    - Toi co the gia han thoi gian [bao hanh](produce_name_policy) cho san pham nay khong Neu co, thu tuc nhu the nao
+    - điều hòa có [bảo hành](produce_name_policy) không?
+    - bếp từ có [bảo hành](produce_name_policy) không?
+    - máy lọc nước có [bảo hành](produce_name_policy) không?
+    - bàn chải điện có [bảo hành](produce_name_policy) không?
+    - bếp từ có [bảo hành](produce_name_policy) không?
+    - bình đun nước có [bảo hành](produce_name_policy) không?
+    - bình nóng lạnh có [bảo hành](produce_name_policy) không?
+    - đen năng lượng mặt trời có [bảo hành](produce_name_policy) không?
+    - ghế massage daikiosan có [bảo hành](produce_name_policy) không?
+    - lò vi sóng có [bảo hành](produce_name_policy) không?
+    - máy cạo râu có [bảo hành](produce_name_policy) không?
+    - máy đánh trứng có [bảo hành](produce_name_policy) không?
+    - máy ép có [bảo hành](produce_name_policy) không?
+    - máy giặt có [bảo hành](produce_name_policy) không?
+    - máy hút bụi nước có [bảo hành](produce_name_policy) không?
+    - máy lọc không khí có [bảo hành](produce_name_policy) không?
+    - máy sấy tóc có [bảo hành](produce_name_policy) không?
+    - máy xay có [bảo hành](produce_name_policy) không?
+    - nồi áp suất có [bảo hành](produce_name_policy) không?
+    - nòi chiên không dầu có [bảo hành](produce_name_policy) không?
+    - nồi cơm điện có [bảo hành](produce_name_policy) không?
+    - robot hút bụi có [bảo hành](produce_name_policy) không?
+    - thiết bị camera có [bảo hành](produce_name_policy) không?
+    - thiết bị webcam có [bảo hành](produce_name_policy) không?
+    - thiết bị wifi có [bảo hành](produce_name_policy) không?
+    - lò nướng có [bảo hành](produce_name_policy) không?
+    - bỉm có [bảo hành](produce_name_policy) không?
+    - ghế masage có [bảo hành](produce_name_policy) không
+    - bánh có [bảo hành](produce_name_policy) không?
+    - dép lê có [bảo hành](produce_name_policy) không?
+    - cốc có [bảo hành](produce_name_policy) không?
+    - xe máy có [bảo hành](produce_name_policy) không?
+    - người có [bảo hành](produce_name_policy) không?
+    - điện thoại có [bảo hành](produce_name_policy) không?
+    - máy tính xách tay có [bảo hành](produce_name_policy) không?
+    - máy tính cầm tay không dây có [bảo hành](produce_name_policy) không?
+    - Sản phẩm điều hòa bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm bếp từ bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy lọc nước bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm bàn chải điện bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm bếp từ bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm bình đun nước bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm bình nóng lạnh bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm đen năng lượng mặt trời bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm ghế massage daikiosan bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm lò vi sóng bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy cạo râu bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy đánh trứng bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy ép bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy giặt bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy hút bụi nước bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy lọc không khí bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy sấy tóc bên bạn có [chính sách bảo hành](produce_name_policy) không?
+    - Sản phẩm máy xay bên bạn có [chính sách bảo hành](produce_name_policy) không?
+
 - intent: warranty_policy_1vs1
   examples: |
     - chính sách 1
@@ -1224,8 +1055,6 @@ nlu:
     - Tôi muốn biết về quy trình và thời gian xử lý khi tôi yêu cầu đổi trả sản phẩm.
 - intent: warranty_policy_bark
   examples: |
-    - cs2
-    - số 2
     - chính sách số 2
     - chính sách sửa chữa
     - chính sách thay thế linh kiện
@@ -1277,6 +1106,7 @@ nlu:
     - Co can dang ky san pham de duoc huong chinh sach bao hanh khong
     - Toi co the sua chua san pham cua minh tai cua hang cua ban khong
     - Co bat ky chi phi nao lien quan den viec sua chua hoac thay the linh kien khong
+
 - intent: promotion
   examples: |
     - có chương trình khuyễn mãi nào đang diễn ra không
@@ -1315,42 +1145,6 @@ nlu:
     - hien nay dang co chuong trinh khuyen mai nao
     - Co chuong trinh khuyen mai danh rieng cho thanh vien khong
     - khuyen mai
-- intent: delivery_time
-  examples: |
-    - thời gian giao hàng bao lâu?
-    - thời gian giao hàng
-    - bao giờ giao hàng
-    - giao hàng trong bao lâu
-    - thời gian giao
-    - bên bạn giao hàng tỏng bao lâu
-    - shop giao hàng trong bao lâu
-    - bao lâu thì giao hàng
-    - khi nào giao hàng
-    - lúc nào giao hàng
-    - thoi gian giao hang bao lau
-    - thoi gian giao hang
-    - bao gio giao hang
-    - giao hang trong bao lau
-    - thoi gian giao
-    - ben ban giao hang trong bao lau
-    - shop giao hang trong bao lau
-    - bao lau thi giao hang
-    - khi nao giao hang
-    - luc nao giao hang
-- intent: order_status
-  examples: |
-    - tôi muốn xem tình trạng đơn hàng
-    - tình trạng đơn hàng
-    - có cách nào xem tình trạng đơn hàng của tôi không
-    - có cách nào xem tình trạng đơn hàng không
-    - xem tình trạng đơn hàng ở đâu
-    - làm cách nào để xem tình trạng đơn hàng
-    - toi muon xem tinh trang don hang
-    - tinh trang don hang
-    - co cach nao xem tinh trang don hang cua toi khong
-    - co cach nao xem tinh trang don hang khong
-    - xem tinh trang don hang o dau
-    - lam cach nao de xem tinh trang don hang
 - intent: pay_produce
   examples: |
     - bạn hỗ trợ thanh toán bằng những phương thức nào
@@ -1367,18 +1161,6 @@ nlu:
     - lam sao de thanh toan
     - cach thuc thanh toan
     - thanh toan bang cach nao
-- intent: delivery_free
-  examples: |
-    - bạn có giao hàng miễn phí không
-    - bên bạn có giao hàng free không
-    - giao hàng miễn phí không
-    - có chính sách giao hàng miễn phí không
-    - mua hàng có được giao miễn phí không
-    - ban co giao hang mien phi khong
-    - ben ban co giao hang free khong
-    - giao hang mien phi khong
-    - co chinh sach giao hang mien phi khong
-    - mua hang co duoc giao mien phi khong
 - intent: time_open_door
   examples: |
     - thời gian mở cửa của bạn
@@ -1388,16 +1170,18 @@ nlu:
     - có làm việc cả ngày không
     - thời gian mở cửa
     - bạn hoạt động khi nào
+    - hoạt động đến bao giờ
+    - thời gian hoặt động
     - lúc nào mở cửa hoạt động
     - thoi gian mo cua cua ban
     - khi nao mo cua
     - thoi gian lam viec
+    - thoi gian hoat dong
     - khi nao lam viec
     - co lam viec ca ngay khong
     - thoi gian mo cua
     - ban hoat dong khi nao
     - luc nao mo cua hoat dong
-
 - intent: support_KH
   examples: |
     - Tôi gặp vấn đề với đơn hàng của mình, làm thế nào để giải quyết?
@@ -1405,3 +1189,6 @@ nlu:
     - tôi gặp vấn đề về đơn hàng làm sao để giải quyết
     - tôi muốn giải quyết vẫn đề về đơn hàng
     - giải quyết đơn hàng gặp vấn đề
+    - đơn hàng của tôi có vấn đề
+    - đơn hàng của tôi cần giải quyết
+    - đơn hàng gặp vấn đề hãy giải quyết cho toi

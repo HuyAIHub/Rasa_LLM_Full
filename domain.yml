@@ -1,8 +1,8 @@
 version: '3.1'
 intents:
 - ask_name
-- ask_product
 - ask_service_name
+- ask_feature_bot
 - begin_chatgpt
 - birthday
 - deny
@@ -14,23 +14,15 @@ intents:
 - unclear
 - love
 - home
-- question_offen_met
-- change_product
-- order_from_overseas
 - list_product
-- cancel_product
 - evaluate_product
 - buy_dont_money
-- warranty_policy_1
-- warranty_policy_2
+- warranty_policy
 - warranty_policy_1vs1
 - warranty_policy_bark
 - promotion
 - order_produce
-- delivery_time
-- order_status
 - pay_produce
-- delivery_free
 - time_open_door
 - support_KH
 entities:
@@ -45,18 +37,6 @@ responses:
   - text: |-
       Xin chào quý khách! Tôi là trợ lý mua sắm.
       Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
-    # buttons:
-    #   - title: "bạn tên là gì??"
-    #     payload: "ask_name"
-    # buttons:
-    #   - title: "bạn có những dịch vụ nào?"
-    #     payload: "/ask_service_name"
-    # buttons:
-    #   - title: "Danh mục sản phẩm của VCC bán?"
-    #     payload: "/list_product"
-    # buttons:
-    #   - title: "bên bạn có những chính sách bảo hành nào?"
-    #     payload: "/warranty_policy_1"
   - text: |-
       Chào quý khách! Tôi là trợ lý mua sắm.
       Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
@@ -69,58 +49,19 @@ responses:
       Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, hãy để tôi biết. Tôi sẽ cố gắng giúp bạn trong khả năng của mình. Chúc bạn có một trải nghiệm mua sắm tuyệt vời!
   utter_birthday:
   - text: Tôi không có ngày sinh như con người. Tôi là một trợ lý ảo được tạo ra bởi VCC, với mục đích là cung cấp hỗ trợ và thông tin cho mọi người. Tuy nhiên, nếu bạn muốn biết, tôi đã được phát triển và ra mắt vào năm 2024.
-  utter_question_offen_met:
+  utter_ask_feature_bot:
   - text: |-
-      Dưới đây là một số câu hỏi phổ biến mà người dùng thường đặt khi mua sắm:
-        1. Có sản phẩm nào đang được giảm giá không?
-        2. Bạn có thể giúp tôi tìm sản phẩm này không?
-        3. Sản phẩm này có sẵn trong cửa hàng gần nhất không?
-        4. Bạn có thể so sánh giá của sản phẩm này ở các cửa hàng khác nhau không?
-        5. Tôi có thể trả hàng nếu không hài lòng với sản phẩm không?
-        6. Bạn có thể tư vấn cho tôi về sản phẩm này không?
-        7. Tôi có thể thanh toán bằng phương thức nào?
-        8. Bạn có thể gửi hàng đến địa chỉ của tôi không?
-        9. Sản phẩm này có bảo hành không?
-       10. Bạn có thể giúp tôi đặt hàng trực tuyến không?
-      Nếu bạn có bất kỳ câu hỏi cụ thể nào hoặc cần hỗ trợ với một yêu cầu cụ thể, hãy cho tôi biết để tôi có thể giúp bạn tốt hơn.
-  - text: |-
-      Dưới đây là một số câu hỏi phổ biến mà người dùng thường đặt khi mua sắm:
-        1. Sản phẩm này có đánh giá tốt không?
-        2. Bạn có thể giúp tôi chọn kích cỡ/phù hợp không?
-        3. Sản phẩm này có sẵn trong màu sắc/kích thước khác không?
-        4. Bạn có thể giúp tôi tìm sản phẩm tương tự không?
-        5. Sản phẩm này có thể được vận chuyển quốc tế không?
-        6. Bạn có thể giúp tôi tìm sản phẩm trong phạm vi giá nhất định không?
-        7. Sản phẩm này có được bảo vệ bởi chính sách bảo mật không?
-        8. Bạn có thể giúp tôi tìm sản phẩm phù hợp với ngân sách của tôi không?
-        9. Sản phẩm này có thể được trả góp không?
-       10. Bạn có thể giúp tôi tìm sản phẩm theo thương hiệu nào đó không?
-      Nếu bạn có bất kỳ câu hỏi cụ thể nào khác hoặc cần hỗ trợ với một yêu cầu cụ thể, hãy cho tôi biết để tôi có thể giúp bạn tốt hơn.
-  utter_ask_service_name:
-  - text: |-
-      Tôi có thể thực hiện những dịch vụ mà quý khách yêu cầu: 
-        1. Tìm kiếm sản phẩm mà quý khách cần 
+      Tôi có thể thực hiện những yêu cầu sau: 
+        1. Tìm kiếm sản phẩm mà khách hàng yêu cầu 
         2. Đưa ra các thông tin chi tiết về sản phẩm 
         3. Đưa ra giá thành sản phẩm với số tiền bạn có 
         4. Gợi ý những sản phẩm tương tự 
-        5. Chính sách bảo hành
       Hãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.
-  # - text: "VCC có nhiều dịch vụ hỗ trợ khách hàng như sau:"
-  #   buttons:
-  #   - title: "Tìm kiếm sản phẩm"
-  #     payload: "Tìm kiếm sản phẩm"
-  #   buttons:
-  #   - title: "Đưa ra các thông tin chi tiết về sản phẩm"
-  #     payload: "Đưa ra các thông tin chi tiết về sản phẩm"
-  #   buttons:
-  #   - title: "Đưa ra giá thành sản phẩm với số tiền bạn có"
-  #     payload: "Đưa ra giá thành sản phẩm với số tiền bạn có"
-  #   buttons:
-  #   - title: "Gợi ý những sản phẩm tương tự"
-  #     payload: "Gợi ý những sản phẩm tương tự"
-  #   buttons: 
-  #   - title: "Chính sách bảo hành"
-  #     payload: "Chính sách bảo hành"
+  utter_ask_service_name:
+  - text: |-
+      Tôi có thể thực hiện những dịch vụ mà khách hàng yêu cầu:
+        1. Đưa ra chính sách bảo hành
+        2. Tư vấn mua hàng
   utter_unclear:
   - text: Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.
   - text: Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?
@@ -143,40 +84,22 @@ responses:
   - text: |-
       Xin chào! Tôi là trợ lý mua sắm.
       Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
-  utter_change_product:
-  - text: |-
-      Có, bạn có thể đổi/trả sản phẩm nếu không hài lòng. VCC có chính sách đổi trả hàng bao gồm:
-         1. Thời gian áp dụng
-        - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
-        - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
-        2. Điều kiện:
-        - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
-        - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
-        - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
-        - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
-        - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
-        Lưu ý: Không áp dụng hoàn tiền sản phẩm
   utter_cancel_product:
   - text: Có, bạn có thể hủy đơn hàng sau khi đã đặt. Để hủy đơn hàng, bạn cần đăng nhập vào tài khoản của mình
-  utter_order_from_overseas:
-  - text: Khách hàng chỉ có thể mua hàng từ nhà bán trong lãnh thổ Việt Nam trên trang thương mại điện tử VCC.
-  - text: Bạn chỉ có thể mua hàng từ nhà bán trong lãnh thổ Việt Nam trên trang thương mại điện tử VCC.
   utter_list_product:
   - text: |-
-      Chúng tôi cung cấp đa dạng các sản phẩm thuộc 19 danh mục, bao gồm:
-        Chăm sóc cá nhân: Bàn là - Bàn ủi, Máy sấy tóc
+      Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
         Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
-        Thiết bị gia đình: Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
-        Công nghệ & Tiện ích: Thiết bị Wifi, Đèn năng lượng mặt trời
-        Khác: Thiết bị gia dụng
-  utter_warranty_policy_1:
-  - text: |-
-      Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu "Danh sách sản phẩm".
-      Dưới đây là chính sách bảo hành sản phẩm của chúng tôi:
-        1. Chính sách bảo hành 1 đổi 1
-        2. Chính sách bảo hành sửa chữa, thay thế linh kiện
-      Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
-      Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+        Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+        Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+#   utter_warranty_policy:
+#   - text: |-
+#       Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu "Danh sách sản phẩm".
+#       Dưới đây là chính sách bảo hành sản phẩm của chúng tôi:
+#         1. Chính sách bảo hành 1 đổi 1
+#         2. Chính sách bảo hành sửa chữa, thay thế linh kiện
+#       Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
+#       Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
   utter_warranty_policy_1vs1:
   - text: |-
       Chính sách 1 đổi 1:
@@ -206,6 +129,7 @@ responses:
         theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
         phẩm bảo hành do TT. GP&DVKT ban hành.
         - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+  
   utter_promotion:
   - text: Hiện tại chúng tôi chưa có chương trình khuyến mãi và giảm giá nào.
   utter_order_produce:
@@ -219,13 +143,6 @@ responses:
       6. Kiểm tra lại đơn hàng và xác nhận mua hàng bằng cách nhấp vào nút "Đặt hàng" hoặc "Mua ngay".
       Sau khi hoàn thành các bước trên, hệ thống sẽ gửi cho bạn một mã số đơn hàng và thông báo thời gian giao hàng dự kiến. Bạn có thể kiểm tra lại đơn hàng của mình bằng cách truy cập vào trang "Đơn hàng của tôi" trên app hoặc kiểm tra email xác nhận đơn hàng.
       Nếu bạn gặp bất kỳ vấn đề nào trong quá trình đặt hàng, hãy liên hệ với bộ phận hỗ trợ khách hàng của VCC để được giúp đỡ.
-  utter_delivery_time:
-  - text: |-
-      Thời gian giao hàng phụ thuộc vào các yếu tố khác nhau và có thể khác nhau tùy theo dịch vụ giao hàng và địa chỉ nhận hàng. Trong các thông tin đã được cung cấp, có một số thông tin về thời gian giao hàng của VCC và các dịch vụ giao hàng khác nhau.
-      Tuy nhiên, để biết thời gian giao hàng cụ thể cho đơn hàng của bạn, bạn nên kiểm tra thông tin vận chuyển và thời gian giao hàng dự kiến tại bước "Thanh toán" khi đặt hàng.
-  utter_order_status:
-  - text: |-
-      Có, bạn có thể kiểm tra tình trạng đơn hàng của mình bằng cách truy cập vào trang "Đơn hàng của tôi" trên app VCC hoặc kiểm tra email xác nhận đơn hàng. Trong trang "Đơn hàng của tôi", bạn sẽ thấy thông tin về đơn hàng của mình, bao gồm mã số đơn hàng, tình trạng đơn hàng và thông tin vận chuyển. Nếu bạn có bất kỳ câu hỏi hoặc cần hỗ trợ thêm, hãy liên hệ với bộ phận hỗ trợ khách hàng của VCC.
   utter_pay_produce:
   - text: |-
       VCC hiện đang hỗ trợ các cách thức thanh toán sau:
@@ -234,20 +151,13 @@ responses:
       3. Thanh toán online qua thẻ tín dụng, chuyển khoản, ví điện tử: Sau khi tìm hiểu thông tin về sản phẩm, người mua xác thực đơn hàng, người bán xác nhận thông tin người mua, người mua thanh toán.
   utter_delivery_free:
   - text: |-
-      Theo thông tin trong tài liệu hỗ trợ của VCC, không có thông tin cụ thể về việc VCC có giao hàng miễn phí hay không. Tuy nhiên, VCC có thể áp dụng các coupon giảm giá phí vận chuyển hoặc hỗ trợ phí vận chuyển cho chủ thẻ VCC Platinum. Để biết thêm thông tin chi tiết về việc giao hàng miễn phí, bạn có thể liên hệ với VCC trực tiếp hoặc kiểm tra các chính sách vận chuyển trên trang web của VCC.
+      Theo thông tin trong tài liệu hỗ trợ của VCC, không có thông tin cụ thể về việc VCC có giao hàng miễn phí hay không. Tuy nhiên, VCC có thể áp dụng các coupon giảm giá phí vận chuyển hoặc hỗ trợ phí vận chuyển. Để biết thêm thông tin chi tiết về việc giao hàng miễn phí, bạn có thể liên hệ với VCC trực tiếp hoặc kiểm tra các chính sách vận chuyển trên trang web của VCC.
   utter_time_open_door:
   - text: |-
-      VCC giao hàng trong giờ hành chính từ 8h30 sáng đến 17h30 chiều vào các ngày trong tuần. Tuy nhiên, các cửa hàng và nhà bán hàng trên VCC có thể có thời gian hoạt động khác nhau. Để biết thời gian hoạt động cụ thể của cửa hàng bạn quan tâm, bạn có thể kiểm tra trên trang thông tin của cửa hàng hoặc liên hệ trực tiếp với VCC để được hỗ trợ.Xin cảm ơn quý khách!
-  utter_member:
-  - text: |-
-      Theo thông tin trong tài liệu hỗ trợ của VCC, có đề cập đến chương trình thành viên VIP. Tuy nhiên, không có thông tin cụ thể về việc VCC có chương trình thành viên khác hay không. Để biết thêm thông tin chi tiết về chương trình thành viên của VCC, bạn có thể kiểm tra trên trang web của VCC hoặc liên hệ trực tiếp với VCC để được hỗ trợ.
-  utter_vip_member:
-  - text: |-
-      Để trở thành thành viên VIP của VCC, bạn có thể đăng ký gói hội viên VIP trên trang web của VCC. Tuy nhiên, không có thông tin cụ thể về cách đăng ký và trở thành thành viên VIP trong tài liệu hỗ trợ của VCC. Để biết thêm thông tin chi tiết về cách trở thành thành viên VIP, bạn có thể liên hệ trực tiếp với VCC hoặc kiểm tra trên trang web của VCC.
+      Tôi hoạt động 24/24 giờ để phục vụ nhu câu mua sắm của khách hàng. Để biết thông tin cụ thể về thời gian hoạt động bạn có thể kiểm tra trên trang thông tin của VCC hoặc liên hệ trực tiếp với VCC để được hỗ trợ.Xin cảm ơn quý khách!
   utter_support_KH:
   - text: |-
       Nếu bạn gặp vấn đề với đơn hàng của mình, bạn có thể liên hệ với bộ phận VCC để được hỗ trợ. Trong vòng 48 giờ, bạn có thể liên hệ với VCC và cung cấp các bằng chứng liên quan (nếu có) để họ có thể giải quyết vấn đề của bạn một cách nhanh chóng. Bạn có thể liên hệ với VCC thông qua chat trực tuyến trên trang web hoặc ứng dụng bán hàng của VCC.
-
   utter_search_product:
   - text: LLM_predict
 
