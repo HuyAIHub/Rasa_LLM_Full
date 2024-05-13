@@ -48,17 +48,17 @@ class ExtractProduceAction(Action):
                 produce_name_policy = ent["value"]
 
         # You can now use this name in your bot logic
-        products = ["bàn chải điện", "bàn là", "bếp từ", "bình đun nước", "bình nóng lạnh", "đèn năng lượng mặt trời", "điều hòa", "ghế massage daikiosan", "lò vi sóng", "máy cạo rau", "máy đánh trứng", "máy ép", "máy giặt", "máy hút bụi", "máy lọc không khí", "máy lọc nước", "máy sấy tóc", "máy xay", "nồi áp suất", "nồi chiên không dầu", "nồi cơm điện", "robot hút bụi", "thiết bị Webcam", "thiết bị Wifi", "thiết bị camera", "lò nướng"]       
+        products = ["chính sách", "bảo hành", "chính sách bảo hành", "chinh sach", "bao hanh", "chinh sach bao hanh"]       
         if any(p == produce_name_policy.lower() for p in products):
             dispatcher.utter_message(text=f"""
                 Chính sách bảo hành sản phẩm {produce_name_policy} của chúng tôi bao gồm:
-                1. Chính sách bảo hành 1 đổi 1
-                2. Chính sách bảo hành sửa chữa, thay thế linh kiện
-                Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
-                Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+        1. Chính sách bảo hành 1 đổi 1
+        2. Chính sách bảo hành sửa chữa, thay thế linh kiện
+        Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
+        Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
                 """)
         else:
-            dispatcher.utter_message(text="Quý khách xin thông cảm! Sản phẩm này không nằm trong danh mục các sản phẩm bảo hành của công ty chúng tôi.")
+            dispatcher.utter_message(text="Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.")
 
         return []
     
