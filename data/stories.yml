@@ -31,10 +31,10 @@ stories:
   - action: utter_thanks
 
 # hoi dich vu
-- story: path3
-  steps:
-  - intent: ask_service_name
-  - action: utter_ask_service_name
+# - story: path3
+#   steps:
+#   - intent: ask_service_name
+#   - action: utter_ask_service_name
 
 #hoi san pham
 - story: path4
@@ -95,20 +95,10 @@ stories:
   - intent: buy_dont_money
   - action: utter_buy_dont_money
 
-- story: path15
-  steps:
-  - intent: warranty_policy_1vs1
-  - action: utter_warranty_policy_1vs1
-
-- story: path15.1
-  steps:
-  - intent: warranty_policy_bark
-  - action: utter_warranty_policy_bark
-
-- story: path16
-  steps:
-   - intent: warranty_policy
-   - action: action_extract_produce
+# - story: path16
+#   steps:
+#    - intent: warranty_policy
+#    - action: action_extract_produce
 
 - story: path17
   steps:
@@ -139,3 +129,15 @@ stories:
   steps:
    - intent: ask_feature_bot
    - action: utter_ask_feature_bot
+
+- story: path23
+  steps:
+   - intent: ask_service_name
+   - action: utter_policy_message
+   
+- story: path24
+  steps:
+   - intent: warranty_policy
+   - action: action_extract_produce
+
+

@@ -31,7 +31,7 @@ class ExtractNameAction(Action):
 
         return []
 
-#produce
+#policy_produce
 class ExtractProduceAction(Action):
 
     def name(self) -> Text:
@@ -48,17 +48,34 @@ class ExtractProduceAction(Action):
                 produce_name_policy = ent["value"]
 
         # You can now use this name in your bot logic
-        products = ["bàn chải điện", "bàn là", "bếp từ", "bình đun nước", "bình nóng lạnh", "đèn năng lượng mặt trời", "điều hòa", "ghế massage daikiosan", "lò vi sóng", "máy cạo rau", "máy đánh trứng", "máy ép", "máy giặt", "máy hút bụi", "máy lọc không khí", "máy lọc nước", "máy sấy tóc", "máy xay", "nồi áp suất", "nồi chiên không dầu", "nồi cơm điện", "robot hút bụi", "thiết bị Webcam", "thiết bị Wifi", "thiết bị camera", "lò nướng"]       
+        products = ["chính sách", "bảo hành", "chính sách bảo hành", "chinh sach", "bao hanh", "chinh sach bao hanh"]       
         if any(p == produce_name_policy.lower() for p in products):
             dispatcher.utter_message(text=f"""
-                Chính sách bảo hành sản phẩm {produce_name_policy} của chúng tôi bao gồm:
+                Chính sách bảo hành sản phẩm của chúng tôi bao gồm:
                 1. Chính sách bảo hành 1 đổi 1
+                    1.1. Thời gian áp dụng
+                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
+                    1.2. Điều kiện:
+                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
+                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
+                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
+                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
+                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+                    Lưu ý: Không áp dụng hoàn tiền sản phẩm
                 2. Chính sách bảo hành sửa chữa, thay thế linh kiện
-                Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
-                Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+                    2.1. Thời gian
+                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+                    2.2. Phạm vi
+                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).
+                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.
+                    2.3. Điều kiện được bảo hành
+                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
+                    phẩm bảo hành do TT. GP&DVKT ban hành.
+                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
                 """)
         else:
-            dispatcher.utter_message(text="Quý khách xin thông cảm! Sản phẩm này không nằm trong danh mục các sản phẩm bảo hành của công ty chúng tôi.")
+            dispatcher.utter_message(text="Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.")
 
         return []
-    

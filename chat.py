@@ -50,13 +50,17 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     # Predict Text
     conversation, memory = initialize_chat_conversation(faiss_index, config_app["parameter"]["gpt_model_to_use"],
                                                 conversation_messages_conv, conversation_messages_snippets)
-    results = {'out_text':''}
+    results = {
+        'terms':'','out_text':''}
     if type == 'rasa':
         # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
         response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
         
         if len(response.json()) == 0:
             results['out_text'] = config_app['parameter']['can_not_res'][random_number]
+        elif response.json()[0].get("buttons"):
+            results['terms'] = response.json()[0]["buttons"]
+            results['out_text'] = response.json()[0]["text"]
         else:
             results['out_text'] = response.json()[0]["text"]
 
@@ -88,4 +92,4 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     with Path(path_messages + "/messages_snippets.json").open("w",encoding="utf-8") as f:
         json.dump(messages_snippets, f, indent=4, ensure_ascii=False)
 
-    return results['out_text']
+    return results
