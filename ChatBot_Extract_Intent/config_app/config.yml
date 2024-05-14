@@ -28,7 +28,7 @@ parameter:
 
   # Số đoạn trích được FAISS truy xuất
   number_snippets_to_retrieve: 5
-  
+ 
   #Thông tin sản phẩm
   data_private: ./ChatBot_Extract_Intent/data/product_final_204_oke.xlsx
 

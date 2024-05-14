@@ -95,15 +95,7 @@ stories:
   - intent: buy_dont_money
   - action: utter_buy_dont_money
 
-- story: path15
-  steps:
-  - intent: warranty_policy_1vs1
-  - action: utter_warranty_policy_1vs1
 
-- story: path15.1
-  steps:
-  - intent: warranty_policy_bark
-  - action: utter_warranty_policy_bark
 
 - story: path16
   steps:

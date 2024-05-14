@@ -29,137 +29,99 @@ entities:
 - user_name
 - produce_name_policy
 responses:
-  utter_buy_dont_money:
-  - text: Thông tin ngữ cảnh không cung cấp chi tiết cụ thể về việc có thể mua hàng mà không phải trả tiền hay không. Tuy nhiên, nhìn chung, khi mua sắm trực tuyến, việc thanh toán là bắt buộc để hoàn tất giao dịch mua. Nếu bạn có câu hỏi cụ thể về các tùy chọn thanh toán hoặc nếu có bất kỳ chương trình khuyến mãi hoặc giảm giá nào, vui lòng cho tôi biết và tôi sẽ cố gắng hết sức để hỗ trợ bạn.
-  utter_evaluate_product:
-  - text: Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.
-  utter_greet:
-  - text: |-
-      Xin chào quý khách! Tôi là trợ lý mua sắm.
-      Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
-  - text: |-
-      Chào quý khách! Tôi là trợ lý mua sắm.
-      Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
-  utter_cheer_up:
-  - text: 'Here is something to cheer you up:'
-    image: https://i.imgur.com/nGF1K8f.jpg
-  utter_goodbye:
-  - text: |-
-      Rất vui được giúp bạn!
-      Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, hãy để tôi biết. Tôi sẽ cố gắng giúp bạn trong khả năng của mình. Chúc bạn có một trải nghiệm mua sắm tuyệt vời!
-  utter_birthday:
-  - text: Tôi không có ngày sinh như con người. Tôi là một trợ lý ảo được tạo ra bởi VCC, với mục đích là cung cấp hỗ trợ và thông tin cho mọi người. Tuy nhiên, nếu bạn muốn biết, tôi đã được phát triển và ra mắt vào năm 2024.
-  utter_ask_feature_bot:
-  - text: |-
-      Tôi có thể thực hiện những yêu cầu sau: 
-        1. Tìm kiếm sản phẩm mà khách hàng yêu cầu 
-        2. Đưa ra các thông tin chi tiết về sản phẩm 
-        3. Đưa ra giá thành sản phẩm với số tiền bạn có 
-        4. Gợi ý những sản phẩm tương tự 
-      Hãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.
-  utter_ask_service_name:
-  - text: |-
-      Tôi có thể thực hiện những dịch vụ mà khách hàng yêu cầu:
-        1. Đưa ra chính sách bảo hành
-        2. Tư vấn mua hàng
-  utter_unclear:
-  - text: Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.
-  - text: Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?
-  - text: Tôi là bot được tạo ra để hỗ trợ tư vẫn bán hàng nên những câu hỏi không liên quan tôi sẽ không thể giải đáp được.
-  - text: Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!
-  - text: Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?
-  utter_home:
-  - text: Tôi là một trợ lý ảo và không có một nơi cụ thể để ở. Tôi được tạo ra để hỗ trợ bạn trong việc mua sắm và cung cấp thông tin hữu ích. Bạn có câu hỏi hoặc yêu cầu gì khác không? Tôi sẽ cố gắng giúp bạn.
+    utter_buy_dont_money:
+    - text: Thông tin ngữ cảnh không cung cấp chi tiết cụ thể về việc có thể mua hàng mà không phải trả tiền hay không. Tuy nhiên, nhìn chung, khi mua sắm trực tuyến, việc thanh toán là bắt buộc để hoàn tất giao dịch mua. Nếu bạn có câu hỏi cụ thể về các tùy chọn thanh toán hoặc nếu có bất kỳ chương trình khuyến mãi hoặc giảm giá nào, vui lòng cho tôi biết và tôi sẽ cố gắng hết sức để hỗ trợ bạn.
+    utter_evaluate_product:
+    - text: Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.
+    utter_greet:
+    - text: |-
+        Xin chào quý khách! Tôi là trợ lý mua sắm.
+        Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+    - text: |-
+        Chào quý khách! Tôi là trợ lý mua sắm.
+        Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+    utter_cheer_up:
+    - text: 'Here is something to cheer you up:'
+        image: https://i.imgur.com/nGF1K8f.jpg
+    utter_goodbye:
+    - text: |-
+        Rất vui được giúp bạn!
+        Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, hãy để tôi biết. Tôi sẽ cố gắng giúp bạn trong khả năng của mình. Chúc bạn có một trải nghiệm mua sắm tuyệt vời!
+    utter_birthday:
+    - text: Tôi không có ngày sinh như con người. Tôi là một trợ lý ảo được tạo ra bởi VCC, với mục đích là cung cấp hỗ trợ và thông tin cho mọi người. Tuy nhiên, nếu bạn muốn biết, tôi đã được phát triển và ra mắt vào năm 2024.
+    utter_ask_feature_bot:
+    - text: |-
+        Tôi có thể thực hiện những yêu cầu sau: 
+            1. Tìm kiếm sản phẩm mà khách hàng yêu cầu: tìm kiếm bằng hình ảnh, video.
+            2. Đưa ra các thông tin chi tiết về sản phẩm: hình ảnh sản phẩm, thông số sản phẩm,... 
+            3. Đưa ra giá thành sản phẩm với số tiền bạn có 
+            4. Gợi ý những sản phẩm tương tự 
+        Hãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.
+    utter_ask_service_name:
+    - text: |-
+        Tôi có thể thực hiện những dịch vụ mà khách hàng yêu cầu:
+            1. Đưa ra chính sách bảo hành
+            2. Tư vấn mua hàng
+    utter_unclear:
+    - text: Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.
+    - text: Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?
+    - text: Tôi là bot được tạo ra để hỗ trợ tư vẫn bán hàng nên những câu hỏi không liên quan tôi sẽ không thể giải đáp được.
+    - text: Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!
+    - text: Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?
+    utter_home:
+    - text: Tôi là một trợ lý ảo và không có một nơi cụ thể để ở. Tôi được tạo ra để hỗ trợ bạn trong việc mua sắm và cung cấp thông tin hữu ích. Bạn có câu hỏi hoặc yêu cầu gì khác không? Tôi sẽ cố gắng giúp bạn.
 
-  utter_love:
-  - text: Vì tôi chỉ là một trợ lý ảo không có cảm xúc và khả năng tương tác cá nhân, nên tôi không có khái niệm về việc có người yêu hay không. Tuy nhiên, nếu bạn có bất kỳ câu hỏi nào về sản phẩm hoặc dịch vụ bạn quan tâm, tôi sẽ rất vui được giúp đỡ!
-  utter_thanks:
-  - text: |-
-      Cảm ơn bạn về lời khen!
-      Tôi được thiết kế để hỗ trợ bạn trong việc mua sắm và cung cấp thông tin chi tiết về sản phẩm, giá cả và các dịch vụ của VCC. Nếu bạn có bất kỳ câu hỏi nào hoặc cần giúp đỡ về mua sắm, hãy nói cho tôi biết và tôi sẽ cố gắng giúp bạn một cách tốt nhất.
-  - text: Không có gì, rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn.
-  - text: Rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn. Bạn có câu hỏi hoặc yêu cầu gì khác không?
-  - text: Không có gì, rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn. Bạn có câu hỏi hoặc yêu cầu gì khác không?
-  utter_iamabot:
-  - text: |-
-      Xin chào! Tôi là trợ lý mua sắm.
-      Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
-  utter_cancel_product:
-  - text: Có, bạn có thể hủy đơn hàng sau khi đã đặt. Để hủy đơn hàng, bạn cần đăng nhập vào tài khoản của mình
-  utter_list_product:
-  - text: |-
-      Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
-        Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
-        Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
-        Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
-#   utter_warranty_policy:
-#   - text: |-
-#       Chúng tôi bảo hành cho các sản phẩm có trong danh mục bán của VCC.Quý khách muốn biết chi tiết sản phẩm vui lòng nhập yêu cầu "Danh sách sản phẩm".
-#       Dưới đây là chính sách bảo hành sản phẩm của chúng tôi:
-#         1. Chính sách bảo hành 1 đổi 1
-#         2. Chính sách bảo hành sửa chữa, thay thế linh kiện
-#       Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
-#       Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
-  utter_warranty_policy_1vs1:
-  - text: |-
-      Chính sách 1 đổi 1:
-        1. Thời gian áp dụng
-        - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
-        - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
-        2. Điều kiện:
-        - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
-        - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
-        - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
-        - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
-        - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
-        Lưu ý: Không áp dụng hoàn tiền sản phẩm
-  utter_warranty_policy_bark:
-  - text: |-
-      Chính sách bảo hành sửa chữa, thay thế linh kiện:
-        1. Thời gian
-        - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên
-        bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
-        2. Phạm vi
-        - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản
-        xuất quy định với từng sản phẩm).
-        - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng
-        cách hoặc hỏng hóc do nguyên nhân bên ngoài.
-        3. Điều kiện được bảo hành
-        - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ
-        theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
-        phẩm bảo hành do TT. GP&DVKT ban hành.
-        - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
-  
-  utter_promotion:
-  - text: Hiện tại chúng tôi chưa có chương trình khuyến mãi và giảm giá nào.
-  utter_order_produce:
-  - text: |-
-      Xin chào! Để đặt hàng của công ty chúng tôi, bạn có thể làm theo các bước sau:
-      1. Truy cập vào trang bán hàng của VCC
-      2. Tìm kiếm sản phẩm mà bạn muốn mua bằng cách sử dụng thanh tìm kiếm hoặc duyệt qua các danh mục sản phẩm.
-      3. Chọn sản phẩm bạn muốn mua và nhấp vào nút "Thêm vào giỏ hàng".
-      4. Kiểm tra lại giỏ hàng của bạn để đảm bảo rằng bạn đã chọn đúng sản phẩm và số lượng.
-      5. Nhập thông tin địa chỉ giao hàng của bạn và chọn phương thức thanh toán phù hợp.
-      6. Kiểm tra lại đơn hàng và xác nhận mua hàng bằng cách nhấp vào nút "Đặt hàng" hoặc "Mua ngay".
-      Sau khi hoàn thành các bước trên, hệ thống sẽ gửi cho bạn một mã số đơn hàng và thông báo thời gian giao hàng dự kiến. Bạn có thể kiểm tra lại đơn hàng của mình bằng cách truy cập vào trang "Đơn hàng của tôi" trên app hoặc kiểm tra email xác nhận đơn hàng.
-      Nếu bạn gặp bất kỳ vấn đề nào trong quá trình đặt hàng, hãy liên hệ với bộ phận hỗ trợ khách hàng của VCC để được giúp đỡ.
-  utter_pay_produce:
-  - text: |-
-      VCC hiện đang hỗ trợ các cách thức thanh toán sau:
-      1. Thanh toán trực tiếp (người mua nhận hàng tại địa chỉ người bán): Sau khi tìm hiểu thông tin về sản phẩm, người mua đến địa chỉ bán hàng, thanh toán và nhận hàng.
-      2. Thanh toán sau - Thanh toán tiền mặt (COD - giao hàng và thu tiền tận nơi): Sau khi tìm hiểu thông tin về sản phẩm, người mua xác thực đơn hàng, người bán xác nhận thông tin người mua, người bán chuyển hàng, người mua nhận hàng và thanh toán.
-      3. Thanh toán online qua thẻ tín dụng, chuyển khoản, ví điện tử: Sau khi tìm hiểu thông tin về sản phẩm, người mua xác thực đơn hàng, người bán xác nhận thông tin người mua, người mua thanh toán.
-  utter_delivery_free:
-  - text: |-
-      Theo thông tin trong tài liệu hỗ trợ của VCC, không có thông tin cụ thể về việc VCC có giao hàng miễn phí hay không. Tuy nhiên, VCC có thể áp dụng các coupon giảm giá phí vận chuyển hoặc hỗ trợ phí vận chuyển. Để biết thêm thông tin chi tiết về việc giao hàng miễn phí, bạn có thể liên hệ với VCC trực tiếp hoặc kiểm tra các chính sách vận chuyển trên trang web của VCC.
-  utter_time_open_door:
-  - text: |-
-      Tôi hoạt động 24/24 giờ để phục vụ nhu câu mua sắm của khách hàng. Để biết thông tin cụ thể về thời gian hoạt động bạn có thể kiểm tra trên trang thông tin của VCC hoặc liên hệ trực tiếp với VCC để được hỗ trợ.Xin cảm ơn quý khách!
-  utter_support_KH:
-  - text: |-
-      Nếu bạn gặp vấn đề với đơn hàng của mình, bạn có thể liên hệ với bộ phận VCC để được hỗ trợ. Trong vòng 48 giờ, bạn có thể liên hệ với VCC và cung cấp các bằng chứng liên quan (nếu có) để họ có thể giải quyết vấn đề của bạn một cách nhanh chóng. Bạn có thể liên hệ với VCC thông qua chat trực tuyến trên trang web hoặc ứng dụng bán hàng của VCC.
-  utter_search_product:
-  - text: LLM_predict
+    utter_love:
+    - text: Vì tôi chỉ là một trợ lý ảo không có cảm xúc và khả năng tương tác cá nhân, nên tôi không có khái niệm về việc có người yêu hay không. Tuy nhiên, nếu bạn có bất kỳ câu hỏi nào về sản phẩm hoặc dịch vụ bạn quan tâm, tôi sẽ rất vui được giúp đỡ!
+    utter_thanks:
+    - text: |-
+        Cảm ơn bạn về lời khen!
+        Tôi được thiết kế để hỗ trợ bạn trong việc mua sắm và cung cấp thông tin chi tiết về sản phẩm, giá cả và các dịch vụ của VCC. Nếu bạn có bất kỳ câu hỏi nào hoặc cần giúp đỡ về mua sắm, hãy nói cho tôi biết và tôi sẽ cố gắng giúp bạn một cách tốt nhất.
+    - text: Không có gì, rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn.
+    - text: Rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn. Bạn có câu hỏi hoặc yêu cầu gì khác không?
+    - text: Không có gì, rất vui được giúp bạn! Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ trong mua sắm, đừng ngần ngại hỏi tôi. Tôi sẽ cố gắng giúp bạn. Bạn có câu hỏi hoặc yêu cầu gì khác không?
+    utter_iamabot:
+    - text: |-
+        Xin chào! Tôi là trợ lý mua sắm.
+        Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+    utter_cancel_product:
+    - text: Có, bạn có thể hủy đơn hàng sau khi đã đặt. Để hủy đơn hàng, bạn cần đăng nhập vào tài khoản của mình
+    utter_list_product:
+    - text: |-
+        Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+            Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+            Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+            Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+    utter_promotion:
+    - text: Hiện tại chúng tôi chưa có chương trình khuyến mãi và giảm giá nào.
+    utter_order_produce:
+    - text: |-
+        Xin chào! Để đặt hàng của công ty chúng tôi, bạn có thể làm theo các bước sau:
+        1. Truy cập vào trang bán hàng của VCC
+        2. Tìm kiếm sản phẩm mà bạn muốn mua bằng cách sử dụng thanh tìm kiếm hoặc duyệt qua các danh mục sản phẩm.
+        3. Chọn sản phẩm bạn muốn mua và nhấp vào nút "Thêm vào giỏ hàng".
+        4. Kiểm tra lại giỏ hàng của bạn để đảm bảo rằng bạn đã chọn đúng sản phẩm và số lượng.
+        5. Nhập thông tin địa chỉ giao hàng của bạn và chọn phương thức thanh toán phù hợp.
+        6. Kiểm tra lại đơn hàng và xác nhận mua hàng bằng cách nhấp vào nút "Đặt hàng" hoặc "Mua ngay".
+        Sau khi hoàn thành các bước trên, hệ thống sẽ gửi cho bạn một mã số đơn hàng và thông báo thời gian giao hàng dự kiến. Bạn có thể kiểm tra lại đơn hàng của mình bằng cách truy cập vào trang "Đơn hàng của tôi" trên app hoặc kiểm tra email xác nhận đơn hàng.
+        Nếu bạn gặp bất kỳ vấn đề nào trong quá trình đặt hàng, hãy liên hệ với bộ phận hỗ trợ khách hàng của VCC để được giúp đỡ.
+    utter_pay_produce:
+    - text: |-
+        VCC hiện đang hỗ trợ các cách thức thanh toán sau:
+        1. Thanh toán trực tiếp (người mua nhận hàng tại địa chỉ người bán): Sau khi tìm hiểu thông tin về sản phẩm, người mua đến địa chỉ bán hàng, thanh toán và nhận hàng.
+        2. Thanh toán sau - Thanh toán tiền mặt (COD - giao hàng và thu tiền tận nơi): Sau khi tìm hiểu thông tin về sản phẩm, người mua xác thực đơn hàng, người bán xác nhận thông tin người mua, người bán chuyển hàng, người mua nhận hàng và thanh toán.
+        3. Thanh toán online qua thẻ tín dụng, chuyển khoản, ví điện tử: Sau khi tìm hiểu thông tin về sản phẩm, người mua xác thực đơn hàng, người bán xác nhận thông tin người mua, người mua thanh toán.
+    utter_delivery_free:
+    - text: |-
+        Theo thông tin trong tài liệu hỗ trợ của VCC, không có thông tin cụ thể về việc VCC có giao hàng miễn phí hay không. Tuy nhiên, VCC có thể áp dụng các coupon giảm giá phí vận chuyển hoặc hỗ trợ phí vận chuyển. Để biết thêm thông tin chi tiết về việc giao hàng miễn phí, bạn có thể liên hệ với VCC trực tiếp hoặc kiểm tra các chính sách vận chuyển trên trang web của VCC.
+    utter_time_open_door:
+    - text: |-
+        Tôi hoạt động 24/24 giờ để phục vụ nhu câu mua sắm của khách hàng. Để biết thông tin cụ thể về thời gian hoạt động bạn có thể kiểm tra trên trang thông tin của VCC hoặc liên hệ trực tiếp với VCC để được hỗ trợ.Xin cảm ơn quý khách!
+    utter_support_KH:
+    - text: |-
+        Nếu bạn gặp vấn đề với đơn hàng của mình, bạn có thể liên hệ với bộ phận VCC để được hỗ trợ. Trong vòng 48 giờ, bạn có thể liên hệ với VCC và cung cấp các bằng chứng liên quan (nếu có) để họ có thể giải quyết vấn đề của bạn một cách nhanh chóng. Bạn có thể liên hệ với VCC thông qua chat trực tuyến trên trang web hoặc ứng dụng bán hàng của VCC.
+    utter_search_product:
+    - text: LLM_predict
 
 actions:
 - action_extract_name
