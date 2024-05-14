@@ -31,10 +31,32 @@ async def post(InputText: str = Form(None),
     "time_processing":''
     }
     # try:
+    results["terms"]= [
+    {
+      "payload": "/Tôi đang quan tâm sản phẩm điều hòa?",
+      "title": "Bạn đang quan tâm sản phẩm điều hòa?"
+    },
+    {
+      "payload": "/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá 10 triệu?",
+      "title": " Bạn muốn mua sản phẩm Đèn năng mặt trời với giá 10 triệu?"
+    },
+    {
+      "payload": "/Tôi muốn biết VCC bán những gì?",
+      "title": "Bạn muốn biết VCC bán những gì?"
+    },
+    {
+      "payload": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+      "title": "Bạn đang quan tâm đến dịch vụ, chính sách của VCC?"
+    }]
+
+    results["content"]=["""Xin chào! Mình là trợ lý AI của bạn tại VCC. Mình đang phát triển nên không phải lúc nào cũng đúng. 
+    Bạn có thể phản hồi để giúp mình cải thiện tốt hơn. 
+    Hôm nay bạn cần mình hỗ trợ gì hông? ^^"""]
 
     chat_out = predict_rasa_llm(InputText,IdRequest,NameBot,User)
     results = product_seeking(results = results, texts=chat_out)
-    results['content'] = chat_out
+    results['content'] = chat_out['out_text']
+    results['terms'] = chat_out['terms']
     print(results)
     return results
 
