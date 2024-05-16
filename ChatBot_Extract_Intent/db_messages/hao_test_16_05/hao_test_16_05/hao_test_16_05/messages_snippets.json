@@ -1,0 +1,938 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bếp từ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "thiết bị wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy đánh trứng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về máy đánh trứng. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn làm được gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "dịch vụ bên bạn là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Nếu bạn cần biết thêm thông tin hoặc có yêu cầu cụ thể về dịch vụ của VCC, xin vui lòng cho biết.?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hủy đơn hàng thế nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi là bot được tạo ra để hỗ trợ tư vẫn bán hàng nên những câu hỏi không liên quan tôi sẽ không thể giải đáp được.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có giao hàng miễn phí không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hoạt động đến khi nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi hoạt động 24/24 giờ để phục vụ nhu câu mua sắm của khách hàng. Để biết thông tin cụ thể về thời gian hoạt động bạn có thể kiểm tra trên trang thông tin của VCC hoặc liên hệ trực tiếp với VCC để được hỗ trợ.Xin cảm ơn quý khách!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đặt hàng thế nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Để đặt hàng của công ty chúng tôi, bạn có thể làm theo các bước sau:\n1. Truy cập vào trang bán hàng của VCC\n2. Tìm kiếm sản phẩm mà bạn muốn mua bằng cách sử dụng thanh tìm kiếm hoặc duyệt qua các danh mục sản phẩm.\n3. Chọn sản phẩm bạn muốn mua và nhấp vào nút \"Thêm vào giỏ hàng\".\n4. Kiểm tra lại giỏ hàng của bạn để đảm bảo rằng bạn đã chọn đúng sản phẩm và số lượng.\n5. Nhập thông tin địa chỉ giao hàng của bạn và chọn phương thức thanh toán phù hợp.\n6. Kiểm tra lại đơn hàng và xác nhận mua hàng bằng cách nhấp vào nút \"Đặt hàng\" hoặc \"Mua ngay\".\nSau khi hoàn thành các bước trên, hệ thống sẽ gửi cho bạn một mã số đơn hàng và thông báo thời gian giao hàng dự kiến. Bạn có thể kiểm tra lại đơn hàng của mình bằng cách truy cập vào trang \"Đơn hàng của tôi\" trên app hoặc kiểm tra email xác nhận đơn hàng.\nNếu bạn gặp bất kỳ vấn đề nào trong quá trình đặt hàng, hãy liên hệ với bộ phận hỗ trợ khách hàng của VCC để được giúp đỡ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tư vấn vê sản phẩm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về sản phẩm. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần hỗ trợ hủy đơn hàng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi đang gặp vấn đề về dơn hàng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Nếu bạn gặp vấn đề với đơn hàng của mình, bạn có thể liên hệ với bộ phận VCC để được hỗ trợ. Trong vòng 48 giờ, bạn có thể liên hệ với VCC và cung cấp các bằng chứng liên quan (nếu có) để họ có thể giải quyết vấn đề của bạn một cách nhanh chóng. Bạn có thể liên hệ với VCC thông qua chat trực tuyến trên trang web hoặc ứng dụng bán hàng của VCC.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "anh êu e",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Vì tôi chỉ là một trợ lý ảo không có cảm xúc và khả năng tương tác cá nhân, nên tôi không có khái niệm về việc có người yêu hay không. Tuy nhiên, nếu bạn có bất kỳ câu hỏi nào về sản phẩm hoặc dịch vụ bạn quan tâm, tôi sẽ rất vui được giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sinh năm nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi không có ngày sinh như con người. Tôi là một trợ lý ảo được tạo ra bởi VCC, với mục đích là cung cấp hỗ trợ và thông tin cho mọi người. Tuy nhiên, nếu bạn muốn biết, tôi đã được phát triển và ra mắt vào năm 2024.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua máy giặt lồng ngang",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Mua máy giặt từ Lồng Ngang tìm thấy:\n- Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11898480 VNĐ\n  Thông số kỹ thuật: Loại máy giặt: Cửa trước \nLồng giặt: Lồng ngang \nKhối lượng giặt: 10 Kg \nSố người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 1200 vòng/phút \nChất liệu vỏ máy: Thép không gỉ \nChất liệu nắp máy: Nhựa ABS + Gỗ Sản xuất tại: Thái Lan \nThời gian bảo hành động cơ: 10 năm \nHiệu suất sử dụng điện: 21.6 Wh/kg \nLoại Inverter: Công nghệ EcoInverter \nChương trình giặt: Đồ trải giường, Giặt nhanh , Giặt tiết kiệm, Vắt, Vệ sinh lồng giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ mỏng, Đồ trẻ sơ sinh \nCông nghệ giặt: Công nghệ giặt hơi nước Hygienic Care,Giặt nước nóng \nBảng điều khiển: Song ngữ Anh - Việt có nút xoay, cảm ứng và màn hình hiển thị \nTiện ích: Chỉnh số vòng vắt, Giặt sơ, Khóa trẻ em, Thêm đồ trong khi giặt, Trì hoãn kết thúc, Xả thêm \nKích thước, khối lượng: Cao 85 cm - Ngang 60 cm - Sâu 64 cm - Nặng 72 kg Chiều dài ống cấp nước: 134 cmChiều dài ống thoát nước: 222 cm\ngiá: 11898480\n- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 VNĐ\n  Thông số kỹ thuật: Loại máy giặt: Cửa trước \nLồng giặt: Lồng ngang \nKhối lượng giặt: 10 Kg \nSố người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 1200 vòng/phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Thép không gỉ \nChất liệu nắp máy: Nhựa ABS + Gỗ Sản xuất tại: Thái Lan \nThời gian bảo hành động cơ: 10 năm \nHiệu suất sử dụng điện: 21.8 Wh/kg \nLoại Inverter: Công nghệ EcoInverter \nChương trình giặt: Đồ trải giường, Giặt nhanh 15 phút, Giặt nhanh 39 phút, Vắt, Vệ sinh lồng giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ mỏng, Đồ trẻ sơ sinh Công nghệ giặt: Công nghệ Hygienic Care giúp loại bỏ vi khuẩnGiặt nước nóng \nBảng điều khiển: Song ngữ Anh - Việt \nTiện ích: Chỉnh số vòng vắt, Giặt sơ, Khóa trẻ em,Thêm đồ trong khi giặt, Trì hoãn kết thúc, Xả thêm \nKích thước, khối lượng: Cao 85 cm - Ngang 60 cm - Sâu 70 cm - Nặng 72 kg Chiều dài ống cấp nước: 133 cm Chiều dài ống thoát nước: 218 cm\ngiá: 12749000\n- Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14450040 VNĐ\n  Thông số kỹ thuật: Loại máy giặt: Cửa trước \nLồng giặt: Lồng ngang \nKhối lượng giặt: 10 Kg \nSố người sử dụng: Từ 5 - 7 người \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 1200 vòng/phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa + Kính cường lực, thép \nSản xuất tại: Thái Lan \nThời gian bảo hành động cơ: 10 năm \nHiệu suất sử dụng điện: 16.5 Wh/kg \nLoại Inverter: Công nghệ EcoInverter\nChương trình giặt: Chế độ yêu thích, Giặt 60 phút, Đồ trải giường, Giặt nhanh 15 phút, Giặt nhanh 39 phút, Giặt tiết kiệm, Vắt, Vệ sinh lồng giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ len, Đồ mỏng, Đồ thể thao, Đồ trẻ em Công nghệ giặt: Công nghệ giặt hơi nước Hygienic CareCông nghệ UltraMix hoà tan nước giặt hiệu quả \nBảng điều khiển: Song ngữ Anh - Việt có nút xoay, cảm ứng và màn hình hiển thị\nTiện ích: Chỉnh nhiệt độ nước, Chỉnh số vòng vắt, Khóa trẻ em, Lưu chương trình yêu thích, Quản lý thời gian, Thêm quần áo khi máy đang giặt, Trì hoãn kết thúc, Xả thêm, Chế độ giặt sơ tự động \nKích thước, khối lượng: Cao 85 cm - Ngang 60 cm - Sâu 65.5 cm - Nặng 76 kg Chiều dài ống cấp nước: 134 cmChiều dài ống thoát nước: 209 cm\ngiá: 14450040\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có bao nhiêu loại bàn chải điện",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bàn chải điện. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng bàn chải điện",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bàn chải điện. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bếp từ nào có công suất lớn nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bếp từ nào có công suất lớn nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt phổ biến nhất hiện nay là loại nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt phổ biến nhất hiện nay là loại nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt có giá dưới 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt có giá dưới 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa giá trên 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

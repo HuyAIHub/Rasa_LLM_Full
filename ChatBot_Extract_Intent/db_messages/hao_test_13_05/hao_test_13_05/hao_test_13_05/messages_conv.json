@@ -1,0 +1,54 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

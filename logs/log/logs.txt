@@ -30,22 +30,445 @@ To install langchain-community run `pip install -U langchain-community`.
   warn_deprecated(
 /home/aiai01/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
   warn_deprecated(
-/home/aiai01/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
-  warnings.warn(
-INFO:     Started server process [2306009]
+INFO:     Started server process [2017049]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://0.0.0.0:8099 (Press CTRL+C to quit)
-/home/aiai01/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:119: LangChainDeprecationWarning: The method `Chain.run` was deprecated in langchain 0.1.0 and will be removed in 0.2.0. Use invoke instead.
-  warn_deprecated(
 load_index_done!
 numberrequest 1
 ----------------NEW_SESSION--------------
-GuildID  =  9007752
+GuildID  =  166573
+INFO:     10.207.112.10:57698 - "POST /llm HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 496, in _make_request
+    conn.request(
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/connection.py", line 400, in request
+    self.endheaders()
+  File "/data/anaconda3/envs/langchain/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/data/anaconda3/envs/langchain/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/data/anaconda3/envs/langchain/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/connection.py", line 238, in connect
+    self.sock = self._new_conn()
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f87006d9b40>: Failed to establish a new connection: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/aiai01/.local/lib/python3.10/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+  File "/home/aiai01/.local/lib/python3.10/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=5005): Max retries exceeded with url: /webhooks/rest/webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f87006d9b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/aiai01/.local/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/home/aiai01/.local/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+  File "/home/aiai01/.local/lib/python3.10/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/data/Production/Rasa_LLM_Full/app.py", line 35, in post
+    chat_out = predict_rasa_llm(InputText,IdRequest,NameBot,User)
+  File "/data/Production/Rasa_LLM_Full/chat.py", line 56, in predict_rasa_llm
+    response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
+  File "/home/aiai01/.local/lib/python3.10/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=5005): Max retries exceeded with url: /webhooks/rest/webhook (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f87006d9b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+numberrequest 2
+----------------NEW_SESSION--------------
+GuildID  =  166573
+texts: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+time to find product link:  0.01035451889038086
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:57712 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 3
+----------------NEW_SESSION--------------
+GuildID  =  166573
+texts: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+time to find product link:  0.010153055191040039
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:59342 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 4
+----------------NEW_SESSION--------------
+GuildID  =  166573
+texts: Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?
+time to find product link:  0.009975433349609375
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:33112 - "POST /llm HTTP/1.1" 200 OK
+/home/aiai01/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:119: LangChainDeprecationWarning: The method `Chain.run` was deprecated in langchain 0.1.0 and will be removed in 0.2.0. Use invoke instead.
+  warn_deprecated(
+numberrequest 5
+----------------NEW_SESSION--------------
+GuildID  =  166573
 ======search_db======
-info: {'command': 'máy lọc nước', 'demand': '', 'object': ['máy lọc nước'], 'value': ''}
 ======take_db======
-======take_top_product======
-time to find product link:  0.003351449966430664
-{'products': [{'code': 577858, 'name': 'Máy lọc nước Pentair Everpure H104', 'link': '/input/mobile_images/2024/2/18/425/Máy lọc nước Pentair Everpure H104.png'}, {'code': 577842, 'name': 'Máy Lọc Nước A. O. Smith C1', 'link': '/input/mobile_images/2024/2/18/542/MÁY LỌC NƯỚC A. O. SMITH C1.png'}, {'code': 577879, 'name': 'Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038', 'link': '/input/mobile_images/2024/2/18/537/MÁY LỌC NƯỚC EMPIRE EPML038.png'}], 'terms': [{'payload': '/Tôi đang quan tâm sản phẩm điều hòa?', 'title': 'Bạn đang quan tâm sản phẩm điều hòa?'}, {'payload': '/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá 10 triệu?', 'title': ' Bạn muốn mua sản phẩm Đèn năng mặt trời với giá 10 triệu?'}, {'payload': '/Tôi muốn biết VCC bán những gì?', 'title': 'Bạn muốn biết VCC bán những gì?'}, {'payload': '/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?', 'title': 'Bạn đang quan tâm đến dịch vụ, chính sách của VCC?'}], 'content': "Sản phẩm 'máy lọc nước' tìm thấy:\n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \n- Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 - Giá: 4549270 - Số lượng đã bán: 24\n  Thông số kỹ thuật:\n    \n    • Dòng máy: Empire Pro nóng nguội \n    • Hình dáng: Máy lọc nước tủ đứng \n    • Số lõi lọc: 10 lõi lọc \n    • Công nghệ lọc: Công nghệ lọc RO \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n", 'status': 200, 'message': '', 'time_processing': 1.4074695110321045}
-INFO:     10.248.242.202:34292 - "POST /llm HTTP/1.1" 200 OK
+======process_command======
+info: {'command': 'tư vấn về máy lọc nước', 'demand': 'tư vấn', 'object': ['máy lọc nước'], 'value': ''}
+======handle_tskt======
+texts: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+time to find product link:  0.011201858520507812
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:33304 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 6
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+texts: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+time to find product link:  0.009786128997802734
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:33368 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 7
+----------------NEW_SESSION--------------
+GuildID  =  166573
+texts: Chúng tôi cung cấp đa dạng các sản phẩm thuộc 19 danh mục, bao gồm:
+  Chăm sóc cá nhân: Bàn là - Bàn ủi, Máy sấy tóc
+  Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+  Thiết bị gia đình: Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+  Công nghệ & Tiện ích: Thiết bị Wifi, Đèn năng lượng mặt trời
+  Khác: Thiết bị gia dụng
+time to find product link:  0.010188817977905273
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Chúng tôi cung cấp đa dạng các sản phẩm thuộc 19 danh mục, bao gồm:\n  Chăm sóc cá nhân: Bàn là - Bàn ủi, Máy sấy tóc\n  Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n  Thiết bị gia đình: Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n  Công nghệ & Tiện ích: Thiết bị Wifi, Đèn năng lượng mặt trời\n  Khác: Thiết bị gia dụng', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:33440 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 8
+----------------NEW_SESSION--------------
+GuildID  =  166573
+texts: Quý khách xin thông cảm! Sản phẩm này không nằm trong danh mục các sản phẩm bảo hành của công ty chúng tôi.
+time to find product link:  0.010294437408447266
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Quý khách xin thông cảm! Sản phẩm này không nằm trong danh mục các sản phẩm bảo hành của công ty chúng tôi.', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:33550 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 9
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+======process_command======
+info: {'command': 'chô tôi thong tin sản phẩm máy lọc không khí', 'demand': 'thông tin', 'object': ['máy lọc không khí'], 'value': ''}
+======handle_tskt======
+texts: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+time to find product link:  0.010133028030395508
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:34102 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 10
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+======process_command======
+info: {'command': 'tôi quan tâm sản phẩm máy lọc không khí', 'demand': 'quan tâm', 'object': ['máy lọc không khí'], 'value': ''}
+======handle_interest======
+texts: Sản phẩm 'máy lọc không khí' tìm thấy:
+- Máy lọc không khí Daikin MC30VVM - H - Giá: 3504000
+  Thông số kỹ thuật:
+    Model: MC30VVM 
+    Diện tích sử dụng: 20 - 25m² 
+    Lưu lượng gió: 180 m³/h 
+    Công suất: 63W 
+    Độ ồn: 22/19 dB(A) 
+- Máy lọc không khí Carrier AP43STRE 30W - Giá: 3663220
+  Thông số kỹ thuật:
+    
+    • Diện tích phòng sử dụng: Từ 28 - 43 m2 
+    • Tốc độ làm sạch không khí: 360 m3/h 
+    • Công suất: 30 W 
+    • Điện thế: 220 V - 240 V 
+- Máy lọc không khí Daikin MC40UVM6 - Giá: 5366350
+  Thông số kỹ thuật:
+    
+    • Diện tích: 31m2 
+    • Công suất: 4m3/ phút 
+    • Tính năng: Tinh lọc không khí với Công nghệ Streamer và phin lọc tĩnh điện Hepa. 
+    • Đèn cảm biến: “phát hiện gấp 3” 
+
+time to find product link:  0.0028684139251708984
+results product_seeking: {'products': [{'code': 608086, 'name': 'Máy lọc không khí Daikin MC30VVM - H', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/22/179/MÁY LỌC KHÔNG KHÍ DAIKIN MC30VVM - H (1).png'}, {'code': 577846, 'name': 'Máy lọc không khí Carrier AP43STRE 30W', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/149/MÁY LỌC KHÔNG KHÍ AP43STRE.png'}, {'code': 577850, 'name': 'Máy lọc không khí Daikin MC40UVM6', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/534/MÁY LỌC KHÔNG KHÍ DAIKIN MC40UVM6.png'}], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [{'code': 608086, 'name': 'Máy lọc không khí Daikin MC30VVM - H', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/22/179/MÁY LỌC KHÔNG KHÍ DAIKIN MC30VVM - H (1).png'}, {'code': 577846, 'name': 'Máy lọc không khí Carrier AP43STRE 30W', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/149/MÁY LỌC KHÔNG KHÍ AP43STRE.png'}, {'code': 577850, 'name': 'Máy lọc không khí Daikin MC40UVM6', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/534/MÁY LỌC KHÔNG KHÍ DAIKIN MC40UVM6.png'}], 'terms': [], 'content': "Sản phẩm 'máy lọc không khí' tìm thấy:\n- Máy lọc không khí Daikin MC30VVM - H - Giá: 3504000\n  Thông số kỹ thuật:\n    Model: MC30VVM \n    Diện tích sử dụng: 20 - 25m² \n    Lưu lượng gió: 180 m³/h \n    Công suất: 63W \n    Độ ồn: 22/19 dB(A) \n- Máy lọc không khí Carrier AP43STRE 30W - Giá: 3663220\n  Thông số kỹ thuật:\n    \n    • Diện tích phòng sử dụng: Từ 28 - 43 m2 \n    • Tốc độ làm sạch không khí: 360 m3/h \n    • Công suất: 30 W \n    • Điện thế: 220 V - 240 V \n- Máy lọc không khí Daikin MC40UVM6 - Giá: 5366350\n  Thông số kỹ thuật:\n    \n    • Diện tích: 31m2 \n    • Công suất: 4m3/ phút \n    • Tính năng: Tinh lọc không khí với Công nghệ Streamer và phin lọc tĩnh điện Hepa. \n    • Đèn cảm biến: “phát hiện gấp 3” \n", 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:34304 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 11
+----------------NEW_SESSION--------------
+GuildID  =  166573
+texts: Quý khách xin thông cảm! Sản phẩm này không nằm trong danh mục các sản phẩm bảo hành của công ty chúng tôi.
+time to find product link:  0.009781599044799805
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Quý khách xin thông cảm! Sản phẩm này không nằm trong danh mục các sản phẩm bảo hành của công ty chúng tôi.', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:34984 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 12
+----------------NEW_SESSION--------------
+GuildID  =  166573
+texts: Chính sách bảo hành sản phẩm nồi cơm điện của chúng tôi bao gồm:
+                1. Chính sách bảo hành 1 đổi 1
+                2. Chính sách bảo hành sửa chữa, thay thế linh kiện
+                Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.
+                Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+time to find product link:  0.009726524353027344
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Chính sách bảo hành sản phẩm nồi cơm điện của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                Nếu muốn biết thông tin chi tiết của từng chính sách bạn có thể hỏi tôi cụ thể hơn.\n                Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:35030 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 13
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+======process_command======
+info: {'command': 'tôi muốn mua máy giặt tầm giá 10 triệu', 'demand': 'mua', 'object': ['máy giặt'], 'value': 'tầm giá 10 triệu'}
+======handle_buy======
+list_input ['tôi muốn mua máy giặt tầm giá 10 triệu']
+check object ----
+['1 máy giặt']
+['10 triệu']
+min_price, max_price: 9000000.0 11000000.0
+check list_product: []
+texts: Dựa trên yêu cầu của bạn:
+	- 1 máy giặt với giá 10 triệu
+Tôi không thể đáp ứng yêu cầu của bạn.
+Nếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.
+time to find product link:  0.009752750396728516
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Dựa trên yêu cầu của bạn:\n\t- 1 máy giặt với giá 10 triệu\nTôi không thể đáp ứng yêu cầu của bạn.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:35242 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 14
+----------------NEW_SESSION--------------
+GuildID  =  166573
+texts: Chúng tôi cung cấp đa dạng các sản phẩm thuộc 19 danh mục, bao gồm:
+  Chăm sóc cá nhân: Bàn là - Bàn ủi, Máy sấy tóc
+  Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+  Thiết bị gia đình: Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+  Công nghệ & Tiện ích: Thiết bị Wifi, Đèn năng lượng mặt trời
+  Khác: Thiết bị gia dụng
+time to find product link:  0.009711265563964844
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Chúng tôi cung cấp đa dạng các sản phẩm thuộc 19 danh mục, bao gồm:\n  Chăm sóc cá nhân: Bàn là - Bàn ủi, Máy sấy tóc\n  Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n  Thiết bị gia đình: Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n  Công nghệ & Tiện ích: Thiết bị Wifi, Đèn năng lượng mặt trời\n  Khác: Thiết bị gia dụng', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:35410 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 15
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+======process_command======
+info: {'command': 'tôi quan tâm tới máy giặt', 'demand': 'quan tâm', 'object': ['máy giặt'], 'value': ''}
+======handle_interest======
+texts: Sản phẩm 'máy giặt' tìm thấy:
+- Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11898480
+  Thông số kỹ thuật:
+    Loại máy giặt: Cửa trước 
+    Lồng giặt: Lồng ngang 
+    Khối lượng giặt: 10 Kg 
+    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000
+  Thông số kỹ thuật:
+    Loại máy giặt: Cửa trước 
+    Lồng giặt: Lồng ngang 
+    Khối lượng giặt: 10 Kg 
+    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+- Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4726370
+  Thông số kỹ thuật:
+    Cửa trên - Lồng đứng 
+    Khối lượng giặt: 8 Kg 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+    Tốc độ quay vắt tối đa: 775 vòng/ phút 
+    Chất liệu lồng giặt: Thép không gỉ 
+
+time to find product link:  0.002519845962524414
+results product_seeking: {'products': [{'code': 571603, 'name': 'Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/912/Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB.png'}, {'code': 571590, 'name': 'Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB', 'link': '/opt/Upload/KCS//input/mobile_images/2024/1/23/223/Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB.jpg'}, {'code': 571604, 'name': 'Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/140/Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S.png'}], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [{'code': 571603, 'name': 'Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/912/Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB.png'}, {'code': 571590, 'name': 'Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB', 'link': '/opt/Upload/KCS//input/mobile_images/2024/1/23/223/Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB.jpg'}, {'code': 571604, 'name': 'Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/140/Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S.png'}], 'terms': [], 'content': "Sản phẩm 'máy giặt' tìm thấy:\n- Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11898480\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n- Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4726370\n  Thông số kỹ thuật:\n    Cửa trên - Lồng đứng \n    Khối lượng giặt: 8 Kg \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n    Tốc độ quay vắt tối đa: 775 vòng/ phút \n    Chất liệu lồng giặt: Thép không gỉ \n", 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:35570 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 16
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+======process_command======
+info: {'command': 'tôi muốn mua máy giặt tầm giá 11tr', 'demand': 'mua', 'object': ['máy giặt'], 'value': 'tầm giá 11tr'}
+======handle_buy======
+list_input ['tôi muốn mua máy giặt tầm giá 11tr']
+check object ----
+['1 máy giặt']
+['11tr']
+min_price, max_price: 9900000.0 12100000.000000002
+check list_product: [[571603, 'Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB', 11898480, 605740.8000000002, 1]]
+texts: Dựa trên yêu cầu của bạn:
+	- 1 máy giặt với giá 11tr
+
+Để phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:
+	+ Với 1 Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB: 11898480VND - GÓI MUA SẮM MỨC 3
+		(Hiện tại không có chính sách hoa hồng cho sản phẩm này)
+
+Tổng giá trị của gói sản phẩm này là 11898480.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+Nếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.
+time to find product link:  0.009636163711547852
+results product_seeking: {'products': [{'code': 571603, 'name': 'Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/912/Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB.png'}], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [{'code': 571603, 'name': 'Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB', 'link': '/opt/Upload/KCS//input/mobile_images/2024/2/18/912/Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB.png'}], 'terms': [], 'content': 'Dựa trên yêu cầu của bạn:\n\t- 1 máy giặt với giá 11tr\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB: 11898480VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 11898480.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:35726 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 17
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+texts: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+time to find product link:  0.00975942611694336
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:35996 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 18
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+texts: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+time to find product link:  0.011163473129272461
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:36098 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 19
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+texts: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+time to find product link:  0.009832382202148438
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:36116 - "POST /llm HTTP/1.1" 200 OK
+numberrequest 20
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+======process_command======
+info: {'command': 'có máy giặt trên 10 triệu không', 'demand': 'có', 'object': ['máy giặt'], 'value': 'trên 10 triệu'}
+======handle_tskt======
+======take_top3_product======
+INFO:     10.207.112.10:36206 - "POST /llm HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/aiai01/.local/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 411, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/home/aiai01/.local/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 69, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+  File "/home/aiai01/.local/lib/python3.10/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+  File "/data/Production/Rasa_LLM_Full/app.py", line 35, in post
+    chat_out = predict_rasa_llm(InputText,IdRequest,NameBot,User)
+  File "/data/Production/Rasa_LLM_Full/chat.py", line 79, in predict_rasa_llm
+    conversation_messages_conv.append(AIMessage(content=results['out_text']))
+  File "/home/aiai01/.local/lib/python3.10/site-packages/langchain_core/messages/base.py", line 47, in __init__
+    return super().__init__(content=content, **kwargs)
+  File "/home/aiai01/.local/lib/python3.10/site-packages/pydantic/v1/main.py", line 341, in __init__
+    raise validation_error
+pydantic.v1.error_wrappers.ValidationError: 2 validation errors for AIMessage
+content
+  str type expected (type=type_error.str)
+content
+  value is not a valid list (type=type_error.list)
+numberrequest 21
+----------------NEW_SESSION--------------
+GuildID  =  166573
+======search_db======
+======take_db======
+texts: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+time to find product link:  0.009534597396850586
+results product_seeking: {'products': [], 'terms': [], 'content': '', 'status': 200, 'message': '', 'time_processing': ''}
+{'products': [], 'terms': [], 'content': 'Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!', 'status': 200, 'message': '', 'time_processing': ''}
+INFO:     10.207.112.10:36342 - "POST /llm HTTP/1.1" 200 OK

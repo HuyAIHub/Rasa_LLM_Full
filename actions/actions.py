@@ -50,27 +50,14 @@ class ExtractProduceAction(Action):
             dispatcher.utter_message(text=f"""
                 Chính sách bảo hành sản phẩm của chúng tôi bao gồm:
                 1. Chính sách bảo hành 1 đổi 1
-                    1.1. Thời gian áp dụng
-                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
-                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
-                    1.2. Điều kiện:
-                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
-                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
-                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
-                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
-                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
-                    Lưu ý: Không áp dụng hoàn tiền sản phẩm
+                    - Thời gian áp dụng: Đổi trong 7 ngày từ ngày mua, chi phí bảo hành là 0.5% giá bán.
+                    - Điều kiện: Áp dụng cho sản phẩm lỗi theo quy định của VCC, sản phẩm phải nguyên vẹn, không trầy xước, bể, móp méo. Phải trả lại đầy đủ hộp, phụ kiện và hàng khuyến mãi (nếu có). Lỗi phải được xác nhận bởi nhân sự triển khai, và số điện thoại mua sản phẩm phải khớp với dữ liệu hệ thống.
+                    Lưu ý: Không áp dụng hoàn tiền
                 2. Chính sách bảo hành sửa chữa, thay thế linh kiện
-                    2.1. Thời gian
-                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
-                    2.2. Phạm vi
-                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).
-                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.
-                    2.3. Điều kiện được bảo hành
-                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
-                    phẩm bảo hành do TT. GP&DVKT ban hành.
-                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
-                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+                    - Thời gian: Áp dụng 12 tháng từ ngày mua, căn cứ theo biên bản nghiệm thu và đơn hàng trên hệ thống AIO.
+                    - Phạm vi: Áp dụng cho lỗi kỹ thuật do nhà sản xuất. Không bảo hành lỗi do sử dụng, sửa chữa không đúng cách, hoặc nguyên nhân bên ngoài.
+                    - Điều kiện: Lỗi được xác nhận bởi nhân sự tại các CNCT, theo Quy trình bảo hành QT.VCC.RRR.2.2-(02) và hướng dẫn của TT. GP&DVKT. Số điện thoại mua phải khớp với dữ liệu hệ thống.
+                    Lưu ý: Cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
                 """)
         else:
             dispatcher.utter_message(text="Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.")

@@ -1,0 +1,860 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt, máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt, máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "lò vi sóng có giá bao nhiêu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 lò vi sóng với giá giá bao nhiêu\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít: 2346850VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 2346850.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có bán robot hút bụi không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'robot hút bụi' tìm thấy:\n- Robot hút bụi NEATO BOTVAC CONNECTED D401 ĐEN - Giá: 8059920\n  Thông số kỹ thuật:\n    \n    • Hộp bụi: 700 ml \n    • Công suất hoạt động: 38W \n    • Công suất hút: 1200 -1600 Pa \n    • Độ ồn cao nhất: 78 dB \n- Robot hút bụi lau nhà Ecovacs Deebot X1 Omni - xám - Giá: 21605870\n  Thông số kỹ thuật:\n    \n    • Pin/dung lượng: Lithium 14.8V-DC/5200mAh \n    • Điện áp sử dụng: 100-240V \n    • Thời gian hoạt động: 120′ – 180′ \n    • Khả năng vượt vật cản tối đa: 2cm \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là giá trên 200 nghìn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 bàn là với giá trên 200 nghìn\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Bàn ủi hơi nước Philips GC1740/20 2000W: 564960VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 564960.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có bán điều hòa, bình nóng lạnh, máy lọc nước không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bình nóng lạnh. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có bình nóng lạnh không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bình nóng lạnh. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt có giá dưới 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 máy giặt với giá dưới 10 triệu\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK: 6074970VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 6074970.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy lọc nước nào có giá trên 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 máy lọc nước với giá trên 10 triệu\nTôi không thể đáp ứng yêu cầu của bạn.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "nồi cơm điện có giá trên 3tr",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 nồi cơm điện với giá trên 3tr\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991: 4387680VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 4387680.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tủ lạnh giá 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về tủ lạnh. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước giá trung bình",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 bình đun nước với giá giá trung bình\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W: 529210VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 529210.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bếp từ tốt nhất hiện nay",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy hút bụi có bao nhiêu sản phẩm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Không tìm thấy máy hút bụi số lượng sản phẩm trong dữ liệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy hút bụi có những loại nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "các loại nồi áp suất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có loại nồi áp suất nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy lọc không khí",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "thiết bị camera",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua máy giặt lồng ngang",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Mua máy giặt từ Lồng Ngang tìm thấy:\n- Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11898480 VNĐ\n  Thông số kỹ thuật: Loại máy giặt: Cửa trước \nLồng giặt: Lồng ngang \nKhối lượng giặt: 10 Kg \nSố người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 1200 vòng/phút \nChất liệu vỏ máy: Thép không gỉ \nChất liệu nắp máy: Nhựa ABS + Gỗ Sản xuất tại: Thái Lan \nThời gian bảo hành động cơ: 10 năm \nHiệu suất sử dụng điện: 21.6 Wh/kg \nLoại Inverter: Công nghệ EcoInverter \nChương trình giặt: Đồ trải giường, Giặt nhanh , Giặt tiết kiệm, Vắt, Vệ sinh lồng giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ mỏng, Đồ trẻ sơ sinh \nCông nghệ giặt: Công nghệ giặt hơi nước Hygienic Care,Giặt nước nóng \nBảng điều khiển: Song ngữ Anh - Việt có nút xoay, cảm ứng và màn hình hiển thị \nTiện ích: Chỉnh số vòng vắt, Giặt sơ, Khóa trẻ em, Thêm đồ trong khi giặt, Trì hoãn kết thúc, Xả thêm \nKích thước, khối lượng: Cao 85 cm - Ngang 60 cm - Sâu 64 cm - Nặng 72 kg Chiều dài ống cấp nước: 134 cmChiều dài ống thoát nước: 222 cm\ngiá: 11898480\n- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 VNĐ\n  Thông số kỹ thuật: Loại máy giặt: Cửa trước \nLồng giặt: Lồng ngang \nKhối lượng giặt: 10 Kg \nSố người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 1200 vòng/phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Thép không gỉ \nChất liệu nắp máy: Nhựa ABS + Gỗ Sản xuất tại: Thái Lan \nThời gian bảo hành động cơ: 10 năm \nHiệu suất sử dụng điện: 21.8 Wh/kg \nLoại Inverter: Công nghệ EcoInverter \nChương trình giặt: Đồ trải giường, Giặt nhanh 15 phút, Giặt nhanh 39 phút, Vắt, Vệ sinh lồng giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ mỏng, Đồ trẻ sơ sinh Công nghệ giặt: Công nghệ Hygienic Care giúp loại bỏ vi khuẩnGiặt nước nóng \nBảng điều khiển: Song ngữ Anh - Việt \nTiện ích: Chỉnh số vòng vắt, Giặt sơ, Khóa trẻ em,Thêm đồ trong khi giặt, Trì hoãn kết thúc, Xả thêm \nKích thước, khối lượng: Cao 85 cm - Ngang 60 cm - Sâu 70 cm - Nặng 72 kg Chiều dài ống cấp nước: 133 cm Chiều dài ống thoát nước: 218 cm\ngiá: 12749000\n- Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14450040 VNĐ\n  Thông số kỹ thuật: Loại máy giặt: Cửa trước \nLồng giặt: Lồng ngang \nKhối lượng giặt: 10 Kg \nSố người sử dụng: Từ 5 - 7 người \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 1200 vòng/phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa + Kính cường lực, thép \nSản xuất tại: Thái Lan \nThời gian bảo hành động cơ: 10 năm \nHiệu suất sử dụng điện: 16.5 Wh/kg \nLoại Inverter: Công nghệ EcoInverter\nChương trình giặt: Chế độ yêu thích, Giặt 60 phút, Đồ trải giường, Giặt nhanh 15 phút, Giặt nhanh 39 phút, Giặt tiết kiệm, Vắt, Vệ sinh lồng giặt, Xả + vắt, Đồ cotton, Đồ hỗn hợp, Đồ len, Đồ mỏng, Đồ thể thao, Đồ trẻ em Công nghệ giặt: Công nghệ giặt hơi nước Hygienic CareCông nghệ UltraMix hoà tan nước giặt hiệu quả \nBảng điều khiển: Song ngữ Anh - Việt có nút xoay, cảm ứng và màn hình hiển thị\nTiện ích: Chỉnh nhiệt độ nước, Chỉnh số vòng vắt, Khóa trẻ em, Lưu chương trình yêu thích, Quản lý thời gian, Thêm quần áo khi máy đang giặt, Trì hoãn kết thúc, Xả thêm, Chế độ giặt sơ tự động \nKích thước, khối lượng: Cao 85 cm - Ngang 60 cm - Sâu 65.5 cm - Nặng 76 kg Chiều dài ống cấp nước: 134 cmChiều dài ống thoát nước: 209 cm\ngiá: 14450040\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Quạt sưởi không khí AIO Smart bảo hành trong bao lâu?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Quạt sưởi không khí AIO Smart' tìm thấy:\n- Quạt sưởi không khí AIO Smart - Giá: 2233000 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Khối lượng: 3.54kg \n    Diện tích sưởi : Từ 10 đến 20m2 \n    Công suất định mức : 2000W \n    Điện áp hoạt động : 220V AC ±10% Độ ồn: ≤ 42 dB \n    Kiểu dáng : Dạng tháp \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có loại ghê masage nào rẻ không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'ghế massage' tìm thấy:\n- Massage mắt DVMM-00001  - Giá: 757570 - Số lượng đã bán: 54\n  Thông số kỹ thuật:\n    Thiết kế máy tối giản và tiện ích Phù hợp với đa dạng đối tượng \n    Có 3 công nghệ massage đỉnh cao 5 chế độ massage tự động đa dạng \n    Pin khủng, thời gian sử dụng lâu \n    Gấp gọn 180 độ, tiết kiệm không gian \n    Tích hợp kết nối Bluetooth để phát nhạc thư giãn \n- Ghế Massage Makano MKGM-20006 - Giá: 27337530 - Số lượng đã bán: 12\n  Thông số kỹ thuật:\n    \n    • Công suất: 100 W \n    • Kích thước sản phẩm (Dài x Rộng x Cao): 155*74*105cm \n    • Trọng lượng sản phẩm: 71 Kg \n    • Ứng dụng công nghệ: - Công nghệ massage 3D đỉnh cao - Công nghệ thông minh AI 4.0 - Kết hợp các bài massage Đông Y \n- Ghế Massage Daikiosan DKGM-00002 - Giá: 17313780 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    \n    • Công suất: 120W \n    • Kích thước sản phẩm (Dài x Rộng x Cao): 155x74x110cm \n    • Trọng lượng sản phẩm: 56 Kg \n    • Ứng dụng công nghệ: - Công nghệ massage 2D - Công nghệ thông minh AI 4.0 - Kết hợp các bài massage Đông Y \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình nóng lạnh có những loại nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bình nóng lạnh. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bếp từ tốt nhất hiện nay",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "các sản phẩm dưới 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đèn năng lượng mặt trời có loại nào rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đèn năng lượng mặt trời có loại nào ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

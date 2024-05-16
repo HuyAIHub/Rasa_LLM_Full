@@ -1,0 +1,1848 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa đưới 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bán chạy nhất là sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa giá trên 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 điều hòa với giá trên 10 triệu\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023: 23423180VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 23423180.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bếp từ nào có công suất lớn nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bếp từ' có công suất lớn nhất là Bếp từ đôi AIO Smart với công suất 4400W.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước có công suất trên 1000w",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Có hai sản phẩm bình đun nước có công suất trên 1000W trong thông tin đã cung cấp. Sản phẩm Ấm Đun Nước Bluestone KTB-3417 có công suất từ 1850 - 2200W và sản phẩm Ấm đun nước AIO Smart AIOKTO2L23W/1C5 có công suất danh định là 1500W.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy Giặt Aqua là lồng ngang hay lồng đứng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong số hai sản phẩm, cả Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 đều có công nghệ lọc RO, nhưng có một số khác biệt về thông số kỹ thuật. Máy lọc nước Karofi KAQ-U06V có kiểu lắp đặt là lắp âm và kháng khuẩn bằng Nano Silver. Trong khi đó, Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 có hình dáng là máy lọc nước tủ đứng và sử dụng 10 lõi lọc. Vì vậy, tùy thuộc vào nhu cầu và yêu cầu của bạn, bạn có thể chọn sản phẩm phù hợp với mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "thiết bị wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'thiết bị wifi' tìm thấy:\n- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51\n  Thông số kỹ thuật:\n    \n    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) \n    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép \n    • Cổng LAN: 3 cổng LAN 10/100/1000M \n    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc \n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50\n  Thông số kỹ thuật:\n    Dòng điện ra: 9V 1A \n    Dòng điện vào: 100-240V-50/60Hz, 0.2A \n    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) \n    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps \n    Hãng sản xuất: Tenda \n- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48\n  Thông số kỹ thuật:\n    \n    • Tốc độ: 1167Mbps \n    • Băng tần: 2 băng tần 2.4GHz và 5GHz \n    • Số lượng người dùng truy cập đồng thời: 20+ 1 \n    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy đánh trứng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về máy đánh trứng. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy xay",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'máy xay' tìm thấy:\n- Máy xay cầm tay Philips HR2534/00 650W - Giá: 765490 - Số lượng đã bán: 32\n  Thông số kỹ thuật:\n    \n    • Model: HR2534/00 \n    • Màu sắc: Trắng \n    • Loại máy xay sinh tố: Máy xay cầm tay \n    • Công suất: 650W \n- Máy xay sinh tố Philips HR2041/10 450W - Giá: 692560 - Số lượng đã bán: 29\n  Thông số kỹ thuật:\n    \n    • Model: HR2041/10 \n    • Màu sắc: Trắng \n    • Loại máy xay sinh tố: Máy xay đa năng \n    • Công suất: 450W \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình nóng lạnh",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bình nóng lạnh. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình nước nóng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình nước nóng' tìm thấy:\n- Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE - Giá: 2817180 - Số lượng đã bán: 18\n  Thông số kỹ thuật:\n    Dung tích : 20 lít \n    Loại máy : gián tiếp \n    Chống giật : ELCB \n    Thanh đốt bằng đồng \n    Công suất : 2,5kW \n- Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE - Giá: 3181896 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    Dung tích: 30L \n    Loại máy : gián tiếp \n    Điện áp: 220 V \n    Công suất (W): 2,500 \n    Chống giật : ELCB \n- Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE - Giá: 2634876 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    Loại: Máy nước nóng gián tiếp \n    Dung tích: 15 lit \n    Công suất: 2500W \n    Nhiệt độ tối đa: 75 độ C \n    Hệ thống chống rò điện: ELCB, Bộ ổn định nhiệt TBST, Vỏ chống thấm nước \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "các sản phẩm dưới 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đèn năng lượng mặt trời có loại nào rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của  Đèn Năng Lượng Mặt Trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "các sản phẩm dưới 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bếp từ tốt nhất hiện nay",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong các sản phẩm bếp từ được cung cấp, bếp từ đôi AIO Smart có công suất 4400W và bếp từ đơn AIO Smart kèm nồi có công suất vùng nấu là 2100W. Tuy nhiên, không có thông tin cụ thể về sản phẩm bếp từ tốt nhất hiện nay.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sử dụng bàn là đúng cách",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trả lời: Để sử dụng bàn là đúng cách, bạn cần tuân thủ các hướng dẫn sử dụng của nhà sản xuất. Bạn cần đảm bảo rằng bạn đã đọc kỹ thông số kỹ thuật và hướng dẫn sử dụng trước khi sử dụng sản phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt, máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'máy giặt' tìm thấy:\n- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n- Máy Giặt Aqua 9 Kg AQW-F91GT.S - Giá: 5759050 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    \n    • Loại máy giặt: Cửa trên \n    • Lồng giặt: Lồng đứng \n    • Khối lượng giặt: 9 Kg \n    • Số người sử dụng: Từ 3 - 5 người \n- Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK - Giá: 6074970 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    Loại máy giặt: Lồng đứng \n    Động Cơ : Curoa \n    Khối lượng giặt: 10 kg \n    Lồng GiặtThép: không gỉ \n    Khử mùi diệt khuẩn \nSản phẩm 'máy lọc nước' tìm thấy:\n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \n- Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 - Giá: 4549270 - Số lượng đã bán: 24\n  Thông số kỹ thuật:\n    \n    • Dòng máy: Empire Pro nóng nguội \n    • Hình dáng: Máy lọc nước tủ đứng \n    • Số lõi lọc: 10 lõi lọc \n    • Công nghệ lọc: Công nghệ lọc RO \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Lò nướng nào có thiết kế hiện đại",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Lò nướng Bluestone Eob-7567 có thiết kế hiện đại.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thiết bị Wifi nào có tính năng mạnh mẽ và ổn định",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong các sản phẩm Thiết bị Wifi đã được cung cấp, Thiết bị Wifi Ruijie RG-EW1200G Pro có tính năng mạnh mẽ và ổn định.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Nồi chiên không dầu nào có thể nấu được nhiều loại thực phẩm?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong danh sách sản phẩm, nồi chiên không dầu Rapido 6.5L, RAF-6.5D có thể nấu được nhiều loại thực phẩm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Có những loại máy ép nào phù hợp cho việc ép hoa quả và rau củ?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Sản phẩm máy ép chậm KALITE KL-531 200W là một loại máy ép phù hợp cho việc ép hoa quả và rau củ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Có loại máy cạo rau nào hiệu quả và tiết kiệm thời gian không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về máy cạo rau. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Ghế massage đaikiosan có những chức năng và hiệu quả như thế nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Ghế massage đaikiosan có 3 công nghệ massage đỉnh cao và 5 chế độ massage tự động đa dạng. Ngoài ra, ghế còn tích hợp kết nối Bluetooth để phát nhạc thư giãn. Hiệu quả của ghế massage đaikiosan là giúp bạn thư giãn cơ thể, giảm căng thẳng và mệt mỏi.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Có những tính năng đặc biệt nào của điều hòa mà tôi nên quan tâm?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Có những tính năng đặc biệt nào của điều hòa mà tôi nên quan tâm?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đèn năng lượng mặt trời có hiệu quả không gian và tiết kiệm điện năng không?\"",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trả lời: Đèn năng lượng mặt trời có hiệu quả không gian và tiết kiệm điện năng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Làm thế nào để chọn một bình nóng lạnh phù hợp với nhu cầu sử dụng của gia đình?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bình nóng lạnh. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tính năng an toàn và hiệu suất của bình đun nước như thế nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Bình đun nước Ấm Đun Nước Bluestone KTB-3417 có tính năng an toàn với chất liệu ruột bình là nhựa PP không chứa BPA. Ngoài ra, sản phẩm này có công suất từ 1850 - 2200W và dung tích 1.7 lít. Bình đun nước AIO Smart AIOKTO2L23W/1C5 cũng an toàn với chất liệu ruột bình là inox cao cấp SUS304. Sản phẩm này có công suất 1500W và dung tích 1.5L.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể giới thiệu về tính năng và ưu điểm của bàn chải điện không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bàn chải điện. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể giới thiệu về tính năng của bàn chải điện không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bàn chải điện. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có bán điều hòa, bình nóng lạnh, máy lọc nước không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về bình nóng lạnh. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm nào đang bán chạy",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giăt có loại nào xịn không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong các sản phẩm máy giặt được liệt kê, có hai sản phẩm được coi là xịn là Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB và Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bàn là' tìm thấy:\n- Bàn ủi hơi nước Philips GC1740/20 2000W - Giá: 564960 - Số lượng đã bán: 54\n  Thông số kỹ thuật:\n    \n    • Màu sắc: Xanh dương nhạt \n    • Loại bàn ủi: Hơi nước \n    • Chiều dài dây dẫn: 1.9m \n    • Chất liệu đế: Chống dính \n- Bàn Ủi Khô Bluestone DIB-3726 1300W - Giá: 376860 - Số lượng đã bán: 23\n  Thông số kỹ thuật:\n    \n    • Công suất: 1300W \n    • Mặt đế: Hợp kim nhôm \n    • Chức năng: Ủi khô \n    • Tiện ích: Có rãnh cúc tiện lợi; Không xoắn dây (dây nguồn xoay 360 độ) \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "cho tôi máy lọc không khí giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Giá máy lọc không khí từ Rẻ tìm thấy:\n- Máy lọc không khí Daikin MC30VVM - H - Giá: 3504000 VNĐ\n  Thông số kỹ thuật: Model: MC30VVM \nDiện tích sử dụng: 20 - 25m² \nLưu lượng gió: 180 m³/h \nCông suất: 63W \nĐộ ồn: 22/19 dB(A) \nKích thước: 550 x 300 x 200 mm \nTrọng lượng: 12.5 kg\ngiá: 3504000\n- Máy lọc không khí Carrier AP43STRE 30W - Giá: 3663220 VNĐ\n  Thông số kỹ thuật: \n• Diện tích phòng sử dụng: Từ 28 - 43 m2 \n• Tốc độ làm sạch không khí: 360 m3/h \n• Công suất: 30 W \n• Điện thế: 220 V - 240 V \n• Các cấp độ quạt: 1/2/3/4 \n• Độ ồn: 27 - 60 dB \n• Cảm biến bụi mịn: PM2.5 \n• Bộ lọc: Lọc thô - Lọc HEPA - Active Carbon \n• Tiện ích: - Chức năng Auto/Sleep Mode/Hẹn giờ - Chức năng khóa trẻ em - Chức năng báo thay bộ lọc \n• Bảng điều khiển: Điều khiển cảm ứng; Hiển thị chất lượng không khí trên màn hình LED \n• Kích thước: 410 x 210 x 628 mm \n• Trọng lượng: 7.2 Kg\ngiá: 3663220\n- Máy lọc không khí Daikin MC40UVM6 - Giá: 5366350 VNĐ\n  Thông số kỹ thuật: \n• Diện tích: 31m2 \n• Công suất: 4m3/ phút \n• Tính năng: Tinh lọc không khí với Công nghệ Streamer và phin lọc tĩnh điện Hepa. \n• Đèn cảm biến: “phát hiện gấp 3” \n• Thiết kế: hình tháp, tinh tế và nhỏ gọn. \n• 3 chế độ hoạt động: Auto, Econo, Pollen \n• Độ ồn tối đa: 49dB\ngiá: 5366350\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước làm bằng chất liệu gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Bình đun nước Bluestone KTB-3417 được làm bằng chất liệu ruột bình là nhựa PP (không chứa BPA) và chất liệu vỏ bình cũng là nhựa PP. Bình đun nước AIO Smart AIOKTO2L23W/1C5 được làm bằng chất liệu ruột bình là inox cao cấp SUS304.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần mua máy giặt loại tốt",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 máy giặt với giá loại tốt\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 14450040VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 14450040.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "nồi cơm điện nào nấu nhanh chín",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong các sản phẩm nồi cơm điện đã được cung cấp thông tin, nồi cơm điện AIO Smart AIORCO3L23G/4CO có công suất danh định là 1300W và sử dụng công nghệ cao tần/từ. Với công suất cao và công nghệ tiên tiến này, nồi cơm điện AIO Smart AIORCO3L23G/4CO có khả năng nấu nhanh chín.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "công tắc, ổ cắm nào nhiều người dùng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi là bot được tạo ra để hỗ trợ tư vẫn bán hàng nên những câu hỏi không liên quan tôi sẽ không thể giải đáp được.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "công tắc, ổ cắm nào nhiều người dùng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "lò vi sóng nào nhiều người dùng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của  Lò vi sóng , lò nướng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "lò vi sóng nào có giá tầm trung",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Có những tính năng đặc biệt nào của điều hòa mà tôi nên quan tâm?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là giá trên 200 nghìn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 bàn là với giá trên 200 nghìn\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Bàn ủi hơi nước Philips GC1740/20 2000W: 564960VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 564960.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Có những tính năng đặc biệt nào của điều hòa mà tôi nên quan tâm?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t-  với giá \nTôi không thể đáp ứng yêu cầu của bạn.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Có loại máy sấy tóc nào hiệu quả và tiết kiệm thời gian không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Có, sản phẩm máy sấy tóc Philips BHC010/10 có công suất 1200W và tốc độ sấy nhanh. Ngoài ra, máy còn có đầu sấy hẹp giúp tăng hiệu quả và tốc độ sấy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tính năng của bot là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bot biết làm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "mày có chức năng gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi là bot được tạo ra để hỗ trợ tư vẫn bán hàng nên những câu hỏi không liên quan tôi sẽ không thể giải đáp được.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chức năng của máy giặt",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của  Máy Giặt",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tính năng nôi bật của ghê massage",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong sản phẩm 'ghế massage', có hai sản phẩm có tính năng nổi bật như sau:\n1. Ghế massage mắt DVMM-00001 có các tính năng nổi bật sau:\n- Thiết kế máy tối giản và tiện ích.\n- Có 3 công nghệ massage đỉnh cao và 5 chế độ massage tự động đa dạng.\n- Pin khủng, thời gian sử dụng lâu.\n- Gấp gọn 180 độ, tiết kiệm không gian.\n- Tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n\n2. Ghế massage cổ DVMG-00002 có các tính năng nổi bật sau:\n- Kiểu dáng nhỏ xinh, thiết kế thông minh.\n- Trọng lượng nhỏ gọn, dễ dàng thu nhỏ.\n- Công nghệ hệ thống con lăn 2D, massage chuyên sâu 360 độ.\n- Chế độ khoa học, phù hợp nhiều đối tượng sử dụng.\n- Cảnh báo pin yếu thông minh, chủ động cho người dùng.\n- Điều khiển dễ dàng bằng nút bấm.\n- Chất liệu cao cấp bền bỉ vượt thời gian.\n- Bảo hành: 24 tháng.\n\nVui lòng cho biết sản phẩm ghế massage nào bạn quan tâm để tôi cung cấp thông tin chi tiết hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "VCC có những tính năng gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bao hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bot có tính năng gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tính năng nôi bật của ghê massage",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong sản phẩm 'ghế massage', có hai sản phẩm có tính năng nổi bật như sau:\n1. Ghế massage mắt DVMM-00001 có các tính năng nổi bật sau:\n- Thiết kế máy tối giản và tiện ích.\n- Có 3 công nghệ massage đỉnh cao và 5 chế độ massage tự động đa dạng.\n- Pin khủng, thời gian sử dụng lâu.\n- Gấp gọn 180 độ, tiết kiệm không gian.\n- Tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n\n2. Ghế massage cổ DVMG-00002 có các tính năng nổi bật sau:\n- Kiểu dáng nhỏ xinh, thiết kế thông minh.\n- Trọng lượng nhỏ gọn, dễ dàng thu nhỏ.\n- Công nghệ hệ thống con lăn 2D, massage chuyên sâu 360 độ.\n- Chế độ khoa học, phù hợp nhiều đối tượng sử dụng.\n- Cảnh báo pin yếu thông minh, chủ động cho người dùng.\n- Điều khiển dễ dàng bằng nút bấm.\n- Chất liệu cao cấp bền bỉ vượt thời gian.\n- Bảo hành: 24 tháng.\n\nVui lòng cho biết sản phẩm ghế massage nào bạn quan tâm để tôi cung cấp thông tin chi tiết hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vcc có tính năng gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tính năng đặc biệt của điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Điều hòa Everest 6000D có một số tính năng đặc biệt như sau:\n- Điện áp hoạt động là 220V - 50Hz.\n- Kích thước của sản phẩm là (Dài) 440 x (Rộng) 340 x (Cao) 970 mm.\n- Lưu lượng gió đạt 6000m3/h.\n- Dung tích khay chứa nước là 45L.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tính năng của ghê massage",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của  Ghế massage daikiosan",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "VCC có tính năng gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bot có tính năng gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là có tính năng gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của  Bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tính năng nổi bật của máy sấy tóc mà tôi quan tâm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 máy sấy tóc với giá \n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng: 10470240VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 10470240.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "VCC có tính năng gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

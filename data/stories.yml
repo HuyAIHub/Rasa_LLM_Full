@@ -95,10 +95,10 @@ stories:
   - intent: buy_dont_money
   - action: utter_buy_dont_money
 
-# - story: path16
-#   steps:
-#    - intent: warranty_policy
-#    - action: action_extract_produce
+- story: path16
+  steps:
+   - intent: warranty_policy
+   - action: action_extract_produce
 
 - story: path17
   steps:
@@ -135,9 +135,5 @@ stories:
    - intent: ask_service_name
    - action: utter_policy_message
    
-- story: path24
-  steps:
-   - intent: warranty_policy
-   - action: action_extract_produce
 
 

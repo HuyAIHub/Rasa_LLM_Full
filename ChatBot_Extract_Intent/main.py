@@ -11,7 +11,6 @@ import random
 import pandas as pd
 from unidecode import unidecode
 
-
 config_app = get_config()
 
 os.environ['OPENAI_API_KEY'] = config_app["parameter"]["openai_api_key"]

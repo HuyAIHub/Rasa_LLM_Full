@@ -4,18 +4,13 @@ from pathlib import Path
 from ChatBot_Extract_Intent.module.llm import initialize_chat_conversation
 from ChatBot_Extract_Intent.download_and_load_index_data import load_and_index_pdf
 from ChatBot_Extract_Intent.config_app.config import get_config
-from langchain.memory import (
-    ChatMessageHistory
-)
+from langchain.memory import (ChatMessageHistory)
 from langchain.schema import messages_from_dict, messages_to_dict
 from langchain_community.chat_models import ChatOpenAI
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
 from ChatBot_Extract_Intent.main import search_db
 import random
-import logging
-import datetime
-logging.basicConfig(filename=f"logs/{datetime.date.today()}_chatbot.log", level=logging.INFO, format='%(asctime)s - %(message)s')
 from ChatBot_Extract_Intent.module.llm2 import llm2
 
 random_number = random.randint(0, 4)
@@ -29,8 +24,6 @@ faiss_index = load_and_index_pdf()
 
 def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     User = str(User)
-    logging.info("----------------NEW_SESSION--------------")
-    logging.info(f"User: {User}")
     print("----------------NEW_SESSION--------------")
     print("GuildID  = ", IdRequest)
 
@@ -69,8 +62,6 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
             results['out_text'] = response.json()[0]["text"]
 
     if results['out_text'] == "LLM_predict":
-        logging.info("------------llm------------")
-        logging.info(f"User: {query_text}")
         try:
             response = search_db(query_text)
             num_check , response_rules = response[0], response[1]
@@ -81,7 +72,6 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
                 result = llm2(query_text, response_rules)
                 results['out_text'] = result
         except:
-            
             results['out_text'] = config_app['parameter']['can_not_res'][random_number]
     
     # Save DB
@@ -100,5 +90,5 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
         json.dump(messages_conv, f, indent=4,ensure_ascii=False)
     with Path(path_messages + "/messages_snippets.json").open("w",encoding="utf-8") as f:
         json.dump(messages_snippets, f, indent=4, ensure_ascii=False)
-    logging.info(f"Vcc_bot: {results['out_text']}")
+
     return results

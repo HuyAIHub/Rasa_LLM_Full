@@ -409,7 +409,6 @@ nlu:
     - xin chao
     - 2
     - helo
-    - bạn là ai
 - intent: goodbye
   examples: |
     - good afternoon
@@ -524,15 +523,17 @@ nlu:
     - mày biết làm gì
     - bot biết gì
     - bạn biêt gì
-    - bot có những tính năng gì
-    - bạn có những tính năng gì
-    - có nhũng tính năng gì 
-    - tôi đang quan tâm đến tính năng của VCC
-    - tính năng
     - bot có gì
     - bot làm được gì
     - bạn làm được gì
+    - bạn có tính năng gì
+    - bot có những tính năng gì
+    - tính năng nổi bật của bạn
+    - bot co tinh nang gi
     - bot biết gì
+    - VCC có những tính năng gì
+    - VCC có tính năng gì
+    - tính năng của VCC
     - giúp gì
     - giúp được gì
     - ban co the lam gi nao
@@ -544,6 +545,8 @@ nlu:
     - bot co gi
     - bot lam duoc gi
     - ban lam duoc gi
+    - bot có thẻ làm gì
+    - bạn có thẻ làm gì
     - bot biet gi
     - giup gi
     - giup duoc gi
@@ -599,6 +602,11 @@ nlu:
   examples: |
     - Tôi muốn hỏi số lượng sản phẩm điều hòa?
     - bạn có thể tư vấn cho tôi máy giặt không
+    - Có những tính năng đặc biệt nào của điều hòa mà tôi nên quan tâm?
+    - có tính năng nào hay của robot hút bụi mà tôi nên quan tâm
+    - tính năng nổi bật của bàn là
+    - tính năng đặt biệt của điều hòa
+    - tính năng nào hay của máy cạo râu
     - bình đun nước làm bằng chất liệu gì
     - Bạn có thể cho biết giá của sản phẩm điều hòa không?
     - Xin hỏi sản phẩm lò vi sóng có giá là bao nhiêu vậy?
