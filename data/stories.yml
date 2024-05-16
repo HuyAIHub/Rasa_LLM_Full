@@ -23,45 +23,39 @@ stories:
   steps:
    - intent: give_name
    - action: action_extract_name
-  #  - intent: thanks
-  #  - action: utter_thanks_name
-  #  - intent: goodbye
-  #  - action: utter_goodbye_name
 
 # cam on
-- story: path3
+- story: path2
   steps:
   - intent: thanks
   - action: utter_thanks
 
 # hoi dich vu
-- story: path4
-  steps:
-  - intent: ask_service_name
-  - action: utter_ask_service_name
+# - story: path3
+#   steps:
+#   - intent: ask_service_name
+#   - action: utter_ask_service_name
 
 #hoi san pham
-- story: path5
+- story: path4
   steps:
-  - intent: ask_product
-  - action: utter_ask_service_name
   - intent: deny
   - action: utter_unclear
 
 # hoi bot
-- story: path6
+- story: path5
   steps:
   - intent: ask_name
   - action: utter_iamabot
 
 # hoi botgpy
-# - story: path7
+# - story: path6
 #   steps:
 #   - intent: begin_chatgpt
 #   - action: action_default_fallback
 
 # hoi nam sinh
-- story: path9
+- story: path7
   steps:
   - intent: birthday
   - action: utter_birthday
@@ -71,112 +65,79 @@ stories:
   - intent: search_product
   - action: utter_search_product
 
-- story: path10
+- story: path9
   steps:
   - intent: unclear
   - action: utter_unclear
 
-- story: path11
+- story: path10
   steps:
   - intent: home
   - action: utter_home
 
-- story: path12
+- story: path11
   steps:
   - intent: love
   - action: utter_love
 
-- story: path13
-  steps:
-  - intent: question_offen_met
-  - action: utter_question_offen_met
-
-- story: path14
-  steps:
-  - intent: change_product
-  - action: utter_change_product
-
-- story: path15
-  steps:
-  - intent: cancel_product
-  - action: utter_cancel_product
-
-- story: path16
-  steps:
-  - intent: order_from_overseas
-  - action: utter_order_from_overseas
-
-- story: path17
+- story: path12
   steps:
   - intent: list_product
   - action: utter_list_product
 
-- story: path18
+- story: path13
   steps:
   - intent: evaluate_product
   - action: utter_evaluate_product
 
-- story: path19
+- story: path14
   steps:
   - intent: buy_dont_money
   - action: utter_buy_dont_money
 
-- story: path20
-  steps:
-  - intent: warranty_policy_1
-  - action: utter_warranty_policy_1
+# - story: path16
+#   steps:
+#    - intent: warranty_policy
+#    - action: action_extract_produce
 
-- story: path21
-  steps:
-  - intent: warranty_policy_1vs1
-  - action: utter_warranty_policy_1vs1
-
-- story: path22
-  steps:
-  - intent: warranty_policy_bark
-  - action: utter_warranty_policy_bark
-
-- story: path23
-  steps:
-   - intent: warranty_policy_2
-   - action: action_extract_produce
-
-- story: path24
+- story: path17
   steps:
    - intent: promotion
    - action: utter_promotion
 
-- story: path25
+- story: path18
   steps:
    - intent: order_produce
    - action: utter_order_produce
 
-- story: path26
-  steps:
-   - intent: delivery_time
-   - action: utter_delivery_time
-
-- story: path27
-  steps:
-   - intent: order_status
-   - action: utter_order_status
-
-- story: path28
+- story: path19
   steps:
    - intent: pay_produce
    - action: utter_pay_produce
 
-- story: path29
-  steps:
-   - intent: delivery_free
-   - action: utter_delivery_free
-
-- story: path30
+- story: path20
   steps:
    - intent: time_open_door
    - action: utter_time_open_door
 
-- story: path33
+- story: path21
   steps:
    - intent: support_KH
    - action: utter_support_KH
+
+- story: path22
+  steps:
+   - intent: ask_feature_bot
+   - action: utter_ask_feature_bot
+
+- story: path23
+  steps:
+   - intent: ask_service_name
+   - action: utter_policy_message
+   
+- story: path24
+  steps:
+   - intent: warranty_policy
+   - action: action_extract_produce
+
+

@@ -15,3 +15,5 @@ pypdfium2
 openai
 pandas
 openpyxl
+
+#ps aux | grep rasa

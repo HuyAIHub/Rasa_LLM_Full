@@ -1,15 +1,16 @@
-/home/aiai01/.local/lib/python3.10/site-packages/rasa/core/tracker_store.py:1044: MovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
+/home/huydq/anaconda3/envs/langchain/lib/python3.10/site-packages/rasa/core/tracker_store.py:1044: MovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
   Base: DeclarativeMeta = declarative_base()
-/home/aiai01/.local/lib/python3.10/site-packages/rasa/shared/utils/validation.py:134: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
+/home/huydq/anaconda3/envs/langchain/lib/python3.10/site-packages/rasa/shared/utils/validation.py:134: DeprecationWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html
   import pkg_resources
-/data/anaconda3/envs/langchain/lib/python3.10/site-packages/pkg_resources/__init__.py:2832: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
+/home/huydq/anaconda3/envs/langchain/lib/python3.10/site-packages/pkg_resources/__init__.py:2832: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('mpl_toolkits')`.
 Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
   declare_namespace(pkg)
-/data/anaconda3/envs/langchain/lib/python3.10/site-packages/pkg_resources/__init__.py:2832: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('ruamel')`.
+/home/huydq/anaconda3/envs/langchain/lib/python3.10/site-packages/pkg_resources/__init__.py:2832: DeprecationWarning: Deprecated call to `pkg_resources.declare_namespace('ruamel')`.
 Implementing implicit namespace packages (as specified in PEP 420) is preferred to `pkg_resources.declare_namespace`. See https://setuptools.pypa.io/en/latest/references/keywords.html#keyword-namespace-packages
   declare_namespace(pkg)
-/home/aiai01/.local/lib/python3.10/site-packages/sanic_cors/extension.py:39: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+/home/huydq/anaconda3/envs/langchain/lib/python3.10/site-packages/sanic_cors/extension.py:39: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
   SANIC_VERSION = LooseVersion(sanic_version)
+<<<<<<< HEAD
 2024-05-09 14:46:36 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
 /home/aiai01/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
   warn_deprecated(
@@ -18,3 +19,12 @@ Implementing implicit namespace packages (as specified in PEP 420) is preferred 
 2024-05-09 14:46:38 INFO     rasa_sdk.executor  - Registered function for 'action_search_product'.
 2024-05-09 14:46:38 INFO     rasa_sdk.endpoint  - Starting plugins...
 2024-05-09 14:46:38 INFO     rasa_sdk.endpoint  - Action endpoint is up and running on http://0.0.0.0:5055
+=======
+2024-05-16 08:37:41 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
+/home/huydq/anaconda3/envs/langchain/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:117: LangChainDeprecationWarning: The class `langchain_community.chat_models.openai.ChatOpenAI` was deprecated in langchain-community 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+2024-05-16 08:37:42 INFO     rasa_sdk.executor  - Registered function for 'action_extract_name'.
+2024-05-16 08:37:42 INFO     rasa_sdk.executor  - Registered function for 'action_extract_produce'.
+2024-05-16 08:37:42 INFO     rasa_sdk.endpoint  - Starting plugins...
+2024-05-16 08:37:42 INFO     rasa_sdk.endpoint  - Action endpoint is up and running on http://0.0.0.0:5055
+>>>>>>> fc8d1f2c2afe319a6100fca45c0bcc08d1bc2dec

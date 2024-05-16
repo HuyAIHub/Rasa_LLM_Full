@@ -1,0 +1,194 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bếp từ' tìm thấy:\n- Bếp từ đôi AIO Smart - Giá: 4962870 - Số lượng đã bán: 16\n  Thông số kỹ thuật:\n    \n    • Công suất: 4400W \n    • Trái: 2200W - Phải: 2200W \n    • Chất liệu mặt bếp: Kính Vitro Ceramic \n    • Bảng điều khiển: Cảm ứng \n- Bếp từ đơn AIO Smart kèm nồi - Giá: 1089000 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Công suất vùng nấu: 2100W \n    Kích thước vùng nấu: 200mm \n    Bảng điều khiển: cảm ứng \n    Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt) \n    Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "The following snippet was extracted from the following document: [](data/113_final_product.pdf)\n<START_SNIPPET_PAGE_1>\nI. Các loại sản phẩm\r\n1. Bàn là\r\nSố lượng sản phẩm là: 2\r\n- 509295: Bàn Ủi Khô Bluestone DIB-3726 1300W với giá 376860(VND)\r\n- 571578: Bàn ủi hơi nước Philips GC1740/20 2000W với giá 564960(VND)\r\n2. Bàn ủi, Máy sấy tóc\r\nSố lượng sản phẩm là: 1\r\n- 622476: Máy sấy tóc 1200W Philips BHC010/10 với giá 352330(VND)\r\n3. Bình nước nóng\r\nSố lượng sản phẩm là: 5\r\n- 571643: Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE với giá 2634876(VND)\r\n- 571642: Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE với giá 2817180(VND)\r\n- 571641: Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE với giá 3181896(VND)\r\n- 571241: Máy NLMT Empire 130 Lít Titan EPNL-TT1213 với giá 4419910(VND)\r\n- 571242: Máy NLMT Empire 160 Lít Titan EPNL-TT1516 với giá 5122590(VND)\r\n4. Bình đun nước\r\nSố lượng sản phẩm là: 1\r\n- 509288: Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W với giá 529210(VND)\r\n5. Ghế massage daikiosan\r\nSố lượng sản phẩm là: 23\r\n- 571636: Massage mắt DVMM-00001 với giá 757570(VND)\r\n- 571637: Massage cổ DVMG-00001 với giá 814880(VND)\r\n- 577816: Máy massage lưng Đại Việt DVML-00001 với giá 937750(VND)\r\n- 571639: Thảm Massage DVTM-00002 với giá 1414270(VND)\r\n- 571638: Massage cổ DVMG-00002 với giá 1755710(VND)\r\n- 577867: Ghế massage Daikiosan DKGM-00005 với giá 14336960(VND)\r\n- 577871: Ghế Massage Daikiosan DKGM-0001D với giá 15309030(VND)\r\n- 577794: Ghế Massage Makano MKGM-0001D với giá 15309030(VND)\r\n- 577806: Ghế Massage Daikiosan DKGM-00002 với giá 17313780(VND)\r\n- 577868: Ghế Massage Makano MKGM-00002 với giá 17313780(VND)\r\n- 577785: Ghế Massage Makano MKGM-20006 với giá 27337530(VND)\r\n- 577808: Ghế Massage Daikiosan DKGM-20006 với giá 27337530(VND)\r\n- 577869: Ghế Massage Daikiosan DKGM-10003 với giá 30982490(VND)\r\n- 577790: Ghế Massage Makano MKGM-10003 với giá 30982490(VND)\r\n- 577775: Ghế Massage Daikiosan DKGM-20002 với giá 32804970(VND)\r\n- 577799: Ghế Massage Makano MKGM-20001 với giá 32804970(VND)\r\n- 577844: Ghế Massage Daikiosan DVGM-20001 với giá 32804970(VND)\r\n- 577781: Ghế massage Daikiosan DKGM-20005 với giá 34627450(VND)\r\n- 577801: Ghế massage Makano MKGM-20005 với giá 34627450(VND)\r\n- 577870: Ghế massage Daikiosan DKGM-20004 với giá 41006240(VND)\r\n- 577792: Ghế Massage Makano MKGM-30002 với giá 46473790(VND)\r\n- 577843: Ghế Massage Daikiosan DKGM-30004 với giá 68343770(VND)\r\n- 577861: Ghế Massage Daikiosan DVGM-30003 với giá 91124990(VND)\r\n6. Lò vi sóng\r\nSố lượng sản phẩm là: 1\r\n- 509345: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít với giá 2346850(VND)\n<END_SNIPPET_PAGE_1>\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "The document does not provide information about the best-selling induction cooktop. I apologize for the inconvenience.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bếp từ' tìm thấy:\n- Bếp từ đôi AIO Smart - Giá: 4962870 - Số lượng đã bán: 16\n  Thông số kỹ thuật:\n    \n    • Công suất: 4400W \n    • Trái: 2200W - Phải: 2200W \n    • Chất liệu mặt bếp: Kính Vitro Ceramic \n    • Bảng điều khiển: Cảm ứng \n- Bếp từ đơn AIO Smart kèm nồi - Giá: 1089000 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Công suất vùng nấu: 2100W \n    Kích thước vùng nấu: 200mm \n    Bảng điều khiển: cảm ứng \n    Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt) \n    Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "The following snippet was extracted from the following document: [](data/113_final_product.pdf)\n<START_SNIPPET_PAGE_1>\nI. Các loại sản phẩm\r\n1. Bàn là\r\nSố lượng sản phẩm là: 2\r\n- 509295: Bàn Ủi Khô Bluestone DIB-3726 1300W với giá 376860(VND)\r\n- 571578: Bàn ủi hơi nước Philips GC1740/20 2000W với giá 564960(VND)\r\n2. Bàn ủi, Máy sấy tóc\r\nSố lượng sản phẩm là: 1\r\n- 622476: Máy sấy tóc 1200W Philips BHC010/10 với giá 352330(VND)\r\n3. Bình nước nóng\r\nSố lượng sản phẩm là: 5\r\n- 571643: Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE với giá 2634876(VND)\r\n- 571642: Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE với giá 2817180(VND)\r\n- 571641: Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE với giá 3181896(VND)\r\n- 571241: Máy NLMT Empire 130 Lít Titan EPNL-TT1213 với giá 4419910(VND)\r\n- 571242: Máy NLMT Empire 160 Lít Titan EPNL-TT1516 với giá 5122590(VND)\r\n4. Bình đun nước\r\nSố lượng sản phẩm là: 1\r\n- 509288: Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W với giá 529210(VND)\r\n5. Ghế massage daikiosan\r\nSố lượng sản phẩm là: 23\r\n- 571636: Massage mắt DVMM-00001 với giá 757570(VND)\r\n- 571637: Massage cổ DVMG-00001 với giá 814880(VND)\r\n- 577816: Máy massage lưng Đại Việt DVML-00001 với giá 937750(VND)\r\n- 571639: Thảm Massage DVTM-00002 với giá 1414270(VND)\r\n- 571638: Massage cổ DVMG-00002 với giá 1755710(VND)\r\n- 577867: Ghế massage Daikiosan DKGM-00005 với giá 14336960(VND)\r\n- 577871: Ghế Massage Daikiosan DKGM-0001D với giá 15309030(VND)\r\n- 577794: Ghế Massage Makano MKGM-0001D với giá 15309030(VND)\r\n- 577806: Ghế Massage Daikiosan DKGM-00002 với giá 17313780(VND)\r\n- 577868: Ghế Massage Makano MKGM-00002 với giá 17313780(VND)\r\n- 577785: Ghế Massage Makano MKGM-20006 với giá 27337530(VND)\r\n- 577808: Ghế Massage Daikiosan DKGM-20006 với giá 27337530(VND)\r\n- 577869: Ghế Massage Daikiosan DKGM-10003 với giá 30982490(VND)\r\n- 577790: Ghế Massage Makano MKGM-10003 với giá 30982490(VND)\r\n- 577775: Ghế Massage Daikiosan DKGM-20002 với giá 32804970(VND)\r\n- 577799: Ghế Massage Makano MKGM-20001 với giá 32804970(VND)\r\n- 577844: Ghế Massage Daikiosan DVGM-20001 với giá 32804970(VND)\r\n- 577781: Ghế massage Daikiosan DKGM-20005 với giá 34627450(VND)\r\n- 577801: Ghế massage Makano MKGM-20005 với giá 34627450(VND)\r\n- 577870: Ghế massage Daikiosan DKGM-20004 với giá 41006240(VND)\r\n- 577792: Ghế Massage Makano MKGM-30002 với giá 46473790(VND)\r\n- 577843: Ghế Massage Daikiosan DKGM-30004 với giá 68343770(VND)\r\n- 577861: Ghế Massage Daikiosan DVGM-30003 với giá 91124990(VND)\r\n6. Lò vi sóng\r\nSố lượng sản phẩm là: 1\r\n- 509345: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít với giá 2346850(VND)\n<END_SNIPPET_PAGE_1>\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tài liệu không cung cấp thông tin về bếp từ bán chạy nhất. Tôi xin lỗi vì sự bất tiện này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bếp từ' tìm thấy:\n- Bếp từ đôi AIO Smart - Giá: 4962870 - Số lượng đã bán: 16\n  Thông số kỹ thuật:\n    \n    • Công suất: 4400W \n    • Trái: 2200W - Phải: 2200W \n    • Chất liệu mặt bếp: Kính Vitro Ceramic \n    • Bảng điều khiển: Cảm ứng \n- Bếp từ đơn AIO Smart kèm nồi - Giá: 1089000 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Công suất vùng nấu: 2100W \n    Kích thước vùng nấu: 200mm \n    Bảng điều khiển: cảm ứng \n    Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt) \n    Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "The following snippet was extracted from the following document: [](data/113_final_product.pdf)\n<START_SNIPPET_PAGE_1>\nI. Các loại sản phẩm\r\n1. Bàn là\r\nSố lượng sản phẩm là: 2\r\n- 509295: Bàn Ủi Khô Bluestone DIB-3726 1300W với giá 376860(VND)\r\n- 571578: Bàn ủi hơi nước Philips GC1740/20 2000W với giá 564960(VND)\r\n2. Bàn ủi, Máy sấy tóc\r\nSố lượng sản phẩm là: 1\r\n- 622476: Máy sấy tóc 1200W Philips BHC010/10 với giá 352330(VND)\r\n3. Bình nước nóng\r\nSố lượng sản phẩm là: 5\r\n- 571643: Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE với giá 2634876(VND)\r\n- 571642: Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE với giá 2817180(VND)\r\n- 571641: Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE với giá 3181896(VND)\r\n- 571241: Máy NLMT Empire 130 Lít Titan EPNL-TT1213 với giá 4419910(VND)\r\n- 571242: Máy NLMT Empire 160 Lít Titan EPNL-TT1516 với giá 5122590(VND)\r\n4. Bình đun nước\r\nSố lượng sản phẩm là: 1\r\n- 509288: Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W với giá 529210(VND)\r\n5. Ghế massage daikiosan\r\nSố lượng sản phẩm là: 23\r\n- 571636: Massage mắt DVMM-00001 với giá 757570(VND)\r\n- 571637: Massage cổ DVMG-00001 với giá 814880(VND)\r\n- 577816: Máy massage lưng Đại Việt DVML-00001 với giá 937750(VND)\r\n- 571639: Thảm Massage DVTM-00002 với giá 1414270(VND)\r\n- 571638: Massage cổ DVMG-00002 với giá 1755710(VND)\r\n- 577867: Ghế massage Daikiosan DKGM-00005 với giá 14336960(VND)\r\n- 577871: Ghế Massage Daikiosan DKGM-0001D với giá 15309030(VND)\r\n- 577794: Ghế Massage Makano MKGM-0001D với giá 15309030(VND)\r\n- 577806: Ghế Massage Daikiosan DKGM-00002 với giá 17313780(VND)\r\n- 577868: Ghế Massage Makano MKGM-00002 với giá 17313780(VND)\r\n- 577785: Ghế Massage Makano MKGM-20006 với giá 27337530(VND)\r\n- 577808: Ghế Massage Daikiosan DKGM-20006 với giá 27337530(VND)\r\n- 577869: Ghế Massage Daikiosan DKGM-10003 với giá 30982490(VND)\r\n- 577790: Ghế Massage Makano MKGM-10003 với giá 30982490(VND)\r\n- 577775: Ghế Massage Daikiosan DKGM-20002 với giá 32804970(VND)\r\n- 577799: Ghế Massage Makano MKGM-20001 với giá 32804970(VND)\r\n- 577844: Ghế Massage Daikiosan DVGM-20001 với giá 32804970(VND)\r\n- 577781: Ghế massage Daikiosan DKGM-20005 với giá 34627450(VND)\r\n- 577801: Ghế massage Makano MKGM-20005 với giá 34627450(VND)\r\n- 577870: Ghế massage Daikiosan DKGM-20004 với giá 41006240(VND)\r\n- 577792: Ghế Massage Makano MKGM-30002 với giá 46473790(VND)\r\n- 577843: Ghế Massage Daikiosan DKGM-30004 với giá 68343770(VND)\r\n- 577861: Ghế Massage Daikiosan DVGM-30003 với giá 91124990(VND)\r\n6. Lò vi sóng\r\nSố lượng sản phẩm là: 1\r\n- 509345: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít với giá 2346850(VND)\n<END_SNIPPET_PAGE_1>\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Theo thông tin trong đoạn văn, không có thông tin về sản phẩm bếp từ nào bán chạy nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bếp từ' tìm thấy:\n- Bếp từ đôi AIO Smart - Giá: 4962870 - Số lượng đã bán: 16\n  Thông số kỹ thuật:\n    \n    • Công suất: 4400W \n    • Trái: 2200W - Phải: 2200W \n    • Chất liệu mặt bếp: Kính Vitro Ceramic \n    • Bảng điều khiển: Cảm ứng \n- Bếp từ đơn AIO Smart kèm nồi - Giá: 1089000 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Công suất vùng nấu: 2100W \n    Kích thước vùng nấu: 200mm \n    Bảng điều khiển: cảm ứng \n    Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt) \n    Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "The following snippet was extracted from the following document: [](data/113_final_product.pdf)\n<START_SNIPPET_PAGE_1>\nI. Các loại sản phẩm\r\n1. Bàn là\r\nSố lượng sản phẩm là: 2\r\n- 509295: Bàn Ủi Khô Bluestone DIB-3726 1300W với giá 376860(VND)\r\n- 571578: Bàn ủi hơi nước Philips GC1740/20 2000W với giá 564960(VND)\r\n2. Bàn ủi, Máy sấy tóc\r\nSố lượng sản phẩm là: 1\r\n- 622476: Máy sấy tóc 1200W Philips BHC010/10 với giá 352330(VND)\r\n3. Bình nước nóng\r\nSố lượng sản phẩm là: 5\r\n- 571643: Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE với giá 2634876(VND)\r\n- 571642: Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE với giá 2817180(VND)\r\n- 571641: Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE với giá 3181896(VND)\r\n- 571241: Máy NLMT Empire 130 Lít Titan EPNL-TT1213 với giá 4419910(VND)\r\n- 571242: Máy NLMT Empire 160 Lít Titan EPNL-TT1516 với giá 5122590(VND)\r\n4. Bình đun nước\r\nSố lượng sản phẩm là: 1\r\n- 509288: Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W với giá 529210(VND)\r\n5. Ghế massage daikiosan\r\nSố lượng sản phẩm là: 23\r\n- 571636: Massage mắt DVMM-00001 với giá 757570(VND)\r\n- 571637: Massage cổ DVMG-00001 với giá 814880(VND)\r\n- 577816: Máy massage lưng Đại Việt DVML-00001 với giá 937750(VND)\r\n- 571639: Thảm Massage DVTM-00002 với giá 1414270(VND)\r\n- 571638: Massage cổ DVMG-00002 với giá 1755710(VND)\r\n- 577867: Ghế massage Daikiosan DKGM-00005 với giá 14336960(VND)\r\n- 577871: Ghế Massage Daikiosan DKGM-0001D với giá 15309030(VND)\r\n- 577794: Ghế Massage Makano MKGM-0001D với giá 15309030(VND)\r\n- 577806: Ghế Massage Daikiosan DKGM-00002 với giá 17313780(VND)\r\n- 577868: Ghế Massage Makano MKGM-00002 với giá 17313780(VND)\r\n- 577785: Ghế Massage Makano MKGM-20006 với giá 27337530(VND)\r\n- 577808: Ghế Massage Daikiosan DKGM-20006 với giá 27337530(VND)\r\n- 577869: Ghế Massage Daikiosan DKGM-10003 với giá 30982490(VND)\r\n- 577790: Ghế Massage Makano MKGM-10003 với giá 30982490(VND)\r\n- 577775: Ghế Massage Daikiosan DKGM-20002 với giá 32804970(VND)\r\n- 577799: Ghế Massage Makano MKGM-20001 với giá 32804970(VND)\r\n- 577844: Ghế Massage Daikiosan DVGM-20001 với giá 32804970(VND)\r\n- 577781: Ghế massage Daikiosan DKGM-20005 với giá 34627450(VND)\r\n- 577801: Ghế massage Makano MKGM-20005 với giá 34627450(VND)\r\n- 577870: Ghế massage Daikiosan DKGM-20004 với giá 41006240(VND)\r\n- 577792: Ghế Massage Makano MKGM-30002 với giá 46473790(VND)\r\n- 577843: Ghế Massage Daikiosan DKGM-30004 với giá 68343770(VND)\r\n- 577861: Ghế Massage Daikiosan DVGM-30003 với giá 91124990(VND)\r\n6. Lò vi sóng\r\nSố lượng sản phẩm là: 1\r\n- 509345: Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít với giá 2346850(VND)\n<END_SNIPPET_PAGE_1>\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Theo thông tin trong đoạn văn, không có thông tin về sản phẩm bếp từ nào bán chạy nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

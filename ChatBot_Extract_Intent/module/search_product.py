@@ -31,7 +31,7 @@ def product_seeking(results,texts):
             found_products += 1
     execution_time = time.time() - start_time
     print("time to find product link: ",execution_time)
-    print('results product_seeking:',results)
+    # print('results product_seeking:',results)
     return results
 
 def product_seeking_terms(results,texts):    

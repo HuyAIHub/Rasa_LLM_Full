@@ -1,0 +1,626 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "bà là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bà là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bà là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bàn là' tìm thấy:\n- Bàn ủi hơi nước Philips GC1740/20 2000W - Giá: 564960 - Số lượng đã bán: 54\n  Thông số kỹ thuật:\n    \n    • Màu sắc: Xanh dương nhạt \n    • Loại bàn ủi: Hơi nước \n    • Chiều dài dây dẫn: 1.9m \n    • Chất liệu đế: Chống dính \n- Bàn Ủi Khô Bluestone DIB-3726 1300W - Giá: 376860 - Số lượng đã bán: 23\n  Thông số kỹ thuật:\n    \n    • Công suất: 1300W \n    • Mặt đế: Hợp kim nhôm \n    • Chức năng: Ủi khô \n    • Tiện ích: Có rãnh cúc tiện lợi; Không xoắn dây (dây nguồn xoay 360 độ) \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Loại máy giặt nào là phổ biến nhất hiện nay?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'máy giặt' tìm thấy:\n- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "cho tôi xem các sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Không tìm thấy sản phẩm 'sản phẩm điều hòa'.\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "cho tôi xem các sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 9.000 BTU/h (1 HP) \n    Diện tích sử dụng: Dưới 15m² \n    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:\n- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184\n  Thông số kỹ thuật:\n    Nguồn điện: 220-240V \n    Công suất: 9500 Btu/h \n    Công suất tiêu thụ: 745 W \n    Cường độ dòng điện: 3.4 A\n     ERR: 3.54 W/W \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "liệt kê cho tôi đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của  Đèn Năng Lượng Mặt Trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "liệt kê cho tôi đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:\n- Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W. - Giá: 617760\n  Thông số kỹ thuật:\n    \n    • Thời gian chiếu sáng: 10-12 giờ/ngày \n    • Thời gian nạp pin: 3-4 giờ/ngày \n    • Tuổi thọ đèn: 3-5 năm \n    • Tuổi thọ tấm pin NLMT: 10-12 năm \n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 50W \n    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n    • Nhiệt độ làm việc: -20C ~ 65C \n    • Nhiệt độ màu: 6500K \n- Đèn NLMT xách Tay 60W - Giá: 344410\n  Thông số kỹ thuật:\n    \n    • Công suất: 60W \n    • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm \n    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "liệt kê cho tôi đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:\n- Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W. - Giá: 617760\n  Thông số kỹ thuật:\n    \n    • Thời gian chiếu sáng: 10-12 giờ/ngày \n    • Thời gian nạp pin: 3-4 giờ/ngày \n    • Tuổi thọ đèn: 3-5 năm \n    • Tuổi thọ tấm pin NLMT: 10-12 năm \n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 50W \n    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n    • Nhiệt độ làm việc: -20C ~ 65C \n    • Nhiệt độ màu: 6500K \n- Đèn NLMT xách Tay 60W - Giá: 344410\n  Thông số kỹ thuật:\n    \n    • Công suất: 60W \n    • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm \n    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:\n- ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 - Số lượng đã bán: 80\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 300W \n    • Công suất tấm pin NLMT: Polycrystal 6V/40W \n    • Pin lưu trữ: 3.2V/48.000mAh LiFePO4 \n    • Chip Led: SMD Quang thông: 2970lm \n- Bộ đèn pha năng lượng mặt trời AIO Smart. Công suất 200W. Bảo hành 24 tháng - Giá: 1661440 - Số lượng đã bán: 75\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 200W \n    • Công suất tấm pin NLMT: Polycrystal 6V/25W \n    • Pin lưu trữ: 3.2V/36.000mAh LiFePO4 \n    • Chip Led: SMD \n- ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 - Số lượng đã bán: 74\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 300W \n    • Công suất tấm pin NLMT: Polycrystal 6V/35W \n    • Pin lưu trữ: 3.2V/48.000mAh LiFePO4 \n    • Chip Led: SMD \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bàn là' tìm thấy:\n- Bàn ủi hơi nước Philips GC1740/20 2000W - Giá: 564960 - Số lượng đã bán: 54\n  Thông số kỹ thuật:\n    \n    • Màu sắc: Xanh dương nhạt \n    • Loại bàn ủi: Hơi nước \n    • Chiều dài dây dẫn: 1.9m \n    • Chất liệu đế: Chống dính \n- Bàn Ủi Khô Bluestone DIB-3726 1300W - Giá: 376860 - Số lượng đã bán: 23\n  Thông số kỹ thuật:\n    \n    • Công suất: 1300W \n    • Mặt đế: Hợp kim nhôm \n    • Chức năng: Ủi khô \n    • Tiện ích: Có rãnh cúc tiện lợi; Không xoắn dây (dây nguồn xoay 360 độ) \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "5 sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "5 sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "5 sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Chào anh/chị, sản phẩm điều hòa mà chúng tôi tìm thấy là Quạt điều hòa không khí Everest 6000D. Hiện tại, chúng tôi đã bán được 63 sản phẩm này. Giá của sản phẩm là 2.450.800 đồng. Anh/chị có thể cho biết thêm thông tin cụ thể về nhu cầu của mình không ạ?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có loại nồi áp suất nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'nồi áp suất' tìm thấy:\n- Nồi áp suất AIO Smart AIOPTO3L23S/6CO - Giá: 2076250 - Số lượng đã bán: 69\n  Thông số kỹ thuật:\n    Công suất: 1350W \n    Nguồn định mức: 220VAC - 50/60Hz \n    Áp suất hoạt động: 80Kpa \n    Dung tích: 6.0L \n    Chất liệu lòng nồi: Hợp kim nhôm phủ chống dính \n- Nồi áp suất điện KALITE KL-636 6 lít - Giá: 1980440 - Số lượng đã bán: 31\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Kalite \n    • Màu sắc: trắng và đen \n    • Chất liệu: INOX \n    • Dung tích: 6L \n- Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W - Giá: 2040830 - Số lượng đã bán: 25\n  Thông số kỹ thuật:\n    \n    • Công suất: 900W \n    • Dung tích: 4.5 Lít \n    • Chế độ nấu cài đặt sẵn: 13 Chế độ \n    • Chất liệu vỏ ngoài: Hợp kim phủ sơn tĩnh điện \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước giá trung bình",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 bình đun nước với giá giá trung bình\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W: 529210VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 529210.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "các sản phẩm dưới 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình đun nước' tìm thấy:\n- Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W - Giá: 529210 - Số lượng đã bán: 38\n  Thông số kỹ thuật:\n    \n    • Công suất: 1850 - 2200W \n    • Dung tích: 1.7 lít \n    • Chất liệu ruột bình: Nhựa PP (không chứa BPA) \n    • Chất liệu vỏ bình: Nhựa PP \n- Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) - Giá: 339570 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Màu sắc : Trắng \n    Công suất (Danh định): 1500W\n    Nguồn định mức: 220VAC – 50/60Hz\n    Dung tích: 1.5L\n    Chất liệu ruột bình: Inox cao cấp SUS304\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình đun nước' tìm thấy:\n- Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W - Giá: 529210 - Số lượng đã bán: 38\n  Thông số kỹ thuật:\n    \n    • Công suất: 1850 - 2200W \n    • Dung tích: 1.7 lít \n    • Chất liệu ruột bình: Nhựa PP (không chứa BPA) \n    • Chất liệu vỏ bình: Nhựa PP \n- Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) - Giá: 339570 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Màu sắc : Trắng \n    Công suất (Danh định): 1500W\n    Nguồn định mức: 220VAC – 50/60Hz\n    Dung tích: 1.5L\n    Chất liệu ruột bình: Inox cao cấp SUS304\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình đun nước' tìm thấy:\n- Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W - Giá: 529210 - Số lượng đã bán: 38\n  Thông số kỹ thuật:\n    \n    • Công suất: 1850 - 2200W \n    • Dung tích: 1.7 lít \n    • Chất liệu ruột bình: Nhựa PP (không chứa BPA) \n    • Chất liệu vỏ bình: Nhựa PP \n- Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) - Giá: 339570 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Màu sắc : Trắng \n    Công suất (Danh định): 1500W\n    Nguồn định mức: 220VAC – 50/60Hz\n    Dung tích: 1.5L\n    Chất liệu ruột bình: Inox cao cấp SUS304\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình đun nước' tìm thấy:\n- Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W - Giá: 529210 - Số lượng đã bán: 38\n  Thông số kỹ thuật:\n    \n    • Công suất: 1850 - 2200W \n    • Dung tích: 1.7 lít \n    • Chất liệu ruột bình: Nhựa PP (không chứa BPA) \n    • Chất liệu vỏ bình: Nhựa PP \n- Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) - Giá: 339570 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Màu sắc : Trắng \n    Công suất (Danh định): 1500W\n    Nguồn định mức: 220VAC – 50/60Hz\n    Dung tích: 1.5L\n    Chất liệu ruột bình: Inox cao cấp SUS304\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình đun nước' tìm thấy:\n- Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W - Giá: 529210 - Số lượng đã bán: 38\n  Thông số kỹ thuật:\n    \n    • Công suất: 1850 - 2200W \n    • Dung tích: 1.7 lít \n    • Chất liệu ruột bình: Nhựa PP (không chứa BPA) \n    • Chất liệu vỏ bình: Nhựa PP \n- Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) - Giá: 339570 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Màu sắc : Trắng \n    Công suất (Danh định): 1500W\n    Nguồn định mức: 220VAC – 50/60Hz\n    Dung tích: 1.5L\n    Chất liệu ruột bình: Inox cao cấp SUS304\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình đun nước' tìm thấy:\n- Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W - Giá: 529210 - Số lượng đã bán: 38\n  Thông số kỹ thuật:\n    \n    • Công suất: 1850 - 2200W \n    • Dung tích: 1.7 lít \n    • Chất liệu ruột bình: Nhựa PP (không chứa BPA) \n    • Chất liệu vỏ bình: Nhựa PP \n- Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) - Giá: 339570 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Màu sắc : Trắng \n    Công suất (Danh định): 1500W\n    Nguồn định mức: 220VAC – 50/60Hz\n    Dung tích: 1.5L\n    Chất liệu ruột bình: Inox cao cấp SUS304\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình đun nước' tìm thấy:\n- Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W - Giá: 529210 - Số lượng đã bán: 38\n  Thông số kỹ thuật:\n    \n    • Công suất: 1850 - 2200W \n    • Dung tích: 1.7 lít \n    • Chất liệu ruột bình: Nhựa PP (không chứa BPA) \n    • Chất liệu vỏ bình: Nhựa PP \n- Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) - Giá: 339570 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Màu sắc : Trắng \n    Công suất (Danh định): 1500W\n    Nguồn định mức: 220VAC – 50/60Hz\n    Dung tích: 1.5L\n    Chất liệu ruột bình: Inox cao cấp SUS304\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "liệt kê cho tôi các sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:\n- Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W. - Giá: 617760\n  Thông số kỹ thuật:\n    \n    • Thời gian chiếu sáng: 10-12 giờ/ngày \n    • Thời gian nạp pin: 3-4 giờ/ngày \n    • Tuổi thọ đèn: 3-5 năm \n    • Tuổi thọ tấm pin NLMT: 10-12 năm \n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 50W \n    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n    • Nhiệt độ làm việc: -20C ~ 65C \n    • Nhiệt độ màu: 6500K \n- Đèn NLMT xách Tay 60W - Giá: 344410\n  Thông số kỹ thuật:\n    \n    • Công suất: 60W \n    • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm \n    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "The document does not provide information about the best-selling induction cooktop. I apologize for the inconvenience.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "The document does not provide information about the best-selling induction cooktop. I apologize for the inconvenience.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tài liệu không cung cấp thông tin về bếp từ bán chạy nhất. Tôi xin lỗi vì sự bất tiện này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tài liệu không cung cấp thông tin về bếp từ bán chạy nhất. Tôi xin lỗi vì sự bất tiện này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "câu hỏi vừa nãy tôi đã hỏi gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dưới đây là một số câu hỏi phổ biến mà người dùng thường đặt khi mua sắm:\n  1. Sản phẩm này có đánh giá tốt không?\n  2. Bạn có thể giúp tôi chọn kích cỡ/phù hợp không?\n  3. Sản phẩm này có sẵn trong màu sắc/kích thước khác không?\n  4. Bạn có thể giúp tôi tìm sản phẩm tương tự không?\n  5. Sản phẩm này có thể được vận chuyển quốc tế không?\n  6. Bạn có thể giúp tôi tìm sản phẩm trong phạm vi giá nhất định không?\n  7. Sản phẩm này có được bảo vệ bởi chính sách bảo mật không?\n  8. Bạn có thể giúp tôi tìm sản phẩm phù hợp với ngân sách của tôi không?\n  9. Sản phẩm này có thể được trả góp không?\n 10. Bạn có thể giúp tôi tìm sản phẩm theo thương hiệu nào đó không?\nNếu bạn có bất kỳ câu hỏi cụ thể nào khác hoặc cần hỗ trợ với một yêu cầu cụ thể, hãy cho tôi biết để tôi có thể giúp bạn tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi quan tâm tới phần 1",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách 1 đổi 1:\n  1. Thời gian áp dụng\n  - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n  - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n  2. Điều kiện:\n  - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n  - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n  - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n  - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n  - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n  Lưu ý: Không áp dụng hoàn tiền sản phẩm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "1",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những dịch vụ mà quý khách yêu cầu: \n  1. Tìm kiếm sản phẩm mà quý khách cần \n  2. Đưa ra các thông tin chi tiết về sản phẩm \n  3. Đưa ra giá thành sản phẩm với số tiền bạn có \n  4. Gợi ý những sản phẩm tương tự \n  5. Chính sách bảo hành\nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Theo thông tin trong đoạn văn, không có thông tin về sản phẩm bếp từ nào bán chạy nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Theo thông tin trong đoạn văn, không có thông tin về sản phẩm bếp từ nào bán chạy nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Theo thông tin trong đoạn văn, không có thông tin về sản phẩm bếp từ nào bán chạy nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm bếp từ nào bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Theo thông tin trong đoạn văn, không có thông tin về sản phẩm bếp từ nào bán chạy nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]
