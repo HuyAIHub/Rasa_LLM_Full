@@ -1,0 +1,74 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Loại máy giặt nào là phổ biến nhất hiện nay?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'máy giặt' tìm thấy:\n- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

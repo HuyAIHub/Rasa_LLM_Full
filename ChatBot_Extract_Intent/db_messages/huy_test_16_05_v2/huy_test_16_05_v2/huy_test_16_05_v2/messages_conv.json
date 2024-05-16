@@ -1,0 +1,26 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "bàn là",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bàn là' tìm thấy:\n- Bàn ủi hơi nước Philips GC1740/20 2000W - Giá: 564960 - Số lượng đã bán: 54\n  Thông số kỹ thuật:\n    \n    • Màu sắc: Xanh dương nhạt \n    • Loại bàn ủi: Hơi nước \n    • Chiều dài dây dẫn: 1.9m \n    • Chất liệu đế: Chống dính \n- Bàn Ủi Khô Bluestone DIB-3726 1300W - Giá: 376860 - Số lượng đã bán: 23\n  Thông số kỹ thuật:\n    \n    • Công suất: 1300W \n    • Mặt đế: Hợp kim nhôm \n    • Chức năng: Ủi khô \n    • Tiện ích: Có rãnh cúc tiện lợi; Không xoắn dây (dây nguồn xoay 360 độ) \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

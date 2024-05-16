@@ -13,13 +13,12 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
 from ChatBot_Extract_Intent.main import search_db
 import random
+from ChatBot_Extract_Intent.module.llm2 import llm2
 
 random_number = random.randint(0, 4)
 
 config_app = get_config()
 
-os.environ['OPENAI_API_KEY'] = config_app["parameter"]["openai_api_key"]
-agent_chat_model = ChatOpenAI(model_name=config_app["parameter"]["gpt_model_to_use"], temperature=config_app["parameter"]["temperature"])
 os.environ['OPENAI_API_KEY'] = config_app["parameter"]["openai_api_key"]
 llm = ChatOpenAI(model_name=config_app["parameter"]["gpt_model_to_use"], temperature=config_app["parameter"]["temperature"])
 faiss_index = load_and_index_pdf()
@@ -55,7 +54,7 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     if type == 'rasa':
         # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
         response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
-        
+
         if len(response.json()) == 0:
             results['out_text'] = config_app['parameter']['can_not_res'][random_number]
         elif response.json()[0].get("buttons"):
@@ -65,16 +64,20 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
             results['out_text'] = response.json()[0]["text"]
 
     if results['out_text'] == "LLM_predict":
-        try:
+        # try:
             response = search_db(query_text)
             num_check , response_rules = response[0], response[1]
             if num_check == 0:
                 results['out_text'] = response_rules
             else:
-                result = llm.invoke("Trả lời câu hỏi sau: '" + query_text + "' dựa trên các thông tin dưới đây\n" + response_rules)
+                
+                result = llm2(query_text, response_rules)
+                print('result_result',result)
                 results['out_text'] = result
-        except:
-            results['out_text'] = config_app['parameter']['can_not_res'][random_number]
+        # except:
+        #     results['out_text'] = config_app['parameter']['can_not_res'][random_number]
+    
+    # print('check result in chat:',results['out_text'])
     # Save DB
     conversation_messages_conv = conversation.memory.memories[0].chat_memory.messages
     conversation_messages_snippets = conversation.memory.memories[1].chat_memory.messages
@@ -83,10 +86,10 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
         conversation_messages_conv.append(AIMessage(content=results['out_text']))
         conversation_messages_snippets.append(HumanMessage(content=query_text))
         conversation_messages_snippets.append(AIMessage(content=results['out_text']))
-    
+
     messages_conv = messages_to_dict(conversation_messages_conv)
     messages_snippets  = messages_to_dict(conversation_messages_snippets)
-    
+
     with Path(path_messages + "/messages_conv.json").open("w",encoding="utf-8") as f:
         json.dump(messages_conv, f, indent=4,ensure_ascii=False)
     with Path(path_messages + "/messages_snippets.json").open("w",encoding="utf-8") as f:

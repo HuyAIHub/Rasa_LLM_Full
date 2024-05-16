@@ -9,6 +9,8 @@ import csv
 from ChatBot_Extract_Intent.extract_price_info import take_product
 import random
 import pandas as pd
+from unidecode import unidecode
+
 
 config_app = get_config()
 
@@ -88,11 +90,10 @@ def extract_info(chuoi):
 # Hàm xử lý yêu cầu
 def process_command(demands,list_product):
     print('======process_command======')
-    lst_mua = ['mua','quan tâm','giá','tìm','thích','bán']
+    lst_mua = ['mua','quan tâm','giá','tìm','thích','bán', 'xem','liệt kê']
     lst_so_luong = ['số lượng','bao nhiêu','mấy loại']
     # demands = extract_info(command)
-    print("info:",demands)
-    
+
     # if ((demands['demand'].lower() in lst_mua) and len(demands['value']) >= 1) or (len(demands['value']) >= 1 and len(demands['object']) > 0 and len(demands['demand']) == 0):
     #     return [0, handle_buy(demands)]
     # elif (demands['demand'].lower() in lst_mua) and len(demands['value']) == 0:
@@ -131,7 +132,7 @@ def handle_buy(demands):
         # Tìm các giá trị gần đúng với "value" trong cột SPECIFICATIONS_BACKUP
         value_possibilities = set(re.sub(r'[^a-zA-Z0-9]', '', product['SPECIFICATION_BACKUP'].lower()) for product in data)
         close_matches = get_close_matches(re.sub(r'[^a-zA-Z0-9]', '', demands["value"].lower()), value_possibilities)
-        
+
         if close_matches:
             result_string += f"Không tìm thấy {' '.join(demands['object'])} từ {demands['value'].title()} trong dữ liệu.\n"
             result_string += f"Có thể bạn muốn tìm kiếm:\n"
@@ -209,13 +210,13 @@ def handle_count(demands):
 
     return result_string
 
-# Lấy 3 phần tử đầu tiên trong list_product
-def take_top3_product(demands, list_product):
-    print('======take_top3_product======')
+# Lấy n phần tử đầu tiên trong list_product
+def take_topn_product(demands, list_product, n):
+    print('======take_top_product======')
     result_string = ''
     for name_product in demands['object']:
         result_string += f"Sản phẩm '{name_product}' tìm thấy:\n"
-        for product in list_product[name_product][:3]:
+        for product in list_product[name_product][:n]:
             result_string += f"- {product['PRODUCT_NAME']} - Giá: {product['RAW_PRICE']} - Số lượng đã bán: {product['QUANTITY_SOLD']}\n"
             specifications = product['SPECIFICATION_BACKUP'].split('\n')
             result_string += "  Thông số kỹ thuật:\n"
@@ -226,16 +227,16 @@ def take_top3_product(demands, list_product):
 def handle_tskt(demands, list_product):
     # Xử lý yêu cầu tskt sản phẩm
     print('======handle_tskt======')
-    lst_compare = ['so sánh','tốt hơn']
+    lst_compare = ['so sanh','tot hon', 'co gi khac']
 
     if demands['value'] == '':
         for i in list_product:
             if len(list_product[i]) > 1:
-                return [0,"Tôi cần tên cụ thể của  " + list_product[i][1]]
-        if demands['demand'].lower() in lst_compare:
-            return [1, take_top3_product(demands, list_product)]
+                return [0,"Tôi cần tên cụ thể của  " + list_product[i][1]['GROUP_PRODUCT_NAME']]
+        if unidecode(demands['demand'].lower()) in lst_compare:
+            return [1, take_topn_product(demands, list_product, 3)]
         else:
-            return [0, take_top3_product(demands, list_product)]
+            return [0, take_topn_product(demands, list_product, 3)]
     else:
         result_string = ''
         for name_product in demands['object']:
@@ -253,8 +254,8 @@ def handle_tskt(demands, list_product):
                     if cnt == 3:
                         break
             if cnt == 0:
-                return [1, take_top3_product(demands, list_product)]
-        if demands['demand'].lower() in lst_compare:
+                return [1, take_topn_product(demands, list_product, 3)]
+        if unidecode(demands['demand'].lower()) in lst_compare:
             return [1, result_string]
         else:
             return [0, result_string]
@@ -269,7 +270,7 @@ def take_db(demands):
 
         # Find product by product name
         for index, row in df.iterrows():
-            if name_product.lower() not in row['GROUP_PRODUCT_NAME'].lower() and name_product.lower() in row['PRODUCT_NAME'].lower():
+            if unidecode(name_product.lower()) not in unidecode(row['GROUP_PRODUCT_NAME'].lower()) and unidecode(name_product.lower()) in unidecode(row['PRODUCT_NAME'].lower()):
                 if name_product not in list_product:
                     list_product[name_product] = []
                 list_product[name_product].append({'LINK_SP' : row['LINK_SP'],
@@ -285,7 +286,7 @@ def take_db(demands):
 
         # Find product by group product name
         for index, row in df.iterrows():
-            if name_product.lower() in row['GROUP_PRODUCT_NAME'].lower():
+            if unidecode(name_product.lower()) in unidecode(row['GROUP_PRODUCT_NAME'].lower()) or unidecode(row['GROUP_PRODUCT_NAME'].lower()) in unidecode(name_product.lower()):
                 if name_product not in list_product:
                     list_product[name_product] = []
                 list_product[name_product].append({'LINK_SP' : row['LINK_SP'],
@@ -300,7 +301,7 @@ def take_db(demands):
         return s['QUANTITY_SOLD']
     for i in list_product:
         list_product[i] = sorted(list_product[i], key = QUANTITY_SOLD_sort, reverse=True)
-    
+
     return list_product
 
 def search_db(command):
@@ -311,33 +312,41 @@ def search_db(command):
     print('======search_db======')
     # If don't have object return type 0
     demands = extract_info(command)
-    if demands['object'] == "":
+    print("info:",demands)
+    if demands['object'] == []:
         return [0, 'Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?']
 
     # take data from db
     list_product = take_db(demands)
-    
+
     for name_product in demands['object']:
-        if name_product not in list_product:
+        check = False
+        for product in list_product:
+            if product in name_product:
+                check = True
+        if check == False:
             return [0, "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về {}. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?".format(name_product)]
-    
+
     if demands['demand'] == "":
+        if demands['value'] == "":
+            return [0,take_topn_product(demands, list_product, 3)]
         type = 'SPECIFICATION_BACKUP' # 2: SPECIFICATION_BACKUP, default
-        list_type = [
-            ['RAW_PRICE', 'trieu', 'nghin'], # 4: RAW_PRICE
-            ['QUANTITY_SOLD', 'ban chay nhat', 'nhieu luot mua', 'pho bien nhat','chay nhat'] # 5: QUANTITY_SOLD
-        ]
+        list_type = {
+            'RAW_PRICE' : ['trieu', 'nghin'], # 4: RAW_PRICE
+            'QUANTITY_SOLD' : ['ban chay nhat', 'nhieu luot mua', 'pho bien nhat','chay nhat'] # 5: QUANTITY_SOLD
+        }
         # Find type of demand
         for i in list_type:
-            for j in range(1,len(i)):
-                print(j[i])
-                if j[i] in demands['value']:
-                    type = j[0]
+            for value in list_type[i]:
+                if value in unidecode(demands['value'].lower()):
+                    type = i
         # result = []
         if type == 'RAW_PRICE':
-            return [1, take_product(demands['command'])]
-        
-        return [1,take_top3_product(demands, list_product)]
+            return [0, take_product(demands)]
+        elif type == 'QUANTITY_SOLD':
+            return [0,take_topn_product(demands, list_product, 1)]
+        else:
+            return [1,take_topn_product(demands, list_product, 3)]
     else:
-        
+
         return process_command(demands, list_product)
