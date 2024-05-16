@@ -13,6 +13,9 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
 from ChatBot_Extract_Intent.main import search_db
 import random
+import logging
+import datetime
+logging.basicConfig(filename=f"logs/{datetime.date.today()}_chatbot.log", level=logging.INFO, format='%(asctime)s - %(message)s')
 
 random_number = random.randint(0, 4)
 
@@ -51,25 +54,30 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     conversation, memory = initialize_chat_conversation(faiss_index, config_app["parameter"]["gpt_model_to_use"],
                                                 conversation_messages_conv, conversation_messages_snippets)
     results = {'out_text':''}
-    if type == 'rasa':
-        # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
-        response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
-        
-        if len(response.json()) == 0:
-            results['out_text'] = config_app['parameter']['can_not_res'][random_number]
-        else:
-            results['out_text'] = response.json()[0]["text"]
+
+    # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
+    response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
+    if len(response.json()) == 0:
+        results['out_text'] = config_app['parameter']['can_not_res'][random_number]
+    else:
+        logging.info("------------rasa------------")
+        logging.info(f"User: {query_text}")
+        results['out_text'] = response.json()[0]["text"]
 
     if results['out_text'] == "LLM_predict":
+        logging.info("------------llm------------")
+        logging.info(f"User: {query_text}")
         try:
             response = search_db(query_text)
             num_check , response_rules = response[0], response[1]
             if num_check == 0:
                 results['out_text'] = response_rules
             else:
-                result = llm.invoke("Trả lời câu hỏi sau: '" + query_text + "' dựa trên các thông tin dưới đây\n" + response_rules)
-                results['out_text'] = result
+                result = llm.invoke("Trả lời câu hỏi sau: " + query_text + " dựa trên các thông tin dưới đây\n" + response_rules)
+                results['out_text'] = result.content
+            
         except:
+            
             results['out_text'] = config_app['parameter']['can_not_res'][random_number]
     # Save DB
     conversation_messages_conv = conversation.memory.memories[0].chat_memory.messages
@@ -87,5 +95,5 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
         json.dump(messages_conv, f, indent=4,ensure_ascii=False)
     with Path(path_messages + "/messages_snippets.json").open("w",encoding="utf-8") as f:
         json.dump(messages_snippets, f, indent=4, ensure_ascii=False)
-
+    logging.info(f"Vcc_bot: {results['out_text']}")
     return results['out_text']

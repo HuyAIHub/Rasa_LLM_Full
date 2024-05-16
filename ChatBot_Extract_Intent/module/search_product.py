@@ -9,7 +9,6 @@ df = df.fillna('')
 
 
 def product_seeking(results,texts):
-    print('texts:',texts)
     start_time = time.time()
     max_products = config_app['parameter']['num_product']
     found_products = 0  # Đếm số lượng sản phẩm đã tìm thấy

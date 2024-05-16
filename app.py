@@ -6,6 +6,7 @@ import time
 from chat import predict_rasa_llm
 from ChatBot_Extract_Intent.module.search_product import product_seeking
 from ChatBot_Extract_Intent.config_app.config import get_config
+
 config_app = get_config()
 
 app = FastAPI()
@@ -24,17 +25,19 @@ async def post(InputText: str = Form(None),
     print("numberrequest", numberrequest)
     results = {
     "products" : [],
-    "terms" : [],
+    "terms" : [''],
     "content" : "",
     "status" : 200,
     "message": "",
     "time_processing":''
     }
-    # try:
-
-    chat_out = predict_rasa_llm(InputText,IdRequest,NameBot,User)
-    results = product_seeking(results = results, texts=chat_out)
-    results['content'] = chat_out
+    try:
+        chat_out = predict_rasa_llm(InputText,IdRequest,NameBot,User)
+        results = product_seeking(results = results, texts=chat_out)
+        results['content'] = chat_out
+    except:
+        results['status'] = 400
+        results['content'] = 'Hiện tại hệ thống đang bảo trì, vui lòng chờ trong giây lát.'
     print(results)
     return results
 
