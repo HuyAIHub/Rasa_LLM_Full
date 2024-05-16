@@ -1,9 +1,6 @@
 from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
-from rasa_sdk.events import UserUtteranceReverted
-from ChatBot_Extract_Intent.llm_predict import predict_llm
-import requests
 from ChatBot_Extract_Intent.config_app.config import get_config
 
 config_app = get_config()
