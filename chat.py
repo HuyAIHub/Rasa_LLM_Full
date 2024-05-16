@@ -64,7 +64,7 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
             results['out_text'] = response.json()[0]["text"]
 
     if results['out_text'] == "LLM_predict":
-        # try:
+        try:
             response = search_db(query_text)
             num_check , response_rules = response[0], response[1]
             if num_check == 0:
@@ -72,12 +72,10 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
             else:
                 
                 result = llm2(query_text, response_rules)
-                print('result_result',result)
                 results['out_text'] = result
-        # except:
-        #     results['out_text'] = config_app['parameter']['can_not_res'][random_number]
+        except:
+            results['out_text'] = config_app['parameter']['can_not_res'][random_number]
     
-    # print('check result in chat:',results['out_text'])
     # Save DB
     conversation_messages_conv = conversation.memory.memories[0].chat_memory.messages
     conversation_messages_snippets = conversation.memory.memories[1].chat_memory.messages
