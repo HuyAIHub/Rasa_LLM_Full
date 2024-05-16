@@ -13,13 +13,10 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
 from ChatBot_Extract_Intent.main import search_db
 import random
-<<<<<<< HEAD
 import logging
 import datetime
 logging.basicConfig(filename=f"logs/{datetime.date.today()}_chatbot.log", level=logging.INFO, format='%(asctime)s - %(message)s')
-=======
 from ChatBot_Extract_Intent.module.llm2 import llm2
->>>>>>> fc8d1f2c2afe319a6100fca45c0bcc08d1bc2dec
 
 random_number = random.randint(0, 4)
 
@@ -32,6 +29,8 @@ faiss_index = load_and_index_pdf()
 
 def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     User = str(User)
+    logging.info("----------------NEW_SESSION--------------")
+    logging.info(f"User: {User}")
     print("----------------NEW_SESSION--------------")
     print("GuildID  = ", IdRequest)
 
@@ -55,18 +54,6 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     # Predict Text
     conversation, memory = initialize_chat_conversation(faiss_index, config_app["parameter"]["gpt_model_to_use"],
                                                 conversation_messages_conv, conversation_messages_snippets)
-<<<<<<< HEAD
-    results = {'out_text':''}
-
-    # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
-    response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
-    if len(response.json()) == 0:
-        results['out_text'] = config_app['parameter']['can_not_res'][random_number]
-    else:
-        logging.info("------------rasa------------")
-        logging.info(f"User: {query_text}")
-        results['out_text'] = response.json()[0]["text"]
-=======
     results = {
         'terms':'','out_text':''}
     if type == 'rasa':
@@ -80,7 +67,6 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
             results['out_text'] = response.json()[0]["text"]
         else:
             results['out_text'] = response.json()[0]["text"]
->>>>>>> fc8d1f2c2afe319a6100fca45c0bcc08d1bc2dec
 
     if results['out_text'] == "LLM_predict":
         logging.info("------------llm------------")
@@ -91,15 +77,9 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
             if num_check == 0:
                 results['out_text'] = response_rules
             else:
-<<<<<<< HEAD
-                result = llm.invoke("Trả lời câu hỏi sau: " + query_text + " dựa trên các thông tin dưới đây\n" + response_rules)
-                results['out_text'] = result.content
-            
-=======
                 
                 result = llm2(query_text, response_rules)
                 results['out_text'] = result
->>>>>>> fc8d1f2c2afe319a6100fca45c0bcc08d1bc2dec
         except:
             
             results['out_text'] = config_app['parameter']['can_not_res'][random_number]
@@ -120,10 +100,5 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
         json.dump(messages_conv, f, indent=4,ensure_ascii=False)
     with Path(path_messages + "/messages_snippets.json").open("w",encoding="utf-8") as f:
         json.dump(messages_snippets, f, indent=4, ensure_ascii=False)
-<<<<<<< HEAD
     logging.info(f"Vcc_bot: {results['out_text']}")
-    return results['out_text']
-=======
-
     return results
->>>>>>> fc8d1f2c2afe319a6100fca45c0bcc08d1bc2dec

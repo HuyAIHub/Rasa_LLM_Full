@@ -236,11 +236,7 @@ def handle_tskt(demands, list_product):
         if unidecode(demands['demand'].lower()) in lst_compare:
             return [1, take_topn_product(demands, list_product, 3)]
         else:
-<<<<<<< HEAD
-            return [0, take_top3_product(demands, list_product)]
-=======
             return [0, take_topn_product(demands, list_product, 3)]
->>>>>>> fc8d1f2c2afe319a6100fca45c0bcc08d1bc2dec
     else:
         result_string = ''
         for name_product in demands['object']:
@@ -258,13 +254,8 @@ def handle_tskt(demands, list_product):
                     if cnt == 3:
                         break
             if cnt == 0:
-<<<<<<< HEAD
-                return [1, take_top3_product(demands, list_product)]
-        if demands['demand'].lower() in lst_compare:
-=======
                 return [1, take_topn_product(demands, list_product, 3)]
         if unidecode(demands['demand'].lower()) in lst_compare:
->>>>>>> fc8d1f2c2afe319a6100fca45c0bcc08d1bc2dec
             return [1, result_string]
         else:
             return [0, result_string]

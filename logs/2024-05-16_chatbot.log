@@ -1,0 +1,110 @@
+2024-05-16 14:01:36,512 - Loading faiss with AVX512 support.
+2024-05-16 14:01:36,531 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:05:23,646 - Loading faiss with AVX512 support.
+2024-05-16 14:05:23,664 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:05:30,290 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-05-16 14:06:42,550 - Loading faiss with AVX512 support.
+2024-05-16 14:06:42,568 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:06:45,144 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-05-16 14:07:39,713 - Loading faiss with AVX512 support.
+2024-05-16 14:07:39,730 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:07:42,726 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-05-16 14:08:15,993 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-05-16 14:09:41,667 - Loading faiss with AVX512 support.
+2024-05-16 14:09:41,684 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:09:44,759 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-05-16 14:09:52,638 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-05-16 14:10:43,140 - Loading faiss with AVX512 support.
+2024-05-16 14:10:43,157 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:10:46,752 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-05-16 14:12:01,130 - ------------llm------------
+2024-05-16 14:12:01,130 - User: bà là
+2024-05-16 14:12:02,090 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-16 14:12:02,095 - Vcc_bot: Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?
+2024-05-16 14:12:13,666 - ------------llm------------
+2024-05-16 14:12:13,666 - User: bàn là
+2024-05-16 14:12:14,719 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-16 14:12:14,757 - Vcc_bot: Sản phẩm 'bàn là' tìm thấy:
+- Bàn ủi hơi nước Philips GC1740/20 2000W - Giá: 564960 - Số lượng đã bán: 54
+  Thông số kỹ thuật:
+    
+    • Màu sắc: Xanh dương nhạt 
+    • Loại bàn ủi: Hơi nước 
+    • Chiều dài dây dẫn: 1.9m 
+    • Chất liệu đế: Chống dính 
+- Bàn Ủi Khô Bluestone DIB-3726 1300W - Giá: 376860 - Số lượng đã bán: 23
+  Thông số kỹ thuật:
+    
+    • Công suất: 1300W 
+    • Mặt đế: Hợp kim nhôm 
+    • Chức năng: Ủi khô 
+    • Tiện ích: Có rãnh cúc tiện lợi; Không xoắn dây (dây nguồn xoay 360 độ) 
+
+2024-05-16 14:13:30,929 - Loading faiss with AVX512 support.
+2024-05-16 14:13:30,946 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:14:01,374 - Loading faiss with AVX512 support.
+2024-05-16 14:14:01,392 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:14:29,428 - Loading faiss with AVX512 support.
+2024-05-16 14:14:29,446 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:16:48,164 - Loading faiss with AVX512 support.
+2024-05-16 14:16:48,181 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:17:15,899 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-05-16 14:17:40,210 - Loading faiss with AVX512 support.
+2024-05-16 14:17:40,228 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:18:00,092 - ------------llm------------
+2024-05-16 14:18:00,092 - User: bàn là
+2024-05-16 14:18:01,217 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-16 14:18:01,257 - Vcc_bot: Sản phẩm 'bàn là' tìm thấy:
+- Bàn ủi hơi nước Philips GC1740/20 2000W - Giá: 564960 - Số lượng đã bán: 54
+  Thông số kỹ thuật:
+    
+    • Màu sắc: Xanh dương nhạt 
+    • Loại bàn ủi: Hơi nước 
+    • Chiều dài dây dẫn: 1.9m 
+    • Chất liệu đế: Chống dính 
+- Bàn Ủi Khô Bluestone DIB-3726 1300W - Giá: 376860 - Số lượng đã bán: 23
+  Thông số kỹ thuật:
+    
+    • Công suất: 1300W 
+    • Mặt đế: Hợp kim nhôm 
+    • Chức năng: Ủi khô 
+    • Tiện ích: Có rãnh cúc tiện lợi; Không xoắn dây (dây nguồn xoay 360 độ) 
+
+2024-05-16 14:25:05,243 - Loading faiss with AVX512 support.
+2024-05-16 14:25:05,261 - Successfully loaded faiss with AVX512 support.
+2024-05-16 14:25:24,470 - ----------------NEW_SESSION--------------
+2024-05-16 14:25:24,471 - User: 428950
+2024-05-16 14:25:24,592 - ------------llm------------
+2024-05-16 14:25:24,592 - User: máy lọc nước
+2024-05-16 14:25:25,833 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-16 14:25:25,874 - Vcc_bot: Sản phẩm 'máy lọc nước' tìm thấy:
+- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36
+  Thông số kỹ thuật:
+    
+    • Loại máy: Máy lọc nước RO, Để bàn 
+    • Số lõi lọc: 4 lõi 
+    • Dung tích bình chứa: 5 lít 
+    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) 
+- Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 - Giá: 4549270 - Số lượng đã bán: 24
+  Thông số kỹ thuật:
+    
+    • Dòng máy: Empire Pro nóng nguội 
+    • Hình dáng: Máy lọc nước tủ đứng 
+    • Số lõi lọc: 10 lõi lọc 
+    • Công nghệ lọc: Công nghệ lọc RO 
+- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Pentair 
+    • Xuất xứ lõi lọc chính: USA 
+    • Công suất: 3.785 Lít 
+    • Tốc độ chảy: 1.9 Lít/phút 
+
