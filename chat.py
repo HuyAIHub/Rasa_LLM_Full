@@ -1,7 +1,7 @@
 import os
 import json
 from pathlib import Path
-from ChatBot_Extract_Intent.module.llm import initialize_chat_conversation
+from ChatBot_Extract_Intent.module.llm2 import initialize_chat_conversation
 from ChatBot_Extract_Intent.download_and_load_index_data import load_and_index_pdf
 from ChatBot_Extract_Intent.config_app.config import get_config
 from langchain.memory import (
@@ -51,12 +51,12 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     except:
         conversation_messages_conv, conversation_messages_snippets = [], []
 
-    # Predict Text
-    conversation, memory = initialize_chat_conversation(faiss_index, config_app["parameter"]["gpt_model_to_use"],
-                                                conversation_messages_conv, conversation_messages_snippets)
     results = {
         'terms':'','out_text':''}
     if type == 'rasa':
+        # Predict Text
+        conversation = initialize_chat_conversation(faiss_index, config_app["parameter"]["gpt_model_to_use"],
+                                                conversation_messages_conv, conversation_messages_snippets, "")
         # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
         response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
 
@@ -72,13 +72,16 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
         logging.info("------------llm------------")
         logging.info(f"User: {query_text}")
         try:
+            # Predict Text
+            conversation = initialize_chat_conversation(config_app["parameter"]["gpt_model_to_use"], 
+                                                    conversation_messages_conv, conversation_messages_snippets, response_rules)
             response = search_db(query_text)
             num_check , response_rules = response[0], response[1]
             if num_check == 0:
                 results['out_text'] = response_rules
             else:
                 
-                result = llm2(query_text, response_rules)
+                result = conversation.predict(input = query_text)
                 results['out_text'] = result
         except:
             

@@ -1,0 +1,314 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "'PRODUCT INFO ID': 606038,\n 'GROUP PRODUCT NAME': 'Điều hòa - Điều hòa MDV - Inverter 9000 BTU',\n 'SPECIFICATION BACKUP': 'Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184',\n 'PRICE ': 10000000",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trả lời: Công suất tiêu thụ của sản phẩm này là 745 W.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Trả lời: Cường độ điện trường của sản phẩm này không được đề cập trong thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Trả lời: Cường độ dòng điện của sản phẩm này không được đề cập trong thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Trả lời: Cường độ dòng điện của sản phẩm này không được đề cập trong thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "'PRODUCT INFO ID': 606038,\n 'GROUP PRODUCT NAME': 'Điều hòa - Điều hòa MDV - Inverter 9000 BTU',\n 'SPECIFICATION BACKUP': 'Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184',\n 'PRICE ': 10000000",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Trả lời: Cường độ dòng điện của sản phẩm này không được đề cập trong thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "'PRODUCT INFO ID': 606038,\n 'GROUP PRODUCT NAME': 'Điều hòa - Điều hòa MDV - Inverter 9000 BTU',\n 'SPECIFICATION BACKUP': 'Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184',\n 'PRICE ': 10000000",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Cường độ dòng điện của sản phẩm này là 3.4 A.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "'PRODUCT INFO ID': 606038,\n 'GROUP PRODUCT NAME': 'Điều hòa - Điều hòa MDV - Inverter 9000 BTU',\n 'SPECIFICATION BACKUP': 'Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184',\n 'PRICE ': 10000000",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Cường độ dòng điện của sản phẩm này là 3.4 A.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Trả lời: Thông tin về chiều dài tối đa của ống sử dụng cho sản phẩm này không được đề cập trong thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Trả lời: Thông tin về chiều dài tối đa của ống sử dụng cho sản phẩm này không được đề cập trong thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "'PRODUCT INFO ID': 606038,\n 'GROUP PRODUCT NAME': 'Điều hòa - Điều hòa MDV - Inverter 9000 BTU',\n 'SPECIFICATION BACKUP': 'Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184',\n 'PRICE ': 10000000",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Xin lỗi, tôi không có thông tin về chiều dài tối đa của ống sử dụng cho sản phẩm này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Trả lời: Thông tin về chiều dài tối đa của ống sử dụng cho sản phẩm này không được đề cập trong thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Trả lời: Thông tin về chiều dài tối đa của ống sử dụng cho sản phẩm này không được đề cập trong thông tin.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]
