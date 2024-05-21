@@ -11,7 +11,7 @@ parameter:
 
   # Số đoạn sẽ được thêm vào lời nhắc. Quá nhiều đoạn trích và bạn có nguy cơ bị cả lời nhắc vượt qua
   # giới hạn mã thông báo và mô hình không thể tìm thấy câu trả lời chính xác
-  prompt_number_snippets: 1
+  prompt_number_snippets: 3
 
   # GPT related constants
   gpt_model_to_use: "gpt-3.5-turbo-16k"
@@ -27,13 +27,12 @@ parameter:
   chunk_overlap: 50
 
   # Số đoạn trích được FAISS truy xuất
-  number_snippets_to_retrieve: 1
+  number_snippets_to_retrieve: 3
   
   #Thông tin sản phẩm
   data_private: ./ChatBot_Extract_Intent/data/product_final_204_oke.xlsx
 
   num_product: 3  # Số lượng sản phẩm tối đa cần tìm
-
 
   #
   raw_answer: ["Mình là trợ lý AI của VCC. Mình được tạo ra để hỗ trợ và giải đáp về các sản phẩm của VCC, hiện tại mình vẫn đang trong quá trình phát triển nên không phải lúc nào cũng đúng. Bạn có thể phản hồi để giúp mình cải thiện tốt hơn.",
@@ -107,16 +106,15 @@ parameter:
         },
         {
             "command":"Sản phẩm bếp từ nào bán chạy nhất",
-            "demand":"bán",
+            "demand":"",
             "object":["bếp từ"],
-            "value":"chạy nhất",
+            "value":"bán chạy nhất",
         },
         {
             "command":"Sản phẩm bán chạy nhất là sản phẩm nào?",
-            "demand":"bán",
+            "demand":"",
             "object":[],
-            "value":"chạy nhất",
-
+            "value":"bán chạy nhất",
         },
         {
             "command":"Bếp từ nào có công suất lớn nhất",

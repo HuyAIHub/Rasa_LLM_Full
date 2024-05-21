@@ -210,13 +210,42 @@ def handle_count(demands):
 
     return result_string
 
-# Lấy n phần tử đầu tiên trong list_product
+# Lấy n sản phẩm bán chạy nhất
+def take_QUANTITY_SOLD_product(demands, list_product, n):
+    print('======QUANTITY_SOLD_product======')
+
+    # sort product depend on QUANTITY_SOLD
+    def QUANTITY_SOLD_sort(s):
+        return s['QUANTITY_SOLD']
+    for i in list_product:
+        list_product[i] = sorted(list_product[i], key = QUANTITY_SOLD_sort, reverse=True)
+
+    result_string = ''
+    for name_product in demands['object']:
+        result_string += f"Sản phẩm '{name_product}' tìm thấy:\n"
+        for product in list_product[name_product][:n]:
+            result_string += f"- {product['PRODUCT_NAME']} - Giá: {product['RAW_PRICE']} - Số lượng đã bán: {product['QUANTITY_SOLD']}\n"
+            specifications = product['SPECIFICATION_BACKUP'].split('\n')
+            result_string += "  Thông số kỹ thuật:\n"
+            for spec in specifications[:5]:  # In ra 5 dòng đầu tiên của thông số kỹ thuật
+                result_string += f"    {spec}\n"
+    return result_string
+
+# Lấy n phần tử đầu tiên và cuối cùng trong list_product
 def take_topn_product(demands, list_product, n):
     print('======take_top_product======')
     result_string = ''
     for name_product in demands['object']:
         result_string += f"Sản phẩm '{name_product}' tìm thấy:\n"
+        result_string += f"Các dòng sản phẩm cao cấp:\n"
         for product in list_product[name_product][:n]:
+            result_string += f"- {product['PRODUCT_NAME']} - Giá: {product['RAW_PRICE']} - Số lượng đã bán: {product['QUANTITY_SOLD']}\n"
+            specifications = product['SPECIFICATION_BACKUP'].split('\n')
+            result_string += "  Thông số kỹ thuật:\n"
+            for spec in specifications[:5]:  # In ra 5 dòng đầu tiên của thông số kỹ thuật
+                result_string += f"    {spec}\n"
+        result_string += f"Các dòng sản phẩm rẻ tiền:\n"
+        for product in list_product[name_product][-n:]:
             result_string += f"- {product['PRODUCT_NAME']} - Giá: {product['RAW_PRICE']} - Số lượng đã bán: {product['QUANTITY_SOLD']}\n"
             specifications = product['SPECIFICATION_BACKUP'].split('\n')
             result_string += "  Thông số kỹ thuật:\n"
@@ -234,7 +263,7 @@ def handle_tskt(demands, list_product):
             if len(list_product[i]) > 1:
                 return [0,"Tôi cần tên cụ thể của  " + list_product[i][1]['GROUP_PRODUCT_NAME']]
         if unidecode(demands['demand'].lower()) in lst_compare:
-            return [1, take_topn_product(demands, list_product, 3)]
+            return [1, take_QUANTITY_SOLD_product(demands, list_product, 3)]
         else:
             return [0, take_topn_product(demands, list_product, 3)]
     else:
@@ -254,7 +283,7 @@ def handle_tskt(demands, list_product):
                     if cnt == 3:
                         break
             if cnt == 0:
-                return [1, take_topn_product(demands, list_product, 3)]
+                return [1, take_QUANTITY_SOLD_product(demands, list_product, 3)]
         if unidecode(demands['demand'].lower()) in lst_compare:
             return [1, result_string]
         else:
@@ -297,10 +326,10 @@ def take_db(demands):
                                                    'QUANTITY_SOLD' : row['QUANTITY_SOLD']})
 
     # sort product from highest price to lowest
-    def QUANTITY_SOLD_sort(s):
-        return s['QUANTITY_SOLD']
+    def RAW_PRICE_sort(s):
+        return s['RAW_PRICE']
     for i in list_product:
-        list_product[i] = sorted(list_product[i], key = QUANTITY_SOLD_sort, reverse=True)
+        list_product[i] = sorted(list_product[i], key = RAW_PRICE_sort, reverse=True)
 
     return list_product
 
@@ -319,13 +348,20 @@ def search_db(command):
     # take data from db
     list_product = take_db(demands)
 
+    not_found_product = []
     for name_product in demands['object']:
         check = False
         for product in list_product:
-            if product in name_product:
+            if product in name_product or name_product in product:
                 check = True
         if check == False:
-            return [0, "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về {}. Liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?".format(name_product)]
+            not_found_product.append(name_product)
+    if len(not_found_product) > 0:
+        result_string = "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  "
+        for product in not_found_product:
+            result_string += product.lower() + ", "
+        result_string += "liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?"
+        return [0, result_string]
 
     if demands['demand'] == "":
         if demands['value'] == "":
@@ -344,7 +380,7 @@ def search_db(command):
         if type == 'RAW_PRICE':
             return [0, take_product(demands)]
         elif type == 'QUANTITY_SOLD':
-            return [0,take_topn_product(demands, list_product, 1)]
+            return [0,take_QUANTITY_SOLD_product(demands, list_product, 3)]
         else:
             return [1,take_topn_product(demands, list_product, 3)]
     else:
