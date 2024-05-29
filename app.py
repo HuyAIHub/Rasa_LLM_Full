@@ -31,7 +31,8 @@ async def post(InputText: str = Form(None),
     "time_processing":''
     }
     # # try:
-    results["terms"]= config_app['parameter']['rasa_bottom']
+    if InputText == 'test':
+      results["terms"]= config_app['parameter']['rasa_bottom']
 
     if InputText:
       chat_out = predict_rasa_llm(InputText,IdRequest,NameBot,User)

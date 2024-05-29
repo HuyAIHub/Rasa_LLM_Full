@@ -12,6 +12,7 @@ from ChatBot_Extract_Intent.config_app.config import get_config
 from pathlib import Path
 from langchain.schema import messages_from_dict, messages_to_dict
 from typing import Any, Dict, List
+from langchain_core.messages.human import HumanMessage
 
 config_app = get_config()
 
@@ -37,10 +38,10 @@ class SnippetsBufferWindowMemory(ConversationBufferWindowMemory):
         buffer: Any = self.buffer[-self.k * 2 :] if self.k > 0 else []
         string_messages = []
         for m in buffer:
-            if m.type == 'human':
+            if isinstance(m, HumanMessage):
                 message = f"{m.content}"
                 string_messages.append(message)
-        string_messages.append(response_rules) # type: ignore
+        string_messages.append(self.response_rules)
 
         to_return = "\n".join(string_messages)
         return {'snippets': to_return}
@@ -63,7 +64,7 @@ def construct_conversation(prompt: str, llm, memory) -> ConversationChain:
     return conversation
 
 
-def initialize_chat_conversation(model_to_use, conv_memory, snippets_memory, response_rules) -> ConversationChain:
+def initialize_chat_conversation(conv_memory, snippets_memory, response_rules) -> ConversationChain:
     prompt_header = """You are a product information lookup support, your task is to answer customer questions based on the technical paragraphs provided and history chat.
     The following passages may help you answer the questions:
     {snippets}

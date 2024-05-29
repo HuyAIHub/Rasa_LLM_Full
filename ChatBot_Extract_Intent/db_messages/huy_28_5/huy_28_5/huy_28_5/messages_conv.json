@@ -1,0 +1,410 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm điều hòa bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "so sánh điều hòa LG và điều hòa daikin",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của  Điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Quạt điều hòa không khí Everest 6000D",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Quạt điều hòa không khí Everest 6000D' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \nCác dòng sản phẩm rẻ tiền:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi cần tên cụ thể của  Điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Tôi cần tên cụ thể của  Điều hòa để có thể giúp bạn tốt hơn. Bạn có thể cung cấp tên sản phẩm điều hòa mà bạn quan tâm không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Tôi cần tên cụ thể của  Điều hòa để có thể giúp bạn tốt hơn. Bạn có thể cung cấp tên sản phẩm điều hòa mà bạn quan tâm không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hãy so sánh điều hòa LG và điều hòa okela",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Để so sánh điều hòa LG và điều hòa Okela, tôi cần biết thêm thông tin về các mô hình cụ thể của cả hai sản phẩm. Bạn có thể cung cấp tên mô hình của điều hòa LG và điều hòa Okela mà bạn quan tâm không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hãy so sánh điều hòa LG và điều hòa okela",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Để so sánh điều hòa LG và điều hòa Okela, tôi cần biết thêm thông tin về các mô hình cụ thể của cả hai sản phẩm. Bạn có thể cung cấp tên mô hình của điều hòa LG và điều hòa Okela mà bạn quan tâm không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm điều hòa bán chạy nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "test",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi đang quan tâm sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 9.000 BTU/h (1 HP) \n    Diện tích sử dụng: Dưới 15m² \n    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:\n- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184\n  Thông số kỹ thuật:\n    Nguồn điện: 220-240V \n    Công suất: 9500 Btu/h \n    Công suất tiêu thụ: 745 W \n    Cường độ dòng điện: 3.4 A\n     ERR: 3.54 W/W \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "5 sản phẩm điều hoà giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 5 điều hoà với giá giá rẻ\nTôi không thể đáp ứng yêu cầu của bạn.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \nCác dòng sản phẩm rẻ tiền:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

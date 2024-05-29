@@ -16,7 +16,6 @@ import random
 import logging
 import datetime
 logging.basicConfig(filename=f"logs/{datetime.date.today()}_chatbot.log", level=logging.INFO, format='%(asctime)s - %(message)s')
-from ChatBot_Extract_Intent.module.llm2 import llm2
 
 random_number = random.randint(0, 4)
 
@@ -55,8 +54,7 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
         'terms':'','out_text':''}
     if type == 'rasa':
         # Predict Text
-        conversation = initialize_chat_conversation(faiss_index, config_app["parameter"]["gpt_model_to_use"],
-                                                conversation_messages_conv, conversation_messages_snippets, "")
+        conversation = initialize_chat_conversation(conversation_messages_conv, conversation_messages_snippets, "")
         # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
         response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
 
@@ -71,21 +69,21 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     if results['out_text'] == "LLM_predict":
         logging.info("------------llm------------")
         logging.info(f"User: {query_text}")
-        try:
-            # Predict Text
-            conversation = initialize_chat_conversation(config_app["parameter"]["gpt_model_to_use"], 
-                                                    conversation_messages_conv, conversation_messages_snippets, response_rules)
-            response = search_db(query_text)
-            num_check , response_rules = response[0], response[1]
-            if num_check == 0:
-                results['out_text'] = response_rules
-            else:
-                
-                result = conversation.predict(input = query_text)
-                results['out_text'] = result
-        except:
+        # try:
             
-            results['out_text'] = config_app['parameter']['can_not_res'][random_number]
+        response = search_db(query_text)
+        num_check , response_rules = response[0], response[1]
+        # Predict Text
+        conversation = initialize_chat_conversation(conversation_messages_conv, conversation_messages_snippets, response_rules)
+        if num_check == 0:
+            results['out_text'] = response_rules
+        else:
+            print('======conversation_predict======')
+            result = conversation.predict(input = query_text)
+            results['out_text'] = result
+        # except:
+            
+        #     results['out_text'] = config_app['parameter']['can_not_res'][random_number]
     
     # Save DB
     conversation_messages_conv = conversation.memory.memories[0].chat_memory.messages

@@ -1,0 +1,98 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \nCác dòng sản phẩm rẻ tiền:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi sản phẩm nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi sản phẩm nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Xin lỗi vì sự nhầm lẫn. Dựa vào thông tin đã được cung cấp, sản phẩm điều hòa mà chúng tôi tìm thấy là Quạt điều hòa không khí Everest 6000D. Nó có giá là 2,450,800 VND và đã bán được 63 sản phẩm. Thông số kỹ thuật của sản phẩm bao gồm: \n- Điện áp: 220V - 50Hz\n- Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm\n- Lưu lượng gió: 6000m3/h\n- Dung tích khay chứa nước: 45L\n\nNếu bạn có bất kỳ câu hỏi nào khác, xin vui lòng cho tôi biết.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi sản phẩm nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Xin lỗi vì sự nhầm lẫn. Dựa vào thông tin đã được cung cấp, sản phẩm điều hòa mà chúng tôi tìm thấy là Quạt điều hòa không khí Everest 6000D. Nó có giá là 2,450,800 VND và đã bán được 63 sản phẩm. Thông số kỹ thuật của sản phẩm bao gồm: \n- Điện áp: 220V - 50Hz\n- Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm\n- Lưu lượng gió: 6000m3/h\n- Dung tích khay chứa nước: 45L\n\nNếu bạn có bất kỳ câu hỏi nào khác, xin vui lòng cho tôi biết.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    }
+]

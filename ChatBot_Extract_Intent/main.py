@@ -261,7 +261,7 @@ def handle_tskt(demands, list_product):
     if demands['value'] == '':
         for i in list_product:
             if len(list_product[i]) > 1:
-                return [0,"Tôi cần tên cụ thể của  " + list_product[i][1]['GROUP_PRODUCT_NAME']]
+                return [1,'']
         if unidecode(demands['demand'].lower()) in lst_compare:
             return [1, take_QUANTITY_SOLD_product(demands, list_product, 3)]
         else:
@@ -343,7 +343,8 @@ def search_db(command):
     demands = extract_info(command)
     print("info:",demands)
     if demands['object'] == []:
-        return [0, 'Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?']
+        # return [0, 'Bạn có thể cung cấp cho tôi tên của sản phẩm bạn muốn tìm hiểu không?']
+        return [1, '']
 
     # take data from db
     list_product = take_db(demands)

@@ -34,6 +34,7 @@ parameter:
 
   num_product: 3  # Số lượng sản phẩm tối đa cần tìm
 
+
   #
   raw_answer: ["Mình là trợ lý AI của VCC. Mình được tạo ra để hỗ trợ và giải đáp về các sản phẩm của VCC, hiện tại mình vẫn đang trong quá trình phát triển nên không phải lúc nào cũng đúng. Bạn có thể phản hồi để giúp mình cải thiện tốt hơn.",
                 "Mình là trợ lý AI của VCC. Mình được tạo ra để hỗ trợ và giải đáp về các sản phẩm của VCC như: Thông tin sản phẩm, giá tiền, số lượng, thông số sản phẩm, . . . Hãy hỏi mĩnh những thông tin này để mình giúp đỡ."]
