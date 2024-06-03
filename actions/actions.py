@@ -45,7 +45,7 @@ class ExtractProduceAction(Action):
                 produce_name_policy = ent["value"]
 
         # You can now use this name in your bot logic
-        products = ["chính sách", "bảo hành", "chính sách bảo hành", "chinh sach", "bao hanh", "chinh sach bao hanh"]       
+        products = ["bảo hành", "chính sách bảo hành", "bao hanh", "chinh sach bao hanh"]       
         if any(p == produce_name_policy.lower() for p in products):
             dispatcher.utter_message(text=f"""
                 Chính sách bảo hành sản phẩm của chúng tôi bao gồm:
@@ -74,5 +74,33 @@ class ExtractProduceAction(Action):
                 """)
         else:
             dispatcher.utter_message(text="Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.")
+
+        return []
+    
+
+
+class ExtractProduceInventory(Action):
+
+    def name(self) -> Text:
+        return "action_extract_produce_inventory"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        produce_name_inventory = None
+
+        for ent in tracker.latest_message.get("entities", []):
+            if ent["entity"] == "produce_name_inventory":
+                produce_name_inventory = ent["value"]
+
+        # You can now use this name in your bot logic
+        products = ["kho", "tồn kho", "sản phẩm tồn kho", "ton kho", "trong kho"]       
+        if any(p == produce_name_inventory.lower() for p in products):
+            dispatcher.utter_message(text=f"""
+                Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI
+                """)
+        else:
+            dispatcher.utter_message(text="Quý khách xin thông cảm! Tôi không hiểu yêu cầu của bạn.")
 
         return []

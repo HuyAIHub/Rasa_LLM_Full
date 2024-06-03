@@ -50,18 +50,20 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     except:
         conversation_messages_conv, conversation_messages_snippets = [], []
 
-    results = {
-        'terms':'','out_text':''}
+    results = {'terms':[],'out_text':'', 'inventory_status' : False}
+
     if type == 'rasa':
         # Predict Text
         conversation = initialize_chat_conversation(conversation_messages_conv, conversation_messages_snippets, "")
         # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
         response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
-
         if len(response.json()) == 0:
             results['out_text'] = config_app['parameter']['can_not_res'][random_number]
         elif response.json()[0].get("buttons"):
             results['terms'] = response.json()[0]["buttons"]
+            results['out_text'] = response.json()[0]["text"]
+        elif 'M&EDM000005' in response.json()[0]["text"]:
+            results['inventory_status'] = True
             results['out_text'] = response.json()[0]["text"]
         else:
             results['out_text'] = response.json()[0]["text"]
@@ -102,4 +104,5 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     with Path(path_messages + "/messages_snippets.json").open("w",encoding="utf-8") as f:
         json.dump(messages_snippets, f, indent=4, ensure_ascii=False)
     logging.info(f"Vcc_bot: {results['out_text']}")
+    print('predict_rasa_llm:',results)
     return results
