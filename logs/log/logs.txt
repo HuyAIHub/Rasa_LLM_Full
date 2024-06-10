@@ -1,4 +1,4 @@
-/home/aiai01/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing FAISS from langchain root module is no longer supported. Please use langchain_community.vectorstores.FAISS instead.
+/home/aiai01/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
   warnings.warn(
 /home/aiai01/.local/lib/python3.10/site-packages/langchain/chat_models/__init__.py:31: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
 
@@ -6,7 +6,9 @@
 
 To install langchain-community run `pip install -U langchain-community`.
   warnings.warn(
-/home/aiai01/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
+/home/aiai01/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
+  warn_deprecated(
+/home/aiai01/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing FAISS from langchain root module is no longer supported. Please use langchain_community.vectorstores.FAISS instead.
   warnings.warn(
 /home/aiai01/.local/lib/python3.10/site-packages/langchain/document_loaders/__init__.py:36: LangChainDeprecationWarning: Importing document loaders from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
 
@@ -28,24 +30,11 @@ To install langchain-community run `pip install -U langchain-community`.
   warnings.warn(
 /home/aiai01/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:119: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import OpenAIEmbeddings`.
   warn_deprecated(
-/home/aiai01/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:119: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
-  warn_deprecated(
-/home/aiai01/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
-  warnings.warn(
-INFO:     Started server process [2306009]
-INFO:     Waiting for application startup.
-INFO:     Application startup complete.
-INFO:     Uvicorn running on http://0.0.0.0:8099 (Press CTRL+C to quit)
-/home/aiai01/.local/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:119: LangChainDeprecationWarning: The method `Chain.run` was deprecated in langchain 0.1.0 and will be removed in 0.2.0. Use invoke instead.
-  warn_deprecated(
-load_index_done!
-numberrequest 1
-----------------NEW_SESSION--------------
-GuildID  =  9007752
-======search_db======
-info: {'command': 'máy lọc nước', 'demand': '', 'object': ['máy lọc nước'], 'value': ''}
-======take_db======
-======take_top_product======
-time to find product link:  0.003351449966430664
-{'products': [{'code': 577858, 'name': 'Máy lọc nước Pentair Everpure H104', 'link': '/input/mobile_images/2024/2/18/425/Máy lọc nước Pentair Everpure H104.png'}, {'code': 577842, 'name': 'Máy Lọc Nước A. O. Smith C1', 'link': '/input/mobile_images/2024/2/18/542/MÁY LỌC NƯỚC A. O. SMITH C1.png'}, {'code': 577879, 'name': 'Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038', 'link': '/input/mobile_images/2024/2/18/537/MÁY LỌC NƯỚC EMPIRE EPML038.png'}], 'terms': [{'payload': '/Tôi đang quan tâm sản phẩm điều hòa?', 'title': 'Bạn đang quan tâm sản phẩm điều hòa?'}, {'payload': '/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá 10 triệu?', 'title': ' Bạn muốn mua sản phẩm Đèn năng mặt trời với giá 10 triệu?'}, {'payload': '/Tôi muốn biết VCC bán những gì?', 'title': 'Bạn muốn biết VCC bán những gì?'}, {'payload': '/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?', 'title': 'Bạn đang quan tâm đến dịch vụ, chính sách của VCC?'}], 'content': "Sản phẩm 'máy lọc nước' tìm thấy:\n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \n- Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 - Giá: 4549270 - Số lượng đã bán: 24\n  Thông số kỹ thuật:\n    \n    • Dòng máy: Empire Pro nóng nguội \n    • Hình dáng: Máy lọc nước tủ đứng \n    • Số lõi lọc: 10 lõi lọc \n    • Công nghệ lọc: Công nghệ lọc RO \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n", 'status': 200, 'message': '', 'time_processing': 1.4074695110321045}
-INFO:     10.248.242.202:34292 - "POST /llm HTTP/1.1" 200 OK
+Traceback (most recent call last):
+  File "/data/Production/Rasa_LLM_Full_luan/app.py", line 6, in <module>
+    from chat import predict_rasa_llm
+  File "/data/Production/Rasa_LLM_Full_luan/chat.py", line 14, in <module>
+    from ChatBot_Extract_Intent.elastic_search import search_db
+  File "/data/Production/Rasa_LLM_Full_luan/ChatBot_Extract_Intent/elastic_search.py", line 9, in <module>
+    from config_app.config import get_config
+ModuleNotFoundError: No module named 'config_app'

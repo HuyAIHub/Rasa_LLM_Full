@@ -140,4 +140,8 @@ stories:
    - intent: warranty_policy
    - action: action_extract_produce
 
+- story: path25
+  steps:
+   - intent: inventory
+   - action: action_extract_produce_inventory
 

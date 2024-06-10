@@ -1,0 +1,101 @@
+2024-06-06 08:55:20,133 - ----------------NEW_SESSION--------------
+2024-06-06 08:55:20,133 - User: 0506
+2024-06-06 08:55:20,133 - InputText: chào bạn
+2024-06-06 08:55:20,207 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-06 08:56:08,660 - ----------------NEW_SESSION--------------
+2024-06-06 08:56:08,661 - User: 0506
+2024-06-06 08:56:08,661 - InputText: bạn có thể làm gì
+2024-06-06 08:56:08,727 - Vcc_bot: Nếu bạn cần biết thêm thông tin hoặc có yêu cầu cụ thể về dịch vụ của VCC, xin vui lòng cho biết.?
+2024-06-06 08:57:05,121 - ----------------NEW_SESSION--------------
+2024-06-06 08:57:05,121 - User: 0506
+2024-06-06 08:57:05,121 - InputText: cho tôi xem danh sách sản phẩm bên bạn
+2024-06-06 08:57:05,182 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-06 08:57:28,227 - ----------------NEW_SESSION--------------
+2024-06-06 08:57:28,227 - User: 0506
+2024-06-06 08:57:28,227 - InputText: Có điều hòa nào giá trên 10tr không
+2024-06-06 08:57:28,277 - ------------llm------------
+2024-06-06 08:57:28,277 - User: Có điều hòa nào giá trên 10tr không
+2024-06-06 08:57:29,987 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 08:57:29,993 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-06 08:57:29,997 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-06 08:57:44,161 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 08:57:44,175 - Vcc_bot: AI: Có, chúng tôi có một số sản phẩm điều hòa có giá trên 10 triệu đồng. Dưới đây là một số sản phẩm điều hòa trong phân khúc giá trên 10 triệu đồng:
+
+1. Điều hòa Carrier 1 chiều inverter công suất 24.000 BTU/h (2.5 HP) - Model 2023 (ID: 115) - Giá: 20.327.450 VND
+   - Loại: Điều hòa 1 chiều Inverter
+   - Diện tích sử dụng: 30 - 40m²
+   - Mức tiêu thụ điện: Làm lạnh: 2.00 (0.28-2.30) kW/h
+   - Hiệu suất năng lượng: 5.8 (A++)
+   - Chức năng: Làm lạnh nhanh, Tự làm sạch, Lọc bụi mịn PM2.5, Khử mùi, Chế độ gió Coanda, Hẹn giờ, Điều khiển từ xa
+   - Độ ồn: Dàn lạnh: 22/19 dB(A), Dàn nóng: 52/48 dB(A)
+   - Kích thước: Dàn lạnh: 1050 x 320 x 250 mm, Dàn nóng: 770 x 285 x 540 mm
+   - Trọng lượng: Dàn lạnh: 14 kg, Dàn nóng: 33 kg
+
+2. Điều hòa Carrier 2 chiều inverter công suất 24.000 BTU/h (2.5 HP) - Model 2023 (ID: 118) - Giá: 23.423.180 VND
+   - Loại: Điều hòa 2 chiều Inverter
+   - Diện tích sử dụng: 30 - 40m²
+   - Mức tiêu thụ điện: Làm lạnh: 1.44 (0.32-1.84) kW/h, Sưởi ấm: 1.61 (0.30-2.00) kW/h
+   - Hiệu suất năng lượng: Làm lạnh: 5.8 (A++), Sưởi ấm: 4.8 (A+)
+   - Chức năng: Làm lạnh nhanh, Tự làm sạch, Lọc bụi mịn PM2.5, Khử mùi, Chế độ gió Coanda, Hẹn giờ, Điều khiển từ xa
+   - Độ ồn: Dàn lạnh: 22/19 dB(A), Dàn nóng: 52/48 dB(A)
+   - Kích thước: Dàn lạnh: 320 x 1050 x 250 mm, Dàn nóng: 550 x 780 x 290 mm
+   - Trọng lượng: Dàn lạnh: 14 kg, Dàn nóng: 38 kg
+
+3. Điều hòa MDV 1 chiều inverter 18.000 BTU - Model 2023 (ID: 110) - Giá: 11.740.520 VND
+   - Loại: 1 chiều Inverter
+   - Diện tích sử dụng: 20 - 30m²
+   - Mức tiêu thụ điện: 1.65 kW/h
+   - Độ ồn: 22/19 dB(A)
+   - Kích thước dàn lạnh: 969 x 320 x 241 mm
+   - Kích thước dàn nóng: 770 x 285 x 540 mm
+   - Trọng lượng dàn lạnh: 18 kg
+   - Trọng lượng dàn nóng: 28 kg
+
+Bạn có thể xem chi tiết về từng sản phẩm trên trang web của chúng tôi hoặc đặt hàng trực tiếp qua trợ lý mua sắm.
+2024-06-06 08:58:19,345 - ----------------NEW_SESSION--------------
+2024-06-06 08:58:19,345 - User: 0506
+2024-06-06 08:58:19,345 - InputText: sản phẩm này có được bảo hành không
+2024-06-06 08:58:19,448 - Vcc_bot: Chính sách bảo hành sản phẩm của chúng tôi bao gồm:
+                1. Chính sách bảo hành 1 đổi 1
+                    1.1. Thời gian áp dụng
+                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
+                    1.2. Điều kiện:
+                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
+                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
+                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
+                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
+                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+                    Lưu ý: Không áp dụng hoàn tiền sản phẩm
+                2. Chính sách bảo hành sửa chữa, thay thế linh kiện
+                    2.1. Thời gian
+                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+                    2.2. Phạm vi
+                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).
+                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.
+                    2.3. Điều kiện được bảo hành
+                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
+                    phẩm bảo hành do TT. GP&DVKT ban hành.
+                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+2024-06-06 08:59:20,727 - ----------------NEW_SESSION--------------
+2024-06-06 08:59:20,728 - User: 0506
+2024-06-06 08:59:20,728 - InputText: Sản phẩm này có chương trình khuyến mãi nào không
+2024-06-06 08:59:20,795 - Vcc_bot: Hiện tại chúng tôi chưa có chương trình khuyến mãi và giảm giá nào.
+2024-06-06 08:59:41,883 - ----------------NEW_SESSION--------------
+2024-06-06 08:59:41,883 - User: 0506
+2024-06-06 08:59:41,883 - InputText: có giao hàng mienx phí không
+2024-06-06 08:59:41,967 - Vcc_bot: Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!
+2024-06-06 09:00:07,645 - ----------------NEW_SESSION--------------
+2024-06-06 09:00:07,645 - User: 0506
+2024-06-06 09:00:07,645 - InputText: mua hàng không trả tiền có được kh
+2024-06-06 09:00:07,713 - Vcc_bot: Thông tin ngữ cảnh không cung cấp chi tiết cụ thể về việc có thể mua hàng mà không phải trả tiền hay không. Tuy nhiên, nhìn chung, khi mua sắm trực tuyến, việc thanh toán là bắt buộc để hoàn tất giao dịch mua. Nếu bạn có câu hỏi cụ thể về các tùy chọn thanh toán hoặc nếu có bất kỳ chương trình khuyến mãi hoặc giảm giá nào, vui lòng cho tôi biết và tôi sẽ cố gắng hết sức để hỗ trợ bạn.
+2024-06-06 09:00:23,041 - ----------------NEW_SESSION--------------
+2024-06-06 09:00:23,041 - User: 0506
+2024-06-06 09:00:23,041 - InputText: bạn ở đâu
+2024-06-06 09:00:23,109 - Vcc_bot: Tôi là một trợ lý ảo và không có một nơi cụ thể để ở. Tôi được tạo ra để hỗ trợ bạn trong việc mua sắm và cung cấp thông tin hữu ích. Bạn có câu hỏi hoặc yêu cầu gì khác không? Tôi sẽ cố gắng giúp bạn.

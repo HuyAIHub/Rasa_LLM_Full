@@ -25,6 +25,7 @@ intents:
 - pay_produce
 - time_open_door
 - support_KH
+- inventory
 entities:
 - user_name
 - produce_name_policy
@@ -137,6 +138,7 @@ actions:
 - action_extract_name
 # - action_default_fallback
 - action_extract_produce
+- action_extract_produce_inventory
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

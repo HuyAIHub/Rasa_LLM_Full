@@ -1,0 +1,340 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "VCC Bot: Chào bạn! Số lượng sản phẩm đèn năng lượng mặt trời phù hợp với nhu cầu sử dụng của bạn là tùy thuộc vào diện tích và mục đích sử dụng của bạn. Bạn có thể cung cấp thêm thông tin về diện tích và mục đích sử dụng để chúng tôi có thể tư vấn cụ thể hơn cho bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "VCC Bot: Chào bạn! Số lượng sản phẩm đèn năng lượng mặt trời phù hợp với nhu cầu sử dụng của bạn là tùy thuộc vào diện tích và mục đích sử dụng của bạn. Bạn có thể cung cấp thêm thông tin về diện tích và mục đích sử dụng để chúng tôi có thể tư vấn cụ thể hơn cho bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: VCC Bot: Chào bạn! Số lượng sản phẩm đèn năng lượng mặt trời phù hợp với nhu cầu sử dụng của bạn là tùy thuộc vào diện tích và mục đích sử dụng của bạn. Bạn có thể cung cấp thêm thông tin về diện tích và mục đích sử dụng để chúng tôi có thể tư vấn cụ thể hơn cho bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: VCC Bot: Chào bạn! Số lượng sản phẩm đèn năng lượng mặt trời phù hợp với nhu cầu sử dụng của bạn là tùy thuộc vào diện tích và mục đích sử dụng của bạn. Bạn có thể cung cấp thêm thông tin về diện tích và mục đích sử dụng để chúng tôi có thể tư vấn cụ thể hơn cho bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: VCC Bot: Chào bạn! Số lượng sản phẩm đèn năng lượng mặt trời phù hợp với nhu cầu sử dụng của bạn là tùy thuộc vào diện tích và mục đích sử dụng của bạn. Bạn có thể cung cấp thêm thông tin về diện tích và mục đích sử dụng để chúng tôi có thể tư vấn cụ thể hơn cho bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: VCC Bot: Chào bạn! Số lượng sản phẩm đèn năng lượng mặt trời phù hợp với nhu cầu sử dụng của bạn là tùy thuộc vào diện tích và mục đích sử dụng của bạn. Bạn có thể cung cấp thêm thông tin về diện tích và mục đích sử dụng để chúng tôi có thể tư vấn cụ thể hơn cho bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: VCC Bot: Chào bạn! Số lượng sản phẩm đèn năng lượng mặt trời phù hợp với nhu cầu sử dụng của bạn là tùy thuộc vào diện tích và mục đích sử dụng của bạn. Bạn có thể cung cấp thêm thông tin về diện tích và mục đích sử dụng để chúng tôi có thể tư vấn cụ thể hơn cho bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: VCC Bot: Chào bạn! Số lượng sản phẩm đèn năng lượng mặt trời phù hợp với nhu cầu sử dụng của bạn là tùy thuộc vào diện tích và mục đích sử dụng của bạn. Bạn có thể cung cấp thêm thông tin về diện tích và mục đích sử dụng để chúng tôi có thể tư vấn cụ thể hơn cho bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Với số lượng sản phẩm đèn năng lượng mặt trời, chúng tôi cần biết diện tích và mục đích sử dụng của bạn để có thể tư vấn cụ thể hơn. Bạn có thể cung cấp thông tin này để chúng tôi có thể giúp bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Với số lượng sản phẩm đèn năng lượng mặt trời, chúng tôi cần biết diện tích và mục đích sử dụng của bạn để có thể tư vấn cụ thể hơn. Bạn có thể cung cấp thông tin này để chúng tôi có thể giúp bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Với số lượng sản phẩm đèn năng lượng mặt trời, chúng tôi cần biết diện tích và mục đích sử dụng của bạn để có thể tư vấn cụ thể hơn. Bạn có thể cung cấp thông tin này để chúng tôi có thể giúp bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Với số lượng sản phẩm đèn năng lượng mặt trời, chúng tôi cần biết diện tích và mục đích sử dụng của bạn để có thể tư vấn cụ thể hơn. Bạn có thể cung cấp thông tin này để chúng tôi có thể giúp bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

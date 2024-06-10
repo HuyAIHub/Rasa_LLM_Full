@@ -1,0 +1,608 @@
+2024-06-05 09:24:20,726 - ----------------NEW_SESSION--------------
+2024-06-05 09:24:20,726 - User: 0506
+2024-06-05 09:24:20,726 - InputText: Dieu hoa tren 10tr
+2024-06-05 09:24:20,784 - ------------llm------------
+2024-06-05 09:24:20,784 - User: Dieu hoa tren 10tr
+2024-06-05 09:24:22,426 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:24:22,433 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 09:24:22,438 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.005s]
+2024-06-05 09:25:18,550 - ----------------NEW_SESSION--------------
+2024-06-05 09:25:18,551 - User: 0506
+2024-06-05 09:25:18,551 - InputText: Dieu hoa tren 10tr
+2024-06-05 09:25:18,592 - ------------llm------------
+2024-06-05 09:25:18,593 - User: Dieu hoa tren 10tr
+2024-06-05 09:25:20,530 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:25:20,536 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 09:25:20,541 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.004s]
+2024-06-05 09:25:25,970 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:25:25,973 - Vcc_bot: Support: Dựa vào ngân sách của bạn, VCC Bot đề xuất một số sản phẩm điều hòa có giá trên 10 triệu đồng như sau:
+
+1. Điều hòa MDV 1 chiều inverter 18.000 BTU - Model 2023 (ID: 110) với giá 11.740.520 VND.
+2. Điều hòa Carrier 1 chiều inverter 12.000 BTU/h (1.5 HP) - Model 2023 (ID: 112) với giá 11.200.420 VND.
+3. Điều hòa Carrier 1 chiều inverter 18.000 BTU/h (2 HP) - Model 2023 (ID: 119) với giá 16.508.470 VND.
+4. Điều hòa Daikin 9000BTU 2 chiều inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023 (ID: 111) với giá 12.070.850 VND.
+5. Điều hòa Daikin 12000BTU 2 chiều inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 (ID: 113) với giá 14.851.100 VND.
+
+Bạn có thể xem thông tin chi tiết về từng sản phẩm để lựa chọn phù hợp với nhu cầu sử dụng của mình.
+2024-06-05 09:27:12,473 - ----------------NEW_SESSION--------------
+2024-06-05 09:27:12,473 - User: 0506
+2024-06-05 09:27:12,473 - InputText: Dieu hoa tren 10tr
+2024-06-05 09:27:12,508 - ------------llm------------
+2024-06-05 09:27:12,508 - User: Dieu hoa tren 10tr
+2024-06-05 09:27:14,019 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:27:14,025 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 09:27:14,029 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 09:27:19,053 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:27:19,056 - Vcc_bot: AI: Support: Dựa vào ngân sách của bạn, VCC Bot đề xuất một số sản phẩm điều hòa có giá trên 10 triệu đồng như sau:
+
+1. Điều hòa MDV 1 chiều inverter 18.000 BTU - Model 2023 (ID: 110) với giá 11.740.520 VND.
+2. Điều hòa Carrier 1 chiều inverter 12.000 BTU/h (1.5 HP) - Model 2023 (ID: 112) với giá 11.200.420 VND.
+3. Điều hòa Carrier 1 chiều inverter 18.000 BTU/h (2 HP) - Model 2023 (ID: 119) với giá 16.508.470 VND.
+4. Điều hòa Daikin 9000BTU 2 chiều inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023 (ID: 111) với giá 12.070.850 VND.
+5. Điều hòa Daikin 12000BTU 2 chiều inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 (ID: 113) với giá 14.851.100 VND.
+
+Bạn có thể xem thông tin chi tiết về từng sản phẩm để lựa chọn phù hợp với nhu cầu sử dụng của mình.
+2024-06-05 09:28:52,933 - ----------------NEW_SESSION--------------
+2024-06-05 09:28:52,933 - User: 0506
+2024-06-05 09:28:52,933 - InputText: Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi
+2024-06-05 09:28:52,971 - ------------llm------------
+2024-06-05 09:28:52,971 - User: Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi
+2024-06-05 09:28:54,579 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:28:54,585 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 09:28:54,588 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 09:28:54,591 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 09:29:03,134 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:29:03,137 - Vcc_bot: AI: Support: Dựa vào nhu cầu của bạn, VCC Bot đề xuất một số sản phẩm điều hòa và thiết bị wifi như sau:
+
+Điều hòa:
+1. Điều hòa MDV - Inverter 9000 BTU (ID: 107) với giá 6.014.184 VND.
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 (ID: 108) với giá 7.246.030 VND.
+3. Điều hòa MDV 1 chiều inverter 18000 BTU - Model 2023 (ID: 110) với giá 11.740.520 VND.
+4. Điều hòa 1 chiều Carrier inverter 9000 BTU/h - Model 2023 (ID: 109) với giá 9.423.040 VND.
+5. Điều hòa Carrier 1 chiều inverter 12.000 BTU/h - Model 2023 (ID: 112) với giá 11.200.420 VND.
+
+Thiết bị wifi:
+1. Thiết bị wifi Ruijie RG-EW1200G Pro (ID: 97) với giá 1.001.000 VND.
+2. Thiết bị wifi Ruijie RG-EW1200 (ID: 96) với giá 635.000 VND.
+3. Thiết bị định tuyến có thu phát vô tuyến Tenda Model F6 - Tenda F6 (ID: 93) với giá 318.120 VND.
+4. Thiết bị định tuyến có thu phát vô tuyến Tenda Model AC5 - Tenda AC5 (ID: 95) với giá 414.370 VND.
+5. Thiết bị định tuyến có thu phát vô tuyến Tenda Model AC6 băng tần 2.4/5GHz (ID: 94) với giá 395.000 VND.
+
+Bạn có thể xem thông tin chi tiết về từng sản phẩm để lựa chọn phù hợp với nhu cầu sử dụng của mình.
+2024-06-05 09:30:26,693 - ----------------NEW_SESSION--------------
+2024-06-05 09:30:26,693 - User: 0506
+2024-06-05 09:30:26,693 - InputText: Tôi quan tâm tới sản phẩm điều hòa, máy giặt
+2024-06-05 09:30:26,735 - ------------llm------------
+2024-06-05 09:30:26,735 - User: Tôi quan tâm tới sản phẩm điều hòa, máy giặt
+2024-06-05 09:30:28,244 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:30:28,250 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 09:30:28,253 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 09:30:28,256 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 09:30:36,985 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:30:36,989 - Vcc_bot: AI: Support: Dựa vào nhu cầu của bạn, VCC Bot đề xuất một số sản phẩm điều hòa và máy giặt như sau:
+
+Điều hòa:
+1. Điều hòa MDV - Inverter 9000 BTU (ID: 107) với giá 6.014.184 VND.
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 (ID: 108) với giá 7.246.030 VND.
+3. Điều hòa MDV 1 chiều inverter 18000 BTU - Model 2023 (ID: 110) với giá 11.740.520 VND.
+4. Điều hòa 1 chiều Carrier inverter 9000 BTU/h - Model 2023 (ID: 109) với giá 9.423.040 VND.
+5. Điều hòa Carrier 1 chiều inverter 12.000 BTU/h - Model 2023 (ID: 112) với giá 11.200.420 VND.
+
+Máy giặt:
+1. Máy giặt Aqua 9 kg AQW-F91GT.S (ID: 47) với giá 5.759.050 VND.
+2. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB (ID: 49) với giá 14.450.040 VND.
+3. Máy giặt Aqua cửa trên - 8kg AQW-KS80GT.S (ID: 46) với giá 4.726.370 VND.
+4. Máy giặt Aqua cửa trên - 10kg AQW-U100FT.BK (ID: 48) với giá 6.074.970 VND.
+5. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB (ID: 44) với giá 11.898.480 VND.
+
+Bạn có thể xem thông tin chi tiết về từng sản phẩm để lựa chọn phù hợp với nhu cầu sử dụng của mình.
+2024-06-05 09:32:09,171 - ----------------NEW_SESSION--------------
+2024-06-05 09:32:09,172 - User: 0506
+2024-06-05 09:32:09,172 - InputText: Sản phẩm bếp từ nào bán chạy nhất
+2024-06-05 09:32:09,212 - ------------llm------------
+2024-06-05 09:32:09,212 - User: Sản phẩm bếp từ nào bán chạy nhất
+2024-06-05 09:32:10,846 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:32:10,852 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 09:33:42,822 - ----------------NEW_SESSION--------------
+2024-06-05 09:33:42,822 - User: 0506
+2024-06-05 09:33:42,822 - InputText: Bếp từ nào có công suất lớn nhất
+2024-06-05 09:33:42,862 - ------------llm------------
+2024-06-05 09:33:42,862 - User: Bếp từ nào có công suất lớn nhất
+2024-06-05 09:33:44,512 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:33:44,518 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 09:34:08,789 - ----------------NEW_SESSION--------------
+2024-06-05 09:34:08,789 - User: 0506
+2024-06-05 09:34:08,789 - InputText: Bếp từ nào có công suất lớn nhất
+2024-06-05 09:34:08,831 - ------------llm------------
+2024-06-05 09:34:08,831 - User: Bếp từ nào có công suất lớn nhất
+2024-06-05 09:34:10,327 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:34:10,333 - HEAD http://10.248.243.105:9200/test1 [status:200 duration:0.002s]
+2024-06-05 09:34:19,903 - ----------------NEW_SESSION--------------
+2024-06-05 09:34:19,903 - User: 0506
+2024-06-05 09:34:19,903 - InputText: Bếp từ nào có công suất lớn nhất
+2024-06-05 09:34:19,944 - ------------llm------------
+2024-06-05 09:34:19,944 - User: Bếp từ nào có công suất lớn nhất
+2024-06-05 09:34:21,387 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 09:34:21,392 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:00:39,034 - ----------------NEW_SESSION--------------
+2024-06-05 10:00:39,035 - User: 0506
+2024-06-05 10:00:39,035 - InputText: Bếp từ nào có công suất lớn nhất
+2024-06-05 10:00:39,086 - ------------llm------------
+2024-06-05 10:00:39,086 - User: Bếp từ nào có công suất lớn nhất
+2024-06-05 10:00:40,594 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:00:40,600 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 10:00:40,644 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.044s]
+2024-06-05 10:00:42,314 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:00:42,318 - Vcc_bot: AI: Sản phẩm bếp từ có công suất lớn nhất là bếp từ đôi aio smart (ID: 11) với công suất 4400W.
+2024-06-05 10:02:44,773 - ----------------NEW_SESSION--------------
+2024-06-05 10:02:44,773 - User: 0506
+2024-06-05 10:02:44,773 - InputText: Bếp từ nào có công suất nhỏ nhất
+2024-06-05 10:02:44,817 - ------------llm------------
+2024-06-05 10:02:44,817 - User: Bếp từ nào có công suất nhỏ nhất
+2024-06-05 10:02:51,626 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:02:51,631 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:02:51,635 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:02:53,069 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:02:53,073 - Vcc_bot: AI: Sản phẩm bếp từ có công suất nhỏ nhất là bếp từ đơn aio smart kèm nồi (ID: 10) với công suất vùng nấu là 2100W.
+2024-06-05 10:03:38,565 - ----------------NEW_SESSION--------------
+2024-06-05 10:03:38,565 - User: 0506
+2024-06-05 10:03:38,565 - InputText: máy giặt phổ biến nhất hiện nay là loại nào?
+2024-06-05 10:03:38,614 - ------------llm------------
+2024-06-05 10:03:38,614 - User: máy giặt phổ biến nhất hiện nay là loại nào?
+2024-06-05 10:03:59,843 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:11:03,258 - ----------------NEW_SESSION--------------
+2024-06-05 10:11:03,258 - User: 0506
+2024-06-05 10:11:03,259 - InputText: máy giặt phổ biến nhất hiện nay là loại nào?
+2024-06-05 10:11:03,308 - ------------llm------------
+2024-06-05 10:11:03,309 - User: máy giặt phổ biến nhất hiện nay là loại nào?
+2024-06-05 10:11:05,166 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:11:05,172 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 10:11:05,175 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:11:06,806 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:11:06,811 - Vcc_bot: AI: Hiện nay, máy giặt phổ biến nhất là máy giặt cửa trên (top load) và máy giặt cửa trước (front load).
+2024-06-05 10:12:33,385 - ----------------NEW_SESSION--------------
+2024-06-05 10:12:33,385 - User: 0506
+2024-06-05 10:12:33,385 - InputText: bình đun nước có công suất trên 1000w
+2024-06-05 10:12:33,433 - ------------llm------------
+2024-06-05 10:12:33,433 - User: bình đun nước có công suất trên 1000w
+2024-06-05 10:12:35,091 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:12:35,097 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:12:35,102 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.004s]
+2024-06-05 10:12:36,943 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:12:36,948 - Vcc_bot: AI: Sản phẩm bình đun nước có công suất trên 1000W là bình đun nước aio smart aiokto2l23w/1c5 (màu trắng) (ID: 8) với công suất danh định là 1500W.
+2024-06-05 10:13:00,331 - ----------------NEW_SESSION--------------
+2024-06-05 10:13:00,332 - User: 0506
+2024-06-05 10:13:00,332 - InputText: Máy Giặt Aqua là lồng ngang hay lồng đứng
+2024-06-05 10:13:00,381 - ------------llm------------
+2024-06-05 10:13:00,381 - User: Máy Giặt Aqua là lồng ngang hay lồng đứng
+2024-06-05 10:13:02,726 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:13:02,733 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:13:02,736 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:13:04,012 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:13:04,018 - Vcc_bot: AI: Máy giặt Aqua hiện có cả hai loại lồng ngang và lồng đứng để phù hợp với nhu cầu sử dụng của khách hàng.
+2024-06-05 10:13:50,226 - ----------------NEW_SESSION--------------
+2024-06-05 10:13:50,226 - User: 0506
+2024-06-05 10:13:50,226 - InputText: Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?
+2024-06-05 10:13:50,280 - ------------llm------------
+2024-06-05 10:13:50,281 - User: Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?
+2024-06-05 10:13:53,518 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:13:53,524 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:13:53,528 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:13:53,533 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.005s]
+2024-06-05 10:13:57,431 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:13:57,437 - Vcc_bot: AI: Cả hai sản phẩm đều có những ưu điểm riêng. Máy lọc nước Karofi KAQ-U06V có công nghệ lọc thẩm thấu ngược RO, kháng khuẩn Nano Silver và công suất lọc 20 lít/giờ. Trong khi đó, máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 có công nghệ lọc RO, có nước nóng và dung tích bình chứa lớn. Tùy thuộc vào nhu cầu và yêu cầu của bạn, bạn có thể chọn sản phẩm phù hợp với mình.
+2024-06-05 10:14:39,447 - ----------------NEW_SESSION--------------
+2024-06-05 10:14:39,447 - User: 0506
+2024-06-05 10:14:39,447 - InputText: Quạt sưởi không khí AIO Smart bảo hành trong bao lâu?
+2024-06-05 10:14:39,499 - ------------llm------------
+2024-06-05 10:14:39,499 - User: Quạt sưởi không khí AIO Smart bảo hành trong bao lâu?
+2024-06-05 10:14:41,252 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:14:41,258 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:14:41,263 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.004s]
+2024-06-05 10:14:42,963 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:14:42,969 - Vcc_bot: AI: Quạt sưởi không khí AIO Smart được bảo hành trong 12 tháng kể từ ngày kích hoạt bảo hành điện tử.
+2024-06-05 10:15:16,323 - ----------------NEW_SESSION--------------
+2024-06-05 10:15:16,323 - User: 0506
+2024-06-05 10:15:16,324 - InputText: Loại máy giặt nào là phổ biến nhất hiện nay?
+2024-06-05 10:15:16,375 - ------------llm------------
+2024-06-05 10:15:16,375 - User: Loại máy giặt nào là phổ biến nhất hiện nay?
+2024-06-05 10:15:17,901 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:16:39,734 - ----------------NEW_SESSION--------------
+2024-06-05 10:16:39,735 - User: 0506
+2024-06-05 10:16:39,735 - InputText: Loại máy giặt nào là phổ biến nhất hiện nay?
+2024-06-05 10:16:39,789 - ------------llm------------
+2024-06-05 10:16:39,789 - User: Loại máy giặt nào là phổ biến nhất hiện nay?
+2024-06-05 10:16:41,597 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:16:41,603 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 10:16:41,606 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:16:43,128 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:16:43,134 - Vcc_bot: AI: Hiện nay, loại máy giặt phổ biến nhất là máy giặt trước (top load) với công nghệ tiên tiến và nhiều tính năng tiện ích.
+2024-06-05 10:17:05,792 - ----------------NEW_SESSION--------------
+2024-06-05 10:17:05,792 - User: 0506
+2024-06-05 10:17:05,792 - InputText: tôi quan tâm bình nóng lạnh
+2024-06-05 10:17:05,848 - ------------llm------------
+2024-06-05 10:17:05,849 - User: tôi quan tâm bình nóng lạnh
+2024-06-05 10:17:07,442 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:17:07,447 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:17:07,452 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.004s]
+2024-06-05 10:17:16,881 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:17:16,888 - Vcc_bot: AI: Dạ, để phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất một số sản phẩm bình nóng lạnh sau đây:
+
+1. Bình nước nóng gián tiếp 15 lít an2 15 b 2.5 fe (ID: 3)
+- Dung tích: 15 lit
+- Công suất: 2500W
+- Nhiệt độ tối đa: 75 độ C
+- Thời gian đun nóng: 21 phút
+- Điều chỉnh nhiệt độ: có 3 mức (thấp, trung bình, cao)
+- Kích thước: 36 x 36 x 32 cm
+- Áp lực nước hoạt động: Tối đa 0.75 Mpa
+- Bảo hành: 2 năm
+- Giá tiền: 2,634,876 VND
+
+2. Bình nước nóng gián tiếp 20 lít sl2 20 b 2.5 fe (ID: 4)
+- Dung tích: 20 lít
+- Công suất: 2.5kW
+- Nhiệt độ làm việc tối đa: 80 °C
+- Thời gian gia nhiệt: 31 phút
+- Áp suất làm việc tối đa: 0.8 Mpa
+- Kích thước: 704x282x301 mm
+- Bảo hành: 24 tháng
+- Giá tiền: 2,817,180 VND
+
+3. Bình nước nóng gián tiếp 30 lít sl2 30 b 2.5 fe (ID: 5)
+- Dung tích: 30L
+- Công suất: 2500W
+- Nhiệt độ hoạt động tối đa: 80 °C
+- Áp suất làm việc tối đa: 0.8 Mpa
+- Kích thước: 757x331x341 mm
+- Bảo hành: 24 tháng
+- Giá tiền: 3,181,896 VND
+
+Mong rằng thông tin trên sẽ giúp bạn lựa chọn được sản phẩm phù hợp. Nếu cần thêm thông tin, vui lòng cho chúng tôi biết.
+2024-06-05 10:19:22,528 - ----------------NEW_SESSION--------------
+2024-06-05 10:19:22,528 - User: 0506
+2024-06-05 10:19:22,528 - InputText: bình đun nước làm bằng chất liệu gì
+2024-06-05 10:19:22,584 - ------------llm------------
+2024-06-05 10:19:22,584 - User: bình đun nước làm bằng chất liệu gì
+2024-06-05 10:19:24,418 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:19:24,424 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:19:24,427 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:19:25,989 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:19:25,996 - Vcc_bot: AI: Sản phẩm bình đun nước có chất liệu ruột bình là Inox cao cấp SUS304 và chất liệu vỏ bình là Nhựa PP cách nhiệt bóng.
+2024-06-05 10:19:52,268 - ----------------NEW_SESSION--------------
+2024-06-05 10:19:52,269 - User: 0506
+2024-06-05 10:19:52,269 - InputText: cho tôi máy lọc không khí giá rẻ
+2024-06-05 10:19:52,324 - ------------llm------------
+2024-06-05 10:19:52,324 - User: cho tôi máy lọc không khí giá rẻ
+2024-06-05 10:19:53,680 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:19:53,686 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:19:53,689 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:20:01,627 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:20:01,635 - Vcc_bot: AI: Dạ, để phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất một số sản phẩm máy lọc không khí giá rẻ sau đây:
+
+1. Máy lọc không khí Xiaomi Mi Air Purifier 2H (ID: 1)
+- Công suất: 31W
+- Diện tích sử dụng: 18-31m²
+- Cấp độ lọc: HEPA H11
+- Chỉ số CADR: 260m³/h
+- Chế độ hoạt động: Tự động, chế độ tốc độ cao, chế độ tắt đèn
+- Kích thước: 240 x 240 x 520 mm
+- Trọng lượng: 4.8 kg
+- Thương hiệu: Trung Quốc
+- Hãng: Xiaomi
+- Giá tiền: 2,190,000 VND
+
+2. Máy lọc không khí Sharp FP-J30E-W (ID: 6)
+- Công suất: 30W
+- Diện tích sử dụng: 21m²
+- Cấp độ lọc: HEPA H13
+- Chỉ số CADR: 180m³/h
+- Chế độ hoạt động: Tự động, chế độ tốc độ cao, chế độ tắt đèn
+- Kích thước: 380 x 200 x 480 mm
+- Trọng lượng: 4.5 kg
+- Thương hiệu: Nhật Bản
+- Hãng: Sharp
+- Giá tiền: 3,990,000 VND
+
+3. Máy lọc không khí Coway AP-1008CH (ID: 7)
+- Công suất: 38W
+- Diện tích sử dụng: 33m²
+- Cấp độ lọc: HEPA H13
+- Chỉ số CADR: 303m³/h
+- Chế độ hoạt động: Tự động, chế độ tốc độ cao, chế độ tắt đèn
+- Kích thước: 335 x 666 x 205 mm
+- Trọng lượng: 7.5 kg
+- Thương hiệu: Hàn Quốc
+- Hãng: Coway
+- Giá tiền: 6,990,000 VND
+
+Mong rằng thông tin trên sẽ giúp bạn lựa chọn được sản phẩm máy lọc không khí giá rẻ phù hợp. Nếu cần thêm thông tin, vui lòng cho chúng tôi biết.
+2024-06-05 10:20:39,922 - ----------------NEW_SESSION--------------
+2024-06-05 10:20:39,922 - User: 0506
+2024-06-05 10:20:39,922 - InputText: sản phảm nào có chất lượng tốt nhất
+2024-06-05 10:20:39,994 - Vcc_bot: Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.
+2024-06-05 10:21:41,366 - ----------------NEW_SESSION--------------
+2024-06-05 10:21:41,366 - User: 0506
+2024-06-05 10:21:41,366 - InputText: máy giăt có loại nào xịn không
+2024-06-05 10:21:41,425 - ------------llm------------
+2024-06-05 10:21:41,426 - User: máy giăt có loại nào xịn không
+2024-06-05 10:21:42,955 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:21:42,961 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:21:42,963 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:21:50,990 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:21:50,997 - Vcc_bot: AI: Chúng tôi có một số sản phẩm máy giặt chất lượng cao sau đây:
+
+1. Máy giặt Electrolux EWF7525EQWA (ID: 10)
+- Công suất: 1200W
+- Dung tích: 7 kg
+- Chế độ giặt: 14 chế độ
+- Chức năng: Giặt nhanh, giặt tiết kiệm nước, giặt êm
+- Kích thước: 600 x 550 x 850 mm
+- Trọng lượng: 65 kg
+- Thương hiệu: Thụy Điển
+- Hãng: Electrolux
+- Giá tiền: 8,990,000 VND
+
+2. Máy giặt LG FC1409S2W (ID: 11)
+- Công suất: 1200W
+- Dung tích: 9 kg
+- Chế độ giặt: 14 chế độ
+- Chức năng: Giặt nhanh, giặt tiết kiệm nước, giặt êm
+- Kích thước: 600 x 560 x 850 mm
+- Trọng lượng: 70 kg
+- Thương hiệu: Hàn Quốc
+- Hãng: LG
+- Giá tiền: 9,990,000 VND
+
+3. Máy giặt Samsung WW80K52E0WW (ID: 12)
+- Công suất: 1200W
+- Dung tích: 8 kg
+- Chế độ giặt: 14 chế độ
+- Chức năng: Giặt nhanh, giặt tiết kiệm nước, giặt êm
+- Kích thước: 600 x 550 x 850 mm
+- Trọng lượng: 68 kg
+- Thương hiệu: Hàn Quốc
+- Hãng: Samsung
+- Giá tiền: 10,990,000 VND
+
+Mong rằng thông tin trên sẽ giúp bạn lựa chọn được máy giặt xịn phù hợp với nhu cầu của bạn. Nếu cần thêm thông tin, vui lòng cho chúng tôi biết.
+2024-06-05 10:22:16,834 - ----------------NEW_SESSION--------------
+2024-06-05 10:22:16,834 - User: 0506
+2024-06-05 10:22:16,834 - InputText: điều hòa có gì khác so với bình nóng lạnh
+2024-06-05 10:22:16,895 - ------------llm------------
+2024-06-05 10:22:16,895 - User: điều hòa có gì khác so với bình nóng lạnh
+2024-06-05 10:22:18,569 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:22:18,575 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:22:18,578 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:22:18,581 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:22:23,919 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:22:23,927 - Vcc_bot: AI: Điều hòa và bình nóng lạnh là hai sản phẩm khác nhau về chức năng và công nghệ.
+
+Điều hòa là một thiết bị dùng để làm lạnh không gian trong nhà. Nó hoạt động bằng cách hút nhiệt từ không khí trong phòng và thải nhiệt ra bên ngoài, tạo ra không gian mát mẻ và thoải mái. Điều hòa có nhiều loại và công suất khác nhau để phù hợp với diện tích và nhu cầu sử dụng của từng người.
+
+Bình nóng lạnh là một thiết bị dùng để làm nóng nước. Nó hoạt động bằng cách sử dụng điện hoặc nhiên liệu để gia nhiệt nước trong bình, tạo ra nước nóng để sử dụng trong các hoạt động như tắm, rửa chén, rửa mặt, vv. Bình nóng lạnh có nhiều loại và dung tích khác nhau để phù hợp với nhu cầu sử dụng của từng gia đình.
+
+Tóm lại, điều hòa và bình nóng lạnh là hai sản phẩm có chức năng và công nghệ khác nhau, phục vụ cho các nhu cầu sử dụng khác nhau của người dùng.
+2024-06-05 10:24:06,219 - ----------------NEW_SESSION--------------
+2024-06-05 10:24:06,219 - User: 0506
+2024-06-05 10:24:06,219 - InputText: những sản phẩm giá rẻ 
+2024-06-05 10:24:06,279 - ------------llm------------
+2024-06-05 10:24:06,279 - User: những sản phẩm giá rẻ 
+2024-06-05 10:24:07,409 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:25:52,767 - ----------------NEW_SESSION--------------
+2024-06-05 10:25:52,767 - User: 0506
+2024-06-05 10:25:52,767 - InputText: sản phẩm nào đang bán chạy
+2024-06-05 10:25:52,829 - ------------llm------------
+2024-06-05 10:25:52,829 - User: sản phẩm nào đang bán chạy
+2024-06-05 10:25:54,231 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:25:54,237 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 10:25:54,239 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:25:56,003 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:25:56,012 - Vcc_bot: AI: Hiện tại, chúng tôi không có thông tin về sản phẩm nào đang bán chạy. Bạn có thể tham khảo các sản phẩm máy giặt Electrolux EWF7525EQWA, LG FC1409S2W và Samsung WW80K52E0WW mà chúng tôi đã giới thiệu ở trên.
+2024-06-05 10:27:01,154 - ----------------NEW_SESSION--------------
+2024-06-05 10:27:01,154 - User: 0506
+2024-06-05 10:27:01,154 - InputText: có bán điều hòa, bình nóng lạnh, máy lọc nước không
+2024-06-05 10:27:01,217 - ------------llm------------
+2024-06-05 10:27:01,217 - User: có bán điều hòa, bình nóng lạnh, máy lọc nước không
+2024-06-05 10:27:02,564 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:34:50,631 - ----------------NEW_SESSION--------------
+2024-06-05 10:34:50,632 - User: 0506
+2024-06-05 10:34:50,632 - InputText: có bán điều hòa, bình nóng lạnh, máy lọc nước không
+2024-06-05 10:34:50,696 - ------------llm------------
+2024-06-05 10:34:50,696 - User: có bán điều hòa, bình nóng lạnh, máy lọc nước không
+2024-06-05 10:34:52,462 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:34:52,468 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 10:34:52,471 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:34:52,475 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:34:52,477 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:34:54,675 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:34:54,684 - Vcc_bot: AI: Chúng tôi có bán các sản phẩm điều hòa, bình nóng lạnh và máy lọc nước. Bạn có thể tham khảo thông tin chi tiết về các sản phẩm này ở trên. Nếu bạn cần thêm thông tin hoặc muốn mua sản phẩm, vui lòng cho chúng tôi biết.
+2024-06-05 10:43:15,269 - ----------------NEW_SESSION--------------
+2024-06-05 10:43:15,269 - User: 0506
+2024-06-05 10:43:15,269 - InputText: Những sản phẩm giá rẻ
+2024-06-05 10:43:15,334 - ------------llm------------
+2024-06-05 10:43:15,334 - User: Những sản phẩm giá rẻ
+2024-06-05 10:43:17,000 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:43:17,006 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:43:17,009 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:43:17,012 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:43:17,014 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:43:20,874 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:43:20,883 - Vcc_bot: AI: Dưới đây là một số sản phẩm có giá rẻ mà bạn có thể tham khảo:
+
+- Điều hòa: Sản phẩm 1 - công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.
+- Đèn năng lượng mặt trời: Sản phẩm 1 - bộ đèn pha led dùng pin năng lượng mặt trời suntek sc-126 với giá 286.550 VND.
+- Bình nóng lạnh: Sản phẩm 1 - ấm đun nước aio smart aiokto2l23w/1c5 (màu trắng) với giá 339.570 VND.
+
+Nếu bạn cần thêm thông tin hoặc muốn xem các sản phẩm khác, vui lòng cho chúng tôi biết.
+2024-06-05 10:45:02,314 - ----------------NEW_SESSION--------------
+2024-06-05 10:45:02,314 - User: 0506
+2024-06-05 10:45:02,314 - InputText: Những sản phẩm giá rẻ
+2024-06-05 10:45:02,382 - ------------llm------------
+2024-06-05 10:45:02,382 - User: Những sản phẩm giá rẻ
+2024-06-05 10:45:04,900 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:45:04,905 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:45:04,908 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:45:04,910 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:45:04,912 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:45:08,375 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:45:08,385 - Vcc_bot: AI: Dưới đây là một số sản phẩm giá rẻ mà bạn có thể tham khảo:
+
+- Điều hòa: Sản phẩm 1 - công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.
+- Đèn năng lượng mặt trời: Sản phẩm 1 - bộ đèn pha led dùng pin năng lượng mặt trời suntek sc-126 với giá 286.550 VND.
+- Bình nóng lạnh: Sản phẩm 1 - ấm đun nước aio smart aiokto2l23w/1c5 (màu trắng) với giá 339.570 VND.
+
+Nếu bạn cần thêm thông tin hoặc muốn xem các sản phẩm khác, vui lòng cho chúng tôi biết.
+2024-06-05 10:45:49,472 - ----------------NEW_SESSION--------------
+2024-06-05 10:45:49,473 - User: 0506
+2024-06-05 10:45:49,473 - InputText: Những sản phẩm giá rẻ
+2024-06-05 10:45:49,539 - ------------llm------------
+2024-06-05 10:45:49,539 - User: Những sản phẩm giá rẻ
+2024-06-05 10:45:51,348 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:45:51,354 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:45:51,357 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:45:51,359 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:45:51,361 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:45:55,264 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:45:55,274 - Vcc_bot: AI: Dưới đây là một số sản phẩm giá rẻ mà bạn có thể tham khảo:
+
+- Điều hòa: Sản phẩm 1 - công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.
+- Đèn năng lượng mặt trời: Sản phẩm 1 - bộ đèn pha led dùng pin năng lượng mặt trời suntek sc-126 với giá 286.550 VND.
+- Bình nóng lạnh: Sản phẩm 1 - ấm đun nước aio smart aiokto2l23w/1c5 (màu trắng) với giá 339.570 VND.
+
+Nếu bạn cần thêm thông tin hoặc muốn xem các sản phẩm khác, vui lòng cho chúng tôi biết.
+2024-06-05 10:47:34,066 - ----------------NEW_SESSION--------------
+2024-06-05 10:47:34,066 - User: 0506
+2024-06-05 10:47:34,066 - InputText: Những sản phẩm giá rẻ
+2024-06-05 10:47:34,133 - ------------llm------------
+2024-06-05 10:47:34,133 - User: Những sản phẩm giá rẻ
+2024-06-05 10:47:35,818 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:47:35,823 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:47:35,826 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:47:35,828 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:47:35,831 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:47:39,592 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:47:39,602 - Vcc_bot: AI: Dưới đây là một số sản phẩm giá rẻ mà bạn có thể tham khảo:
+
+- Điều hòa: Sản phẩm 1 - công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.
+- Đèn năng lượng mặt trời: Sản phẩm 1 - bộ đèn pha led dùng pin năng lượng mặt trời suntek sc-126 với giá 286.550 VND.
+- Bình nóng lạnh: Sản phẩm 1 - ấm đun nước aio smart aiokto2l23w/1c5 (màu trắng) với giá 339.570 VND.
+
+Nếu bạn cần thêm thông tin hoặc muốn xem các sản phẩm khác, vui lòng cho chúng tôi biết.
+2024-06-05 10:50:07,543 - ----------------NEW_SESSION--------------
+2024-06-05 10:50:07,543 - User: 0506
+2024-06-05 10:50:07,543 - InputText: Những sản phẩm giá rẻ
+2024-06-05 10:50:07,612 - ------------llm------------
+2024-06-05 10:50:07,612 - User: Những sản phẩm giá rẻ
+2024-06-05 10:50:09,566 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:50:09,572 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:50:09,575 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:50:09,577 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:50:09,579 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:50:13,093 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:50:13,104 - Vcc_bot: AI: Dưới đây là một số sản phẩm giá rẻ mà bạn có thể tham khảo:
+
+- Điều hòa: Sản phẩm 1 - công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.
+- Đèn năng lượng mặt trời: Sản phẩm 1 - bộ đèn pha led dùng pin năng lượng mặt trời suntek sc-126 với giá 286.550 VND.
+- Bình nóng lạnh: Sản phẩm 1 - ấm đun nước aio smart aiokto2l23w/1c5 (màu trắng) với giá 339.570 VND.
+
+Nếu bạn cần thêm thông tin hoặc muốn xem các sản phẩm khác, vui lòng cho chúng tôi biết.
+2024-06-05 10:53:00,188 - ----------------NEW_SESSION--------------
+2024-06-05 10:53:00,188 - User: 0506
+2024-06-05 10:53:00,188 - InputText: Nồi chiên không dầu nào có thể nấu được nhiều loại thực phẩm?
+2024-06-05 10:53:00,263 - ------------llm------------
+2024-06-05 10:53:00,263 - User: Nồi chiên không dầu nào có thể nấu được nhiều loại thực phẩm?
+2024-06-05 10:53:03,570 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:53:03,577 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 10:53:03,580 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:53:05,436 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:53:05,447 - Vcc_bot: AI: Sản phẩm nồi chiên không dầu có thể nấu được nhiều loại thực phẩm. Tuy nhiên, trong các sản phẩm đã được đề xuất, không có thông tin cụ thể về khả năng nấu của từng sản phẩm. Bạn có thể xem thêm thông tin chi tiết về từng sản phẩm để biết khả năng nấu của chúng.
+2024-06-05 10:54:16,056 - ----------------NEW_SESSION--------------
+2024-06-05 10:54:16,056 - User: 0506
+2024-06-05 10:54:16,056 - InputText: Dieu hoa có cong suat lơn nhất
+2024-06-05 10:54:16,126 - ------------llm------------
+2024-06-05 10:54:16,126 - User: Dieu hoa có cong suat lơn nhất
+2024-06-05 10:54:17,963 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:54:17,969 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:54:17,972 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 10:54:19,336 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:54:19,348 - Vcc_bot: AI: Sản phẩm điều hòa có công suất lớn nhất là điều hòa Carrier 2 chiều inverter công suất 24.000 BTU/h (2.5 HP) - model 2023.
+2024-06-05 10:55:51,284 - ----------------NEW_SESSION--------------
+2024-06-05 10:55:51,284 - User: 0506
+2024-06-05 10:55:51,284 - InputText: Bạn có thể giới thiệu về tính năng và ưu điểm của bàn chải điện không?
+2024-06-05 10:55:51,359 - ------------llm------------
+2024-06-05 10:55:51,360 - User: Bạn có thể giới thiệu về tính năng và ưu điểm của bàn chải điện không?
+2024-06-05 10:55:53,064 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:55:53,070 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 10:55:53,073 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 10:56:00,178 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 10:56:00,190 - Vcc_bot: AI: Tất nhiên! Bàn chải điện là một sản phẩm tiện ích và hiệu quả trong việc chăm sóc răng miệng. Dưới đây là một số tính năng và ưu điểm của bàn chải điện:
+
+1. Tính năng chổi đánh răng tự động: Bàn chải điện có tính năng chổi đánh răng tự động, giúp bạn dễ dàng và hiệu quả hơn trong việc làm sạch răng miệng.
+
+2. Công suất mạnh mẽ: Bàn chải điện có công suất cao, giúp loại bỏ mảng bám và vi khuẩn trên răng miệng một cách hiệu quả.
+
+3. Chế độ làm sạch đa dạng: Sản phẩm có nhiều chế độ làm sạch khác nhau như làm sạch nhẹ, làm sạch sâu, massage nướu, giúp bạn lựa chọn phù hợp với nhu cầu của mình.
+
+4. Thời gian làm sạch nhanh chóng: Bàn chải điện có tốc độ làm sạch nhanh hơn so với bàn chải thông thường, giúp tiết kiệm thời gian và năng lượng.
+
+5. Thiết kế tiện lợi: Sản phẩm có thiết kế nhỏ gọn, dễ cầm nắm và sử dụng. Ngoài ra, nhiều sản phẩm còn có thêm các tính năng tiện ích như đèn báo pin yếu, hẹn giờ tự động, và nhiều mức độ cài đặt khác.
+
+Tuy nhiên, để biết thêm thông tin chi tiết về từng sản phẩm bàn chải điện, bạn có thể xem thông tin chi tiết của từng sản phẩm được đề xuất.
+2024-06-05 11:48:15,046 - ----------------NEW_SESSION--------------
+2024-06-05 11:48:15,046 - User: 0506
+2024-06-05 11:48:15,046 - InputText: Các sản phẩm dưới 10tr
+2024-06-05 11:48:15,124 - ------------llm------------
+2024-06-05 11:48:15,124 - User: Các sản phẩm dưới 10tr
+2024-06-05 11:48:16,448 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 11:48:16,453 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 13:30:41,914 - ----------------NEW_SESSION--------------
+2024-06-05 13:30:41,914 - User: 0506
+2024-06-05 13:30:41,914 - InputText: Các sản phẩm dưới 10tr
+2024-06-05 13:30:41,986 - ------------llm------------
+2024-06-05 13:30:41,986 - User: Các sản phẩm dưới 10tr
+2024-06-05 13:30:43,789 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 13:30:43,795 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 13:30:43,798 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 13:30:43,800 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 13:30:43,802 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 13:30:47,882 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 13:30:47,895 - Vcc_bot: AI: Dưới đây là một số sản phẩm dưới 10 triệu đồng:
+
+1. Sản phẩm điều hòa: Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) - giá 2.277.000 VND.
+
+2. Sản phẩm đèn năng lượng mặt trời: Bộ đèn pha LED dùng pin năng lượng mặt trời Suntek SC-126 - giá 286.550 VND.
+
+3. Sản phẩm bếp từ: Bếp từ đơn AIO Smart kèm nồi - giá 1.089.000 VND.
+
+Vui lòng cho biết nếu bạn cần thông tin chi tiết về bất kỳ sản phẩm nào.
+2024-06-05 13:34:42,848 - ----------------NEW_SESSION--------------
+2024-06-05 13:34:42,849 - User: 0506
+2024-06-05 13:34:42,849 - InputText: Dìu hòa có công suat cao nhat
+2024-06-05 13:34:42,906 - ------------llm------------
+2024-06-05 13:34:42,906 - User: Dìu hòa có công suat cao nhat
+2024-06-05 13:34:44,452 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 13:34:44,459 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 13:34:44,461 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.002s]
+2024-06-05 13:34:45,909 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 13:34:45,922 - Vcc_bot: AI: Sản phẩm điều hòa có công suất cao nhất là điều hòa MDV - Inverter 9000 BTU (ID: 107). Công suất của sản phẩm này là 9500 Btu/h.
+2024-06-05 13:37:22,814 - ----------------NEW_SESSION--------------
+2024-06-05 13:37:22,814 - User: 0506
+2024-06-05 13:37:22,814 - InputText: Dìu hòa có công suat cao nhat
+2024-06-05 13:37:22,862 - ------------llm------------
+2024-06-05 13:37:22,862 - User: Dìu hòa có công suat cao nhat
+2024-06-05 13:37:24,491 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 13:37:24,497 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.003s]
+2024-06-05 13:37:24,500 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.003s]
+2024-06-05 13:37:25,883 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 13:37:25,897 - Vcc_bot: AI: Sản phẩm điều hòa có công suất cao nhất là điều hòa MDV - Inverter 9000 BTU (ID: 107). Công suất của sản phẩm này là 9500 Btu/h.
+2024-06-05 13:42:49,948 - ----------------NEW_SESSION--------------
+2024-06-05 13:42:49,948 - User: 0506
+2024-06-05 13:42:49,948 - InputText: bếp tu có công suat cao nhat
+2024-06-05 13:42:49,997 - ------------llm------------
+2024-06-05 13:42:49,997 - User: bếp tu có công suat cao nhat
+2024-06-05 13:42:51,431 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 13:42:51,436 - HEAD http://10.248.243.105:9200/test2 [status:200 duration:0.002s]
+2024-06-05 13:42:51,457 - POST http://10.248.243.105:9200/test2/_search [status:200 duration:0.020s]
+2024-06-05 13:42:52,712 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 13:42:52,726 - Vcc_bot: AI: Sản phẩm bếp từ có công suất cao nhất là bếp từ đôi aio smart (ID: 11). Công suất của sản phẩm này là 4400W.
