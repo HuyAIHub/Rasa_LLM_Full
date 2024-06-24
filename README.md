@@ -36,9 +36,8 @@ To get started with the RAG Sales Advisor, follow these steps:
    Configure the necessary API keys and settings in the config.yaml file.
 
 ## Usage
-To use the RAG Sales Advisor, run the main script:
-   ```bash
-   python main.py
+   To use the RAG Sales Advisor, run the main script: bash run.sh
+
 
 ## Contributing
 We welcome contributions to improve the RAG Sales Advisor! To contribute, please follow these steps:
