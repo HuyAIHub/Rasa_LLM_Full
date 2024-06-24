@@ -37,8 +37,8 @@ To get started with the RAG Sales Advisor, follow these steps:
 
 ## Usage
 To use the RAG Sales Advisor, run the main script:
-```bash
-python main.py
+   ```bash
+   python main.py
 
 ## Contributing
 We welcome contributions to improve the RAG Sales Advisor! To contribute, please follow these steps:
