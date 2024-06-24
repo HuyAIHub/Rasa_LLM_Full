@@ -25,8 +25,8 @@ To get started with the RAG Sales Advisor, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/rag-sales-advisor.git
-   cd rag-sales-advisor
+   git clone https://github.com/HuyAIHub/Rasa_LLM_Full.git.git
+   cd Rasa_LLM_Full
 
 2. **Set up the environment:**
    Ensure you have Python 3.10+ and the necessary dependencies installed. You can use pip to install the required libraries:
@@ -39,3 +39,18 @@ To get started with the RAG Sales Advisor, follow these steps:
 To use the RAG Sales Advisor, run the main script:
 ```bash
 python main.py
+
+## Contributing
+We welcome contributions to improve the RAG Sales Advisor! To contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes and commit them (git commit -m 'Add new feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a Pull Request.
+
+## License
+This project is licensed under the VCC License.
+
+## Contact
+For any questions or suggestions, please feel free to contact us at dinhquanghuy1107@gmail.com
