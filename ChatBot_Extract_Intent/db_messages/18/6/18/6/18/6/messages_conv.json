@@ -1,0 +1,314 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Xin chào! Bạn có câu hỏi gì về sản phẩm điều hòa?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Xin chào! Bạn có câu hỏi gì về sản phẩm điều hòa?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Support: Chúng tôi có 3 loại sản phẩm điều hòa. Sản phẩm 1 là điều hòa MDV - Inverter 9000 BTU, sản phẩm 2 là điều hòa MDV 1 chiều 12000 BTU - model 2023, và sản phẩm 3 là điều hòa MDV 1 chiều inverter 18000 BTU - model 2023. Bạn có thể cho tôi biết bạn quan tâm đến sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Support: Chúng tôi có 3 loại sản phẩm điều hòa. Sản phẩm 1 là điều hòa MDV - Inverter 9000 BTU, sản phẩm 2 là điều hòa MDV 1 chiều 12000 BTU - model 2023, và sản phẩm 3 là điều hòa MDV 1 chiều inverter 18000 BTU - model 2023. Bạn có thể cho tôi biết bạn quan tâm đến sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "- Sản phẩm 1: điều hòa MDV - Inverter 9000 BTU\n- Sản phẩm 2: điều hòa MDV 1 chiều 12000 BTU - model 2023\n- Sản phẩm 3: điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "- Sản phẩm 1: điều hòa MDV - Inverter 9000 BTU\n- Sản phẩm 2: điều hòa MDV 1 chiều 12000 BTU - model 2023\n- Sản phẩm 3: điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "- Chúng tôi có 3 loại sản phẩm điều hòa: \n  1. Điều hòa MDV - Inverter 9000 BTU\n  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "- Chúng tôi có 3 loại sản phẩm điều hòa: \n  1. Điều hòa MDV - Inverter 9000 BTU\n  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: - Chúng tôi có 3 loại sản phẩm điều hòa: \n  1. Điều hòa MDV - Inverter 9000 BTU\n  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: - Chúng tôi có 3 loại sản phẩm điều hòa: \n  1. Điều hòa MDV - Inverter 9000 BTU\n  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Người bán hàng: Chúng tôi có 3 loại sản phẩm điều hòa:\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Người bán hàng: Chúng tôi có 3 loại sản phẩm điều hòa:\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

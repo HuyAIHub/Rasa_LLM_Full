@@ -1085,3 +1085,14 @@ nlu:
     - đơn hàng của tôi có vấn đề
     - đơn hàng của tôi cần giải quyết
     - đơn hàng gặp vấn đề hãy giải quyết cho toi
+- intent: inventory
+  examples: |
+    - [trong kho](produce_name_inventory) còn những sản phẩm nào
+    - có những sản phẩm nào [trong kho](produce_name_inventory)
+    - cho tôi xem sản phẩm [tồn kho](produce_name_inventory)
+    - điều hòa còn bao nhiêu sản phẩm [trong kho](produce_name_inventory)
+    - những sản phảm [tồn kho](produce_name_inventory)
+    - [kho](produce_name_inventory)còn bao nhiêu sản phẩm
+    - sản phẩm hiện đang có ở [kho](produce_name_inventory) nào
+    - [tồn kho](produce_name_inventory)
+    - sản phẩm [tồn kho](produce_name_inventory)

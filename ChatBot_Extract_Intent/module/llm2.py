@@ -37,7 +37,7 @@ class SnippetsBufferWindowMemory(ConversationBufferWindowMemory):
 
         buffer: Any = self.buffer[-self.k * 2 :] if self.k > 0 else []
         string_messages = []
-        for m in buffer:
+        for m in buffer: 
             if isinstance(m, HumanMessage):
                 message = f"{m.content}"
                 string_messages.append(message)
@@ -63,12 +63,15 @@ def construct_conversation(prompt: str, llm, memory) -> ConversationChain:
     )
     return conversation
 
-
 def initialize_chat_conversation(conv_memory, snippets_memory, response_rules) -> ConversationChain:
-    prompt_header = """You are a product information lookup support, your task is to answer customer questions based on the technical paragraphs provided and history chat.
+    prompt_header = """
+    You are a product information lookup support, your task is to answer customer questions based on the technical paragraphs provided and history chat.
+    For answer long 200 token, please summarize 4-5 lines 
     The following passages may help you answer the questions:
     {snippets}
     Respond to the customer's needs based on the passages.
+    
+    To list products, please use line breaks and numbers in order
     All your answers must be in Vietnamese.
     {history} 
     Customer: {input}
@@ -84,10 +87,11 @@ def initialize_chat_conversation(conv_memory, snippets_memory, response_rules) -
                                                      memory_key='snippets', input_key="snippets", chat_memory=snippets_memory)
 
     memory = CombinedMemory(memories=[conv_memory, snippets_memory])
+    # print(memory)
     conversation = construct_conversation(prompt_header, llm, memory)
 
     return conversation
-
+    
 def llm2(query_text, response_rules):
     print('=====llm2======')
     print('response_rules:',response_rules)

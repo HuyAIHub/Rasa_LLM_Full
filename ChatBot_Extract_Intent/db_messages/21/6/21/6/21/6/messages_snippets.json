@@ -1,0 +1,54 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc) (ID: 16)\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d (ID: 104)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.\n2. Quạt điều hòa không khí Everest 6000d với giá 2.450.800 VND.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.\n2. Quạt điều hòa không khí Everest 6000d với giá 2.450.800 VND.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

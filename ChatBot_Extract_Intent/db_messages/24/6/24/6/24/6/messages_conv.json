@@ -1,0 +1,236 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "hello ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua sản phẩm bep tư giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm bếp từ giá rẻ mà chúng tôi có:\n\n1. Bếp từ đơn aio smart kèm nồi (ID: 10)\n- Công suất vùng nấu: 2100W\n- Kích thước vùng nấu: 200mm\n- Bảng điều khiển: cảm ứng\n- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)\n- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng\n- Kích thước sản phẩm: 360x290x43mm\n- Khối lượng sản phẩm: 2,4kg\n- Sẵn 6 chương trình nấu: có\n- Tính năng hẹn giờ: có\n- Nhận diện nồi: có\n- Tạm dừng: có\n- Giá: 1.089.000 VND\n\n2. Bếp từ đôi aio smart (ID: 11)\n- Công suất: 4400W\n- Trái: 2200W - Phải: 2200W\n- Chất liệu mặt bếp: Kính Vitro Ceramic\n- Bảng điều khiển: Cảm ứng\n- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ\n- Bề mặt: 730mm x 430mm\n- Độ cao: 75mm\n- Điện áp: 220V-240VAC\n- Độ dài dây nguồn: 1.5m\n- Đường kính vùng nấu: 190mm\n- Khóa an toàn: có\n- Hẹn giờ: có\n- Tính năng chống tràn: có\n- Tính năng nhận diện nồi: có\n- Giá: 4.962.870 VND\n\nHãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua sản phẩm bep tư giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm bếp từ giá rẻ mà chúng tôi có:\n\n1. Bếp từ đơn aio smart kèm nồi (ID: 10)\n- Công suất vùng nấu: 2100W\n- Kích thước vùng nấu: 200mm\n- Bảng điều khiển: cảm ứng\n- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)\n- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng\n- Kích thước sản phẩm: 360x290x43mm\n- Khối lượng sản phẩm: 2,4kg\n- Sẵn 6 chương trình nấu: có\n- Tính năng hẹn giờ: có\n- Nhận diện nồi: có\n- Tạm dừng: có\n- Giá: 1.089.000 VND\n\n2. Bếp từ đôi aio smart (ID: 11)\n- Công suất: 4400W\n- Trái: 2200W - Phải: 2200W\n- Chất liệu mặt bếp: Kính Vitro Ceramic\n- Bảng điều khiển: Cảm ứng\n- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ\n- Bề mặt: 730mm x 430mm\n- Độ cao: 75mm\n- Điện áp: 220V-240VAC\n- Độ dài dây nguồn: 1.5m\n- Đường kính vùng nấu: 190mm\n- Khóa an toàn: có\n- Hẹn giờ: có\n- Tính năng chống tràn: có\n- Tính năng nhận diện nồi: có\n- Giá: 4.962.870 VND\n\nHãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua sản phẩm bep tư giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm bếp từ giá rẻ mà chúng tôi có:\n\n1. Bếp từ đơn aio smart kèm nồi (ID: 10)\n- Công suất vùng nấu: 2100W\n- Kích thước vùng nấu: 200mm\n- Bảng điều khiển: cảm ứng\n- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)\n- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng\n- Kích thước sản phẩm: 360x290x43mm\n- Khối lượng sản phẩm: 2,4kg\n- Sẵn 6 chương trình nấu: có\n- Tính năng hẹn giờ: có\n- Nhận diện nồi: có\n- Tạm dừng: có\n- Giá: 1.089.000 VND\n\n2. Bếp từ đôi aio smart (ID: 11)\n- Công suất: 4400W\n- Trái: 2200W - Phải: 2200W\n- Chất liệu mặt bếp: Kính Vitro Ceramic\n- Bảng điều khiển: Cảm ứng\n- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ\n- Bề mặt: 730mm x 430mm\n- Độ cao: 75mm\n- Điện áp: 220V-240VAC\n- Độ dài dây nguồn: 1.5m\n- Đường kính vùng nấu: 190mm\n- Khóa an toàn: có\n- Hẹn giờ: có\n- Tính năng chống tràn: có\n- Tính năng nhận diện nồi: có\n- Giá: 4.962.870 VND\n\nHãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua sản phẩm bep tư giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm bếp từ giá rẻ mà chúng tôi có:\n\n1. Bếp từ đơn aio smart kèm nồi (ID: 10)\n- Công suất vùng nấu: 2100W\n- Kích thước vùng nấu: 200mm\n- Bảng điều khiển: cảm ứng\n- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)\n- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng\n- Kích thước sản phẩm: 360x290x43mm\n- Khối lượng sản phẩm: 2,4kg\n- Sẵn 6 chương trình nấu: có\n- Tính năng hẹn giờ: có\n- Nhận diện nồi: có\n- Tạm dừng: có\n- Giá: 1.089.000 VND\n\n2. Bếp từ đôi aio smart (ID: 11)\n- Công suất: 4400W\n- Trái: 2200W - Phải: 2200W\n- Chất liệu mặt bếp: Kính Vitro Ceramic\n- Bảng điều khiển: Cảm ứng\n- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ\n- Bề mặt: 730mm x 430mm\n- Độ cao: 75mm\n- Điện áp: 220V-240VAC\n- Độ dài dây nguồn: 1.5m\n- Đường kính vùng nấu: 190mm\n- Khóa an toàn: có\n- Hẹn giờ: có\n- Tính năng chống tràn: có\n- Tính năng nhận diện nồi: có\n- Giá: 4.962.870 VND\n\nHãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua sản phẩmđèn  năng lượng gíá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm đèn năng lượng giá rẻ mà chúng tôi có:\n\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 (ID: 121)\n- Công suất định mức: 50W\n- Bảng điều khiển năng lượng mặt trời: Polycrystal 6W\n- Thời gian chiếu sáng: 5-6h liên tục\n- PIN: 4.500mAh\n- Giá: 286.550 VND\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W (ID: 122)\n- Công suất: 60W\n- Dung lượng pin: 18.000mAh Pin lithium sắt phosphate\n- Thời gian chiếu sáng: 3h/5h/8h\n- Giá: 344.410 VND\n\n3. Đèn năng lượng mặt trời, đèn nlmt xách tay 100W (ID: 123)\n- Công suất: 100W\n- Dung lượng pin: 20.000mAh Pin lithium sắt phosphate\n- Thời gian chiếu sáng: 3h/5h/8h\n- Giá: 407.770 VND\n\nHãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua sản phẩmđèn  năng lượng gíá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm đèn năng lượng giá rẻ mà chúng tôi có:\n\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 (ID: 121)\n- Công suất định mức: 50W\n- Bảng điều khiển năng lượng mặt trời: Polycrystal 6W\n- Thời gian chiếu sáng: 5-6h liên tục\n- PIN: 4.500mAh\n- Giá: 286.550 VND\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W (ID: 122)\n- Công suất: 60W\n- Dung lượng pin: 18.000mAh Pin lithium sắt phosphate\n- Thời gian chiếu sáng: 3h/5h/8h\n- Giá: 344.410 VND\n\n3. Đèn năng lượng mặt trời, đèn nlmt xách tay 100W (ID: 123)\n- Công suất: 100W\n- Dung lượng pin: 20.000mAh Pin lithium sắt phosphate\n- Thời gian chiếu sáng: 3h/5h/8h\n- Giá: 407.770 VND\n\nHãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua sản phẩm bếp từ ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm bếp từ mà chúng tôi có:\n\n1. Bếp từ đơn aio smart kèm nồi (ID: 10)\n- Công suất vùng nấu: 2100W\n- Kích thước vùng nấu: 200mm\n- Bảng điều khiển: cảm ứng\n- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)\n- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng\n- Kích thước sản phẩm: 360x290x43mm\n- Khối lượng sản phẩm: 2,4kg\n- Sẵn 6 chương trình nấu: có\n- Tính năng hẹn giờ: có\n- Nhận diện nồi: có\n- Tạm dừng: có\n- Giá: 1.089.000 VND\n\n2. Bếp từ đôi aio smart (ID: 11)\n- Công suất: 4400W\n- Trái: 2200W - Phải: 2200W\n- Chất liệu mặt bếp: Kính Vitro Ceramic\n- Bảng điều khiển: Cảm ứng\n- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ\n- Bề mặt: 730mm x 430mm\n- Độ cao: 75mm\n- Điện áp: 220V-240VAC\n- Độ dài dây nguồn: 1.5m\n- Đường kính vùng nấu: 190mm\n- Khóa an toàn: có\n- Hẹn giờ: có\n- Tính năng chống tràn: có\n- Tính năng nhận diện nồi: có\n- Giá: 4.962.870 VND\n\nHãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn mua sản phẩm bếp từ ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm bếp từ mà chúng tôi có:\n\n1. Bếp từ đơn aio smart kèm nồi (ID: 10)\n- Công suất vùng nấu: 2100W\n- Kích thước vùng nấu: 200mm\n- Bảng điều khiển: cảm ứng\n- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)\n- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng\n- Kích thước sản phẩm: 360x290x43mm\n- Khối lượng sản phẩm: 2,4kg\n- Sẵn 6 chương trình nấu: có\n- Tính năng hẹn giờ: có\n- Nhận diện nồi: có\n- Tạm dừng: có\n- Giá: 1.089.000 VND\n\n2. Bếp từ đôi aio smart (ID: 11)\n- Công suất: 4400W\n- Trái: 2200W - Phải: 2200W\n- Chất liệu mặt bếp: Kính Vitro Ceramic\n- Bảng điều khiển: Cảm ứng\n- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ\n- Bề mặt: 730mm x 430mm\n- Độ cao: 75mm\n- Điện áp: 220V-240VAC\n- Độ dài dây nguồn: 1.5m\n- Đường kính vùng nấu: 190mm\n- Khóa an toàn: có\n- Hẹn giờ: có\n- Tính năng chống tràn: có\n- Tính năng nhận diện nồi: có\n- Giá: 4.962.870 VND\n\nHãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

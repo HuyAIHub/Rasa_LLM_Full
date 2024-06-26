@@ -1,0 +1,101 @@
+2024-06-18 17:13:13,685 - ----------------NEW_SESSION--------------
+2024-06-18 17:13:13,686 - User: 18/6
+2024-06-18 17:13:13,686 - InputText: Đièu hòa 
+2024-06-18 17:13:14,759 - ------------llm------------
+2024-06-18 17:13:14,760 - User: Đièu hòa 
+2024-06-18 17:13:16,657 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:13:17,910 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.200s]
+2024-06-18 17:13:18,177 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.266s]
+2024-06-18 17:13:19,614 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:13:19,616 - Vcc_bot: Support: Xin chào! Bạn có câu hỏi gì về sản phẩm điều hòa?
+2024-06-18 17:13:57,174 - ----------------NEW_SESSION--------------
+2024-06-18 17:13:57,175 - User: 18/6
+2024-06-18 17:13:57,175 - InputText: bạn có những loại nào
+2024-06-18 17:13:57,229 - ------------llm------------
+2024-06-18 17:13:57,230 - User: bạn có những loại nào
+2024-06-18 17:13:58,980 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:13:59,791 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.775s]
+2024-06-18 17:15:06,426 - ----------------NEW_SESSION--------------
+2024-06-18 17:15:06,426 - User: 18/6
+2024-06-18 17:15:06,426 - InputText: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:15:06,484 - ------------llm------------
+2024-06-18 17:15:06,484 - User: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:15:08,162 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:15:09,186 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.011s]
+2024-06-18 17:15:09,494 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.307s]
+2024-06-18 17:15:11,999 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:15:12,007 - Vcc_bot: AI: Support: Chúng tôi có 3 loại sản phẩm điều hòa. Sản phẩm 1 là điều hòa MDV - Inverter 9000 BTU, sản phẩm 2 là điều hòa MDV 1 chiều 12000 BTU - model 2023, và sản phẩm 3 là điều hòa MDV 1 chiều inverter 18000 BTU - model 2023. Bạn có thể cho tôi biết bạn quan tâm đến sản phẩm nào?
+2024-06-18 17:31:06,390 - ----------------NEW_SESSION--------------
+2024-06-18 17:31:06,391 - User: 18/6
+2024-06-18 17:31:06,391 - InputText: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:31:47,214 - ----------------NEW_SESSION--------------
+2024-06-18 17:31:47,214 - User: 18/6
+2024-06-18 17:31:47,214 - InputText: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:31:47,279 - ------------llm------------
+2024-06-18 17:31:47,279 - User: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:31:50,215 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:31:51,380 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.110s]
+2024-06-18 17:31:51,627 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.246s]
+2024-06-18 17:31:58,611 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:31:58,625 - Vcc_bot: - Sản phẩm 1: điều hòa MDV - Inverter 9000 BTU
+- Sản phẩm 2: điều hòa MDV 1 chiều 12000 BTU - model 2023
+- Sản phẩm 3: điều hòa MDV 1 chiều inverter 18000 BTU - model 2023
+2024-06-18 17:36:09,456 - ----------------NEW_SESSION--------------
+2024-06-18 17:36:09,456 - User: 18/6
+2024-06-18 17:36:09,456 - InputText: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:36:09,528 - ------------llm------------
+2024-06-18 17:36:09,528 - User: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:36:12,453 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:36:13,569 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.048s]
+2024-06-18 17:36:13,800 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.230s]
+2024-06-18 17:36:16,219 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:36:16,255 - Vcc_bot: - Chúng tôi có 3 loại sản phẩm điều hòa: 
+  1. Điều hòa MDV - Inverter 9000 BTU
+  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023
+  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023
+2024-06-18 17:48:19,049 - ----------------NEW_SESSION--------------
+2024-06-18 17:48:19,049 - User: 18/6
+2024-06-18 17:48:19,049 - InputText: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:48:19,114 - ------------llm------------
+2024-06-18 17:48:19,114 - User: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:48:21,194 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:48:22,749 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.505s]
+2024-06-18 17:48:23,058 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.308s]
+2024-06-18 17:48:25,617 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:48:25,624 - Vcc_bot: AI: - Chúng tôi có 3 loại sản phẩm điều hòa: 
+  1. Điều hòa MDV - Inverter 9000 BTU
+  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023
+  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023
+2024-06-18 17:51:28,054 - ----------------NEW_SESSION--------------
+2024-06-18 17:51:28,054 - User: 18/6
+2024-06-18 17:51:28,055 - InputText: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:51:28,139 - ------------llm------------
+2024-06-18 17:51:28,140 - User: bạn có những loại sản phẩm điều hòa nào
+2024-06-18 17:51:30,402 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:51:31,425 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.990s]
+2024-06-18 17:51:31,731 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.305s]
+2024-06-18 17:51:33,781 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-18 17:51:33,789 - Vcc_bot: Người bán hàng: Chúng tôi có 3 loại sản phẩm điều hòa:
+1. Điều hòa MDV - Inverter 9000 BTU
+2. Điều hòa MDV 1 chiều 12000 BTU - model 2023
+3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023
+2024-06-18 17:54:17,143 - ----------------NEW_SESSION--------------
+2024-06-18 17:54:17,143 - User: 18/6
+2024-06-18 17:54:17,144 - InputText: Điều hòa giá rẻ
+2024-06-18 17:54:17,208 - ------------llm------------
+2024-06-18 17:54:17,208 - User: Điều hòa giá rẻ
+2024-06-18 17:54:18,005 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-06-18 17:54:18,006 - Retrying request to /chat/completions in 0.861114 seconds
+2024-06-18 17:54:19,303 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-06-18 17:54:19,304 - Retrying request to /chat/completions in 1.769575 seconds
+2024-06-18 17:54:21,468 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-06-18 22:06:51,362 - ----------------NEW_SESSION--------------
+2024-06-18 22:06:51,362 - User: 18/6
+2024-06-18 22:06:51,362 - InputText: Nồi cơm điện có những loại nào
+2024-06-18 22:06:52,545 - ------------llm------------
+2024-06-18 22:06:52,545 - User: Nồi cơm điện có những loại nào
+2024-06-18 22:06:58,339 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-06-18 22:06:58,340 - Retrying request to /chat/completions in 0.848049 seconds
+2024-06-18 22:06:59,515 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-06-18 22:06:59,517 - Retrying request to /chat/completions in 1.783272 seconds
+2024-06-18 22:07:01,718 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"

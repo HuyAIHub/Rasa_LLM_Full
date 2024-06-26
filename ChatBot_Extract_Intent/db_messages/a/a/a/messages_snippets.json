@@ -1,0 +1,28 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

@@ -1,0 +1,730 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Tên sản phẩm: công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc)\n   - Giá: 2,277,000 VND\n   - Thông số kỹ thuật: Điện áp hoạt động: 12VDC - 0.5A, Nhiệt độ hoạt động: 0oC ~ 50oC, Độ ẩm hoạt động: 0 - 95%, Chuẩn kết nối: Zigbee, Kích thước (DxRxC): 120 x 80 x 24 mm, Bảo hành: 24 tháng.\n\n2. Tên sản phẩm: quạt điều hòa không khí everest 6000d\n   - Giá: 2,450,800 VND\n   - Thông số kỹ thuật: Điện áp: 220V - 50Hz, Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm, Lưu lượng gió: 6000m3/h, Dung tích khay chứa nước: 45L, Công suất: 80W, Điều khiển từ xa: Có, Cảm biến chất lượng không khí: Có, Chức năng tạo ion: Có, Tốc độ gió: 3 tốc độ, Hướng gió: 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Tên sản phẩm: công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc)\n   - Giá: 2,277,000 VND\n   - Thông số kỹ thuật: Điện áp hoạt động: 12VDC - 0.5A, Nhiệt độ hoạt động: 0oC ~ 50oC, Độ ẩm hoạt động: 0 - 95%, Chuẩn kết nối: Zigbee, Kích thước (DxRxC): 120 x 80 x 24 mm, Bảo hành: 24 tháng.\n\n2. Tên sản phẩm: quạt điều hòa không khí everest 6000d\n   - Giá: 2,450,800 VND\n   - Thông số kỹ thuật: Điện áp: 220V - 50Hz, Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm, Lưu lượng gió: 6000m3/h, Dung tích khay chứa nước: 45L, Công suất: 80W, Điều khiển từ xa: Có, Cảm biến chất lượng không khí: Có, Chức năng tạo ion: Có, Tốc độ gió: 3 tốc độ, Hướng gió: 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đèn năng lượng mặt trời giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.\n\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đèn năng lượng mặt trời giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.\n\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Điêuf hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Điêuf hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đèn năng lượng mặt trời giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đèn năng lượng mặt trời giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Ghế massage daikiosan giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:\n1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.\n3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Ghế massage daikiosan giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:\n1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.\n3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Ghế massage daikiosan giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:\n1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.\n3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Ghế massage daikiosan giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:\n1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.\n3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

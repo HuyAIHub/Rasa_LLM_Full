@@ -1,0 +1,43 @@
+2024-06-25 10:09:10,344 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:10:21,963 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:10:54,195 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:10:54,315 - Loading faiss with AVX2 support.
+2024-06-25 10:10:54,333 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:11:42,815 - Loading faiss with AVX2 support.
+2024-06-25 10:11:42,832 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:11:43,023 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:12:03,911 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:12:03,970 - Loading faiss with AVX2 support.
+2024-06-25 10:12:03,989 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:12:20,944 - Loading faiss with AVX2 support.
+2024-06-25 10:12:20,962 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:12:21,218 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:12:49,769 - Loading faiss with AVX2 support.
+2024-06-25 10:12:49,786 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:12:49,890 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:14:07,397 - Loading faiss with AVX2 support.
+2024-06-25 10:14:07,414 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:14:07,613 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:14:29,388 - Loading faiss with AVX2 support.
+2024-06-25 10:14:29,406 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:14:29,554 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:14:29,611 - HTTP Request: GET http://127.0.0.1:7860/startup-events "HTTP/1.1 200 OK"
+2024-06-25 10:14:29,626 - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-06-25 10:14:29,798 - HTTP Request: GET https://checkip.amazonaws.com/ "HTTP/1.1 200 "
+2024-06-25 10:14:30,386 - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-06-25 10:14:30,613 - HTTP Request: GET https://api.gradio.app/v2/tunnel-request "HTTP/1.1 200 OK"
+2024-06-25 10:14:58,147 - Loading faiss with AVX2 support.
+2024-06-25 10:14:58,165 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:14:58,403 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:16:08,654 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:16:08,779 - Loading faiss with AVX2 support.
+2024-06-25 10:16:08,797 - Successfully loaded faiss with AVX2 support.
+2024-06-25 10:17:55,873 - HTTP Request: GET https://api.gradio.app/gradio-messaging/en "HTTP/1.1 200 OK"
+2024-06-25 10:17:55,999 - Loading faiss with AVX2 support.
+2024-06-25 10:17:56,016 - Successfully loaded faiss with AVX2 support.
+2024-06-25 14:45:13,342 - ----------------NEW_SESSION--------------
+2024-06-25 14:45:13,342 - User: 25/6
+2024-06-25 14:45:13,342 - InputText: 1
+2024-06-25 14:45:31,228 - ----------------NEW_SESSION--------------
+2024-06-25 14:45:31,228 - User: 25/6
+2024-06-25 14:45:31,228 - InputText: None

@@ -1,0 +1,730 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc) (ID: 16)\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d (ID: 104)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Tên sản phẩm: công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc)\n   - Giá: 2,277,000 VND\n   - Thông số kỹ thuật: Điện áp hoạt động: 12VDC - 0.5A, Nhiệt độ hoạt động: 0oC ~ 50oC, Độ ẩm hoạt động: 0 - 95%, Chuẩn kết nối: Zigbee, Kích thước (DxRxC): 120 x 80 x 24 mm, Bảo hành: 24 tháng.\n\n2. Tên sản phẩm: quạt điều hòa không khí everest 6000d\n   - Giá: 2,450,800 VND\n   - Thông số kỹ thuật: Điện áp: 220V - 50Hz, Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm, Lưu lượng gió: 6000m3/h, Dung tích khay chứa nước: 45L, Công suất: 80W, Điều khiển từ xa: Có, Cảm biến chất lượng không khí: Có, Chức năng tạo ion: Có, Tốc độ gió: 3 tốc độ, Hướng gió: 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Tên sản phẩm: công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc)\n   - Giá: 2,277,000 VND\n   - Thông số kỹ thuật: Điện áp hoạt động: 12VDC - 0.5A, Nhiệt độ hoạt động: 0oC ~ 50oC, Độ ẩm hoạt động: 0 - 95%, Chuẩn kết nối: Zigbee, Kích thước (DxRxC): 120 x 80 x 24 mm, Bảo hành: 24 tháng.\n\n2. Tên sản phẩm: quạt điều hòa không khí everest 6000d\n   - Giá: 2,450,800 VND\n   - Thông số kỹ thuật: Điện áp: 220V - 50Hz, Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm, Lưu lượng gió: 6000m3/h, Dung tích khay chứa nước: 45L, Công suất: 80W, Điều khiển từ xa: Có, Cảm biến chất lượng không khí: Có, Chức năng tạo ion: Có, Tốc độ gió: 3 tốc độ, Hướng gió: 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc) (ID: 16)\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d (ID: 104)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc) (ID: 16)\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d (ID: 104)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều 12000 btu - model 2023 (ID: 108)\nThông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\nGiá tiền: 7246030 VND\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều inverter 18000 btu - model 2023 (ID: 110)\nThông số kỹ thuật: Model: MDVG-18CRDN8 \nCông suất: 18.000 BTU/h \nLoại: 1 chiều Inverter \nDiện tích sử dụng: 20 - 30m² \nGas: R32 \nMức tiêu thụ điện: 1.65 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 969 x 320 x 241 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 18 kg \nTrọng lượng dàn nóng: 28 kg\ngiá: 11740520\nGiá tiền: 11740520 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm đèn năng lượng mặt trời:\nTên sản phẩm: đèn năng lượng mặt trời , bộ đèn pha led dùng pin năng lượng mặt trời suntek sc-126 (ID: 121)\nThông số kỹ thuật: \n• Công suất định mức: 50W \n• Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n• Nhiệt độ làm việc: -20C ~ 65C \n• Nhiệt độ màu: 6500K \n• Thời gian chiếu sáng: 5-6h liên tục \n• PIN: 4.500mAh \n• Kích thước đèn: 10 x 17 cm \n• Kích thước tấm năng lượng mặt trời: 13.5 x 2 x 23 Cm \n• Cân nặng: 0.5kg\ngiá: 286550\nGiá tiền: 286550 VND\nTên sản phẩm: đèn năng lượng mặt trời , đèn nlmt xách tay 60w (ID: 122)\nThông số kỹ thuật: \n• Công suất: 60W \n• Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm \n• Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n• Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n• Dung lượng pin :18000 mAH Pin lithium sắt phosphate \n• Bố trí sản phẩm: dây chống nước 5m, điều khiển hẹn thời gian, ốc vít giãn nở \n• Mức độ ánh sáng: Sáng mạnh, sáng yếu \n• Thời gian chiếu sáng: 3h/5h/8h \n• Loại mắt led: 5630/180mắt led Lumen: 2250\ngiá: 344410\nGiá tiền: 344410 VND\nTên sản phẩm: đèn năng lượng mặt trời , đèn nlmt xách tay 100w (ID: 123)\nThông số kỹ thuật: \n• Công suất: 100w \n• Kích thước tấm năng lượng mặt trời: 300*250 mm \n• Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n• Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n• Dung lượng pin: 20.000MAH Pin lithium sắt phosphate \n• Bố trí sản phẩm: dây chống nước 5m, điều khiển hẹn thời gian, ốc vít giãn nở \n• Mức độ ánh sáng: Sáng mạnh, sáng yếu \n• Thời gian chiếu sáng :3h/5h/8h\ngiá: 407770\nGiá tiền: 407770 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.\n\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đèn năng lượng mặt trời giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.\n\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc) (ID: 16)\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d (ID: 104)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Điêuf hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.\n\n2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm đèn năng lượng mặt trời:\n\n\nSản phẩm 1:\nTên sản phẩm: đèn năng lượng mặt trời , bộ đèn pha led dùng pin năng lượng mặt trời suntek sc-126 (ID: 121)\nThông số kỹ thuật: \n• Công suất định mức: 50W \n• Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n• Nhiệt độ làm việc: -20C ~ 65C \n• Nhiệt độ màu: 6500K \n• Thời gian chiếu sáng: 5-6h liên tục \n• PIN: 4.500mAh \n• Kích thước đèn: 10 x 17 cm \n• Kích thước tấm năng lượng mặt trời: 13.5 x 2 x 23 Cm \n• Cân nặng: 0.5kg\ngiá: 286550\nGiá tiền: 286550 VND\n\n\nSản phẩm 2:\nTên sản phẩm: đèn năng lượng mặt trời , đèn nlmt xách tay 60w (ID: 122)\nThông số kỹ thuật: \n• Công suất: 60W \n• Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm \n• Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n• Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n• Dung lượng pin :18000 mAH Pin lithium sắt phosphate \n• Bố trí sản phẩm: dây chống nước 5m, điều khiển hẹn thời gian, ốc vít giãn nở \n• Mức độ ánh sáng: Sáng mạnh, sáng yếu \n• Thời gian chiếu sáng: 3h/5h/8h \n• Loại mắt led: 5630/180mắt led Lumen: 2250\ngiá: 344410\nGiá tiền: 344410 VND\n\n\nSản phẩm 3:\nTên sản phẩm: đèn năng lượng mặt trời , đèn nlmt xách tay 100w (ID: 123)\nThông số kỹ thuật: \n• Công suất: 100w \n• Kích thước tấm năng lượng mặt trời: 300*250 mm \n• Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n• Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n• Dung lượng pin: 20.000MAH Pin lithium sắt phosphate \n• Bố trí sản phẩm: dây chống nước 5m, điều khiển hẹn thời gian, ốc vít giãn nở \n• Mức độ ánh sáng: Sáng mạnh, sáng yếu \n• Thời gian chiếu sáng :3h/5h/8h\ngiá: 407770\nGiá tiền: 407770 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đèn năng lượng mặt trời giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:\n1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.\n\n2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm ghế massage daikiosan:\n\n\nSản phẩm 1:\nTên sản phẩm: ghế massage daikiosan , massage mắt dvmm-00001  (ID: 26)\nThông số kỹ thuật: Thiết kế máy tối giản và tiện ích Phù hợp với đa dạng đối tượng \nCó 3 công nghệ massage đỉnh cao 5 chế độ massage tự động đa dạng \nPin khủng, thời gian sử dụng lâu \nGấp gọn 180 độ, tiết kiệm không gian \nTích hợp kết nối Bluetooth để phát nhạc thư giãn \nBảo hành: 24 tháng\ngiá: 757570\nGiá tiền: 757570 VND\n\n\nSản phẩm 2:\nTên sản phẩm: ghế massage daikiosan , massage cổ dvmg-00001  (ID: 21)\nThông số kỹ thuật: Ứng dụng: Massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy 3 cường độ massage, dễ dàng điều chỉnh \nThiết kế: thông minh, ôm sát vùng cổ Tự động tắt máy su 15 phút sử dụng Cuộn tròn gấp gọn tiện lợi  Dung lượng Pin khủng Điều khiển đơn giản, dễ hiểu Phù hợp với nhiều đối tượng \nBảo hành: 24 tháng\ngiá: 814880\nGiá tiền: 814880 VND\n\n\nSản phẩm 3:\nTên sản phẩm: ghế massage daikiosan , máy massage lưng đại việt dvml-00001 (ID: 24)\nThông số kỹ thuật: \n• Công suất: 23W \n• Điện áp: 12.8V \n• Vị trí massage: Linh động thay đổi vị trí toàn cơ thể: Hông, lưng, chân, đùi \n• Khối lượng sản phẩm: 1.35Kg \n• Khối lượng phủ bì: 1.75Kg \n• Kích thước sản phẩm: 37x12.5x34.5cm \n• Kích thước phủ bì: 37.5x13x35cm \n• Công nghệ Massage: con lăn 360 độ, sưởi nhiệt \n• Massage nóng: Có - 1 mức độ \n• Chế độ Massage tự động: Có \n• Mức điều chỉnh: 3 mức điều chỉnh chế độ massage: Cao, trung bình, thấp \n• Thời gian hoạt động mặc định của chương trình tự động: 15 phút \n• Số lần sử dụng liên tục khi được sạc đầy: Thời gian liên tục sử dụng 4 đến 5 lần \n• Điều khiển: Nút bấm trên thân máy \n• Chất liệu: Mút, vải, nhựa, kim loại và đồng \n• Pin: 2000mAH\ngiá: 937750\nGiá tiền: 937750 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:\n1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.\n3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Ghế massage daikiosan giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:\n1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.\n3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm ghế massage daikiosan:\n\n\nSản phẩm 1:\nTên sản phẩm: ghế massage daikiosan , massage mắt dvmm-00001 )\nThông số kỹ thuật: Thiết kế máy tối giản và tiện ích Phù hợp với đa dạng đối tượng \nCó 3 công nghệ massage đỉnh cao 5 chế độ massage tự động đa dạng \nPin khủng, thời gian sử dụng lâu \nGấp gọn 180 độ, tiết kiệm không gian \nTích hợp kết nối Bluetooth để phát nhạc thư giãn \nBảo hành: 24 tháng\ngiá: 757570\nGiá tiền: 757570 VND\n\n\nSản phẩm 2:\nTên sản phẩm: ghế massage daikiosan , massage cổ dvmg-00001 )\nThông số kỹ thuật: Ứng dụng: Massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy 3 cường độ massage, dễ dàng điều chỉnh \nThiết kế: thông minh, ôm sát vùng cổ Tự động tắt máy su 15 phút sử dụng Cuộn tròn gấp gọn tiện lợi  Dung lượng Pin khủng Điều khiển đơn giản, dễ hiểu Phù hợp với nhiều đối tượng \nBảo hành: 24 tháng\ngiá: 814880\nGiá tiền: 814880 VND\n\n\nSản phẩm 3:\nTên sản phẩm: ghế massage daikiosan , máy massage lưng đại việt dvml-00001)\nThông số kỹ thuật: \n• Công suất: 23W \n• Điện áp: 12.8V \n• Vị trí massage: Linh động thay đổi vị trí toàn cơ thể: Hông, lưng, chân, đùi \n• Khối lượng sản phẩm: 1.35Kg \n• Khối lượng phủ bì: 1.75Kg \n• Kích thước sản phẩm: 37x12.5x34.5cm \n• Kích thước phủ bì: 37.5x13x35cm \n• Công nghệ Massage: con lăn 360 độ, sưởi nhiệt \n• Massage nóng: Có - 1 mức độ \n• Chế độ Massage tự động: Có \n• Mức điều chỉnh: 3 mức điều chỉnh chế độ massage: Cao, trung bình, thấp \n• Thời gian hoạt động mặc định của chương trình tự động: 15 phút \n• Số lần sử dụng liên tục khi được sạc đầy: Thời gian liên tục sử dụng 4 đến 5 lần \n• Điều khiển: Nút bấm trên thân máy \n• Chất liệu: Mút, vải, nhựa, kim loại và đồng \n• Pin: 2000mAH\ngiá: 937750\nGiá tiền: 937750 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:\n1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.\n3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Ghế massage daikiosan giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:\n1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.\n2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.\n3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc))\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\n\n\nSản phẩm 2:\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc))\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\n\n\nSản phẩm 2:\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc))\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\n\n\nSản phẩm 2:\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc))\nThông số kỹ thuật: THÔNG SỐ KỸ THUẬT \nĐiện áp hoạt động: 12VDC – 0.5A \nNhiệt độ hoạt động: 0oC ~ 50oC \nĐộ ẩm hoạt động: 0 – 95% \nChuẩn kết nối: Zigbee \nKích thước (DxRxC): 120 x 80 x 24 mm \nBảo hành: 24 tháng\ngiá: 2277000\nGiá tiền: 2277000 VND\n\n\nSản phẩm 2:\nTên sản phẩm: thiết bị gia dụng , quạt điều hòa không khí everest 6000d)\nThông số kỹ thuật: \n• Điện áp: 220V - 50Hz \n• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n• Lưu lượng gió: 6000m3/h \n• Dung tích khay chứa nước: 45L \n• Công suất: 80W \n• Điều khiển từ xa: Có \n• Cảm biến chất lượng không khí: Có \n• Chức năng tạo ion: Có \n• Tốc độ gió: 3 tốc độ \n• Hướng gió: 4 chiều trái phải, lên xuống\ngiá: 2450800\nGiá tiền: 2450800 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.\n2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

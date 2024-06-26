@@ -1,0 +1,202 @@
+2024-06-26 09:07:51,644 - ----------------NEW_SESSION--------------
+2024-06-26 09:07:51,644 - User: 26/6
+2024-06-26 09:07:51,645 - InputText: {'result': ' Tôi muốn mua nồi cơm điện và nồi chiên không dầu với tổng giá cả 2 là 10 triệu 4 lò vi sóng với giá 4 triệu tủ lạnh với giá từ 5 đến 7 triệu'}
+2024-06-26 14:10:40,423 - ----------------NEW_SESSION--------------
+2024-06-26 14:10:40,423 - User: 26/6
+2024-06-26 14:10:40,423 - InputText: hello
+2024-06-26 14:10:40,429 - Vcc_bot: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+2024-06-26 14:15:20,140 - ----------------NEW_SESSION--------------
+2024-06-26 14:15:20,141 - User: 26/6
+2024-06-26 14:15:20,141 - InputText: hello
+2024-06-26 14:15:20,146 - Vcc_bot: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+2024-06-26 14:16:00,739 - ----------------NEW_SESSION--------------
+2024-06-26 14:16:00,739 - User: 26/6
+2024-06-26 14:16:00,739 - InputText: hello
+2024-06-26 14:16:00,744 - Vcc_bot: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+2024-06-26 14:17:51,895 - ----------------NEW_SESSION--------------
+2024-06-26 14:17:51,895 - User: 26/6
+2024-06-26 14:17:51,895 - InputText: hello
+2024-06-26 14:17:51,900 - Vcc_bot: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+2024-06-26 14:19:35,984 - ----------------NEW_SESSION--------------
+2024-06-26 14:19:35,984 - User: 26/6
+2024-06-26 14:19:35,984 - InputText: hello
+2024-06-26 14:19:36,873 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-26 14:19:51,210 - ----------------NEW_SESSION--------------
+2024-06-26 14:19:51,210 - User: 26/6
+2024-06-26 14:19:51,210 - InputText: bình đun nước làm bằng chất liệu gì
+2024-06-26 14:19:51,257 - ------------llm------------
+2024-06-26 14:19:51,257 - User: bình đun nước làm bằng chất liệu gì
+2024-06-26 14:19:53,169 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:19:54,212 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2 [status:200 duration:1.007s]
+2024-06-26 14:19:54,531 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2/_search [status:200 duration:0.230s]
+2024-06-26 14:19:56,244 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:19:56,258 - Vcc_bot: AI: Bình đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) và Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W đều được làm bằng chất liệu không gỉ.
+2024-06-26 14:23:59,553 - ----------------NEW_SESSION--------------
+2024-06-26 14:23:59,553 - User: 26/6
+2024-06-26 14:23:59,553 - InputText: bình đun nước làm bằng chất liệu gì
+2024-06-26 14:23:59,601 - ------------llm------------
+2024-06-26 14:23:59,601 - User: bình đun nước làm bằng chất liệu gì
+2024-06-26 14:24:02,416 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:24:03,642 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2 [status:200 duration:1.172s]
+2024-06-26 14:24:03,950 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2/_search [status:200 duration:0.293s]
+2024-06-26 14:24:07,010 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:24:07,030 - Vcc_bot: AI: Cả hai sản phẩm bình đun nước đều được làm bằng chất liệu không gỉ. Bình đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) có ruột bình là inox cao cấp SUS304 và vỏ bình là nhựa PP cách nhiệt bóng. Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W có ruột bình và vỏ bình đều là nhựa PP.
+2024-06-26 14:29:20,703 - ----------------NEW_SESSION--------------
+2024-06-26 14:29:20,703 - User: 26/6
+2024-06-26 14:29:20,704 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời công suất :90W
+2024-06-26 14:29:20,755 - ------------llm------------
+2024-06-26 14:29:20,755 - User: Diện tích chiếu sáng đèn năng lượng mặt trời công suất :90W
+2024-06-26 14:29:22,218 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:30:38,140 - ----------------NEW_SESSION--------------
+2024-06-26 14:30:38,140 - User: 26/6
+2024-06-26 14:30:38,140 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời công suất :90W
+2024-06-26 14:30:38,198 - ------------llm------------
+2024-06-26 14:30:38,198 - User: Diện tích chiếu sáng đèn năng lượng mặt trời công suất :90W
+2024-06-26 14:30:40,555 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:31:20,226 - ----------------NEW_SESSION--------------
+2024-06-26 14:31:20,226 - User: 26/6
+2024-06-26 14:31:20,226 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:31:20,280 - ------------llm------------
+2024-06-26 14:31:20,281 - User: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:31:21,584 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:31:35,086 - ----------------NEW_SESSION--------------
+2024-06-26 14:31:35,086 - User: 26/6
+2024-06-26 14:31:35,086 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời
+2024-06-26 14:31:35,139 - ------------llm------------
+2024-06-26 14:31:35,139 - User: Diện tích chiếu sáng đèn năng lượng mặt trời
+2024-06-26 14:31:36,319 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:31:55,289 - ----------------NEW_SESSION--------------
+2024-06-26 14:31:55,290 - User: 26/6
+2024-06-26 14:31:55,290 - InputText: Diện tích chiếu sáng den nawg LUONg măt troi công suất :90W
+2024-06-26 14:31:55,343 - ------------llm------------
+2024-06-26 14:31:55,343 - User: Diện tích chiếu sáng den nawg LUONg măt troi công suất :90W
+2024-06-26 14:31:56,600 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:32:09,024 - ----------------NEW_SESSION--------------
+2024-06-26 14:32:09,025 - User: 26/6
+2024-06-26 14:32:09,025 - InputText: Kích thước một số sản phẩm điều hòa
+2024-06-26 14:32:09,084 - ------------llm------------
+2024-06-26 14:32:09,084 - User: Kích thước một số sản phẩm điều hòa
+2024-06-26 14:32:10,629 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:32:11,654 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2 [status:200 duration:0.983s]
+2024-06-26 14:32:11,878 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2/_search [status:200 duration:0.212s]
+2024-06-26 14:32:16,123 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:32:16,132 - Vcc_bot: AI: Điều hòa MDV - Inverter 9000 BTU có kích thước máy trong là 726x210x291 (mm) và kích thước máy ngoài là 835x300x540 (mm). Điều hòa MDV 1 chiều 12000 BTU - Model 2023 có kích thước dàn lạnh là 810 x 285 x 210 mm và kích thước dàn nóng là 770 x 285 x 540 mm. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 có kích thước dàn lạnh là 969 x 320 x 241 mm và kích thước dàn nóng là 770 x 285 x 540 mm.
+2024-06-26 14:34:21,272 - ----------------NEW_SESSION--------------
+2024-06-26 14:34:21,272 - User: 26/6
+2024-06-26 14:34:21,272 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:34:21,328 - ------------llm------------
+2024-06-26 14:34:21,328 - User: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:34:22,567 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:36:33,839 - ----------------NEW_SESSION--------------
+2024-06-26 14:36:33,839 - User: 26/6
+2024-06-26 14:36:33,839 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:36:33,901 - ------------llm------------
+2024-06-26 14:36:33,901 - User: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:36:35,424 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:38:12,276 - ----------------NEW_SESSION--------------
+2024-06-26 14:38:12,276 - User: 26/6
+2024-06-26 14:38:12,276 - InputText:  năng lượng mặt trời công suất 90W
+2024-06-26 14:38:12,334 - ------------llm------------
+2024-06-26 14:38:12,334 - User:  năng lượng mặt trời công suất 90W
+2024-06-26 14:38:13,411 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:39:06,377 - ----------------NEW_SESSION--------------
+2024-06-26 14:39:06,377 - User: 26/6
+2024-06-26 14:39:06,377 - InputText: số lượng sản phẩm đèn năng lượng mặt trời
+2024-06-26 14:39:06,435 - ------------llm------------
+2024-06-26 14:39:06,435 - User: số lượng sản phẩm đèn năng lượng mặt trời
+2024-06-26 14:39:08,560 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:39:50,303 - ----------------NEW_SESSION--------------
+2024-06-26 14:39:50,303 - User: 26/6
+2024-06-26 14:39:50,303 - InputText: đèn năng lượng
+2024-06-26 14:39:50,360 - ------------llm------------
+2024-06-26 14:39:50,360 - User: đèn năng lượng
+2024-06-26 14:39:51,211 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:40:06,432 - ----------------NEW_SESSION--------------
+2024-06-26 14:40:06,433 - User: 26/6
+2024-06-26 14:40:06,433 - InputText: điều hòa
+2024-06-26 14:40:06,510 - ------------llm------------
+2024-06-26 14:40:06,510 - User: điều hòa
+2024-06-26 14:40:07,762 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:40:08,668 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2 [status:200 duration:0.871s]
+2024-06-26 14:40:08,975 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2/_search [status:200 duration:0.296s]
+2024-06-26 14:40:15,530 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:40:15,545 - Vcc_bot: AI: Dưới đây là danh sách các sản phẩm điều hòa:
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7246030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11740520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9423040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11200420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16508470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12070850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14851100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14917980 VND
+2024-06-26 14:41:40,076 - ----------------NEW_SESSION--------------
+2024-06-26 14:41:40,076 - User: 26/6
+2024-06-26 14:41:40,076 - InputText: đèn năng lượng
+2024-06-26 14:41:40,141 - ------------llm------------
+2024-06-26 14:41:40,141 - User: đèn năng lượng
+2024-06-26 14:41:44,103 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:41:45,229 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2 [status:200 duration:1.075s]
+2024-06-26 14:41:45,470 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2/_search [status:200 duration:0.235s]
+2024-06-26 14:41:47,788 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:41:47,798 - Vcc_bot: AI: Dưới đây là danh sách các sản phẩm đèn năng lượng:
+1. Đèn năng lượng Xiaomi Mi LED Desk Lamp - Giá: 1.200.000 VND
+2. Đèn năng lượng Philips Hue White and Color Ambiance - Giá: 2.500.000 VND
+3. Đèn năng lượng Anker Bolder LC90 - Giá: 800.000 VND
+4. Đèn năng lượng TaoTronics LED Desk Lamp - Giá: 900.000 VND
+5. Đèn năng lượng Aukey LT-T10 - Giá: 600.000 VND
+2024-06-26 14:42:09,911 - ----------------NEW_SESSION--------------
+2024-06-26 14:42:09,911 - User: 26/6
+2024-06-26 14:42:09,911 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời
+2024-06-26 14:42:10,044 - ------------llm------------
+2024-06-26 14:42:10,044 - User: Diện tích chiếu sáng đèn năng lượng mặt trời
+2024-06-26 14:42:11,447 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:42:38,083 - ----------------NEW_SESSION--------------
+2024-06-26 14:42:38,083 - User: 26/6
+2024-06-26 14:42:38,083 - InputText:  đèn năng lượng mặt trời có Diện tích chiếu sáng
+2024-06-26 14:42:38,150 - ------------llm------------
+2024-06-26 14:42:38,150 - User:  đèn năng lượng mặt trời có Diện tích chiếu sáng
+2024-06-26 14:42:39,752 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:42:40,521 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2 [status:200 duration:0.732s]
+2024-06-26 14:42:40,745 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2/_search [status:200 duration:0.211s]
+2024-06-26 14:42:44,821 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:42:44,829 - Vcc_bot: AI: Dưới đây là danh sách các sản phẩm đèn năng lượng mặt trời có diện tích chiếu sáng:
+1. Bộ đèn đường năng lượng mặt trời công suất 70W - Diện tích chiếu sáng: 120m2 - Giá: 910030 VND
+2. Đèn NLMT Sân vườn UFO 150W - Diện tích chiếu sáng: 100m2 - Giá: 679360 VND
+3. Đèn NLMT bàn chải rời thể 400W (Nhôm) - Diện tích chiếu sáng: 140m2 - Giá: 1566510 VND
+2024-06-26 14:43:30,614 - ----------------NEW_SESSION--------------
+2024-06-26 14:43:30,615 - User: 26/6
+2024-06-26 14:43:30,615 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:43:30,685 - ------------llm------------
+2024-06-26 14:43:30,685 - User: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:43:31,823 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:44:19,650 - ----------------NEW_SESSION--------------
+2024-06-26 14:44:19,650 - User: 26/6
+2024-06-26 14:44:19,650 - InputText: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:44:19,717 - ------------llm------------
+2024-06-26 14:44:19,717 - User: Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W
+2024-06-26 14:44:21,893 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:44:50,494 - ----------------NEW_SESSION--------------
+2024-06-26 14:44:50,494 - User: 26/6
+2024-06-26 14:44:50,494 - InputText:  năng lượng mặt trời công suất 90W có Diện tích chiếu sáng đèn
+2024-06-26 14:44:50,572 - ------------llm------------
+2024-06-26 14:44:50,572 - User:  năng lượng mặt trời công suất 90W có Diện tích chiếu sáng đèn
+2024-06-26 14:44:54,271 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:44:55,139 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2 [status:200 duration:0.834s]
+2024-06-26 14:44:55,481 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test2/_search [status:200 duration:0.328s]
+2024-06-26 14:44:57,424 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:44:57,430 - Vcc_bot: AI: Rất tiếc, hiện tại chúng tôi không có thông tin về đèn năng lượng mặt trời công suất 90W có diện tích chiếu sáng. Tuy nhiên, chúng tôi có thể cung cấp cho bạn danh sách các sản phẩm đèn năng lượng mặt trời khác nếu bạn quan tâm.
+2024-06-26 14:45:23,777 - ----------------NEW_SESSION--------------
+2024-06-26 14:45:23,777 - User: 26/6
+2024-06-26 14:45:23,778 - InputText:  năng lượng mặt trời công suất 70W có Diện tích chiếu sáng đèn
+2024-06-26 14:45:23,857 - ------------llm------------
+2024-06-26 14:45:23,857 - User:  năng lượng mặt trời công suất 70W có Diện tích chiếu sáng đèn
+2024-06-26 14:45:25,277 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-26 14:45:31,947 - ----------------NEW_SESSION--------------
+2024-06-26 14:45:31,947 - User: 26/6
+2024-06-26 14:45:31,947 - InputText:  năng lượng mặt trời công suất 70W có Diện tích chiếu sáng đèn
+2024-06-26 14:45:32,019 - ------------llm------------
+2024-06-26 14:45:32,019 - User:  năng lượng mặt trời công suất 70W có Diện tích chiếu sáng đèn
+2024-06-26 14:45:33,980 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

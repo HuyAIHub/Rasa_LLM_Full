@@ -1,0 +1,376 @@
+2024-06-21 15:29:05,758 - ----------------NEW_SESSION--------------
+2024-06-21 15:29:05,758 - User: 24/6
+2024-06-21 15:29:05,758 - InputText: hello 
+2024-06-21 15:29:06,694 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-21 15:29:36,611 - ----------------NEW_SESSION--------------
+2024-06-21 15:29:36,611 - User: 24/6
+2024-06-21 15:29:36,611 - InputText: Tôi muốn mua sản phẩm bep tư giá rẻ
+2024-06-21 15:29:36,658 - ------------llm------------
+2024-06-21 15:29:36,658 - User: Tôi muốn mua sản phẩm bep tư giá rẻ
+2024-06-21 15:29:38,286 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 15:29:39,576 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.234s]
+2024-06-21 15:29:39,986 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.409s]
+2024-06-21 15:29:47,769 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 15:29:47,777 - Vcc_bot: AI: Dưới đây là danh sách các sản phẩm bếp từ giá rẻ mà chúng tôi có:
+
+1. Bếp từ đơn aio smart kèm nồi (ID: 10)
+- Công suất vùng nấu: 2100W
+- Kích thước vùng nấu: 200mm
+- Bảng điều khiển: cảm ứng
+- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)
+- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng
+- Kích thước sản phẩm: 360x290x43mm
+- Khối lượng sản phẩm: 2,4kg
+- Sẵn 6 chương trình nấu: có
+- Tính năng hẹn giờ: có
+- Nhận diện nồi: có
+- Tạm dừng: có
+- Giá: 1.089.000 VND
+
+2. Bếp từ đôi aio smart (ID: 11)
+- Công suất: 4400W
+- Trái: 2200W - Phải: 2200W
+- Chất liệu mặt bếp: Kính Vitro Ceramic
+- Bảng điều khiển: Cảm ứng
+- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ
+- Bề mặt: 730mm x 430mm
+- Độ cao: 75mm
+- Điện áp: 220V-240VAC
+- Độ dài dây nguồn: 1.5m
+- Đường kính vùng nấu: 190mm
+- Khóa an toàn: có
+- Hẹn giờ: có
+- Tính năng chống tràn: có
+- Tính năng nhận diện nồi: có
+- Giá: 4.962.870 VND
+
+Hãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!
+2024-06-21 17:14:45,458 - ----------------NEW_SESSION--------------
+2024-06-21 17:14:45,458 - User: 24/6
+2024-06-21 17:14:45,458 - InputText: Tôi muốn mua sản phẩm bep tư giá rẻ
+2024-06-21 17:14:45,513 - ------------llm------------
+2024-06-21 17:14:45,513 - User: Tôi muốn mua sản phẩm bep tư giá rẻ
+2024-06-21 17:14:47,063 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:14:48,299 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.199s]
+2024-06-21 17:14:48,562 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.262s]
+2024-06-21 17:14:56,960 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:14:56,965 - Vcc_bot: AI: Dưới đây là danh sách các sản phẩm bếp từ giá rẻ mà chúng tôi có:
+
+1. Bếp từ đơn aio smart kèm nồi (ID: 10)
+- Công suất vùng nấu: 2100W
+- Kích thước vùng nấu: 200mm
+- Bảng điều khiển: cảm ứng
+- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)
+- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng
+- Kích thước sản phẩm: 360x290x43mm
+- Khối lượng sản phẩm: 2,4kg
+- Sẵn 6 chương trình nấu: có
+- Tính năng hẹn giờ: có
+- Nhận diện nồi: có
+- Tạm dừng: có
+- Giá: 1.089.000 VND
+
+2. Bếp từ đôi aio smart (ID: 11)
+- Công suất: 4400W
+- Trái: 2200W - Phải: 2200W
+- Chất liệu mặt bếp: Kính Vitro Ceramic
+- Bảng điều khiển: Cảm ứng
+- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ
+- Bề mặt: 730mm x 430mm
+- Độ cao: 75mm
+- Điện áp: 220V-240VAC
+- Độ dài dây nguồn: 1.5m
+- Đường kính vùng nấu: 190mm
+- Khóa an toàn: có
+- Hẹn giờ: có
+- Tính năng chống tràn: có
+- Tính năng nhận diện nồi: có
+- Giá: 4.962.870 VND
+
+Hãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!
+2024-06-21 17:17:07,066 - ----------------NEW_SESSION--------------
+2024-06-21 17:17:07,066 - User: 24/6
+2024-06-21 17:17:07,066 - InputText: Tôi muốn mua sản phẩmđèn  năng lượng gíá rẻ
+2024-06-21 17:17:07,118 - ------------llm------------
+2024-06-21 17:17:07,118 - User: Tôi muốn mua sản phẩmđèn  năng lượng gíá rẻ
+2024-06-21 17:17:09,052 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:17:10,075 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.992s]
+2024-06-21 17:17:10,383 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.308s]
+2024-06-21 17:17:16,220 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:17:16,225 - Vcc_bot: AI: Dưới đây là danh sách các sản phẩm đèn năng lượng giá rẻ mà chúng tôi có:
+
+1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 (ID: 121)
+- Công suất định mức: 50W
+- Bảng điều khiển năng lượng mặt trời: Polycrystal 6W
+- Thời gian chiếu sáng: 5-6h liên tục
+- PIN: 4.500mAh
+- Giá: 286.550 VND
+
+2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W (ID: 122)
+- Công suất: 60W
+- Dung lượng pin: 18.000mAh Pin lithium sắt phosphate
+- Thời gian chiếu sáng: 3h/5h/8h
+- Giá: 344.410 VND
+
+3. Đèn năng lượng mặt trời, đèn nlmt xách tay 100W (ID: 123)
+- Công suất: 100W
+- Dung lượng pin: 20.000mAh Pin lithium sắt phosphate
+- Thời gian chiếu sáng: 3h/5h/8h
+- Giá: 407.770 VND
+
+Hãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!
+2024-06-21 17:18:44,941 - ----------------NEW_SESSION--------------
+2024-06-21 17:18:44,941 - User: 24/6
+2024-06-21 17:18:44,941 - InputText: Tôi muốn mua sản phẩm bếp từ 
+2024-06-21 17:18:44,999 - ------------llm------------
+2024-06-21 17:18:44,999 - User: Tôi muốn mua sản phẩm bếp từ 
+2024-06-21 17:18:47,253 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:18:48,377 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.092s]
+2024-06-21 17:18:48,684 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.307s]
+2024-06-21 17:18:55,767 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:18:55,775 - Vcc_bot: AI: Dưới đây là danh sách các sản phẩm bếp từ mà chúng tôi có:
+
+1. Bếp từ đơn aio smart kèm nồi (ID: 10)
+- Công suất vùng nấu: 2100W
+- Kích thước vùng nấu: 200mm
+- Bảng điều khiển: cảm ứng
+- Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt)
+- Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng
+- Kích thước sản phẩm: 360x290x43mm
+- Khối lượng sản phẩm: 2,4kg
+- Sẵn 6 chương trình nấu: có
+- Tính năng hẹn giờ: có
+- Nhận diện nồi: có
+- Tạm dừng: có
+- Giá: 1.089.000 VND
+
+2. Bếp từ đôi aio smart (ID: 11)
+- Công suất: 4400W
+- Trái: 2200W - Phải: 2200W
+- Chất liệu mặt bếp: Kính Vitro Ceramic
+- Bảng điều khiển: Cảm ứng
+- Loại nồi nấu: Chỉ sử dụng loại nồi có đế nhiễm từ
+- Bề mặt: 730mm x 430mm
+- Độ cao: 75mm
+- Điện áp: 220V-240VAC
+- Độ dài dây nguồn: 1.5m
+- Đường kính vùng nấu: 190mm
+- Khóa an toàn: có
+- Hẹn giờ: có
+- Tính năng chống tràn: có
+- Tính năng nhận diện nồi: có
+- Giá: 4.962.870 VND
+
+Hãy cho tôi biết nếu bạn quan tâm đến sản phẩm nào cụ thể hơn!
+2024-06-21 17:49:52,220 - ----------------NEW_SESSION--------------
+2024-06-21 17:49:52,220 - User: 21/6
+2024-06-21 17:49:52,220 - InputText: Đièu hòa giá rẻ
+2024-06-21 17:49:52,308 - ------------llm------------
+2024-06-21 17:49:52,309 - User: Đièu hòa giá rẻ
+2024-06-21 17:49:54,026 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:49:54,970 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.875s]
+2024-06-21 17:51:04,263 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.231s]
+2024-06-21 17:53:06,627 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:53:06,648 - Vcc_bot: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.
+2. Quạt điều hòa không khí Everest 6000d với giá 2.450.800 VND.
+2024-06-21 17:53:18,992 - ----------------NEW_SESSION--------------
+2024-06-21 17:53:18,993 - User: 21/6f
+2024-06-21 17:53:18,993 - InputText: Đièu hòa giá rẻ
+2024-06-21 17:53:19,048 - ------------llm------------
+2024-06-21 17:53:19,048 - User: Đièu hòa giá rẻ
+2024-06-21 17:53:20,599 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:53:21,618 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.977s]
+2024-06-21 17:53:27,456 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.253s]
+2024-06-21 17:53:39,248 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:53:39,260 - Vcc_bot: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Tên sản phẩm: công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc)
+   - Giá: 2,277,000 VND
+   - Thông số kỹ thuật: Điện áp hoạt động: 12VDC - 0.5A, Nhiệt độ hoạt động: 0oC ~ 50oC, Độ ẩm hoạt động: 0 - 95%, Chuẩn kết nối: Zigbee, Kích thước (DxRxC): 120 x 80 x 24 mm, Bảo hành: 24 tháng.
+
+2. Tên sản phẩm: quạt điều hòa không khí everest 6000d
+   - Giá: 2,450,800 VND
+   - Thông số kỹ thuật: Điện áp: 220V - 50Hz, Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm, Lưu lượng gió: 6000m3/h, Dung tích khay chứa nước: 45L, Công suất: 80W, Điều khiển từ xa: Có, Cảm biến chất lượng không khí: Có, Chức năng tạo ion: Có, Tốc độ gió: 3 tốc độ, Hướng gió: 4 chiều trái phải, lên xuống.
+2024-06-21 17:57:20,700 - ----------------NEW_SESSION--------------
+2024-06-21 17:57:20,701 - User: 21/6f
+2024-06-21 17:57:20,701 - InputText: Đièu hòa giá rẻ
+2024-06-21 17:57:20,749 - ------------llm------------
+2024-06-21 17:57:20,749 - User: Đièu hòa giá rẻ
+2024-06-21 17:57:22,321 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:57:23,809 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.460s]
+2024-06-21 17:58:02,044 - ----------------NEW_SESSION--------------
+2024-06-21 17:58:02,044 - User: 21/6f
+2024-06-21 17:58:02,044 - InputText: Đièu hòa giá rẻ
+2024-06-21 17:58:02,110 - ------------llm------------
+2024-06-21 17:58:02,111 - User: Đièu hòa giá rẻ
+2024-06-21 17:58:04,044 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:58:05,033 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.937s]
+2024-06-21 17:58:05,338 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:400 duration:0.304s]
+2024-06-21 17:58:33,164 - ----------------NEW_SESSION--------------
+2024-06-21 17:58:33,164 - User: 21/6f
+2024-06-21 17:58:33,164 - InputText: Đièu hòa giá rẻ
+2024-06-21 17:58:33,223 - ------------llm------------
+2024-06-21 17:58:33,223 - User: Đièu hòa giá rẻ
+2024-06-21 17:58:35,858 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:58:36,800 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.898s]
+2024-06-21 17:58:37,085 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.285s]
+2024-06-21 17:58:41,955 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:58:41,967 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.
+
+2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.
+2024-06-21 17:59:15,891 - ----------------NEW_SESSION--------------
+2024-06-21 17:59:15,891 - User: 21/6f
+2024-06-21 17:59:15,891 - InputText: Đièu hòa giá rẻ
+2024-06-21 17:59:15,953 - ------------llm------------
+2024-06-21 17:59:15,953 - User: Đièu hòa giá rẻ
+2024-06-21 17:59:17,310 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:59:18,170 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.820s]
+2024-06-21 17:59:18,458 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.286s]
+2024-06-21 17:59:24,396 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 17:59:24,410 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.
+
+2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.
+2024-06-21 18:00:19,810 - ----------------NEW_SESSION--------------
+2024-06-21 18:00:19,811 - User: 21/6f
+2024-06-21 18:00:19,811 - InputText: Đièu hòa giá rẻ
+2024-06-21 18:00:19,877 - ------------llm------------
+2024-06-21 18:00:19,878 - User: Đièu hòa giá rẻ
+2024-06-21 18:00:21,434 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:00:22,557 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.077s]
+2024-06-21 18:00:22,865 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.306s]
+2024-06-21 18:00:28,703 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:00:28,716 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.
+
+2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.
+2024-06-21 18:03:06,727 - ----------------NEW_SESSION--------------
+2024-06-21 18:03:06,728 - User: 21/6f
+2024-06-21 18:03:06,728 - InputText: Đièu hòa giá rẻ
+2024-06-21 18:03:06,785 - ------------llm------------
+2024-06-21 18:03:06,785 - User: Đièu hòa giá rẻ
+2024-06-21 18:03:09,676 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:03:10,802 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.092s]
+2024-06-21 18:03:11,111 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.309s]
+2024-06-21 18:03:16,211 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:03:16,228 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.
+
+2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.
+2024-06-21 18:05:29,277 - ----------------NEW_SESSION--------------
+2024-06-21 18:05:29,277 - User: 21/6f
+2024-06-21 18:05:29,277 - InputText: Đèn năng lượng mặt trời giá rẻ
+2024-06-21 18:05:29,341 - ------------llm------------
+2024-06-21 18:05:29,342 - User: Đèn năng lượng mặt trời giá rẻ
+2024-06-21 18:05:31,222 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:05:32,328 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:1.054s]
+2024-06-21 18:05:32,636 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.306s]
+2024-06-21 18:05:37,246 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:05:37,266 - Vcc_bot: AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:
+1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.
+
+2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.
+
+
+2024-06-21 18:06:14,271 - ----------------NEW_SESSION--------------
+2024-06-21 18:06:14,271 - User: 21/6f
+2024-06-21 18:06:14,271 - InputText: Điêuf hòa giá rẻ
+2024-06-21 18:06:14,338 - ------------llm------------
+2024-06-21 18:06:14,338 - User: Điêuf hòa giá rẻ
+2024-06-21 18:06:16,259 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:06:17,281 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.989s]
+2024-06-21 18:06:17,589 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.308s]
+2024-06-21 18:06:24,397 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:06:24,416 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có điện áp hoạt động là 12VDC - 0.5A, nhiệt độ hoạt động từ 0oC đến 50oC, độ ẩm hoạt động từ 0 - 95%. Chuẩn kết nối của sản phẩm là Zigbee và kích thước là 120 x 80 x 24 mm. Bảo hành sản phẩm là 24 tháng.
+
+2. Quạt điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có điện áp là 220V - 50Hz, kích thước là 440 x 340 x 970 mm. Lưu lượng gió của quạt là 6000m3/h, dung tích khay chứa nước là 45L. Công suất của quạt là 80W và có chức năng điều khiển từ xa. Quạt cũng có cảm biến chất lượng không khí, chức năng tạo ion, tốc độ gió 3 tốc độ và hướng gió 4 chiều trái phải, lên xuống.
+2024-06-21 18:08:00,793 - ----------------NEW_SESSION--------------
+2024-06-21 18:08:00,793 - User: 21/6f
+2024-06-21 18:08:00,794 - InputText: Đèn năng lượng mặt trời giá rẻ
+2024-06-21 18:08:00,874 - ------------llm------------
+2024-06-21 18:08:00,874 - User: Đèn năng lượng mặt trời giá rẻ
+2024-06-21 18:08:02,752 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:08:03,620 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.820s]
+2024-06-21 18:08:03,875 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.255s]
+2024-06-21 18:08:09,203 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:08:09,226 - Vcc_bot: AI: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời giá rẻ:
+1. Đèn năng lượng mặt trời, bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 với giá 286,550 VND. Sản phẩm này có công suất định mức là 50W, bảng điều khiển năng lượng mặt trời là Polycrystal 6W, thời gian chiếu sáng liên tục là 5-6 giờ, và kích thước đèn là 10 x 17 cm.
+
+2. Đèn năng lượng mặt trời, đèn nlmt xách tay 60W với giá 344,410 VND. Sản phẩm này có công suất là 60W, kích thước tấm pin năng lượng mặt trời là 360mm*520mm*17mm, và thời gian chiếu sáng có thể lựa chọn là 3h, 5h hoặc 8h.
+2024-06-21 18:08:34,897 - ----------------NEW_SESSION--------------
+2024-06-21 18:08:34,898 - User: 21/6f
+2024-06-21 18:08:34,898 - InputText: Ghế massage daikiosan giá rẻ
+2024-06-21 18:08:34,967 - ------------llm------------
+2024-06-21 18:08:34,968 - User: Ghế massage daikiosan giá rẻ
+2024-06-21 18:08:36,748 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:08:37,564 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.803s]
+2024-06-21 18:08:37,874 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.309s]
+2024-06-21 18:08:43,300 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:08:43,321 - Vcc_bot: AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:
+1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.
+2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.
+3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.
+2024-06-21 18:10:04,786 - ----------------NEW_SESSION--------------
+2024-06-21 18:10:04,787 - User: 21/6f
+2024-06-21 18:10:04,787 - InputText: Ghế massage daikiosan giá rẻ
+2024-06-21 18:10:04,848 - ------------llm------------
+2024-06-21 18:10:04,848 - User: Ghế massage daikiosan giá rẻ
+2024-06-21 18:10:06,695 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:10:07,595 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.864s]
+2024-06-21 18:10:07,812 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.214s]
+2024-06-21 18:10:12,919 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:10:12,942 - Vcc_bot: AI: Chúng tôi có ba sản phẩm ghế massage daikiosan giá rẻ:
+1. Ghế massage daikiosan, massage mắt dvmm-00001 với giá 757,570 VND. Sản phẩm này có thiết kế máy tối giản và tiện ích, 3 công nghệ massage đỉnh cao, pin khủng và tích hợp kết nối Bluetooth để phát nhạc thư giãn.
+2. Ghế massage daikiosan, massage cổ dvmg-00001 với giá 814,880 VND. Sản phẩm này có ứng dụng massage con lăn, sưởi nhiệt giảm đau mỏi cổ, vai gáy, 3 cường độ massage và thiết kế thông minh ôm sát vùng cổ.
+3. Ghế massage daikiosan, máy massage lưng đại việt dvml-00001 với giá 937,750 VND. Sản phẩm này có công suất 23W, vị trí massage linh động toàn cơ thể, chế độ massage tự động và điều khiển bằng nút bấm trên thân máy.
+2024-06-21 18:10:32,407 - ----------------NEW_SESSION--------------
+2024-06-21 18:10:32,407 - User: 21/6f
+2024-06-21 18:10:32,408 - InputText: Đièu hòa giá rẻ
+2024-06-21 18:10:32,478 - ------------llm------------
+2024-06-21 18:10:32,478 - User: Đièu hòa giá rẻ
+2024-06-21 18:10:35,036 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:10:36,007 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.957s]
+2024-06-21 18:10:36,265 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.258s]
+2024-06-21 18:10:41,692 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:10:41,714 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.
+2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.
+2024-06-21 18:19:18,961 - ----------------NEW_SESSION--------------
+2024-06-21 18:19:18,962 - User: 21/6f
+2024-06-21 18:19:18,962 - InputText: Đièu hòa giá rẻ
+2024-06-21 18:19:19,031 - ------------llm------------
+2024-06-21 18:19:19,031 - User: Đièu hòa giá rẻ
+2024-06-21 18:19:20,729 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:19:21,751 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.969s]
+2024-06-21 18:19:22,059 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.306s]
+2024-06-21 18:19:25,949 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:19:25,957 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.
+2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.
+2024-06-21 18:20:03,949 - ----------------NEW_SESSION--------------
+2024-06-21 18:20:03,949 - User: 21/6f
+2024-06-21 18:20:03,949 - InputText: Đièu hòa giá rẻ
+2024-06-21 18:20:04,015 - ------------llm------------
+2024-06-21 18:20:04,015 - User: Đièu hòa giá rẻ
+2024-06-21 18:20:06,525 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:20:07,546 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.976s]
+2024-06-21 18:20:07,852 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.304s]
+2024-06-21 18:20:11,437 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:20:11,444 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.
+2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.
+2024-06-21 18:22:49,333 - ----------------NEW_SESSION--------------
+2024-06-21 18:22:49,334 - User: 21/6f
+2024-06-21 18:22:49,334 - InputText: Đièu hòa giá rẻ
+2024-06-21 18:22:49,419 - ------------llm------------
+2024-06-21 18:22:49,419 - User: Đièu hòa giá rẻ
+2024-06-21 18:22:50,954 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:22:51,969 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1 [status:200 duration:0.967s]
+2024-06-21 18:22:52,279 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/test1/_search [status:200 duration:0.309s]
+2024-06-21 18:22:55,553 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:22:55,562 - Vcc_bot: AI: Chúng tôi có hai sản phẩm điều hòa giá rẻ:
+1. Điều hòa công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2,277,000 VND. Sản phẩm này có kích thước nhỏ gọn, chuẩn kết nối Zigbee và bảo hành 24 tháng.
+2. Điều hòa không khí Everest 6000d với giá 2,450,800 VND. Sản phẩm này có lưu lượng gió mạnh, dung tích khay chứa nước lớn, chức năng tạo ion và điều khiển từ xa.

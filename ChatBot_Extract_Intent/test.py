@@ -1,141 +1,134 @@
-import os
-import json
-from langchain_community.chat_models import ChatOpenAI
-from langchain.prompts.prompt import PromptTemplate
-from langchain import PromptTemplate
-from langchain.chat_models import ChatOpenAI
-from langchain.chains import ConversationChain
-from langchain.memory import ConversationBufferWindowMemory, CombinedMemory
-from langchain.memory import ChatMessageHistory
-from langchain import PromptTemplate
-from config_app.config import get_config
-from pathlib import Path
-from langchain.schema import messages_from_dict, messages_to_dict
-from typing import Any, Dict, List
+from groq import Groq
+from langchain_groq import ChatGroq
+from langchain.schema.runnable import RunnablePassthrough, RunnableLambda
+from langchain.prompts import (
+    ChatPromptTemplate,
+    MessagesPlaceholder,
+)
+from langchain.memory import ConversationBufferMemory
+from operator import itemgetter
+import gradio as gr
 
-config_app = get_config()
+GROQ_API_KEY= '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'
+
+memory = ConversationBufferMemory(return_messages=True)
+
+# Initialize memory
+memory.load_memory_variables({})
+
+llm = ChatGroq(
+    api_key=GROQ_API_KEY,
+    model="llama3-8b-8192"
+)
 
 
-class SnippetsBufferWindowMemory(ConversationBufferWindowMemory):
-    """
-    MemoryBuffer được sử dụng để giữ các đoạn tài liệu. Kế thừa từ ConversationBufferWindowMemory và ghi đè lên
-    phương thức Load_memory_variables
-    """
+prompt_uu_nhuoc_diem = """
+Bạn là 1 trợ lý am hiểu về các thông tin về sản phẩm như: ưu, nhược điểm, các thông số, mẹo sử dụng...
+Nhiệm vụ của bạn là hãy tìm ra các ưu điểm, nhược điểm và mẹo sử dụng của sản phẩm mà bạn được hỏi. Hãy dựa vào hiểu biết các sản phẩm ở thị trường Việt Nam và đưa ra câu trả lời.
+Lưu ý: Bạn chỉ được trả lời bằng tiếng Việt và chỉ được đưa ra câu trả lời giới hạn từ 200 - 300 chữ.
 
-    memory_key = 'snippets'
-    snippets: list = []
-    response_rules = ''
+Sample:
+Ưu và nhược điểm của Điều hòa Daikin Inverter 3.0 HP FTKY71WVMV?
+Answer:
+* Ưu điểm:
+    - Thương hiệu uy tín: Daikin là thương hiệu uy tín hàng đầu Việt Nam nên hầu như khi nhắc đến tên thương hiệu này thì ai cũng biết đến 
+    - Mẫu mã đa dạng: Daikin có nhiều dòng điều hòa mẫu mã đa dạng khác nhau phù hợp với sự lựa chọn của người tiêu dùng 
+    - Độ bền tốt: Nhắc đến điều hòa Daikin chúng ta nhắc ngay đến độ bền của chiếc điều hòa. Chính độ bền cao giúp Daikin trở thành thương hiệu, sản phẩm uy tín được người tiêu dùng tin tưởng
+    - Khả năng làm lạnh nhanh chóng: Khả năng làm lạnh của điều hòa Daikin tốt, thậm chí trải qua một thời gian dài sử dụng khả năng làm lạnh vẫn ổn không như các dòng điều hòa khác trên thị trường.
+    - Tiết kiệm điện: Nói về khả năng tiết kiệm điện thì Daikin luôn dẫn đầu không chỉ thế vì hầu hết dòng máy nào của Daikin cũng đều được trang bị công nghệ Inverter, ngoài ra chỉ số hiệu suất năng lượng của hầu hết các máy đều giúp tiết kiệm điện. 
+* Nhược điểm:
+    - Giá thành của Daikin cao hơn loại máy điều hòa thường cùng công suất.
+    - Điều hòa Inverter sử dụng bảng mạch điện tử để điều khiển nhiệt độ nên yêu cầu điện áp cấp cần ổn định để tránh hỏng hóc gặp sự cố không đáng có.
+    - Vì là dòng điều khiển hầu hết bằng các vi mạch điện tử nên sẽ dễ hỏng hóc khi gặp thời tiết quá khắc nghiệt như cái nóng ban trưa như thiêu đốt, những ngày nóng ẩm liên tục.
+* Mẹo sử dụng:
+    - Sử dụng các chế độ có khả năng tiết kiệm điện. ...
+    - Sử dụng chế độ hẹn giờ vào ban đêm. ...
+    - Hạn chế tắt/ mở máy lạnh Daikin liên tục. ...
+    - Điều khiển điều hòa từ xa thông qua Smartphone. ...
 
-    def __init__(self, *args, **kwargs):
-        ConversationBufferWindowMemory.__init__(self, *args, **kwargs)
+Hãy kết luận lại 1 cách ngắn gọn dựa vào những gì bạn đưa ra ở dưới phần kết luận
+KẾT LUẬN: 
+"""
 
-    # def load_memory_variables(self, inputs) -> dict:
-    #     self.snippets.append(self.response_rules)
-    #     self.snippets = [snippet for snippet in self.snippets][-self.k:]
-    #     to_return = ''.join(self.snippets)
 
-    #     return {'snippets': to_return}
-    
-    def load_memory_variables(self, inputs) -> Dict:
-        """Return history buffer."""
+prompt_compare = """
+Bạn là 1 chuyển gia về viêc so sánh các sản phẩm điện tử, gia dụng.... Hãy dựa vào các sản phẩm ở thị trường Việt Nam để so sánh các sản phẩm được yêu cầu.
+Nhiệm vụ của bạn là hãy đưa ra các so sánh chung từ các ưu điểm nhược điểm của sản phẩm.
+Lưu ý: Bạn chỉ được trả lời bằng tiếng Việt và chỉ được đưa ra câu trả lời giới hạn từ 200 - 300 chữ.
 
-        buffer: Any = self.buffer[-self.k * 2 :] if self.k > 0 else []
-        string_messages = []
-        for m in buffer:
-            if m.type == 'human':
-                message = f"{m.content}"
-                string_messages.append(message)
-        string_messages.append(response_rules)
+Sample: So sánh 2 sản phẩm điều hòa Daikin và Panasonic dựa vào các ưu nhược điểm của chúng.
+Answer:
+1. Công nghệ làm lạnh	
+* Điều hòa Panasonic
+- Công nghệ làm lạnh tản nhiệt với cánh đảo gió Skywing.
+-  Công nghệ cảm biến độ ẩm tối ưu Humidity Sensor giúp điều chỉnh nhiệt độ phù hợp. 
+- Chế độ iAuto giúp điều chỉnh quạt gió làm lạnh không khí nhanh hơn. 
+- Chức năng hoạt động siêu êm Quiet giúp làm lạnh ở mức độ phù hợp cho bạn giấc ngủ sâu.	
+* Điều hòa Daikin
+- Luồng gió Coanda kết hợp luồng gió 3D giúp làm lạnh không gian tốt hơn. 
+- Công nghệ làm lạnh Powerful giúp làm lạnh nhanh tức thì. 
+- Công nghệ Hybrid Cooling cân bằng độ ẩm giúp người dùng thoải mái.
+2. Công nghệ khử mùi, diệt khuẩn	
+* Điều hòa Panasonic
+- Công nghệ lọc không khí Nanoe-G lọc bụi hiệu quả. 
+- Chức năng tự làm sạch giúp bên trong máy được làm sạch, gia tăng hiệu quả làm lạnh. 
+- Công nghệ Nanoe-X diệt khuẩn.	
+* Điều hòa Daikin
+- Công nghệ lọc khí Streamer giúp khử khuẩn và mùi hôi. 
+- Phin lọc Enzym Blue kết hợp lọc bụi mịn PM2.5.
+- Phin lọc khử mùi xúc tác quang Apatit Titan loại bỏ bụi bẩn.
+3. Công nghệ tiết kiệm điện	
+* Điều hòa Panasonic
+- Công nghệ Inverter tiết kiệm điện
+- Chế độ ECO tích hợp AI tiết kiệm năng lượng, điều chỉnh nhiệt độ phù hợp.	
+* Điều hòa Daikin
+- Công nghệ biến tần Inverter tiết kiệm điện. 
+- Sử dụng môi chất làm lạnh R-32 bảo vệ môi trường, tiết kiệm điện năng. 
 
-        to_return = "\n".join(string_messages)
-        return {'snippets': to_return}
+Hãy kết luận lại 1 cách ngắn gọn dựa vào những gì bạn đưa ra ở dưới phần kết luận
+KẾT LUẬN:
+"""
 
-def construct_conversation(prompt: str, llm, memory) -> ConversationChain:
-    """
-    Construct a ConversationChain object
-    """
-
-    prompt = PromptTemplate.from_template(
-        template=prompt,
+prompt = ChatPromptTemplate.from_messages(
+    [
+        ("system", prompt_compare),
+        MessagesPlaceholder(variable_name="history"),
+        ("human", "{input}"),
+    ]
+)
+chain = (
+    RunnablePassthrough.assign(
+        history=RunnableLambda(memory.load_memory_variables) | itemgetter("history")
     )
+    | prompt
+    | llm
+)
 
-    conversation = ConversationChain(
-        llm=llm,
-        memory=memory,
-        verbose=False,
-        prompt=prompt
-    )
-    return conversation
-
-
-def initialize_chat_conversation(model_to_use, conv_memory, snippets_memory, response_rules) -> ConversationChain:
-    prompt_header = """You are a product information lookup support, your task is to answer customer questions based on the technical paragraphs provided and history chat.
-    The following passages may help you answer the questions:
-    {snippets}
-    Respond to the customer's needs based on the passages.
-    All your answers must be in Vietnamese.
-    {history} 
-    Customer: {input}
-    """
-
-    os.environ['OPENAI_API_KEY'] = config_app["parameter"]["openai_api_key"]
-    llm = ChatOpenAI(model_name=model_to_use, temperature=config_app["parameter"]["temperature"])
-    if conv_memory == [] and snippets_memory == []:
-        conv_memory = ConversationBufferWindowMemory(k=config_app["parameter"]["search_number_messages"], input_key="input")
-        snippets_memory = SnippetsBufferWindowMemory(k=config_app["parameter"]["prompt_number_snippets"], response_rules=response_rules, 
-                                                     memory_key='snippets', input_key="snippets")
-    else:
-        conv_memory = ConversationBufferWindowMemory(k=config_app["parameter"]["search_number_messages"], input_key="input", chat_memory=conv_memory)
-        snippets_memory = SnippetsBufferWindowMemory(k=config_app["parameter"]["prompt_number_snippets"], response_rules=response_rules, 
-                                                     memory_key='snippets', input_key="snippets", chat_memory=snippets_memory)
-
-    memory = CombinedMemory(memories=[conv_memory, snippets_memory])
-    conversation = construct_conversation(prompt_header, llm, memory)
-
-    return conversation
-
-def llm2(query_text, response_rules, IdRequest, NameBot, User):
-    print('=====llm2======')
-    # print('response_rules:',response_rules)
-
-
-    path_messages = config_app["parameter"]["DB_MESSAGES"] + str(NameBot) + "/" +  str(User) + "/" + str(IdRequest)
-    if not os.path.exists(path_messages):
-        os.makedirs(path_messages)
-    try:
-        with Path(path_messages + "/messages_conv.json").open("r", encoding="utf8") as f:
-            loaded_messages_conv = json.load(f)
-        with Path(path_messages + "/messages_snippets.json").open("r", encoding="utf8") as f:
-            loaded_messages_snippets = json.load(f)
-        conversation_messages_snippets = ChatMessageHistory(messages=messages_from_dict(loaded_messages_snippets))
-        conversation_messages_conv = ChatMessageHistory(messages=messages_from_dict(loaded_messages_conv))
-    except:
-        conversation_messages_conv, conversation_messages_snippets = [], []
+# Function to handle chat messages
+def chat(input_text, history=[]):
+    # Load the current conversation history
+    memory.load_memory_variables({})
+    inputs = {"input": input_text}
+    response = chain.invoke(inputs)
+    # Save the conversation in memory
+    memory.save_context(inputs, {"output": response.content})
     
-    conversation = initialize_chat_conversation(config_app["parameter"]["gpt_model_to_use"], 
-                                                conversation_messages_conv, conversation_messages_snippets, response_rules)
+    # Append the new interaction to the history
+    history.append((input_text, response.content))
+    return response.content, history
 
-    result = conversation.predict(input = query_text)
+# Create Gradio interface
+with gr.Blocks() as iface:
+    chatbot = gr.Chatbot(height=600)
+    msg = gr.Textbox(label="Gõ tin nhắn")
+    clear = gr.Button("Clear")
 
-    # Save DB
-    conversation_messages_conv = conversation.memory.memories[0].chat_memory.messages
-    conversation_messages_snippets = conversation.memory.memories[1].chat_memory.messages
-    messages_conv = messages_to_dict(conversation_messages_conv)
-    messages_snippets  = messages_to_dict(conversation_messages_snippets)
-    
-    with Path(path_messages + "/messages_conv.json").open("w",encoding="utf-8") as f:
-        json.dump(messages_conv, f, indent=4,ensure_ascii=False)
-    with Path(path_messages + "/messages_snippets.json").open("w",encoding="utf-8") as f:
-        json.dump(messages_snippets, f, indent=4, ensure_ascii=False)
+    def user_interaction(user_message, history):
+        bot_response, updated_history = chat(user_message, history)
+        return updated_history, updated_history
 
-    return result
+    msg.submit(user_interaction, [msg, chatbot], [chatbot, chatbot])
+    clear.click(lambda: None, None, chatbot, queue=False)
 
-query_text = 'xông suất tiêu thụ của sản phẩm trên'
-# response_rules = """'PRODUCT INFO ID': 606038,
-#  'GROUP PRODUCT NAME': 'Điều hòa - Điều hòa MDV - Inverter 9000 BTU',
-#  'SPECIFICATION BACKUP': 'Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184',
-#  'PRICE ': 10000000"""
-response_rules = ''
-
-result = llm2(query_text, response_rules, 'faaiwe', 'tiu', 'qwe')
-print(result)
+# Launch the interface
+iface.launch()

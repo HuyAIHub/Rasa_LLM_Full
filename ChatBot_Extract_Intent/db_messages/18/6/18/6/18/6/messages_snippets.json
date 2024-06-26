@@ -1,0 +1,314 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n\n\nSản phẩm 2:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều 12000 btu - model 2023 (ID: 108)\nThông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\nGiá tiền: 7246030 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều inverter 18000 btu - model 2023 (ID: 110)\nThông số kỹ thuật: Model: MDVG-18CRDN8 \nCông suất: 18.000 BTU/h \nLoại: 1 chiều Inverter \nDiện tích sử dụng: 20 - 30m² \nGas: R32 \nMức tiêu thụ điện: 1.65 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 969 x 320 x 241 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 18 kg \nTrọng lượng dàn nóng: 28 kg\ngiá: 11740520\nGiá tiền: 11740520 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Xin chào! Bạn có câu hỏi gì về sản phẩm điều hòa?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support: Xin chào! Bạn có câu hỏi gì về sản phẩm điều hòa?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n\n\nSản phẩm 2:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều 12000 btu - model 2023 (ID: 108)\nThông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\nGiá tiền: 7246030 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều inverter 18000 btu - model 2023 (ID: 110)\nThông số kỹ thuật: Model: MDVG-18CRDN8 \nCông suất: 18.000 BTU/h \nLoại: 1 chiều Inverter \nDiện tích sử dụng: 20 - 30m² \nGas: R32 \nMức tiêu thụ điện: 1.65 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 969 x 320 x 241 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 18 kg \nTrọng lượng dàn nóng: 28 kg\ngiá: 11740520\nGiá tiền: 11740520 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Support: Chúng tôi có 3 loại sản phẩm điều hòa. Sản phẩm 1 là điều hòa MDV - Inverter 9000 BTU, sản phẩm 2 là điều hòa MDV 1 chiều 12000 BTU - model 2023, và sản phẩm 3 là điều hòa MDV 1 chiều inverter 18000 BTU - model 2023. Bạn có thể cho tôi biết bạn quan tâm đến sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Support: Chúng tôi có 3 loại sản phẩm điều hòa. Sản phẩm 1 là điều hòa MDV - Inverter 9000 BTU, sản phẩm 2 là điều hòa MDV 1 chiều 12000 BTU - model 2023, và sản phẩm 3 là điều hòa MDV 1 chiều inverter 18000 BTU - model 2023. Bạn có thể cho tôi biết bạn quan tâm đến sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n\n\nSản phẩm 2:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều 12000 btu - model 2023 (ID: 108)\nThông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\nGiá tiền: 7246030 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều inverter 18000 btu - model 2023 (ID: 110)\nThông số kỹ thuật: Model: MDVG-18CRDN8 \nCông suất: 18.000 BTU/h \nLoại: 1 chiều Inverter \nDiện tích sử dụng: 20 - 30m² \nGas: R32 \nMức tiêu thụ điện: 1.65 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 969 x 320 x 241 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 18 kg \nTrọng lượng dàn nóng: 28 kg\ngiá: 11740520\nGiá tiền: 11740520 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "- Sản phẩm 1: điều hòa MDV - Inverter 9000 BTU\n- Sản phẩm 2: điều hòa MDV 1 chiều 12000 BTU - model 2023\n- Sản phẩm 3: điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "- Sản phẩm 1: điều hòa MDV - Inverter 9000 BTU\n- Sản phẩm 2: điều hòa MDV 1 chiều 12000 BTU - model 2023\n- Sản phẩm 3: điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n\n\nSản phẩm 2:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều 12000 btu - model 2023 (ID: 108)\nThông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\nGiá tiền: 7246030 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều inverter 18000 btu - model 2023 (ID: 110)\nThông số kỹ thuật: Model: MDVG-18CRDN8 \nCông suất: 18.000 BTU/h \nLoại: 1 chiều Inverter \nDiện tích sử dụng: 20 - 30m² \nGas: R32 \nMức tiêu thụ điện: 1.65 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 969 x 320 x 241 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 18 kg \nTrọng lượng dàn nóng: 28 kg\ngiá: 11740520\nGiá tiền: 11740520 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "- Chúng tôi có 3 loại sản phẩm điều hòa: \n  1. Điều hòa MDV - Inverter 9000 BTU\n  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "- Chúng tôi có 3 loại sản phẩm điều hòa: \n  1. Điều hòa MDV - Inverter 9000 BTU\n  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n\n\nSản phẩm 2:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều 12000 btu - model 2023 (ID: 108)\nThông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\nGiá tiền: 7246030 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều inverter 18000 btu - model 2023 (ID: 110)\nThông số kỹ thuật: Model: MDVG-18CRDN8 \nCông suất: 18.000 BTU/h \nLoại: 1 chiều Inverter \nDiện tích sử dụng: 20 - 30m² \nGas: R32 \nMức tiêu thụ điện: 1.65 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 969 x 320 x 241 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 18 kg \nTrọng lượng dàn nóng: 28 kg\ngiá: 11740520\nGiá tiền: 11740520 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: - Chúng tôi có 3 loại sản phẩm điều hòa: \n  1. Điều hòa MDV - Inverter 9000 BTU\n  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: - Chúng tôi có 3 loại sản phẩm điều hòa: \n  1. Điều hòa MDV - Inverter 9000 BTU\n  2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n  3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nVới sản phẩm điều hòa:\n\n\nSản phẩm 1:\nTên sản phẩm: điều hòa , điều hòa mdv - inverter 9000 btu (ID: 107)\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\nGiá tiền: 6014184 VND\n\n\nSản phẩm 2:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều 12000 btu - model 2023 (ID: 108)\nThông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\nGiá tiền: 7246030 VND\n\n\nSản phẩm 3:\nTên sản phẩm: điều hòa , điều hòa mdv 1 chiều inverter 18000 btu - model 2023 (ID: 110)\nThông số kỹ thuật: Model: MDVG-18CRDN8 \nCông suất: 18.000 BTU/h \nLoại: 1 chiều Inverter \nDiện tích sử dụng: 20 - 30m² \nGas: R32 \nMức tiêu thụ điện: 1.65 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 969 x 320 x 241 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 18 kg \nTrọng lượng dàn nóng: 28 kg\ngiá: 11740520\nGiá tiền: 11740520 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Người bán hàng: Chúng tôi có 3 loại sản phẩm điều hòa:\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có những loại sản phẩm điều hòa nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Người bán hàng: Chúng tôi có 3 loại sản phẩm điều hòa:\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - model 2023\n3. Điều hòa MDV 1 chiều inverter 18000 BTU - model 2023",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

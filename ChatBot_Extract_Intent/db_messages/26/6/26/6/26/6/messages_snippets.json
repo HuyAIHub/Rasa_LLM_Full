@@ -1,0 +1,496 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "hello",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hello",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hello",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hello",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hello",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\n1. Với sản phẩm bình đun nước:\n1. Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng)\nGiá tiền: 339570 VND\n2. Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W\nGiá tiền: 529210 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Bình đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) và Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W đều được làm bằng chất liệu không gỉ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước làm bằng chất liệu gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Bình đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) và Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W đều được làm bằng chất liệu không gỉ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\n1. Với sản phẩm bình đun nước:\n\n1. Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W\nThông số kỹ thuật: \n• Công suất: 1850 - 2200W \n• Dung tích: 1.7 lít \n• Chất liệu ruột bình: Nhựa PP (không chứa BPA) \n• Chất liệu vỏ bình: Nhựa PP \n• Đế tiếp điện: Strix \n• Thương hiệu của: Singapore \n• Chế độ an toàn: Tự ngắt khi nước sôi và khi cạn nước \n• Tiện ích: Lọc bã trà \nCột hiển thị mực nước \nĐèn hoạt động \nĐế xoay 360 độ \ngiá: 529210\n\n2. Ấm đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng)\nThông số kỹ thuật: Màu sắc : Trắng \nCông suất (Danh định): 1500W\nNguồn định mức: 220VAC – 50/60Hz\nDung tích: 1.5L\nChất liệu ruột bình: Inox cao cấp SUS304\nChất liệu vỏ bình: Nhựa PP cách nhiệt bóng\nĐế tiếp điện: Xoay 360°\nNút gạt để bắt đầu đun và báo hiệu nước đã sôi\nĐèn báo hoạt động\nLưới lọc cặn đá vôi\nTự động tắt khi nước sôi\nTự động tắt khi ấm nước được nhấc khỏi đế\nChiều dài dây: ≥30cm\nKích thước sản phẩm (DxRXC): 221x155x241 mm\nKhối lượng sản phẩm: 1.0 kg\nThời gian bảo hành: 12 tháng kích hoạt bảo hành điện tử \nCó giá: 339570\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Cả hai sản phẩm bình đun nước đều được làm bằng chất liệu không gỉ. Bình đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) có ruột bình là inox cao cấp SUS304 và vỏ bình là nhựa PP cách nhiệt bóng. Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W có ruột bình và vỏ bình đều là nhựa PP.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước làm bằng chất liệu gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Cả hai sản phẩm bình đun nước đều được làm bằng chất liệu không gỉ. Bình đun nước AIO Smart AIOKTO2L23W/1C5 (màu trắng) có ruột bình là inox cao cấp SUS304 và vỏ bình là nhựa PP cách nhiệt bóng. Ấm Đun Nước Bluestone KTB-3417 1,7 lít 2200W có ruột bình và vỏ bình đều là nhựa PP.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\n1. Với sản phẩm điều hòa:\n\n1. Điều hòa MDV - Inverter 9000 BTU\nThông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\nThông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\n\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\nThông số kỹ thuật: Model: MDVG-18CRDN8 \nCông suất: 18.000 BTU/h \nLoại: 1 chiều Inverter \nDiện tích sử dụng: 20 - 30m² \nGas: R32 \nMức tiêu thụ điện: 1.65 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 969 x 320 x 241 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 18 kg \nTrọng lượng dàn nóng: 28 kg\ngiá: 11740520\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Điều hòa MDV - Inverter 9000 BTU có kích thước máy trong là 726x210x291 (mm) và kích thước máy ngoài là 835x300x540 (mm). Điều hòa MDV 1 chiều 12000 BTU - Model 2023 có kích thước dàn lạnh là 810 x 285 x 210 mm và kích thước dàn nóng là 770 x 285 x 540 mm. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 có kích thước dàn lạnh là 969 x 320 x 241 mm và kích thước dàn nóng là 770 x 285 x 540 mm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Kích thước một số sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Điều hòa MDV - Inverter 9000 BTU có kích thước máy trong là 726x210x291 (mm) và kích thước máy ngoài là 835x300x540 (mm). Điều hòa MDV 1 chiều 12000 BTU - Model 2023 có kích thước dàn lạnh là 810 x 285 x 210 mm và kích thước dàn nóng là 770 x 285 x 540 mm. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 có kích thước dàn lạnh là 969 x 320 x 241 mm và kích thước dàn nóng là 770 x 285 x 540 mm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\n1. Với sản phẩm điều hòa:\n1. Điều hòa MDV - Inverter 9000 BTU\nGiá tiền: 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\nGiá tiền: 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\nGiá tiền: 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\nGiá tiền: 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\nGiá tiền: 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\nGiá tiền: 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\nGiá tiền: 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\nGiá tiền: 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm điều hòa:\n1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14917980 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm điều hòa:\n1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14917980 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\n1. Với sản phẩm đèn năng lượng:\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm đèn năng lượng:\n1. Đèn năng lượng Xiaomi Mi LED Desk Lamp - Giá: 1.200.000 VND\n2. Đèn năng lượng Philips Hue White and Color Ambiance - Giá: 2.500.000 VND\n3. Đèn năng lượng Anker Bolder LC90 - Giá: 800.000 VND\n4. Đèn năng lượng TaoTronics LED Desk Lamp - Giá: 900.000 VND\n5. Đèn năng lượng Aukey LT-T10 - Giá: 600.000 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đèn năng lượng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm đèn năng lượng:\n1. Đèn năng lượng Xiaomi Mi LED Desk Lamp - Giá: 1.200.000 VND\n2. Đèn năng lượng Philips Hue White and Color Ambiance - Giá: 2.500.000 VND\n3. Đèn năng lượng Anker Bolder LC90 - Giá: 800.000 VND\n4. Đèn năng lượng TaoTronics LED Desk Lamp - Giá: 900.000 VND\n5. Đèn năng lượng Aukey LT-T10 - Giá: 600.000 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\n1. Với sản phẩm đèn năng lượng mặt trời:\n\n1. Bộ đèn đường năng lượng mặt trời công suất 70w\nBảo hành 2 năm\nThông số kỹ thuật: \n• Công suất: 70W \n• Thời gian chiếu sáng: 10~12h \n• Diện tích chiếu sáng: 120m2 \n• Công suất tấm pin: 6V/22W \n• Thời gian sạc: 4~6h\ngiá: 910030\n\n2. Đèn NLMT Sân vườn UFO 150W\nThông số kỹ thuật: \n• Công suất đèn: 150w \n• Bóng led: hình tháp tròn UFO \n• Diện tích chiếu sáng: 100m2 \n• Pin: Lithium \n• Thời gian sạc: 4-6 giờ \n• Thời gian chiếu sáng: >12 giờ \n• Góc chùm (°): 120 \n• Chủng loại: Đèn trang trí sân vườn \n• Tiêu chuẩn chống nước: IP67 \n• Số mắt Led: 240 Led \n• Ánh sáng: Trắng \n• Kích thước Panel: 350x350mm (6V/20W) \n• Dung lượng pin: 3.2V/18000mAh\ngiá: 679360\n\n3. Đèn NLMT bàn chải rời thể 400W (Nhôm)\nThông số kỹ thuật: \n• Chất liệu: Nhôm nguyên khối , mặt kính cường lực chống xước \n• Công suất đèn: 400W \n• Thông lượng as: 4000LM \n• Kích thước tấm pin: 64 x 67 cm \n• Công suất Tấm Pin: 60W/6V \n• Kích thước đèn: 21 x 50 cm \n• Số Led: SMD 5730 - 630 chíp \n• Diện tích ánh sáng: 120m2 \n• Dung lượng pin: 3,2V/ 60.000 maH - 10 pin \n• Thời gian chiếu sáng: 16 -20 giờ \n• Diện tích chiếu sáng: 140 m2 \n• Chiều cao lắp đặt: 6 - 8m \n• Tiện ích: Đèn được trang bị bộ cảm biến ánh sáng ( Tự động bật sáng khi trời tối và tắt khi trời sáng) \n• Bộ sản phẩm gồm: Đèn + Tấm pin NL + Cần Đèn + Remote + Và một số phụ khiện ốc vít đi kèm\ngiá: 1566510\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm đèn năng lượng mặt trời có diện tích chiếu sáng:\n1. Bộ đèn đường năng lượng mặt trời công suất 70W - Diện tích chiếu sáng: 120m2 - Giá: 910030 VND\n2. Đèn NLMT Sân vườn UFO 150W - Diện tích chiếu sáng: 100m2 - Giá: 679360 VND\n3. Đèn NLMT bàn chải rời thể 400W (Nhôm) - Diện tích chiếu sáng: 140m2 - Giá: 1566510 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " đèn năng lượng mặt trời có Diện tích chiếu sáng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Dưới đây là danh sách các sản phẩm đèn năng lượng mặt trời có diện tích chiếu sáng:\n1. Bộ đèn đường năng lượng mặt trời công suất 70W - Diện tích chiếu sáng: 120m2 - Giá: 910030 VND\n2. Đèn NLMT Sân vườn UFO 150W - Diện tích chiếu sáng: 100m2 - Giá: 679360 VND\n3. Đèn NLMT bàn chải rời thể 400W (Nhôm) - Diện tích chiếu sáng: 140m2 - Giá: 1566510 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\n1. Với sản phẩm năng lượng mặt trời:\n\n1. Bộ đèn đường năng lượng mặt trời công suất 70w\nBảo hành 2 năm\nThông số kỹ thuật: \n• Công suất: 70W \n• Thời gian chiếu sáng: 10~12h \n• Diện tích chiếu sáng: 120m2 \n• Công suất tấm pin: 6V/22W \n• Thời gian sạc: 4~6h\ngiá: 910030\n\n2. Đèn NLMT Sân vườn UFO 150W\nThông số kỹ thuật: \n• Công suất đèn: 150w \n• Bóng led: hình tháp tròn UFO \n• Diện tích chiếu sáng: 100m2 \n• Pin: Lithium \n• Thời gian sạc: 4-6 giờ \n• Thời gian chiếu sáng: >12 giờ \n• Góc chùm (°): 120 \n• Chủng loại: Đèn trang trí sân vườn \n• Tiêu chuẩn chống nước: IP67 \n• Số mắt Led: 240 Led \n• Ánh sáng: Trắng \n• Kích thước Panel: 350x350mm (6V/20W) \n• Dung lượng pin: 3.2V/18000mAh\ngiá: 679360\n\n3. Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W.\nThông số kỹ thuật: \n• Thời gian chiếu sáng: 10-12 giờ/ngày \n• Thời gian nạp pin: 3-4 giờ/ngày \n• Tuổi thọ đèn: 3-5 năm \n• Tuổi thọ tấm pin NLMT: 10-12 năm \n• Dung lượng pin: 16000 mAh Pin \n• Công nghệ: Lithium photphase chống chai, tuổi thọ lên đến 3-5 năm \n• Chống nước: Đèn nguyên khối được trang bị chống nước IP67 thoả mái để ngoài trời \n• Kích thước đèn: 21x24 cm \n• KT tấm pin NLMT: 35x45 cm \n• Diện tích chiếu sáng: 100 - 120 m2\ngiá: 617760\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Rất tiếc, hiện tại chúng tôi không có thông tin về đèn năng lượng mặt trời công suất 90W có diện tích chiếu sáng. Tuy nhiên, chúng tôi có thể cung cấp cho bạn danh sách các sản phẩm đèn năng lượng mặt trời khác nếu bạn quan tâm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " năng lượng mặt trời công suất 90W có Diện tích chiếu sáng đèn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Rất tiếc, hiện tại chúng tôi không có thông tin về đèn năng lượng mặt trời công suất 90W có diện tích chiếu sáng. Tuy nhiên, chúng tôi có thể cung cấp cho bạn danh sách các sản phẩm đèn năng lượng mặt trời khác nếu bạn quan tâm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

@@ -1,0 +1,20 @@
+2024-06-17 15:21:31,692 - ----------------NEW_SESSION--------------
+2024-06-17 15:21:31,692 - User: c
+2024-06-17 15:21:31,692 - InputText: hello
+2024-06-17 15:21:32,687 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-17 15:22:10,562 - ----------------NEW_SESSION--------------
+2024-06-17 15:22:10,562 - User: c
+2024-06-17 15:22:10,562 - InputText: Tôi muốn mua điều hòa và máy giật gíá 8 triệu
+2024-06-17 15:22:10,613 - ------------llm------------
+2024-06-17 15:22:10,613 - User: Tôi muốn mua điều hòa và máy giật gíá 8 triệu
+2024-06-17 15:22:13,234 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-17 15:22:23,279 - HEAD http://10.248.243.105:9200/test2 [status:N/A duration:10.007s]
+2024-06-17 15:22:23,280 - Node <Urllib3HttpNode(http://10.248.243.105:9200)> has failed for 1 times in a row, putting on 1 second timeout
+2024-06-17 15:38:29,799 - ----------------NEW_SESSION--------------
+2024-06-17 15:38:29,800 - User: c
+2024-06-17 15:38:29,800 - InputText: Tôi muốn mua điều hòa và máy giật gíá 8 triệu
+2024-06-17 15:38:29,866 - ------------llm------------
+2024-06-17 15:38:29,866 - User: Tôi muốn mua điều hòa và máy giật gíá 8 triệu
+2024-06-17 15:38:33,241 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-17 15:38:34,461 - HEAD https://78740e05c3064c91ac321175359ce712.us-central1.gcp.cloud.es.io:443/test1 [status:401 duration:1.123s]

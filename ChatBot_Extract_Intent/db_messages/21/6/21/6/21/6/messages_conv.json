@@ -1,0 +1,54 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.\n2. Quạt điều hòa không khí Everest 6000d với giá 2.450.800 VND.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Đièu hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có hai sản phẩm điều hòa giá rẻ:\n1. Công tắc, ổ cắm thông minh, bộ điều khiển trung tâm home controller (hc) với giá 2.277.000 VND.\n2. Quạt điều hòa không khí Everest 6000d với giá 2.450.800 VND.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]
