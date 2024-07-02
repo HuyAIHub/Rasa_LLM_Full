@@ -55,6 +55,8 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
 
     results = {'terms':[],'out_text':'', 'inventory_status' : False}
 
+    results = {'terms':[],'out_text':'', 'inventory_status' : False}
+
     if type == 'rasa':
         print('========rasa=========')
         # Predict Text
@@ -114,4 +116,5 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
         json.dump(messages_snippets, f, indent=4, ensure_ascii=False)
     logging.info(f"Vcc_bot: {results['out_text']}")
     results['out_text'] = results['out_text'].replace("AI: ", "").replace("Assistant: ", "")
+    print('predict_rasa_llm:',results)
     return results
