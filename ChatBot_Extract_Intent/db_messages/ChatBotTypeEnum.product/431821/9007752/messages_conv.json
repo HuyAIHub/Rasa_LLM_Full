@@ -544,5 +544,759 @@
             "tool_calls": [],
             "invalid_tool_calls": []
         }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "he",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm sản phẩm điều hòa?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 9.000 BTU/h (1 HP) \n    Diện tích sử dụng: Dưới 15m² \n    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:\n- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184\n  Thông số kỹ thuật:\n    Nguồn điện: 220-240V \n    Công suất: 9500 Btu/h \n    Công suất tiêu thụ: 745 W \n    Cường độ dòng điện: 3.4 A\n     ERR: 3.54 W/W \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Nếu bạn cần biết thêm thông tin hoặc có yêu cầu cụ thể về dịch vụ của VCC, xin vui lòng cho biết.?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Đưa ra chính sách bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hoà hiện tại có những sản phẩm nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hoà' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    &#10;• Điện áp: 220V - 50Hz &#10;• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm &#10;• Lưu lượng gió: 6000m3/h &#10;• Dung tích khay chứa nước: 45L &#10;• Công suất: 80W &#10;• Điều khiển từ xa: Có &#10;• Cảm biến chất lượng không khí: Có &#10;• Chức năng tạo ion: Có &#10;• Tốc độ gió: 3 tốc độ &#10;• Hướng gió: 4 chiều trái phải, lên xuống&#10;giá: 2450800\nCác dòng sản phẩm rẻ tiền:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    &#10;• Điện áp: 220V - 50Hz &#10;• Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm &#10;• Lưu lượng gió: 6000m3/h &#10;• Dung tích khay chứa nước: 45L &#10;• Công suất: 80W &#10;• Điều khiển từ xa: Có &#10;• Cảm biến chất lượng không khí: Có &#10;• Chức năng tạo ion: Có &#10;• Tốc độ gió: 3 tốc độ &#10;• Hướng gió: 4 chiều trái phải, lên xuống&#10;giá: 2450800\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "nếu tôi bán sản phẩm trên thì hóa hồng nhận được là bao nhiêu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Nếu bạn cần biết thêm thông tin hoặc có yêu cầu cụ thể về dịch vụ của VCC, xin vui lòng cho biết.?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/VCC xu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "giá điều hoà như thế nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 điều hòa với giá không có giá\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023: 23423180VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 23423180.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng loại điều hoà hiện tại",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Không tìm thấy điều hoà hiện tại trong dữ liệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng điều hoà",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Không tìm thấy điều hoà  trong dữ liệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng điều hoà VCC đang kinh doanh",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Không tìm thấy điều hoà VCC đang kinh doanh trong dữ liệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm điều hoà có giá thấp nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 điều hoà với giá giá thấp nhất\nTôi không thể đáp ứng yêu cầu của bạn.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bên mình có bán pin năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'pin năng lượng mặt trời' tìm thấy:\n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 50W \n    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n    • Nhiệt độ làm việc: -20C ~ 65C \n    • Nhiệt độ màu: 6500K \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "nếu bán pin năng lượng mặt trời suntek tôi nhận được hoa hồng là bao nhiêu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'pin năng lượng mặt trời suntek' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550 - Số lượng đã bán: 23\n  Thông số kỹ thuật:\n    &#10;• Công suất định mức: 50W &#10;• Bảng điều khiển năng lượng mặt trời: Polycrystal 6W &#10;• Nhiệt độ làm việc: -20C ~ 65C &#10;• Nhiệt độ màu: 6500K &#10;• Thời gian chiếu sáng: 5-6h liên tục &#10;• PIN: 4.500mAh &#10;• Kích thước đèn: 10 x 17 cm &#10;• Kích thước tấm năng lượng mặt trời: 13.5 x 2 x 23 Cm &#10;• Cân nặng: 0.5kg&#10;giá: 286550\nCác dòng sản phẩm rẻ tiền:\n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550 - Số lượng đã bán: 23\n  Thông số kỹ thuật:\n    &#10;• Công suất định mức: 50W &#10;• Bảng điều khiển năng lượng mặt trời: Polycrystal 6W &#10;• Nhiệt độ làm việc: -20C ~ 65C &#10;• Nhiệt độ màu: 6500K &#10;• Thời gian chiếu sáng: 5-6h liên tục &#10;• PIN: 4.500mAh &#10;• Kích thước đèn: 10 x 17 cm &#10;• Kích thước tấm năng lượng mặt trời: 13.5 x 2 x 23 Cm &#10;• Cân nặng: 0.5kg&#10;giá: 286550\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "thông tin sản phẩm điều hoà",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hoà' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \nCác dòng sản phẩm rẻ tiền:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng điều hoà hiện tại",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Không tìm thấy điều hoà hiện tại trong dữ liệu.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hoà",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là BotV, trợ lý mua sắm của bạn. Tôi có thể giúp gì cho bạn hôm nay?.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình nóng lạnh",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  bình nóng lạnh, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình nước nóng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'bình nước nóng' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy NLMT Empire 160 Lít Titan EPNL-TT1516 - Giá: 5122590 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Số ống: 15 ống \n    • Dung tích: 160 lít\n    • Bình bảo ôn: Chất liệu Inox 304 \n- Máy NLMT Empire 130 Lít Titan EPNL-TT1213 - Giá: 4419910 - Số lượng đã bán: 9\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Số ống: 12 ống \n    • Dung tích: 130 lít \n    • Bình bảo ôn: Chất liệu Inox 304 \n- Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE - Giá: 3181896 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    Dung tích: 30L \n    Loại máy : gián tiếp \n    Điện áp: 220 V \n    Công suất (W): 2,500 \n    Chống giật : ELCB \nCác dòng sản phẩm rẻ tiền:\n- Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE - Giá: 3181896 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    Dung tích: 30L \n    Loại máy : gián tiếp \n    Điện áp: 220 V \n    Công suất (W): 2,500 \n    Chống giật : ELCB \n- Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE - Giá: 2817180 - Số lượng đã bán: 18\n  Thông số kỹ thuật:\n    Dung tích : 20 lít \n    Loại máy : gián tiếp \n    Chống giật : ELCB \n    Thanh đốt bằng đồng \n    Công suất : 2,5kW \n- Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE - Giá: 2634876 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    Loại: Máy nước nóng gián tiếp \n    Dung tích: 15 lit \n    Công suất: 2500W \n    Nhiệt độ tối đa: 75 độ C \n    Hệ thống chống rò điện: ELCB, Bộ ổn định nhiệt TBST, Vỏ chống thấm nước \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hoà",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là BotV, trợ lý mua sắm của bạn. Tôi có thể giúp gì cho bạn hôm nay?.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình nước nóng làm bằng chất liệu gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Các bình nước nóng trong danh sách sản phẩm được làm bằng chất liệu Inox 304.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình nước nóng làm bằng chất liệu gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Các bình nước nóng trong danh sách sản phẩm được làm bằng chất liệu Inox 304.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hoà",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là VCC AI BOT, trợ lý mua sắm của bạn. Tôi có thể giúp gì cho bạn hôm nay?.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tems",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm sản phẩm điều hòa?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 9.000 BTU/h (1 HP) \n    Diện tích sử dụng: Dưới 15m² \n    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:\n- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184\n  Thông số kỹ thuật:\n    Nguồn điện: 220-240V \n    Công suất: 9500 Btu/h \n    Công suất tiêu thụ: 745 W \n    Cường độ dòng điện: 3.4 A\n     ERR: 3.54 W/W \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
     }
 ]

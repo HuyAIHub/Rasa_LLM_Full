@@ -54,7 +54,7 @@ def construct_conversation(prompt: str, llm, memory) -> ConversationChain:
     prompt = PromptTemplate.from_template(
         template=prompt,
     )
-
+    # print('prompt construct_conversation:',prompt)
     conversation = ConversationChain(
         llm=llm,
         memory=memory,
@@ -69,11 +69,12 @@ def initialize_chat_conversation(conv_memory, snippets_memory, response_rules) -
     The following passages may help you answer the questions:
     {snippets}
     Respond to the customer's needs based on the passages.
+    Provide specific answers, using only information from the documents. Do not mix in information from outside sources.
+    Note: Do not add the word "AI" or "Assistant" in your answer
     All your answers must be in Vietnamese.
     {history} 
     Customer: {input}
     """
-
     if conv_memory == [] and snippets_memory == []:
         conv_memory = ConversationBufferWindowMemory(k=config_app["parameter"]["search_number_messages"], input_key="input")
         snippets_memory = SnippetsBufferWindowMemory(k=config_app["parameter"]["prompt_number_snippets"], response_rules=response_rules, 
@@ -84,6 +85,7 @@ def initialize_chat_conversation(conv_memory, snippets_memory, response_rules) -
                                                      memory_key='snippets', input_key="snippets", chat_memory=snippets_memory)
 
     memory = CombinedMemory(memories=[conv_memory, snippets_memory])
+    # print('memory:',memory)
     conversation = construct_conversation(prompt_header, llm, memory)
 
     return conversation

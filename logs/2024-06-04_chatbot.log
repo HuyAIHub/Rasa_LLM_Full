@@ -1,0 +1,31 @@
+2024-06-04 16:36:18,293 - Loading faiss with AVX512 support.
+2024-06-04 16:36:18,389 - Successfully loaded faiss with AVX512 support.
+2024-06-04 17:57:00,991 - ----------------NEW_SESSION--------------
+2024-06-04 17:57:00,992 - User: 431821
+2024-06-04 17:57:01,056 - ------------llm------------
+2024-06-04 17:57:01,056 - User: thông tin sản phẩm điều hoà
+2024-06-04 17:57:02,318 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-04 17:57:02,341 - Vcc_bot: Sản phẩm 'điều hoà' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+Các dòng sản phẩm rẻ tiền:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+
+2024-06-04 17:58:32,483 - ----------------NEW_SESSION--------------
+2024-06-04 17:58:32,483 - User: 431821
+2024-06-04 17:58:32,543 - ------------llm------------
+2024-06-04 17:58:32,544 - User: số lượng điều hoà hiện tại
+2024-06-04 17:58:33,725 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-04 17:58:33,759 - Vcc_bot: Không tìm thấy điều hoà hiện tại trong dữ liệu.

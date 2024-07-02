@@ -1,0 +1,1055 @@
+2024-06-06 09:06:53,762 - Loading faiss with AVX512 support.
+2024-06-06 09:06:53,780 - Successfully loaded faiss with AVX512 support.
+2024-06-06 09:07:41,482 - ----------------NEW_SESSION--------------
+2024-06-06 09:07:41,482 - User: 431821
+2024-06-06 09:07:41,482 - InputText: điều hoà
+2024-06-06 09:07:41,575 - Vcc_bot: Xin chào! Tôi là BotV, trợ lý mua sắm của bạn. Tôi có thể giúp gì cho bạn hôm nay?.
+2024-06-06 09:08:23,139 - ----------------NEW_SESSION--------------
+2024-06-06 09:08:23,139 - User: 431821
+2024-06-06 09:08:23,139 - InputText: bình nóng lạnh
+2024-06-06 09:08:23,186 - ------------llm------------
+2024-06-06 09:08:23,187 - User: bình nóng lạnh
+2024-06-06 09:08:24,334 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:08:24,383 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  bình nóng lạnh, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-06 09:08:36,599 - ----------------NEW_SESSION--------------
+2024-06-06 09:08:36,599 - User: 431821
+2024-06-06 09:08:36,599 - InputText: bình nước nóng
+2024-06-06 09:08:36,648 - ------------llm------------
+2024-06-06 09:08:36,648 - User: bình nước nóng
+2024-06-06 09:08:37,834 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:08:37,881 - Vcc_bot: Sản phẩm 'bình nước nóng' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy NLMT Empire 160 Lít Titan EPNL-TT1516 - Giá: 5122590 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Số ống: 15 ống 
+    • Dung tích: 160 lít
+    • Bình bảo ôn: Chất liệu Inox 304 
+- Máy NLMT Empire 130 Lít Titan EPNL-TT1213 - Giá: 4419910 - Số lượng đã bán: 9
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Số ống: 12 ống 
+    • Dung tích: 130 lít 
+    • Bình bảo ôn: Chất liệu Inox 304 
+- Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE - Giá: 3181896 - Số lượng đã bán: 15
+  Thông số kỹ thuật:
+    Dung tích: 30L 
+    Loại máy : gián tiếp 
+    Điện áp: 220 V 
+    Công suất (W): 2,500 
+    Chống giật : ELCB 
+Các dòng sản phẩm rẻ tiền:
+- Bình nước nóng gián tiếp 30 lít SL2 30 B 2.5 FE - Giá: 3181896 - Số lượng đã bán: 15
+  Thông số kỹ thuật:
+    Dung tích: 30L 
+    Loại máy : gián tiếp 
+    Điện áp: 220 V 
+    Công suất (W): 2,500 
+    Chống giật : ELCB 
+- Bình nước nóng gián tiếp 20 lít SL2 20 B 2.5 FE - Giá: 2817180 - Số lượng đã bán: 18
+  Thông số kỹ thuật:
+    Dung tích : 20 lít 
+    Loại máy : gián tiếp 
+    Chống giật : ELCB 
+    Thanh đốt bằng đồng 
+    Công suất : 2,5kW 
+- Bình nước nóng gián tiếp 15 lít AN2 15 B 2.5 FE - Giá: 2634876 - Số lượng đã bán: 10
+  Thông số kỹ thuật:
+    Loại: Máy nước nóng gián tiếp 
+    Dung tích: 15 lit 
+    Công suất: 2500W 
+    Nhiệt độ tối đa: 75 độ C 
+    Hệ thống chống rò điện: ELCB, Bộ ổn định nhiệt TBST, Vỏ chống thấm nước 
+
+2024-06-06 09:11:26,392 - Loading faiss with AVX512 support.
+2024-06-06 09:11:26,409 - Successfully loaded faiss with AVX512 support.
+2024-06-06 09:12:02,436 - ----------------NEW_SESSION--------------
+2024-06-06 09:12:02,437 - User: 431821
+2024-06-06 09:12:02,437 - InputText: điều hoà
+2024-06-06 09:12:02,530 - Vcc_bot: Xin chào! Tôi là BotV, trợ lý mua sắm của bạn. Tôi có thể giúp gì cho bạn hôm nay?.
+2024-06-06 09:12:49,744 - Loading faiss with AVX512 support.
+2024-06-06 09:12:49,763 - Successfully loaded faiss with AVX512 support.
+2024-06-06 09:13:47,344 - ----------------NEW_SESSION--------------
+2024-06-06 09:13:47,345 - User: 431821
+2024-06-06 09:13:47,345 - InputText: bình đun nước làm bằng chất liệu gì
+2024-06-06 09:17:40,990 - ----------------NEW_SESSION--------------
+2024-06-06 09:17:40,990 - User: 431821
+2024-06-06 09:17:40,990 - InputText: bình nước nóng làm bằng chất liệu gì
+2024-06-06 09:17:41,720 - ------------llm------------
+2024-06-06 09:17:41,721 - User: bình nước nóng làm bằng chất liệu gì
+2024-06-06 09:17:43,325 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:17:44,695 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:17:44,706 - Vcc_bot: AI: Các bình nước nóng trong danh sách sản phẩm được làm bằng chất liệu Inox 304.
+2024-06-06 09:17:55,351 - ----------------NEW_SESSION--------------
+2024-06-06 09:17:55,352 - User: 431821
+2024-06-06 09:17:55,352 - InputText: điều hoà
+2024-06-06 09:17:55,439 - Vcc_bot: Xin chào! Tôi là VCC AI BOT, trợ lý mua sắm của bạn. Tôi có thể giúp gì cho bạn hôm nay?.
+2024-06-06 09:29:38,348 - Loading faiss with AVX512 support.
+2024-06-06 09:29:38,366 - Successfully loaded faiss with AVX512 support.
+2024-06-06 09:43:44,137 - Loading faiss with AVX512 support.
+2024-06-06 09:43:44,155 - Successfully loaded faiss with AVX512 support.
+2024-06-06 09:44:59,246 - Loading faiss with AVX512 support.
+2024-06-06 09:44:59,264 - Successfully loaded faiss with AVX512 support.
+2024-06-06 09:45:54,157 - ----------------NEW_SESSION--------------
+2024-06-06 09:45:54,169 - User: f
+2024-06-06 09:45:54,169 - InputText: xin chào
+2024-06-06 09:45:54,920 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-06 09:46:02,613 - ----------------NEW_SESSION--------------
+2024-06-06 09:46:02,613 - User: f
+2024-06-06 09:46:02,613 - InputText: tồn kho
+2024-06-06 09:46:03,429 - Vcc_bot: Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI
+2024-06-06 09:46:09,635 - ----------------NEW_SESSION--------------
+2024-06-06 09:46:09,635 - User: f
+2024-06-06 09:46:09,635 - InputText: Điều hòa
+2024-06-06 09:46:09,669 - ------------llm------------
+2024-06-06 09:46:09,669 - User: Điều hòa
+2024-06-06 09:46:10,912 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:46:10,994 - Vcc_bot: Sản phẩm 'Điều hòa' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+Các dòng sản phẩm rẻ tiền:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+
+2024-06-06 09:47:42,922 - ----------------NEW_SESSION--------------
+2024-06-06 09:47:42,944 - User: f
+2024-06-06 09:47:42,944 - InputText: bình đun nước làm bằng chất liệu gì
+2024-06-06 09:47:43,013 - ------------llm------------
+2024-06-06 09:47:43,013 - User: bình đun nước làm bằng chất liệu gì
+2024-06-06 09:47:45,571 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:47:47,504 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:47:47,602 - Vcc_bot: AI: Bình đun nước Bluestone KTB-3417 có ruột bình làm bằng nhựa PP (không chứa BPA) và vỏ bình cũng làm bằng nhựa PP. Bình đun nước AIO Smart AIOKTO2L23W/1C5 có ruột bình làm bằng inox cao cấp SUS304.
+2024-06-06 09:50:51,265 - ----------------NEW_SESSION--------------
+2024-06-06 09:50:51,265 - User: f
+2024-06-06 09:50:51,265 - InputText: bình nóng lạnh có những loại nào
+2024-06-06 09:50:51,305 - ------------llm------------
+2024-06-06 09:50:51,305 - User: bình nóng lạnh có những loại nào
+2024-06-06 09:50:52,529 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:50:52,568 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  bình nóng lạnh, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-06 09:52:02,939 - ----------------NEW_SESSION--------------
+2024-06-06 09:52:02,939 - User: f
+2024-06-06 09:52:02,939 - InputText: máy giặt, máy lọc nước
+2024-06-06 09:52:02,976 - ------------llm------------
+2024-06-06 09:52:02,977 - User: máy giặt, máy lọc nước
+2024-06-06 09:52:04,150 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:52:04,221 - Vcc_bot: Sản phẩm 'máy giặt' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14450040 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    Loại máy giặt: Cửa trước 
+    Lồng giặt: Lồng ngang 
+    Khối lượng giặt: 10 Kg 
+    Số người sử dụng: Từ 5 - 7 người 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 - Số lượng đã bán: 11
+  Thông số kỹ thuật:
+    Loại máy giặt: Cửa trước 
+    Lồng giặt: Lồng ngang 
+    Khối lượng giặt: 10 Kg 
+    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+- Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11898480 - Số lượng đã bán: 9
+  Thông số kỹ thuật:
+    Loại máy giặt: Cửa trước 
+    Lồng giặt: Lồng ngang 
+    Khối lượng giặt: 10 Kg 
+    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+Các dòng sản phẩm rẻ tiền:
+- Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK - Giá: 6074970 - Số lượng đã bán: 11
+  Thông số kỹ thuật:
+    Loại máy giặt: Lồng đứng 
+    Động Cơ : Curoa 
+    Khối lượng giặt: 10 kg 
+    Lồng GiặtThép: không gỉ 
+    Khử mùi diệt khuẩn 
+- Máy Giặt Aqua 9 Kg AQW-F91GT.S - Giá: 5759050 - Số lượng đã bán: 11
+  Thông số kỹ thuật:
+    
+    • Loại máy giặt: Cửa trên 
+    • Lồng giặt: Lồng đứng 
+    • Khối lượng giặt: 9 Kg 
+    • Số người sử dụng: Từ 3 - 5 người 
+- Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4726370 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    Cửa trên - Lồng đứng 
+    Khối lượng giặt: 8 Kg 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+    Tốc độ quay vắt tối đa: 775 vòng/ phút 
+    Chất liệu lồng giặt: Thép không gỉ 
+Sản phẩm 'máy lọc nước' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống cấp lọc: 11 cấp 
+    • Công suất lọc: 10-15 Lít/ Giờ 
+    • Màng lọc: RO Dupon nhập khẩu từ Mỹ 
+- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Số ống: 18 ống 
+    • Dung tích: 180 lít 
+    • Bình bảo ôn: Chất liệu Inox 304 
+- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36
+  Thông số kỹ thuật:
+    
+    • Loại máy: Máy lọc nước RO, Để bàn 
+    • Số lõi lọc: 4 lõi 
+    • Dung tích bình chứa: 5 lít 
+    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) 
+Các dòng sản phẩm rẻ tiền:
+- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14
+  Thông số kỹ thuật:
+    
+    • Kiểu lắp đặt: Lắp âm 
+    • Loại máy: Máy lọc nước RO 
+    • Công nghệ lọc: Thẩm thấu ngược RO 
+    • Kháng khuẩn: Nano Silver 
+- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống lọc: 10 cấp 
+    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% 
+    • Công suất lọc: 10-15 lít / Giờ 
+- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Pentair 
+    • Xuất xứ lõi lọc chính: USA 
+    • Công suất: 3.785 Lít 
+    • Tốc độ chảy: 1.9 Lít/phút 
+
+2024-06-06 09:56:31,931 - ----------------NEW_SESSION--------------
+2024-06-06 09:56:31,932 - User: 428950
+2024-06-06 09:56:31,932 - InputText: /Tôi đang quan tâm sản phẩm điều hòa?
+2024-06-06 09:56:32,165 - ------------llm------------
+2024-06-06 09:56:32,166 - User: /Tôi đang quan tâm sản phẩm điều hòa?
+2024-06-06 09:56:33,383 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:56:33,398 - Vcc_bot: Sản phẩm 'điều hòa' tìm thấy:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240
+  Thông số kỹ thuật:
+    Loại: Điều hòa 2 chiều Inverter 
+    Công suất: 9.000 BTU/h (1 HP) 
+    Diện tích sử dụng: Dưới 15m² 
+    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h 
+    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:
+- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184
+  Thông số kỹ thuật:
+    Nguồn điện: 220-240V 
+    Công suất: 9500 Btu/h 
+    Công suất tiêu thụ: 745 W 
+    Cường độ dòng điện: 3.4 A
+     ERR: 3.54 W/W 
+
+2024-06-06 09:56:56,781 - ----------------NEW_SESSION--------------
+2024-06-06 09:56:56,781 - User: 428950
+2024-06-06 09:56:56,781 - InputText: /Tôi muốn biết VCC bán những gì?
+2024-06-06 09:56:56,823 - ------------llm------------
+2024-06-06 09:56:56,823 - User: /Tôi muốn biết VCC bán những gì?
+2024-06-06 09:56:57,967 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 09:56:58,002 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  vcc, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-06 10:00:58,382 - ----------------NEW_SESSION--------------
+2024-06-06 10:00:58,382 - User: 428950
+2024-06-06 10:00:58,382 - InputText: tôi muốn biết VCC bán những gì
+2024-06-06 10:00:58,425 - ------------llm------------
+2024-06-06 10:00:58,425 - User: tôi muốn biết VCC bán những gì
+2024-06-06 10:00:59,721 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:00:59,757 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  vcc, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-06 10:01:59,140 - ----------------NEW_SESSION--------------
+2024-06-06 10:01:59,140 - User: 428950
+2024-06-06 10:01:59,140 - InputText: cho tôi xem danh sách sản phẩm của vcc
+2024-06-06 10:01:59,189 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-06 10:05:24,425 - ----------------NEW_SESSION--------------
+2024-06-06 10:05:24,425 - User: 428950
+2024-06-06 10:05:24,425 - InputText: những sản phẩm của vcc
+2024-06-06 10:05:24,474 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-06 10:05:42,183 - ----------------NEW_SESSION--------------
+2024-06-06 10:05:42,183 - User: 428950
+2024-06-06 10:05:42,183 - InputText: những sản phẩm vcc đang kinh doanh
+2024-06-06 10:05:42,233 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-06 10:06:37,476 - Loading faiss with AVX512 support.
+2024-06-06 10:06:37,507 - Successfully loaded faiss with AVX512 support.
+2024-06-06 10:06:47,175 - ----------------NEW_SESSION--------------
+2024-06-06 10:06:47,176 - User: 428950
+2024-06-06 10:06:47,176 - InputText: Những sản phẩm VCC đang kinh doanh.
+2024-06-06 10:06:47,227 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-06 10:11:34,943 - Loading faiss with AVX512 support.
+2024-06-06 10:11:34,960 - Successfully loaded faiss with AVX512 support.
+2024-06-06 10:11:56,440 - ----------------NEW_SESSION--------------
+2024-06-06 10:11:56,441 - User: 428950
+2024-06-06 10:11:56,441 - InputText: sản phẩm Đèn năng mặt trời với giá khoảng 2 triệu?
+2024-06-06 10:11:56,491 - ------------llm------------
+2024-06-06 10:11:56,491 - User: sản phẩm Đèn năng mặt trời với giá khoảng 2 triệu?
+2024-06-06 10:11:58,429 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:11:58,474 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  đèn năng mặt trời, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-06 10:13:24,857 - ----------------NEW_SESSION--------------
+2024-06-06 10:13:24,857 - User: 428950
+2024-06-06 10:13:24,857 - InputText: đèn năng lượng mặt trời giá khoảng 2tr
+2024-06-06 10:13:24,907 - ------------llm------------
+2024-06-06 10:13:24,908 - User: đèn năng lượng mặt trời giá khoảng 2tr
+2024-06-06 10:13:26,400 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:13:27,377 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:13:29,877 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:13:29,891 - Vcc_bot: Dựa trên yêu cầu của bạn:
+	- 1 đèn năng lượng mặt trời với giá 2tr
+
+Để phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:
+	+ Với 1 Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK. Model: SF-03: 2051720VND - GÓI MUA SẮM MỨC 3
+		(Hiện tại không có chính sách hoa hồng cho sản phẩm này)
+
+Tổng giá trị của gói sản phẩm này là 2051720.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+Nếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.
+2024-06-06 10:17:18,165 - ----------------NEW_SESSION--------------
+2024-06-06 10:17:18,165 - User: 428950
+2024-06-06 10:17:18,165 - InputText: /Bạn đang quan tâm đến dịch vụ, chính sách của VCC?
+2024-06-06 10:17:18,222 - Vcc_bot: Nếu bạn cần biết thêm thông tin hoặc có yêu cầu cụ thể về dịch vụ của VCC, xin vui lòng cho biết.?
+2024-06-06 10:18:02,949 - ----------------NEW_SESSION--------------
+2024-06-06 10:18:02,950 - User: 428950
+2024-06-06 10:18:02,950 - InputText: /Đưa ra chính sách bảo hành
+2024-06-06 10:18:03,040 - Vcc_bot: Chính sách bảo hành sản phẩm của chúng tôi bao gồm:
+                1. Chính sách bảo hành 1 đổi 1
+                    1.1. Thời gian áp dụng
+                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.
+                    1.2. Điều kiện:
+                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.
+                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).
+                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)
+                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT
+                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+                    Lưu ý: Không áp dụng hoàn tiền sản phẩm
+                2. Chính sách bảo hành sửa chữa, thay thế linh kiện
+                    2.1. Thời gian
+                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.
+                    2.2. Phạm vi
+                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).
+                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.
+                    2.3. Điều kiện được bảo hành
+                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản
+                    phẩm bảo hành do TT. GP&DVKT ban hành.
+                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.
+                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.
+2024-06-06 10:21:15,094 - Loading faiss with AVX512 support.
+2024-06-06 10:21:15,112 - Successfully loaded faiss with AVX512 support.
+2024-06-06 10:22:24,453 - ----------------NEW_SESSION--------------
+2024-06-06 10:22:24,454 - User: 428950
+2024-06-06 10:22:24,454 - InputText: điều hòa có gì khác so với bình nóng lạnh
+2024-06-06 10:22:24,509 - ------------llm------------
+2024-06-06 10:22:24,509 - User: điều hòa có gì khác so với bình nóng lạnh
+2024-06-06 10:22:25,911 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:22:25,966 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  bình nóng lạnh, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-06 10:22:33,616 - Loading faiss with AVX512 support.
+2024-06-06 10:22:33,634 - Successfully loaded faiss with AVX512 support.
+2024-06-06 10:23:34,670 - ----------------NEW_SESSION--------------
+2024-06-06 10:23:34,670 - User: f
+2024-06-06 10:23:34,670 - InputText: Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?
+2024-06-06 10:23:34,722 - ------------llm------------
+2024-06-06 10:23:34,722 - User: Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?
+2024-06-06 10:23:36,975 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:23:39,763 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:23:39,766 - Vcc_bot: AI: Cả hai sản phẩm đều có công nghệ lọc RO, tuy nhiên, Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 có số lượng lõi lọc nhiều hơn (10 lõi lọc) so với Máy lọc nước Karofi KAQ-U06V (không được đề cập đến số lượng lõi lọc). Vì vậy, Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 có thể cung cấp mức độ lọc nước tốt hơn.
+2024-06-06 10:25:04,557 - ----------------NEW_SESSION--------------
+2024-06-06 10:25:04,557 - User: f
+2024-06-06 10:25:04,557 - InputText: Máy lọc nước Karofi và Máy lọc nước Empire cái nào tốt hơn?
+2024-06-06 10:25:04,607 - ------------llm------------
+2024-06-06 10:25:04,607 - User: Máy lọc nước Karofi và Máy lọc nước Empire cái nào tốt hơn?
+2024-06-06 10:25:11,198 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:25:15,860 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:25:15,863 - Vcc_bot: Assistant: Máy lọc nước Karofi và Máy lọc nước Empire đều có những ưu điểm riêng. Máy lọc nước Karofi KAQ-U06V có kiểu lắp đặt lắp âm, loại máy lọc nước RO và công nghệ lọc thẩm thấu ngược RO. Ngoài ra, máy còn có khả năng kháng khuẩn bằng công nghệ Nano Silver. Trong khi đó, Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 có hệ thống cấp lọc 11 cấp và công suất lọc 10-15 Lít/ Giờ. Màng lọc của máy là RO Dupon nhập khẩu từ Mỹ. Tùy thuộc vào nhu cầu sử dụng và yêu cầu của bạn, bạn có thể lựa chọn máy lọc nước phù hợp.
+2024-06-06 10:27:54,415 - ----------------NEW_SESSION--------------
+2024-06-06 10:27:54,415 - User: 428950
+2024-06-06 10:27:54,415 - InputText: số lượng sản phẩm đèn năng lượng mặt trời
+2024-06-06 10:27:54,471 - ------------llm------------
+2024-06-06 10:27:54,472 - User: số lượng sản phẩm đèn năng lượng mặt trời
+2024-06-06 10:27:55,837 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:27:55,882 - Vcc_bot: Số lượng đèn năng lượng mặt trời : 84 sản phẩm
+
+2024-06-06 10:34:36,574 - Loading faiss with AVX512 support.
+2024-06-06 10:34:36,592 - Successfully loaded faiss with AVX512 support.
+2024-06-06 10:34:38,698 - ----------------NEW_SESSION--------------
+2024-06-06 10:34:38,698 - User: f
+2024-06-06 10:34:38,699 - InputText: Máy lọc nước Karofi và Máy lọc nước Empire cái nào tốt hơn?
+2024-06-06 10:34:38,751 - ------------llm------------
+2024-06-06 10:34:38,751 - User: Máy lọc nước Karofi và Máy lọc nước Empire cái nào tốt hơn?
+2024-06-06 10:34:40,474 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:34:44,257 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:34:44,260 - Vcc_bot: AI: Cả hai máy lọc nước Karofi và Empire đều có những ưu điểm riêng. Máy lọc nước Karofi KAQ-U06V có công nghệ lọc thẩm thấu ngược RO và kháng khuẩn bằng công nghệ Nano Silver. Trong khi đó, máy lọc nước Empire EPML066 có hệ thống cấp lọc 11 cấp và màng lọc RO Dupon nhập khẩu từ Mỹ. Tùy thuộc vào nhu cầu và yêu cầu của bạn, bạn có thể lựa chọn máy lọc nước phù hợp.
+2024-06-06 10:46:51,627 - ----------------NEW_SESSION--------------
+2024-06-06 10:46:51,628 - User: 431821
+2024-06-06 10:46:51,628 - InputText: xin chào
+2024-06-06 10:46:51,775 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-06 10:47:01,451 - ----------------NEW_SESSION--------------
+2024-06-06 10:47:01,451 - User: 431821
+2024-06-06 10:47:01,451 - InputText: tems
+2024-06-06 10:47:01,515 - Vcc_bot: Xin chào! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-06 10:47:38,086 - ----------------NEW_SESSION--------------
+2024-06-06 10:47:38,086 - User: 431821
+2024-06-06 10:47:38,086 - InputText: /Tôi đang quan tâm sản phẩm điều hòa?
+2024-06-06 10:47:38,145 - ------------llm------------
+2024-06-06 10:47:38,145 - User: /Tôi đang quan tâm sản phẩm điều hòa?
+2024-06-06 10:47:39,437 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 10:47:39,458 - Vcc_bot: Sản phẩm 'điều hòa' tìm thấy:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240
+  Thông số kỹ thuật:
+    Loại: Điều hòa 2 chiều Inverter 
+    Công suất: 9.000 BTU/h (1 HP) 
+    Diện tích sử dụng: Dưới 15m² 
+    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h 
+    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:
+- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184
+  Thông số kỹ thuật:
+    Nguồn điện: 220-240V 
+    Công suất: 9500 Btu/h 
+    Công suất tiêu thụ: 745 W 
+    Cường độ dòng điện: 3.4 A
+     ERR: 3.54 W/W 
+
+2024-06-06 10:50:05,898 - ----------------NEW_SESSION--------------
+2024-06-06 10:50:05,898 - User: 428950
+2024-06-06 10:50:05,898 - InputText: Những sản phẩm VCC đang kinh doanh.
+2024-06-06 10:50:05,962 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-06 10:57:55,492 - ----------------NEW_SESSION--------------
+2024-06-06 10:57:55,492 - User: 428950
+2024-06-06 10:57:55,492 - InputText: tồn kho
+2024-06-06 10:57:55,593 - Vcc_bot: Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI
+2024-06-06 10:59:53,353 - ----------------NEW_SESSION--------------
+2024-06-06 10:59:53,354 - User: 428950
+2024-06-06 10:59:53,354 - InputText: điều hòa có giá trên 10tr
+2024-06-06 10:59:53,412 - ------------llm------------
+2024-06-06 10:59:53,412 - User: điều hòa có giá trên 10tr
+2024-06-06 10:59:53,421 - Vcc_bot: Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-06 11:00:06,592 - ----------------NEW_SESSION--------------
+2024-06-06 11:00:06,592 - User: 428950
+2024-06-06 11:00:06,592 - InputText: điều hòa có giá trên 10 triệu
+2024-06-06 11:00:06,652 - ------------llm------------
+2024-06-06 11:00:06,652 - User: điều hòa có giá trên 10 triệu
+2024-06-06 11:00:06,661 - Vcc_bot: Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-06 11:00:30,281 - ----------------NEW_SESSION--------------
+2024-06-06 11:00:30,282 - User: 428950
+2024-06-06 11:00:30,282 - InputText: máy giặt có giá trên 10 triệu
+2024-06-06 11:00:30,340 - ------------llm------------
+2024-06-06 11:00:30,341 - User: máy giặt có giá trên 10 triệu
+2024-06-06 11:00:30,349 - Vcc_bot: Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-06 11:00:49,673 - ----------------NEW_SESSION--------------
+2024-06-06 11:00:49,673 - User: 428950
+2024-06-06 11:00:49,673 - InputText: bếp từ có giá trên 2 triệu
+2024-06-06 11:00:49,735 - ------------llm------------
+2024-06-06 11:00:49,735 - User: bếp từ có giá trên 2 triệu
+2024-06-06 11:00:49,744 - Vcc_bot: Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-06 11:01:05,390 - ----------------NEW_SESSION--------------
+2024-06-06 11:01:05,390 - User: 428950
+2024-06-06 11:01:05,390 - InputText: điều hòa có giá 5 triệu
+2024-06-06 11:01:05,452 - ------------llm------------
+2024-06-06 11:01:05,453 - User: điều hòa có giá 5 triệu
+2024-06-06 11:01:11,623 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:01:21,678 - Retrying request to /chat/completions in 0.892672 seconds
+2024-06-06 11:01:23,686 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:01:24,271 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:01:24,280 - Vcc_bot: Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-06 11:01:55,057 - ----------------NEW_SESSION--------------
+2024-06-06 11:01:55,058 - User: 428950
+2024-06-06 11:01:55,058 - InputText: nồi cơm điện giá trên 3 tr
+2024-06-06 11:01:55,121 - ------------llm------------
+2024-06-06 11:01:55,121 - User: nồi cơm điện giá trên 3 tr
+2024-06-06 11:01:56,421 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:01:57,495 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:01:58,325 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:01:58,343 - Vcc_bot: Dựa trên yêu cầu của bạn:
+	- 1 nồi cơm điện với giá trên 3 tr
+
+Để phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:
+	+ Với 1 Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991: 4387680VND - GÓI MUA SẮM MỨC 3
+		(Hiện tại không có chính sách hoa hồng cho sản phẩm này)
+
+Tổng giá trị của gói sản phẩm này là 4387680.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+Nếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.
+2024-06-06 11:03:22,836 - ----------------NEW_SESSION--------------
+2024-06-06 11:03:22,836 - User: 428950
+2024-06-06 11:03:22,836 - InputText: máy giặt, máy lọc nước
+2024-06-06 11:03:22,900 - ------------llm------------
+2024-06-06 11:03:22,900 - User: máy giặt, máy lọc nước
+2024-06-06 11:03:29,051 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:03:29,128 - Vcc_bot: Sản phẩm 'máy giặt' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14450040 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    Loại máy giặt: Cửa trước 
+    Lồng giặt: Lồng ngang 
+    Khối lượng giặt: 10 Kg 
+    Số người sử dụng: Từ 5 - 7 người 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 - Số lượng đã bán: 11
+  Thông số kỹ thuật:
+    Loại máy giặt: Cửa trước 
+    Lồng giặt: Lồng ngang 
+    Khối lượng giặt: 10 Kg 
+    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+- Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11898480 - Số lượng đã bán: 9
+  Thông số kỹ thuật:
+    Loại máy giặt: Cửa trước 
+    Lồng giặt: Lồng ngang 
+    Khối lượng giặt: 10 Kg 
+    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+Các dòng sản phẩm rẻ tiền:
+- Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK - Giá: 6074970 - Số lượng đã bán: 11
+  Thông số kỹ thuật:
+    Loại máy giặt: Lồng đứng 
+    Động Cơ : Curoa 
+    Khối lượng giặt: 10 kg 
+    Lồng GiặtThép: không gỉ 
+    Khử mùi diệt khuẩn 
+- Máy Giặt Aqua 9 Kg AQW-F91GT.S - Giá: 5759050 - Số lượng đã bán: 11
+  Thông số kỹ thuật:
+    
+    • Loại máy giặt: Cửa trên 
+    • Lồng giặt: Lồng đứng 
+    • Khối lượng giặt: 9 Kg 
+    • Số người sử dụng: Từ 3 - 5 người 
+- Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4726370 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    Cửa trên - Lồng đứng 
+    Khối lượng giặt: 8 Kg 
+    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+    Tốc độ quay vắt tối đa: 775 vòng/ phút 
+    Chất liệu lồng giặt: Thép không gỉ 
+Sản phẩm 'máy lọc nước' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống cấp lọc: 11 cấp 
+    • Công suất lọc: 10-15 Lít/ Giờ 
+    • Màng lọc: RO Dupon nhập khẩu từ Mỹ 
+- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Số ống: 18 ống 
+    • Dung tích: 180 lít 
+    • Bình bảo ôn: Chất liệu Inox 304 
+- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36
+  Thông số kỹ thuật:
+    
+    • Loại máy: Máy lọc nước RO, Để bàn 
+    • Số lõi lọc: 4 lõi 
+    • Dung tích bình chứa: 5 lít 
+    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) 
+Các dòng sản phẩm rẻ tiền:
+- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14
+  Thông số kỹ thuật:
+    
+    • Kiểu lắp đặt: Lắp âm 
+    • Loại máy: Máy lọc nước RO 
+    • Công nghệ lọc: Thẩm thấu ngược RO 
+    • Kháng khuẩn: Nano Silver 
+- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống lọc: 10 cấp 
+    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% 
+    • Công suất lọc: 10-15 lít / Giờ 
+- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Pentair 
+    • Xuất xứ lõi lọc chính: USA 
+    • Công suất: 3.785 Lít 
+    • Tốc độ chảy: 1.9 Lít/phút 
+
+2024-06-06 11:25:40,830 - Loading faiss with AVX512 support.
+2024-06-06 11:25:40,950 - Successfully loaded faiss with AVX512 support.
+2024-06-06 11:26:12,119 - ----------------NEW_SESSION--------------
+2024-06-06 11:26:12,119 - User: f
+2024-06-06 11:26:12,119 - InputText: tồn kho
+2024-06-06 11:26:12,219 - Vcc_bot: Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI
+2024-06-06 11:26:20,120 - ----------------NEW_SESSION--------------
+2024-06-06 11:26:20,120 - User: f
+2024-06-06 11:26:20,120 - InputText: xin chào
+2024-06-06 11:26:20,194 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-06 11:26:33,755 - ----------------NEW_SESSION--------------
+2024-06-06 11:26:33,755 - User: f
+2024-06-06 11:26:33,755 - InputText: Điều hòa giá trên 1tr
+2024-06-06 11:26:33,816 - ------------llm------------
+2024-06-06 11:26:33,816 - User: Điều hòa giá trên 1tr
+2024-06-06 11:26:40,105 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:26:41,365 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:26:41,988 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 11:26:41,997 - Vcc_bot: Dựa trên yêu cầu của bạn:
+	- 1 điều hòa với giá trên 1tr
+
+Để phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:
+	+ Với 1 Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023: 23423180VND - GÓI MUA SẮM MỨC 3
+		(Hiện tại không có chính sách hoa hồng cho sản phẩm này)
+
+Tổng giá trị của gói sản phẩm này là 23423180.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+Nếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.
+2024-06-06 15:19:22,020 - Loading faiss with AVX512 support.
+2024-06-06 15:19:22,040 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:20:15,601 - Loading faiss with AVX512 support.
+2024-06-06 15:20:15,618 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:24:13,895 - Loading faiss with AVX512 support.
+2024-06-06 15:24:13,913 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:26:38,344 - Loading faiss with AVX512 support.
+2024-06-06 15:26:38,362 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:30:49,912 - Loading faiss with AVX512 support.
+2024-06-06 15:30:49,930 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:30:54,951 - ----------------NEW_SESSION--------------
+2024-06-06 15:30:54,951 - User: 428950
+2024-06-06 15:30:54,951 - InputText: xin chào
+2024-06-06 15:30:55,097 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-06 15:32:35,823 - Loading faiss with AVX512 support.
+2024-06-06 15:32:35,841 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:34:14,778 - Loading faiss with AVX512 support.
+2024-06-06 15:34:14,796 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:34:30,933 - ----------------NEW_SESSION--------------
+2024-06-06 15:34:30,933 - User: 428950
+2024-06-06 15:34:30,933 - InputText: None
+2024-06-06 15:37:29,405 - ----------------NEW_SESSION--------------
+2024-06-06 15:37:29,406 - User: 428950
+2024-06-06 15:37:29,406 - InputText: None
+2024-06-06 15:38:07,827 - Loading faiss with AVX512 support.
+2024-06-06 15:38:07,846 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:42:49,462 - Loading faiss with AVX512 support.
+2024-06-06 15:42:49,480 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:42:59,974 - ----------------NEW_SESSION--------------
+2024-06-06 15:42:59,974 - User: 428950
+2024-06-06 15:42:59,974 - InputText: Máy sấy tóc
+2024-06-06 15:43:00,080 - ------------llm------------
+2024-06-06 15:43:00,080 - User: Máy sấy tóc
+2024-06-06 15:43:01,376 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 15:43:01,423 - Vcc_bot: Sản phẩm 'Máy sấy tóc' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng - Giá: 10470240 - Số lượng đã bán: 6
+  Thông số kỹ thuật:
+    
+    • Màu sắc: Trắng 
+    • Xuất xứ: Thái Lan 
+    • Năm ra mắt: 2022 
+    • Thời gian bảo hành: 24 Tháng 
+- Máy sấy tóc 1200W Philips BHC010/10 - Giá: 352330 - Số lượng đã bán: 6
+  Thông số kỹ thuật:
+    
+    • Công suất: 1200W 
+    • Tốc độ sấy: 2 tốc độ, có sấy mát 
+    • Đầu sấy: Đầu sấy hẹp 
+    • Kiểu dáng: Tay cầm gấp gọn 
+Các dòng sản phẩm rẻ tiền:
+- Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng - Giá: 10470240 - Số lượng đã bán: 6
+  Thông số kỹ thuật:
+    
+    • Màu sắc: Trắng 
+    • Xuất xứ: Thái Lan 
+    • Năm ra mắt: 2022 
+    • Thời gian bảo hành: 24 Tháng 
+- Máy sấy tóc 1200W Philips BHC010/10 - Giá: 352330 - Số lượng đã bán: 6
+  Thông số kỹ thuật:
+    
+    • Công suất: 1200W 
+    • Tốc độ sấy: 2 tốc độ, có sấy mát 
+    • Đầu sấy: Đầu sấy hẹp 
+    • Kiểu dáng: Tay cầm gấp gọn 
+
+2024-06-06 15:43:35,426 - ----------------NEW_SESSION--------------
+2024-06-06 15:43:35,427 - User: 428950
+2024-06-06 15:43:35,427 - InputText: Thiết bị Wifi
+2024-06-06 15:43:35,471 - ------------llm------------
+2024-06-06 15:43:35,471 - User: Thiết bị Wifi
+2024-06-06 15:43:37,054 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 15:43:37,106 - Vcc_bot: Sản phẩm 'Thiết bị Wifi' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51
+  Thông số kỹ thuật:
+    
+    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) 
+    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép 
+    • Cổng LAN: 3 cổng LAN 10/100/1000M 
+    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc 
+- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48
+  Thông số kỹ thuật:
+    
+    • Tốc độ: 1167Mbps 
+    • Băng tần: 2 băng tần 2.4GHz và 5GHz 
+    • Số lượng người dùng truy cập đồng thời: 20+ 1 
+    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps 
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50
+  Thông số kỹ thuật:
+    Dòng điện ra: 9V 1A 
+    Dòng điện vào: 100-240V-50/60Hz, 0.2A 
+    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) 
+    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps 
+    Hãng sản xuất: Tenda 
+Các dòng sản phẩm rẻ tiền:
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas 
+    Kích thước: (L x W x H) 204*147.5*211mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz 
+- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34
+  Thông số kỹ thuật:
+    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps 
+    Công suất truyền: Lên đến 20dBm
+    giá: 314600
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) 
+    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC
+
+2024-06-06 15:46:11,011 - Loading faiss with AVX512 support.
+2024-06-06 15:46:11,028 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:46:21,052 - ----------------NEW_SESSION--------------
+2024-06-06 15:46:21,053 - User: 428950
+2024-06-06 15:46:21,053 - InputText: Thiết bị Wifi
+2024-06-06 15:46:21,101 - ------------llm------------
+2024-06-06 15:46:21,102 - User: Thiết bị Wifi
+2024-06-06 15:46:22,256 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 15:46:22,303 - Vcc_bot: Sản phẩm 'Thiết bị Wifi' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51
+  Thông số kỹ thuật:
+    
+    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) 
+    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép 
+    • Cổng LAN: 3 cổng LAN 10/100/1000M 
+    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc 
+- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48
+  Thông số kỹ thuật:
+    
+    • Tốc độ: 1167Mbps 
+    • Băng tần: 2 băng tần 2.4GHz và 5GHz 
+    • Số lượng người dùng truy cập đồng thời: 20+ 1 
+    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps 
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50
+  Thông số kỹ thuật:
+    Dòng điện ra: 9V 1A 
+    Dòng điện vào: 100-240V-50/60Hz, 0.2A 
+    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) 
+    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps 
+    Hãng sản xuất: Tenda 
+Các dòng sản phẩm rẻ tiền:
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas 
+    Kích thước: (L x W x H) 204*147.5*211mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz 
+- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34
+  Thông số kỹ thuật:
+    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps 
+    Công suất truyền: Lên đến 20dBm
+    giá: 314600
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) 
+    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC
+
+2024-06-06 15:47:02,554 - Loading faiss with AVX512 support.
+2024-06-06 15:47:02,572 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:47:58,184 - Loading faiss with AVX512 support.
+2024-06-06 15:47:58,202 - Successfully loaded faiss with AVX512 support.
+2024-06-06 15:48:33,827 - ----------------NEW_SESSION--------------
+2024-06-06 15:48:33,828 - User: 428950
+2024-06-06 15:48:33,828 - InputText: Máy hút bụi
+2024-06-06 15:48:33,872 - ------------llm------------
+2024-06-06 15:48:33,873 - User: Máy hút bụi
+2024-06-06 15:48:35,028 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 15:48:35,083 - Vcc_bot: Sản phẩm 'Máy hút bụi' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy Hút Bụi Bluestone Vcb-8067 - Giá: 3265020 - Số lượng đã bán: 6
+  Thông số kỹ thuật:
+    Công suất hoạt động:1800W 
+    Công suất hút bụi:330W 
+    Bộ lọc:Bộ lọc HEPA 
+    Độ ồn:83 dB 
+    Tiện ích:Dây điện tự thu gọn 
+Các dòng sản phẩm rẻ tiền:
+- Máy Hút Bụi Bluestone Vcb-8067 - Giá: 3265020 - Số lượng đã bán: 6
+  Thông số kỹ thuật:
+    Công suất hoạt động:1800W 
+    Công suất hút bụi:330W 
+    Bộ lọc:Bộ lọc HEPA 
+    Độ ồn:83 dB 
+    Tiện ích:Dây điện tự thu gọn 
+
+2024-06-06 15:55:05,081 - Loading faiss with AVX512 support.
+2024-06-06 15:55:05,099 - Successfully loaded faiss with AVX512 support.
+2024-06-06 16:26:30,807 - Loading faiss with AVX512 support.
+2024-06-06 16:26:30,826 - Successfully loaded faiss with AVX512 support.
+2024-06-06 16:26:51,005 - ----------------NEW_SESSION--------------
+2024-06-06 16:26:51,005 - User: 428950
+2024-06-06 16:26:51,005 - InputText: Lò vi sóng
+2024-06-06 16:26:51,058 - ------------llm------------
+2024-06-06 16:26:51,058 - User: Lò vi sóng
+2024-06-06 16:26:57,081 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 16:26:57,129 - Vcc_bot: Sản phẩm 'Lò vi sóng' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Lò Nướng Bluestone Eob-7567 - Giá: 3606640 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    Loại lò nướng:Lò nướng thùng 
+    Dung tích:45 lít 
+    Công suất:2000W 
+    Hẹn giờ:Hẹn giờ lên tới 60 phút 
+    Nhiệt độ:100 - 230ºC 
+- Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít - Giá: 2346850 - Số lượng đã bán: 28
+  Thông số kỹ thuật:
+    
+    • Loại lò: Lò vi sóng có nướng 
+    • Dung tích: 20 lít 
+    • Công suất vi sóng: 1270W 
+    • Công suất nướng: 1000W 
+- Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít - Giá: 1981000 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Kalite 
+    • Dung tích: 4 lít 
+    • Công suất: 1300W 
+    • Lòng nồi: Ceramic chống dính 
+Các dòng sản phẩm rẻ tiền:
+- Lò Nướng Bluestone Eob-7567 - Giá: 3606640 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    Loại lò nướng:Lò nướng thùng 
+    Dung tích:45 lít 
+    Công suất:2000W 
+    Hẹn giờ:Hẹn giờ lên tới 60 phút 
+    Nhiệt độ:100 - 230ºC 
+- Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít - Giá: 2346850 - Số lượng đã bán: 28
+  Thông số kỹ thuật:
+    
+    • Loại lò: Lò vi sóng có nướng 
+    • Dung tích: 20 lít 
+    • Công suất vi sóng: 1270W 
+    • Công suất nướng: 1000W 
+- Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít - Giá: 1981000 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Kalite 
+    • Dung tích: 4 lít 
+    • Công suất: 1300W 
+    • Lòng nồi: Ceramic chống dính 
+
+2024-06-06 16:27:26,159 - ----------------NEW_SESSION--------------
+2024-06-06 16:27:26,159 - User: 428950
+2024-06-06 16:27:26,159 - InputText: Máy lọc nước
+2024-06-06 16:27:26,203 - ------------llm------------
+2024-06-06 16:27:26,204 - User: Máy lọc nước
+2024-06-06 16:27:27,427 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 16:27:27,474 - Vcc_bot: Sản phẩm 'Máy lọc nước' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống cấp lọc: 11 cấp 
+    • Công suất lọc: 10-15 Lít/ Giờ 
+    • Màng lọc: RO Dupon nhập khẩu từ Mỹ 
+- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Số ống: 18 ống 
+    • Dung tích: 180 lít 
+    • Bình bảo ôn: Chất liệu Inox 304 
+- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36
+  Thông số kỹ thuật:
+    
+    • Loại máy: Máy lọc nước RO, Để bàn 
+    • Số lõi lọc: 4 lõi 
+    • Dung tích bình chứa: 5 lít 
+    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) 
+Các dòng sản phẩm rẻ tiền:
+- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14
+  Thông số kỹ thuật:
+    
+    • Kiểu lắp đặt: Lắp âm 
+    • Loại máy: Máy lọc nước RO 
+    • Công nghệ lọc: Thẩm thấu ngược RO 
+    • Kháng khuẩn: Nano Silver 
+- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống lọc: 10 cấp 
+    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% 
+    • Công suất lọc: 10-15 lít / Giờ 
+- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Pentair 
+    • Xuất xứ lõi lọc chính: USA 
+    • Công suất: 3.785 Lít 
+    • Tốc độ chảy: 1.9 Lít/phút 
+
+2024-06-06 16:36:36,066 - Loading faiss with AVX512 support.
+2024-06-06 16:36:36,084 - Successfully loaded faiss with AVX512 support.
+2024-06-06 16:36:56,916 - ----------------NEW_SESSION--------------
+2024-06-06 16:36:56,916 - User: 428950
+2024-06-06 16:36:56,916 - InputText: Thiết bị Wifi
+2024-06-06 16:36:56,971 - ------------llm------------
+2024-06-06 16:36:56,971 - User: Thiết bị Wifi
+2024-06-06 16:37:03,085 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 16:37:03,133 - Vcc_bot: Sản phẩm 'Thiết bị Wifi' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51
+  Thông số kỹ thuật:
+    
+    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) 
+    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép 
+    • Cổng LAN: 3 cổng LAN 10/100/1000M 
+    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc 
+- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48
+  Thông số kỹ thuật:
+    
+    • Tốc độ: 1167Mbps 
+    • Băng tần: 2 băng tần 2.4GHz và 5GHz 
+    • Số lượng người dùng truy cập đồng thời: 20+ 1 
+    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps 
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50
+  Thông số kỹ thuật:
+    Dòng điện ra: 9V 1A 
+    Dòng điện vào: 100-240V-50/60Hz, 0.2A 
+    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) 
+    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps 
+    Hãng sản xuất: Tenda 
+Các dòng sản phẩm rẻ tiền:
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas 
+    Kích thước: (L x W x H) 204*147.5*211mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz 
+- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34
+  Thông số kỹ thuật:
+    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps 
+    Công suất truyền: Lên đến 20dBm
+    giá: 314600
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) 
+    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC
+
+2024-06-06 17:06:29,559 - Loading faiss with AVX512 support.
+2024-06-06 17:06:29,578 - Successfully loaded faiss with AVX512 support.
+2024-06-06 17:06:46,887 - ----------------NEW_SESSION--------------
+2024-06-06 17:06:46,887 - User: 428950
+2024-06-06 17:06:46,887 - InputText: Thiết bị Wifi
+2024-06-06 17:06:46,944 - ------------llm------------
+2024-06-06 17:06:46,944 - User: Thiết bị Wifi
+2024-06-06 17:06:48,124 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 17:06:48,173 - Vcc_bot: Sản phẩm 'Thiết bị Wifi' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51
+  Thông số kỹ thuật:
+    
+    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) 
+    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép 
+    • Cổng LAN: 3 cổng LAN 10/100/1000M 
+    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc 
+- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48
+  Thông số kỹ thuật:
+    
+    • Tốc độ: 1167Mbps 
+    • Băng tần: 2 băng tần 2.4GHz và 5GHz 
+    • Số lượng người dùng truy cập đồng thời: 20+ 1 
+    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps 
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50
+  Thông số kỹ thuật:
+    Dòng điện ra: 9V 1A 
+    Dòng điện vào: 100-240V-50/60Hz, 0.2A 
+    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) 
+    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps 
+    Hãng sản xuất: Tenda 
+Các dòng sản phẩm rẻ tiền:
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas 
+    Kích thước: (L x W x H) 204*147.5*211mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz 
+- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34
+  Thông số kỹ thuật:
+    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps 
+    Công suất truyền: Lên đến 20dBm
+    giá: 314600
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) 
+    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC
+
+2024-06-06 17:29:07,619 - Loading faiss with AVX512 support.
+2024-06-06 17:29:07,637 - Successfully loaded faiss with AVX512 support.

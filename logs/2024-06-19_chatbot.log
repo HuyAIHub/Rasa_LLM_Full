@@ -1,0 +1,46 @@
+2024-06-19 16:06:40,245 - Loading faiss with AVX512 support.
+2024-06-19 16:06:40,654 - Could not load library with AVX512 support due to:
+ImportError('numpy.core.multiarray failed to import')
+2024-06-19 16:06:40,655 - Loading faiss with AVX2 support.
+2024-06-19 16:06:41,116 - Could not load library with AVX2 support due to:
+ImportError('numpy.core.multiarray failed to import')
+2024-06-19 16:06:41,117 - Loading faiss.
+2024-06-19 16:21:17,862 - ----------------NEW_SESSION--------------
+2024-06-19 16:21:17,862 - User: 428950
+2024-06-19 16:21:17,862 - InputText: xin chào
+2024-06-19 16:21:51,639 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-19 16:22:04,731 - ----------------NEW_SESSION--------------
+2024-06-19 16:22:04,732 - User: 428950
+2024-06-19 16:22:04,732 - InputText: xin chào
+2024-06-19 16:22:05,911 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-06-19 16:25:34,227 - ----------------NEW_SESSION--------------
+2024-06-19 16:25:34,227 - User: 428950
+2024-06-19 16:25:34,228 - InputText: None
+2024-06-19 16:28:01,373 - ----------------NEW_SESSION--------------
+2024-06-19 16:28:01,373 - User: 428950
+2024-06-19 16:28:01,373 - InputText: None
+2024-06-19 16:29:45,525 - ----------------NEW_SESSION--------------
+2024-06-19 16:29:45,526 - User: 428950
+2024-06-19 16:29:45,526 - InputText: None
+2024-06-19 16:32:08,304 - ----------------NEW_SESSION--------------
+2024-06-19 16:32:08,304 - User: 428950
+2024-06-19 16:32:08,304 - InputText: None
+2024-06-19 16:43:09,635 - ----------------NEW_SESSION--------------
+2024-06-19 16:43:09,635 - User: 428950
+2024-06-19 16:43:09,635 - InputText: những người chơi thế tế tự chẳng phải ngắm vị trí của mình.
+2024-06-19 16:43:11,419 - Vcc_bot: Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-19 16:44:57,781 - ----------------NEW_SESSION--------------
+2024-06-19 16:44:57,781 - User: 428950
+2024-06-19 16:44:57,781 - InputText: chúng tôi đang thấy ngạc nhiên do đói tăng giá trị tại địa bàn.
+2024-06-19 16:44:59,190 - Vcc_bot: Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?
+2024-06-19 16:46:34,297 - ----------------NEW_SESSION--------------
+2024-06-19 16:46:34,297 - User: 428950
+2024-06-19 16:46:34,297 - InputText: những bức ảnh điện thoại và năng lực trên các đường phố phải đi tìm.
+2024-06-19 16:46:35,294 - Vcc_bot: Nếu bạn gặp vấn đề với đơn hàng của mình, bạn có thể liên hệ với bộ phận VCC để được hỗ trợ. Trong vòng 48 giờ, bạn có thể liên hệ với VCC và cung cấp các bằng chứng liên quan (nếu có) để họ có thể giải quyết vấn đề của bạn một cách nhanh chóng. Bạn có thể liên hệ với VCC thông qua chat trực tuyến trên trang web hoặc ứng dụng bán hàng của VCC.
+2024-06-21 15:33:59,221 - ----------------NEW_SESSION--------------
+2024-06-21 15:33:59,222 - User: 428950
+2024-06-21 15:33:59,222 - InputText: xin chào
+2024-06-21 15:33:59,927 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!

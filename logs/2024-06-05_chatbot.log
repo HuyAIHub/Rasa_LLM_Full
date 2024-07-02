@@ -1,0 +1,314 @@
+2024-06-05 17:06:17,832 - Loading faiss with AVX512 support.
+2024-06-05 17:06:17,850 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:07:29,158 - ----------------NEW_SESSION--------------
+2024-06-05 17:07:29,159 - User: Huy1
+2024-06-05 17:07:29,159 - InputText: tôi vừa hỏi gì
+2024-06-05 17:07:29,900 - ------------llm------------
+2024-06-05 17:07:29,900 - User: tôi vừa hỏi gì
+2024-06-05 17:07:30,849 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:07:32,773 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:07:32,776 - Vcc_bot: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.
+2024-06-05 17:08:59,588 - Loading faiss with AVX512 support.
+2024-06-05 17:08:59,605 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:09:16,354 - ----------------NEW_SESSION--------------
+2024-06-05 17:09:16,354 - User: Huy1
+2024-06-05 17:09:16,354 - InputText: tôi vừa hỏi gì
+2024-06-05 17:09:16,390 - ------------llm------------
+2024-06-05 17:09:16,390 - User: tôi vừa hỏi gì
+2024-06-05 17:09:17,554 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:09:19,735 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:09:19,738 - Vcc_bot: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.
+2024-06-05 17:13:20,152 - Loading faiss with AVX512 support.
+2024-06-05 17:13:20,169 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:13:23,519 - ----------------NEW_SESSION--------------
+2024-06-05 17:13:23,520 - User: Huy1
+2024-06-05 17:13:23,520 - InputText: tôi vừa hỏi gì
+2024-06-05 17:13:23,556 - ------------llm------------
+2024-06-05 17:13:23,556 - User: tôi vừa hỏi gì
+2024-06-05 17:13:24,604 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:13:26,793 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:13:26,796 - Vcc_bot: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.
+2024-06-05 17:14:45,170 - Loading faiss with AVX512 support.
+2024-06-05 17:14:45,187 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:14:47,847 - ----------------NEW_SESSION--------------
+2024-06-05 17:14:47,847 - User: Huy1
+2024-06-05 17:14:47,847 - InputText: tôi vừa hỏi gì
+2024-06-05 17:14:47,884 - ------------llm------------
+2024-06-05 17:14:47,884 - User: tôi vừa hỏi gì
+2024-06-05 17:14:48,809 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:14:50,685 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:14:50,688 - Vcc_bot: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.
+2024-06-05 17:15:12,159 - ----------------NEW_SESSION--------------
+2024-06-05 17:15:12,159 - User: Huy1
+2024-06-05 17:15:12,159 - InputText: điều hòa
+2024-06-05 17:15:12,197 - ------------llm------------
+2024-06-05 17:15:12,197 - User: điều hòa
+2024-06-05 17:15:13,049 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:15:13,064 - Vcc_bot: Sản phẩm 'điều hòa' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+Các dòng sản phẩm rẻ tiền:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+
+2024-06-05 17:15:52,275 - ----------------NEW_SESSION--------------
+2024-06-05 17:15:52,275 - User: Huy1
+2024-06-05 17:15:52,275 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:15:52,314 - ------------llm------------
+2024-06-05 17:15:52,314 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:15:53,326 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:15:55,003 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:15:55,007 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:16:21,655 - Loading faiss with AVX512 support.
+2024-06-05 17:16:21,672 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:16:25,602 - ----------------NEW_SESSION--------------
+2024-06-05 17:16:25,602 - User: Huy1
+2024-06-05 17:16:25,602 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:16:25,644 - ------------llm------------
+2024-06-05 17:16:25,644 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:16:26,812 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:16:28,454 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:16:28,458 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:31:23,242 - Loading faiss with AVX512 support.
+2024-06-05 17:31:23,260 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:32:02,156 - Loading faiss with AVX512 support.
+2024-06-05 17:32:02,173 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:32:07,268 - ----------------NEW_SESSION--------------
+2024-06-05 17:32:07,268 - User: Huy1
+2024-06-05 17:32:07,269 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:32:07,313 - ------------llm------------
+2024-06-05 17:32:07,313 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:32:08,386 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:32:10,239 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:32:10,243 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:33:32,613 - Loading faiss with AVX512 support.
+2024-06-05 17:33:32,630 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:33:34,834 - ----------------NEW_SESSION--------------
+2024-06-05 17:33:34,834 - User: Huy1
+2024-06-05 17:33:34,834 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:33:34,877 - ------------llm------------
+2024-06-05 17:33:34,878 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:33:35,957 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:33:37,549 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:33:37,555 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:34:40,738 - Loading faiss with AVX512 support.
+2024-06-05 17:34:40,755 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:34:43,029 - ----------------NEW_SESSION--------------
+2024-06-05 17:34:43,030 - User: Huy1
+2024-06-05 17:34:43,030 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:34:43,073 - ------------llm------------
+2024-06-05 17:34:43,073 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:34:44,342 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:34:46,473 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:34:46,480 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:41:25,495 - Loading faiss with AVX512 support.
+2024-06-05 17:41:25,512 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:41:27,928 - ----------------NEW_SESSION--------------
+2024-06-05 17:41:27,928 - User: Huy1
+2024-06-05 17:41:27,928 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:41:27,975 - ------------llm------------
+2024-06-05 17:41:27,975 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:41:29,033 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:41:30,700 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:41:30,707 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:42:43,240 - Loading faiss with AVX512 support.
+2024-06-05 17:42:43,258 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:42:44,539 - ----------------NEW_SESSION--------------
+2024-06-05 17:42:44,540 - User: Huy1
+2024-06-05 17:42:44,540 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:42:44,586 - ------------llm------------
+2024-06-05 17:42:44,587 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:42:45,685 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:42:47,327 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:42:47,335 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:47:27,889 - Loading faiss with AVX512 support.
+2024-06-05 17:47:27,905 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:47:28,990 - ----------------NEW_SESSION--------------
+2024-06-05 17:47:28,990 - User: Huy1
+2024-06-05 17:47:28,990 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:47:29,039 - ------------llm------------
+2024-06-05 17:47:29,039 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:47:30,019 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:50:17,009 - Loading faiss with AVX512 support.
+2024-06-05 17:50:17,026 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:50:18,228 - ----------------NEW_SESSION--------------
+2024-06-05 17:50:18,228 - User: Huy1
+2024-06-05 17:50:18,228 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:50:18,277 - ------------llm------------
+2024-06-05 17:50:18,277 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:50:19,350 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:50:21,404 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:50:21,409 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:55:15,676 - Loading faiss with AVX512 support.
+2024-06-05 17:55:15,693 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:55:16,855 - ----------------NEW_SESSION--------------
+2024-06-05 17:55:16,856 - User: Huy1
+2024-06-05 17:55:16,856 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:55:16,905 - ------------llm------------
+2024-06-05 17:55:16,905 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:55:18,687 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:55:20,483 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:55:20,489 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:56:58,367 - Loading faiss with AVX512 support.
+2024-06-05 17:56:58,385 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:56:59,170 - ----------------NEW_SESSION--------------
+2024-06-05 17:56:59,170 - User: Huy1
+2024-06-05 17:56:59,170 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:56:59,221 - ------------llm------------
+2024-06-05 17:56:59,221 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:57:00,337 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:57:02,060 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:57:02,069 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 17:58:30,337 - Loading faiss with AVX512 support.
+2024-06-05 17:58:30,354 - Successfully loaded faiss with AVX512 support.
+2024-06-05 17:58:33,273 - ----------------NEW_SESSION--------------
+2024-06-05 17:58:33,273 - User: Huy1
+2024-06-05 17:58:33,273 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:58:33,324 - ------------llm------------
+2024-06-05 17:58:33,325 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 17:58:34,544 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:58:36,403 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 17:58:36,411 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:00:40,929 - Loading faiss with AVX512 support.
+2024-06-05 18:00:40,946 - Successfully loaded faiss with AVX512 support.
+2024-06-05 18:00:41,944 - ----------------NEW_SESSION--------------
+2024-06-05 18:00:41,944 - User: Huy1
+2024-06-05 18:00:41,944 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 18:00:41,998 - ------------llm------------
+2024-06-05 18:00:41,998 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 18:00:43,555 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:00:45,272 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:00:45,279 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:03:48,494 - Loading faiss with AVX512 support.
+2024-06-05 18:03:48,511 - Successfully loaded faiss with AVX512 support.
+2024-06-05 18:03:50,069 - ----------------NEW_SESSION--------------
+2024-06-05 18:03:50,069 - User: Huy1
+2024-06-05 18:03:50,069 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 18:03:50,122 - ------------llm------------
+2024-06-05 18:03:50,122 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 18:03:51,659 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:03:53,340 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:03:53,347 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:06:42,656 - Loading faiss with AVX512 support.
+2024-06-05 18:06:42,673 - Successfully loaded faiss with AVX512 support.
+2024-06-05 18:06:43,746 - ----------------NEW_SESSION--------------
+2024-06-05 18:06:43,746 - User: Huy1
+2024-06-05 18:06:43,746 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 18:06:43,802 - ------------llm------------
+2024-06-05 18:06:43,802 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 18:06:44,943 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:06:46,823 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:06:46,830 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:07:04,399 - Loading faiss with AVX512 support.
+2024-06-05 18:07:04,416 - Successfully loaded faiss with AVX512 support.
+2024-06-05 18:07:08,316 - ----------------NEW_SESSION--------------
+2024-06-05 18:07:08,316 - User: Huy1
+2024-06-05 18:07:08,316 - InputText: vừa tôi hỏi sản phẩm gì
+2024-06-05 18:07:08,376 - ------------llm------------
+2024-06-05 18:07:08,376 - User: vừa tôi hỏi sản phẩm gì
+2024-06-05 18:07:09,549 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:07:11,325 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:07:11,335 - Vcc_bot: AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:17:29,241 - ----------------NEW_SESSION--------------
+2024-06-05 18:17:29,241 - User: Huy1
+2024-06-05 18:17:29,241 - InputText: tôi quan tâm đến sản phẩm điều hòa
+2024-06-05 18:17:29,300 - ------------llm------------
+2024-06-05 18:17:29,300 - User: tôi quan tâm đến sản phẩm điều hòa
+2024-06-05 18:17:32,038 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:17:32,059 - Vcc_bot: Sản phẩm 'điều hòa' tìm thấy:
+- Quạt điều hòa không khí Everest 6000D - Giá: 2450800
+  Thông số kỹ thuật:
+    
+    • Điện áp: 220V - 50Hz 
+    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm 
+    • Lưu lượng gió: 6000m3/h 
+    • Dung tích khay chứa nước: 45L 
+- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240
+  Thông số kỹ thuật:
+    Loại: Điều hòa 2 chiều Inverter 
+    Công suất: 9.000 BTU/h (1 HP) 
+    Diện tích sử dụng: Dưới 15m² 
+    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h 
+    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:
+- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184
+  Thông số kỹ thuật:
+    Nguồn điện: 220-240V 
+    Công suất: 9500 Btu/h 
+    Công suất tiêu thụ: 745 W 
+    Cường độ dòng điện: 3.4 A
+     ERR: 3.54 W/W 
+
+2024-06-05 18:17:55,638 - ----------------NEW_SESSION--------------
+2024-06-05 18:17:55,638 - User: Huy1
+2024-06-05 18:17:55,638 - InputText: sản phẩm vừa tôi hỏi là sản phẩm gì
+2024-06-05 18:17:55,695 - ------------llm------------
+2024-06-05 18:17:55,695 - User: sản phẩm vừa tôi hỏi là sản phẩm gì
+2024-06-05 18:17:57,147 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:17:58,470 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:17:58,478 - Vcc_bot: AI: Sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:20:34,051 - Loading faiss with AVX512 support.
+2024-06-05 18:20:34,068 - Successfully loaded faiss with AVX512 support.
+2024-06-05 18:20:35,888 - ----------------NEW_SESSION--------------
+2024-06-05 18:20:35,888 - User: Huy1
+2024-06-05 18:20:35,888 - InputText: sản phẩm vừa tôi hỏi là sản phẩm gì
+2024-06-05 18:20:35,948 - ------------llm------------
+2024-06-05 18:20:35,948 - User: sản phẩm vừa tôi hỏi là sản phẩm gì
+2024-06-05 18:20:42,528 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:20:43,875 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:20:43,883 - Vcc_bot: AI: Sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:26:15,508 - Loading faiss with AVX512 support.
+2024-06-05 18:26:15,526 - Successfully loaded faiss with AVX512 support.
+2024-06-05 18:26:19,097 - ----------------NEW_SESSION--------------
+2024-06-05 18:26:19,097 - User: Huy1
+2024-06-05 18:26:19,097 - InputText: sản phẩm vừa tôi hỏi là sản phẩm gì
+2024-06-05 18:26:19,158 - ------------llm------------
+2024-06-05 18:26:19,158 - User: sản phẩm vừa tôi hỏi là sản phẩm gì
+2024-06-05 18:26:20,391 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:26:21,569 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:26:21,578 - Vcc_bot: AI: Sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:30:53,518 - Loading faiss with AVX512 support.
+2024-06-05 18:30:53,535 - Successfully loaded faiss with AVX512 support.
+2024-06-05 18:30:59,617 - ----------------NEW_SESSION--------------
+2024-06-05 18:30:59,617 - User: Huy1
+2024-06-05 18:30:59,617 - InputText: sản phẩm vừa tôi hỏi là sản phẩm gì
+2024-06-05 18:30:59,678 - ------------llm------------
+2024-06-05 18:30:59,678 - User: sản phẩm vừa tôi hỏi là sản phẩm gì
+2024-06-05 18:31:00,859 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:31:02,057 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:31:02,066 - Vcc_bot: AI: Sản phẩm mà bạn vừa hỏi là "Quạt điều hòa không khí Everest 6000D".
+2024-06-05 18:31:40,056 - ----------------NEW_SESSION--------------
+2024-06-05 18:31:40,057 - User: Huy1
+2024-06-05 18:31:40,057 - InputText: sản phẩm điều hòa trên có mát không
+2024-06-05 18:31:40,117 - ------------llm------------
+2024-06-05 18:31:40,117 - User: sản phẩm điều hòa trên có mát không
+2024-06-05 18:31:41,365 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:31:42,686 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:31:42,699 - Vcc_bot: AI: Các sản phẩm điều hòa trên đều có chức năng làm lạnh, giúp tạo ra không gian mát mẻ trong phòng.
+2024-06-05 18:32:09,685 - Loading faiss with AVX512 support.
+2024-06-05 18:32:09,703 - Successfully loaded faiss with AVX512 support.
+2024-06-05 18:32:25,245 - ----------------NEW_SESSION--------------
+2024-06-05 18:32:25,245 - User: Huy1
+2024-06-05 18:32:25,245 - InputText: có mấy sản phẩm bạn vừa liệt kê
+2024-06-05 18:32:25,307 - ------------llm------------
+2024-06-05 18:32:25,307 - User: có mấy sản phẩm bạn vừa liệt kê
+2024-06-05 18:32:26,608 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:32:28,012 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-05 18:32:28,022 - Vcc_bot: AI: Có hai sản phẩm mà tôi vừa liệt kê là "Quạt điều hòa không khí Everest 6000D" và "Quạt điều hòa không khí Everest 8000D".
+2024-06-05 18:46:47,777 - Loading faiss with AVX512 support.
+2024-06-05 18:46:47,794 - Successfully loaded faiss with AVX512 support.
+2024-06-06 09:02:11,043 - ----------------NEW_SESSION--------------
+2024-06-06 09:02:11,043 - User: 431821
+2024-06-06 09:02:11,043 - InputText: xin chào
+2024-06-06 09:02:11,100 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!

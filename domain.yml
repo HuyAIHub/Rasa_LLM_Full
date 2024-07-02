@@ -25,6 +25,7 @@ intents:
 - pay_produce
 - time_open_door
 - support_KH
+- inventory
 entities:
 - user_name
 - produce_name_policy
@@ -127,16 +128,15 @@ responses:
         -
           payload: /Đưa ra chính sách bảo hành
           title: "Đưa ra chính sách bảo hành"
-        -
-          payload: /VCC xu
-          title: "VCC xu"
-      text: "Nếu bạn cần biết thêm thông tin hoặc có yêu cầu cụ thể về dịch vụ của VCC, xin vui lòng cho biết.?"
+          
+      text: "Nếu bạn cần biết thêm thông tin hoặc có yêu cầu cụ thể về dịch vụ của VCC, xin vui lòng cho biết."
     
 
 actions:
 - action_extract_name
 # - action_default_fallback
 - action_extract_produce
+- action_extract_produce_inventory
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

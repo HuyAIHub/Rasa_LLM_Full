@@ -2,7 +2,6 @@ import os
 import json
 from pathlib import Path
 from ChatBot_Extract_Intent.module.llm2 import initialize_chat_conversation
-from ChatBot_Extract_Intent.download_and_load_index_data import load_and_index_pdf
 from ChatBot_Extract_Intent.config_app.config import get_config
 from langchain.memory import (
     ChatMessageHistory
@@ -13,7 +12,7 @@ from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import requests
 from ChatBot_Extract_Intent.main import search_db
 import random
-import logging
+import logging, time
 import datetime
 logging.basicConfig(filename=f"logs/{datetime.date.today()}_chatbot.log", level=logging.INFO, format='%(asctime)s - %(message)s')
 
@@ -23,15 +22,19 @@ config_app = get_config()
 
 os.environ['OPENAI_API_KEY'] = config_app["parameter"]["openai_api_key"]
 llm = ChatOpenAI(model_name=config_app["parameter"]["gpt_model_to_use"], temperature=config_app["parameter"]["temperature"])
-faiss_index = load_and_index_pdf()
 
+# def fix_text(results):
+#     if 'Assistant:' in results['out_text']:
+#         results
 
 def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     User = str(User)
     logging.info("----------------NEW_SESSION--------------")
     logging.info(f"User: {User}")
+    logging.info(f"InputText: {InputText}")
     print("----------------NEW_SESSION--------------")
     print("GuildID  = ", IdRequest)
+    print("InputText  = ", InputText)
 
     query_text = InputText
     user_messages_history = InputText
@@ -50,18 +53,21 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     except:
         conversation_messages_conv, conversation_messages_snippets = [], []
 
-    results = {
-        'terms':'','out_text':''}
+    results = {'terms':[],'out_text':'', 'inventory_status' : False}
+
     if type == 'rasa':
+        print('========rasa=========')
         # Predict Text
         conversation = initialize_chat_conversation(conversation_messages_conv, conversation_messages_snippets, "")
         # message_data = '''InputText:{},IdRequest:{},NameBot:{},User:{}'''.format(InputText,IdRequest,NameBot,User)
         response = requests.post('http://127.0.0.1:5005/webhooks/rest/webhook', json={"sender": "test", "message": query_text})
-
         if len(response.json()) == 0:
             results['out_text'] = config_app['parameter']['can_not_res'][random_number]
         elif response.json()[0].get("buttons"):
             results['terms'] = response.json()[0]["buttons"]
+            results['out_text'] = response.json()[0]["text"]
+        elif 'M&EDM000005' in response.json()[0]["text"]:
+            results['inventory_status'] = True
             results['out_text'] = response.json()[0]["text"]
         else:
             results['out_text'] = response.json()[0]["text"]
@@ -69,21 +75,26 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     if results['out_text'] == "LLM_predict":
         logging.info("------------llm------------")
         logging.info(f"User: {query_text}")
-        # try:
+        print('========LLM_predict=========')
+        try:
+            t1 = time.time()
+            response = search_db(query_text)
+            print("time to search using elasticsearch: ",time.time() - t1)
+            num_check , response_rules = response[0], response[1]
+            # Predict Text
+            conversation = initialize_chat_conversation(conversation_messages_conv, conversation_messages_snippets, response_rules)
+            if num_check == 0:
+                results['out_text'] = response_rules
+            else:
+                t2 = time.time()
+                print('======conversation_predict======')
+                result = conversation.predict(input = query_text)
+                results['out_text'] = result
+                print("time conversation_predict: ",time.time() - t2)
+
+        except:
             
-        response = search_db(query_text)
-        num_check , response_rules = response[0], response[1]
-        # Predict Text
-        conversation = initialize_chat_conversation(conversation_messages_conv, conversation_messages_snippets, response_rules)
-        if num_check == 0:
-            results['out_text'] = response_rules
-        else:
-            print('======conversation_predict======')
-            result = conversation.predict(input = query_text)
-            results['out_text'] = result
-        # except:
-            
-        #     results['out_text'] = config_app['parameter']['can_not_res'][random_number]
+            results['out_text'] = config_app['parameter']['can_not_res'][random_number]
     
     # Save DB
     conversation_messages_conv = conversation.memory.memories[0].chat_memory.messages
@@ -102,4 +113,5 @@ def predict_rasa_llm(InputText, IdRequest, NameBot, User,type='rasa'):
     with Path(path_messages + "/messages_snippets.json").open("w",encoding="utf-8") as f:
         json.dump(messages_snippets, f, indent=4, ensure_ascii=False)
     logging.info(f"Vcc_bot: {results['out_text']}")
+    results['out_text'] = results['out_text'].replace("AI: ", "").replace("Assistant: ", "")
     return results

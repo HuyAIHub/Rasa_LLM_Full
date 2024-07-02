@@ -1,0 +1,106 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước Karofi và Máy lọc nước Empire cái nào tốt hơn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Máy lọc nước Karofi và Máy lọc nước Empire đều có những ưu điểm riêng. Máy lọc nước Karofi KAQ-U06V có kiểu lắp đặt lắp âm, loại máy lọc nước RO và công nghệ lọc thẩm thấu ngược RO. Ngoài ra, máy còn có khả năng kháng khuẩn bằng công nghệ Nano Silver. Trong khi đó, Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 có hệ thống cấp lọc 11 cấp và công suất lọc 10-15 Lít/ Giờ. Màng lọc của máy là RO Dupon nhập khẩu từ Mỹ. Tùy thuộc vào nhu cầu sử dụng và yêu cầu của bạn, bạn có thể lựa chọn máy lọc nước phù hợp.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước Karofi và Máy lọc nước Empire cái nào tốt hơn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Máy lọc nước Karofi và Máy lọc nước Empire đều có những ưu điểm riêng. Máy lọc nước Karofi KAQ-U06V có kiểu lắp đặt lắp âm, loại máy lọc nước RO và công nghệ lọc thẩm thấu ngược RO. Ngoài ra, máy còn có khả năng kháng khuẩn bằng công nghệ Nano Silver. Trong khi đó, Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 có hệ thống cấp lọc 11 cấp và công suất lọc 10-15 Lít/ Giờ. Màng lọc của máy là RO Dupon nhập khẩu từ Mỹ. Tùy thuộc vào nhu cầu sử dụng và yêu cầu của bạn, bạn có thể lựa chọn máy lọc nước phù hợp.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước Karofi và Máy lọc nước Empire cái nào tốt hơn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Cả hai máy lọc nước Karofi và Empire đều có những ưu điểm riêng. Máy lọc nước Karofi KAQ-U06V có công nghệ lọc thẩm thấu ngược RO và kháng khuẩn bằng công nghệ Nano Silver. Trong khi đó, máy lọc nước Empire EPML066 có hệ thống cấp lọc 11 cấp và màng lọc RO Dupon nhập khẩu từ Mỹ. Tùy thuộc vào nhu cầu và yêu cầu của bạn, bạn có thể lựa chọn máy lọc nước phù hợp.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước Karofi và Máy lọc nước Empire cái nào tốt hơn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Cả hai máy lọc nước Karofi và Empire đều có những ưu điểm riêng. Máy lọc nước Karofi KAQ-U06V có công nghệ lọc thẩm thấu ngược RO và kháng khuẩn bằng công nghệ Nano Silver. Trong khi đó, máy lọc nước Empire EPML066 có hệ thống cấp lọc 11 cấp và màng lọc RO Dupon nhập khẩu từ Mỹ. Tùy thuộc vào nhu cầu và yêu cầu của bạn, bạn có thể lựa chọn máy lọc nước phù hợp.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

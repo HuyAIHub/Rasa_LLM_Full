@@ -1,0 +1,451 @@
+2024-06-07 08:45:46,823 - Loading faiss with AVX512 support.
+2024-06-07 08:45:46,841 - Successfully loaded faiss with AVX512 support.
+2024-06-07 08:46:11,502 - ----------------NEW_SESSION--------------
+2024-06-07 08:46:11,502 - User: 428950
+2024-06-07 08:46:11,502 - InputText: Thiết bị Wifi
+2024-06-07 08:46:11,558 - ------------llm------------
+2024-06-07 08:46:11,558 - User: Thiết bị Wifi
+2024-06-07 08:46:13,038 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 08:46:13,092 - Vcc_bot: Sản phẩm 'Thiết bị Wifi' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51
+  Thông số kỹ thuật:
+    
+    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) 
+    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép 
+    • Cổng LAN: 3 cổng LAN 10/100/1000M 
+    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc 
+- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48
+  Thông số kỹ thuật:
+    
+    • Tốc độ: 1167Mbps 
+    • Băng tần: 2 băng tần 2.4GHz và 5GHz 
+    • Số lượng người dùng truy cập đồng thời: 20+ 1 
+    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps 
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50
+  Thông số kỹ thuật:
+    Dòng điện ra: 9V 1A 
+    Dòng điện vào: 100-240V-50/60Hz, 0.2A 
+    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) 
+    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps 
+    Hãng sản xuất: Tenda 
+Các dòng sản phẩm rẻ tiền:
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas 
+    Kích thước: (L x W x H) 204*147.5*211mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz 
+- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34
+  Thông số kỹ thuật:
+    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps 
+    Công suất truyền: Lên đến 20dBm
+    giá: 314600
+- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42
+  Thông số kỹ thuật:
+    Thương hiệu: Tenda 
+    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps 
+    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) 
+    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm 
+    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC
+
+2024-06-07 08:51:32,299 - Loading faiss with AVX512 support.
+2024-06-07 08:51:32,316 - Successfully loaded faiss with AVX512 support.
+2024-06-07 08:51:43,865 - ----------------NEW_SESSION--------------
+2024-06-07 08:51:43,866 - User: 428950
+2024-06-07 08:51:43,866 - InputText: Bếp từ
+2024-06-07 08:51:43,917 - ------------llm------------
+2024-06-07 08:51:43,918 - User: Bếp từ
+2024-06-07 08:51:44,914 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 08:51:44,962 - Vcc_bot: Sản phẩm 'Bếp từ' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Bếp từ đôi AIO Smart - Giá: 4962870 - Số lượng đã bán: 16
+  Thông số kỹ thuật:
+    
+    • Công suất: 4400W 
+    • Trái: 2200W - Phải: 2200W 
+    • Chất liệu mặt bếp: Kính Vitro Ceramic 
+    • Bảng điều khiển: Cảm ứng 
+- Bếp từ đơn AIO Smart kèm nồi - Giá: 1089000 - Số lượng đã bán: 6
+  Thông số kỹ thuật:
+    Công suất vùng nấu: 2100W 
+    Kích thước vùng nấu: 200mm 
+    Bảng điều khiển: cảm ứng 
+    Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt) 
+    Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng 
+Các dòng sản phẩm rẻ tiền:
+- Bếp từ đôi AIO Smart - Giá: 4962870 - Số lượng đã bán: 16
+  Thông số kỹ thuật:
+    
+    • Công suất: 4400W 
+    • Trái: 2200W - Phải: 2200W 
+    • Chất liệu mặt bếp: Kính Vitro Ceramic 
+    • Bảng điều khiển: Cảm ứng 
+- Bếp từ đơn AIO Smart kèm nồi - Giá: 1089000 - Số lượng đã bán: 6
+  Thông số kỹ thuật:
+    Công suất vùng nấu: 2100W 
+    Kích thước vùng nấu: 200mm 
+    Bảng điều khiển: cảm ứng 
+    Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt) 
+    Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng 
+
+2024-06-07 08:52:33,174 - Loading faiss with AVX512 support.
+2024-06-07 08:52:33,191 - Successfully loaded faiss with AVX512 support.
+2024-06-07 08:53:19,468 - ----------------NEW_SESSION--------------
+2024-06-07 08:53:19,469 - User: 428950
+2024-06-07 08:53:19,469 - InputText: Máy lọc nước
+2024-06-07 08:53:19,513 - ------------llm------------
+2024-06-07 08:53:19,513 - User: Máy lọc nước
+2024-06-07 08:53:20,573 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 08:53:20,623 - Vcc_bot: Sản phẩm 'Máy lọc nước' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống cấp lọc: 11 cấp 
+    • Công suất lọc: 10-15 Lít/ Giờ 
+    • Màng lọc: RO Dupon nhập khẩu từ Mỹ 
+- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Số ống: 18 ống 
+    • Dung tích: 180 lít 
+    • Bình bảo ôn: Chất liệu Inox 304 
+- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36
+  Thông số kỹ thuật:
+    
+    • Loại máy: Máy lọc nước RO, Để bàn 
+    • Số lõi lọc: 4 lõi 
+    • Dung tích bình chứa: 5 lít 
+    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) 
+Các dòng sản phẩm rẻ tiền:
+- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14
+  Thông số kỹ thuật:
+    
+    • Kiểu lắp đặt: Lắp âm 
+    • Loại máy: Máy lọc nước RO 
+    • Công nghệ lọc: Thẩm thấu ngược RO 
+    • Kháng khuẩn: Nano Silver 
+- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống lọc: 10 cấp 
+    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% 
+    • Công suất lọc: 10-15 lít / Giờ 
+- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Pentair 
+    • Xuất xứ lõi lọc chính: USA 
+    • Công suất: 3.785 Lít 
+    • Tốc độ chảy: 1.9 Lít/phút 
+
+2024-06-07 08:53:45,389 - ----------------NEW_SESSION--------------
+2024-06-07 08:53:45,390 - User: 428950
+2024-06-07 08:53:45,390 - InputText: Máy lọc nước
+2024-06-07 08:53:45,433 - ------------llm------------
+2024-06-07 08:53:45,433 - User: Máy lọc nước
+2024-06-07 08:53:46,413 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 08:53:46,461 - Vcc_bot: Sản phẩm 'Máy lọc nước' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống cấp lọc: 11 cấp 
+    • Công suất lọc: 10-15 Lít/ Giờ 
+    • Màng lọc: RO Dupon nhập khẩu từ Mỹ 
+- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Số ống: 18 ống 
+    • Dung tích: 180 lít 
+    • Bình bảo ôn: Chất liệu Inox 304 
+- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36
+  Thông số kỹ thuật:
+    
+    • Loại máy: Máy lọc nước RO, Để bàn 
+    • Số lõi lọc: 4 lõi 
+    • Dung tích bình chứa: 5 lít 
+    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) 
+Các dòng sản phẩm rẻ tiền:
+- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14
+  Thông số kỹ thuật:
+    
+    • Kiểu lắp đặt: Lắp âm 
+    • Loại máy: Máy lọc nước RO 
+    • Công nghệ lọc: Thẩm thấu ngược RO 
+    • Kháng khuẩn: Nano Silver 
+- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống lọc: 10 cấp 
+    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% 
+    • Công suất lọc: 10-15 lít / Giờ 
+- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Pentair 
+    • Xuất xứ lõi lọc chính: USA 
+    • Công suất: 3.785 Lít 
+    • Tốc độ chảy: 1.9 Lít/phút 
+
+2024-06-07 08:53:57,852 - ----------------NEW_SESSION--------------
+2024-06-07 08:53:57,852 - User: 428950
+2024-06-07 08:53:57,852 - InputText: Máy lọc nước
+2024-06-07 08:53:57,895 - ------------llm------------
+2024-06-07 08:53:57,895 - User: Máy lọc nước
+2024-06-07 08:53:58,981 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 08:53:59,031 - Vcc_bot: Sản phẩm 'Máy lọc nước' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống cấp lọc: 11 cấp 
+    • Công suất lọc: 10-15 Lít/ Giờ 
+    • Màng lọc: RO Dupon nhập khẩu từ Mỹ 
+- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Số ống: 18 ống 
+    • Dung tích: 180 lít 
+    • Bình bảo ôn: Chất liệu Inox 304 
+- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36
+  Thông số kỹ thuật:
+    
+    • Loại máy: Máy lọc nước RO, Để bàn 
+    • Số lõi lọc: 4 lõi 
+    • Dung tích bình chứa: 5 lít 
+    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) 
+Các dòng sản phẩm rẻ tiền:
+- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14
+  Thông số kỹ thuật:
+    
+    • Kiểu lắp đặt: Lắp âm 
+    • Loại máy: Máy lọc nước RO 
+    • Công nghệ lọc: Thẩm thấu ngược RO 
+    • Kháng khuẩn: Nano Silver 
+- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: EMPIRE 
+    • Hệ thống lọc: 10 cấp 
+    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% 
+    • Công suất lọc: 10-15 lít / Giờ 
+- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22
+  Thông số kỹ thuật:
+    
+    • Thương hiệu: Pentair 
+    • Xuất xứ lõi lọc chính: USA 
+    • Công suất: 3.785 Lít 
+    • Tốc độ chảy: 1.9 Lít/phút 
+
+2024-06-07 09:01:00,768 - Loading faiss with AVX512 support.
+2024-06-07 09:01:00,785 - Successfully loaded faiss with AVX512 support.
+2024-06-07 09:01:11,796 - ----------------NEW_SESSION--------------
+2024-06-07 09:01:11,796 - User: 428950
+2024-06-07 09:01:11,797 - InputText: ['Thiết bị Wifi']
+2024-06-07 09:01:11,829 - Vcc_bot: Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-07 09:02:28,594 - Loading faiss with AVX512 support.
+2024-06-07 09:02:28,611 - Successfully loaded faiss with AVX512 support.
+2024-06-07 09:02:39,875 - ----------------NEW_SESSION--------------
+2024-06-07 09:02:39,875 - User: 428950
+2024-06-07 09:02:39,875 - InputText: ['Thiết bị Wifi']
+2024-06-07 09:02:39,906 - Vcc_bot: Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-07 09:03:11,668 - Loading faiss with AVX512 support.
+2024-06-07 09:03:11,685 - Successfully loaded faiss with AVX512 support.
+2024-06-07 09:03:25,675 - ----------------NEW_SESSION--------------
+2024-06-07 09:03:25,675 - User: 428950
+2024-06-07 09:03:25,675 - InputText: ['Bếp từ', 'Máy lọc nước']
+2024-06-07 09:03:25,703 - Vcc_bot: Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!
+2024-06-07 09:04:53,899 - Loading faiss with AVX512 support.
+2024-06-07 09:04:53,916 - Successfully loaded faiss with AVX512 support.
+2024-06-07 09:05:06,337 - ----------------NEW_SESSION--------------
+2024-06-07 09:05:06,337 - User: 428950
+2024-06-07 09:05:06,337 - InputText: ['Máy đánh trứng', 'Máy lọc nước']
+2024-06-07 09:05:06,365 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:09:23,670 - Loading faiss with AVX512 support.
+2024-06-07 09:09:23,687 - Successfully loaded faiss with AVX512 support.
+2024-06-07 09:09:36,074 - ----------------NEW_SESSION--------------
+2024-06-07 09:09:36,075 - User: 428950
+2024-06-07 09:09:36,075 - InputText: ['Máy lọc nước']
+2024-06-07 09:09:36,103 - Vcc_bot: Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!
+2024-06-07 09:10:45,325 - Loading faiss with AVX512 support.
+2024-06-07 09:10:45,342 - Successfully loaded faiss with AVX512 support.
+2024-06-07 09:10:59,827 - ----------------NEW_SESSION--------------
+2024-06-07 09:10:59,827 - User: 428950
+2024-06-07 09:10:59,827 - InputText: ['Bếp từ', 'Thiết bị Wifi', 'Bếp từ']
+2024-06-07 09:10:59,857 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:14:29,138 - ----------------NEW_SESSION--------------
+2024-06-07 09:14:29,138 - User: 428950
+2024-06-07 09:14:29,138 - InputText: ['Bình nóng lạnh', 'Bình nóng lạnh', 'Bình nóng lạnh', 'Máy lọc nước']
+2024-06-07 09:14:29,163 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:15:25,693 - ----------------NEW_SESSION--------------
+2024-06-07 09:15:25,693 - User: 428950
+2024-06-07 09:15:25,693 - InputText: ['Lò vi sóng']
+2024-06-07 09:15:25,721 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:16:03,858 - ----------------NEW_SESSION--------------
+2024-06-07 09:16:03,858 - User: 428950
+2024-06-07 09:16:03,858 - InputText: ['Đèn năng lượng mặt trời']
+2024-06-07 09:16:03,884 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:16:50,581 - ----------------NEW_SESSION--------------
+2024-06-07 09:16:50,582 - User: 428950
+2024-06-07 09:16:50,582 - InputText: ['Đèn năng lượng mặt trời', 'Đèn năng lượng mặt trời', 'Đèn năng lượng mặt trời']
+2024-06-07 09:16:50,607 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:21:47,987 - ----------------NEW_SESSION--------------
+2024-06-07 09:21:47,987 - User: 428950
+2024-06-07 09:21:47,987 - InputText: ['Máy ép']
+2024-06-07 09:21:48,013 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:24:34,788 - ----------------NEW_SESSION--------------
+2024-06-07 09:24:34,789 - User: 428950
+2024-06-07 09:24:34,789 - InputText: hãy liệt kê cho tôi nồi cơm điện có giá rẻ nhất 
+2024-06-07 09:24:34,840 - ------------llm------------
+2024-06-07 09:24:34,840 - User: hãy liệt kê cho tôi nồi cơm điện có giá rẻ nhất 
+2024-06-07 09:24:36,723 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:24:37,821 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:24:38,472 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:24:38,494 - Vcc_bot: Dựa trên yêu cầu của bạn:
+	- 1 nồi cơm điện với giá giá rẻ nhất
+
+Để phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:
+	+ Với 1 Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991: 4387680VND - GÓI MUA SẮM MỨC 3
+		(Hiện tại không có chính sách hoa hồng cho sản phẩm này)
+
+Tổng giá trị của gói sản phẩm này là 4387680.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+Nếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.
+2024-06-07 09:28:15,758 - ----------------NEW_SESSION--------------
+2024-06-07 09:28:15,759 - User: 428950
+2024-06-07 09:28:15,759 - InputText: liệt kê cho tôi 3 sản phẩm máy lọc nước giá rẻ nhất
+2024-06-07 09:28:15,809 - ------------llm------------
+2024-06-07 09:28:15,809 - User: liệt kê cho tôi 3 sản phẩm máy lọc nước giá rẻ nhất
+2024-06-07 09:28:17,196 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:28:18,169 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:28:18,878 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:28:18,898 - Vcc_bot: Dựa trên yêu cầu của bạn:
+	- 3 máy lọc nước với giá giá rẻ nhất
+
+Để phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:
+	+ Với 3 Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066: 6365700.0VND - GÓI MUA SẮM MỨC 1
+		(Hoa hòng bán hàng nhận được là: 359587.2000000001VND và hoa hồng triển khai nhận được là: 57870.0VND)
+
+Tổng giá trị của gói sản phẩm này là 6365700.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.
+Nếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.
+2024-06-07 09:33:58,222 - ----------------NEW_SESSION--------------
+2024-06-07 09:33:58,222 - User: 428950
+2024-06-07 09:33:58,222 - InputText: ngoài trả lời các sản phẩm ra bạn có thể trả lời được gì nữa
+2024-06-07 09:33:58,480 - Vcc_bot: Thông tin ngữ cảnh không cung cấp chi tiết cụ thể về việc có thể mua hàng mà không phải trả tiền hay không. Tuy nhiên, nhìn chung, khi mua sắm trực tuyến, việc thanh toán là bắt buộc để hoàn tất giao dịch mua. Nếu bạn có câu hỏi cụ thể về các tùy chọn thanh toán hoặc nếu có bất kỳ chương trình khuyến mãi hoặc giảm giá nào, vui lòng cho tôi biết và tôi sẽ cố gắng hết sức để hỗ trợ bạn.
+2024-06-07 09:34:19,312 - ----------------NEW_SESSION--------------
+2024-06-07 09:34:19,312 - User: 428950
+2024-06-07 09:34:19,312 - InputText: bạn có tiền không 
+2024-06-07 09:34:19,373 - Vcc_bot: Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!
+2024-06-07 09:34:38,518 - ----------------NEW_SESSION--------------
+2024-06-07 09:34:38,519 - User: 428950
+2024-06-07 09:34:38,519 - InputText: bạn có biết stable diffusion không ? 
+2024-06-07 09:34:38,580 - Vcc_bot: Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?
+2024-06-07 09:35:00,845 - ----------------NEW_SESSION--------------
+2024-06-07 09:35:00,845 - User: 428950
+2024-06-07 09:35:00,845 - InputText: bạn có sản phẩm tủ lạnh không ? 
+2024-06-07 09:35:00,908 - Vcc_bot: Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?
+2024-06-07 09:35:23,481 - ----------------NEW_SESSION--------------
+2024-06-07 09:35:23,481 - User: 428950
+2024-06-07 09:35:23,481 - InputText: hãy liệt kê các sản phẩm tủ lạnh có giá rẻ nhất 
+2024-06-07 09:35:23,534 - ------------llm------------
+2024-06-07 09:35:23,534 - User: hãy liệt kê các sản phẩm tủ lạnh có giá rẻ nhất 
+2024-06-07 09:35:24,818 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:35:24,868 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  tủ lạnh, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-07 09:35:57,521 - ----------------NEW_SESSION--------------
+2024-06-07 09:35:57,521 - User: 428950
+2024-06-07 09:35:57,521 - InputText: tôi muốn mua tủ lạnh toshiba có giá dưới 10 triệu 
+2024-06-07 09:35:57,575 - ------------llm------------
+2024-06-07 09:35:57,575 - User: tôi muốn mua tủ lạnh toshiba có giá dưới 10 triệu 
+2024-06-07 09:35:59,243 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:35:59,294 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  tủ lạnh toshiba, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-07 09:37:35,163 - ----------------NEW_SESSION--------------
+2024-06-07 09:37:35,163 - User: 428950
+2024-06-07 09:37:35,163 - InputText: ['Bàn chải điện', 'Bàn chải điện', 'Bàn chải điện', 'Bàn chải điện']
+2024-06-07 09:37:35,191 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:38:09,564 - ----------------NEW_SESSION--------------
+2024-06-07 09:38:09,565 - User: 428950
+2024-06-07 09:38:09,565 - InputText: ['Máy sấy tóc']
+2024-06-07 09:38:09,592 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 09:40:48,164 - ----------------NEW_SESSION--------------
+2024-06-07 09:40:48,164 - User: 428950
+2024-06-07 09:40:48,164 - InputText: hãy cung cấp cho tôi 3 sản phẩm bàn chải điện bất kì
+2024-06-07 09:40:48,221 - ------------llm------------
+2024-06-07 09:40:48,221 - User: hãy cung cấp cho tôi 3 sản phẩm bàn chải điện bất kì
+2024-06-07 09:40:49,420 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-07 09:40:49,475 - Vcc_bot: Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  bàn chải điện, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?
+2024-06-07 10:54:33,516 - ----------------NEW_SESSION--------------
+2024-06-07 10:54:33,517 - User: 428950
+2024-06-07 10:54:33,517 - InputText: ['Máy giặt']
+2024-06-07 10:54:33,548 - Vcc_bot: Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!
+2024-06-07 11:13:49,269 - Loading faiss with AVX512 support.
+2024-06-07 11:13:49,287 - Successfully loaded faiss with AVX512 support.
+2024-06-10 14:52:12,472 - ----------------NEW_SESSION--------------
+2024-06-10 14:52:12,473 - User: 428950
+2024-06-10 14:52:12,473 - InputText: Những sản phẩm VCC đang kinh doanh.
+2024-06-10 14:52:12,555 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-06-10 14:52:26,072 - ----------------NEW_SESSION--------------
+2024-06-10 14:52:26,072 - User: 428950
+2024-06-10 14:52:26,072 - InputText: đèn năng lượng mặt trời
+2024-06-10 14:52:26,120 - ------------llm------------
+2024-06-10 14:52:26,120 - User: đèn năng lượng mặt trời
+2024-06-10 14:52:27,692 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 14:52:27,749 - Vcc_bot: Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:
+Các dòng sản phẩm cao cấp:
+- Đèn cao áp năng lượng mặt trời SUNTEK SP-S30, công suất 30W - Giá: 4677750 - Số lượng đã bán: 31
+  Thông số kỹ thuật:
+    
+    • Công suất tiêu thụ: 30W 
+    • Chip: LED Philips 
+    • Bảng điều khiển năng lượng mặt trời: Polycrystal 110W 
+    • Nhiệt độ làm việc: -20C ~ 65C 
+- Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK 12V/25Ah PLUS - Giá: 4397140 - Số lượng đã bán: 8
+  Thông số kỹ thuật:
+    
+    • Dung lượng: 25.000mAh LiFePO4 (Pin Lithium sắt phốt phát 32700). 
+    • Sạc năng lượng mặt trời: 30A. 
+    • Đồng hồ hiển thị dung lượng pin, điện áp pin. 
+    • 01 Đầu ra 12V/10A DC. 
+- Bộ lưu trữ năng lượng mặt trời SUNTEK Battery Power 12V/35Ah cho Camera - Giá: 4344120 - Số lượng đã bán: 10
+  Thông số kỹ thuật:
+    
+    • Công suất: 35.000mAh LiFePO4(Pin Lithium sắt phốt phát 32.700) 
+    • Sạc năng lượng mặt trời: 30A 
+    • Đồng hồ hiển thị dung lượng pin, điện áp pin 
+    • 01 Đầu ra 12V/10A DC 
+Các dòng sản phẩm rẻ tiền:
+- Đèn NLMT xách Tay 100W - Giá: 407770 - Số lượng đã bán: 16
+  Thông số kỹ thuật:
+    
+    • Công suất: 100w 
+    • Kích thước tấm năng lượng mặt trời: 300*250 mm 
+    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian 
+    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực 
+- Đèn NLMT xách Tay 60W - Giá: 344410 - Số lượng đã bán: 12
+  Thông số kỹ thuật:
+    
+    • Công suất: 60W 
+    • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm 
+    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian 
+    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực 
+- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550 - Số lượng đã bán: 23
+  Thông số kỹ thuật:
+    
+    • Công suất định mức: 50W 
+    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W 
+    • Nhiệt độ làm việc: -20C ~ 65C 
+    • Nhiệt độ màu: 6500K 
+

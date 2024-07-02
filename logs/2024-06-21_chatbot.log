@@ -1,0 +1,14 @@
+2024-06-21 18:32:50,697 - ----------------NEW_SESSION--------------
+2024-06-21 18:32:50,697 - User: 428950
+2024-06-21 18:32:50,697 - InputText: /Bạn muốn tôi tìm hiểu sản phẩm điều hòa với giá rẻ?
+2024-06-21 18:32:50,834 - ------------llm------------
+2024-06-21 18:32:50,835 - User: /Bạn muốn tôi tìm hiểu sản phẩm điều hòa với giá rẻ?
+2024-06-21 18:32:52,219 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:32:55,707 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-21 18:32:55,722 - Vcc_bot: AI: Tôi có thể giúp bạn tìm hiểu về các sản phẩm điều hòa với giá rẻ. Dưới đây là một số sản phẩm điều hòa với giá cả phải chăng:
+
+1. Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) - Model 2023 - Giá: 22.172.150 VNĐ
+2. Điều hòa Carrier 2 chiều Inverter - Công suất: 24.000 BTU/h (2.5 HP) - Model 2023 - Giá: 23.423.180 VNĐ
+3. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VNĐ
+
+Bạn có thể cho tôi biết sản phẩm nào bạn quan tâm để tôi cung cấp thêm thông tin chi tiết?

@@ -1,0 +1,236 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Điều hòa' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \nCác dòng sản phẩm rẻ tiền:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước làm bằng chất liệu gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Bình đun nước Bluestone KTB-3417 có ruột bình làm bằng nhựa PP (không chứa BPA) và vỏ bình cũng làm bằng nhựa PP. Bình đun nước AIO Smart AIOKTO2L23W/1C5 có ruột bình làm bằng inox cao cấp SUS304.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình đun nước làm bằng chất liệu gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Bình đun nước Bluestone KTB-3417 có ruột bình làm bằng nhựa PP (không chứa BPA) và vỏ bình cũng làm bằng nhựa PP. Bình đun nước AIO Smart AIOKTO2L23W/1C5 có ruột bình làm bằng inox cao cấp SUS304.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bình nóng lạnh có những loại nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  bình nóng lạnh, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt, máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'máy giặt' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14450040 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n- Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11898480 - Số lượng đã bán: 9\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \nCác dòng sản phẩm rẻ tiền:\n- Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK - Giá: 6074970 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    Loại máy giặt: Lồng đứng \n    Động Cơ : Curoa \n    Khối lượng giặt: 10 kg \n    Lồng GiặtThép: không gỉ \n    Khử mùi diệt khuẩn \n- Máy Giặt Aqua 9 Kg AQW-F91GT.S - Giá: 5759050 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    \n    • Loại máy giặt: Cửa trên \n    • Lồng giặt: Lồng đứng \n    • Khối lượng giặt: 9 Kg \n    • Số người sử dụng: Từ 3 - 5 người \n- Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4726370 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    Cửa trên - Lồng đứng \n    Khối lượng giặt: 8 Kg \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n    Tốc độ quay vắt tối đa: 775 vòng/ phút \n    Chất liệu lồng giặt: Thép không gỉ \nSản phẩm 'máy lọc nước' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống cấp lọc: 11 cấp \n    • Công suất lọc: 10-15 Lít/ Giờ \n    • Màng lọc: RO Dupon nhập khẩu từ Mỹ \n- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Số ống: 18 ống \n    • Dung tích: 180 lít \n    • Bình bảo ôn: Chất liệu Inox 304 \n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \nCác dòng sản phẩm rẻ tiền:\n- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14\n  Thông số kỹ thuật:\n    \n    • Kiểu lắp đặt: Lắp âm \n    • Loại máy: Máy lọc nước RO \n    • Công nghệ lọc: Thẩm thấu ngược RO \n    • Kháng khuẩn: Nano Silver \n- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống lọc: 10 cấp \n    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% \n    • Công suất lọc: 10-15 lít / Giờ \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Cả hai sản phẩm đều có công nghệ lọc RO, tuy nhiên, Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 có số lượng lõi lọc nhiều hơn (10 lõi lọc) so với Máy lọc nước Karofi KAQ-U06V (không được đề cập đến số lượng lõi lọc). Vì vậy, Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 có thể cung cấp mức độ lọc nước tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Cả hai sản phẩm đều có công nghệ lọc RO, tuy nhiên, Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 có số lượng lõi lọc nhiều hơn (10 lõi lọc) so với Máy lọc nước Karofi KAQ-U06V (không được đề cập đến số lượng lõi lọc). Vì vậy, Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 có thể cung cấp mức độ lọc nước tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    }
+]

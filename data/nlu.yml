@@ -266,6 +266,7 @@ nlu:
     - Bạn có đang xem phim gì không?
     - Hôm nay là thứ mấy?
     - Dịch câu này sang tiếng Anh
+    - sản phẩm trên
     - Tìm cho tôi một nhà hàng Ý gần đây.
     - Ý nghĩa của cuộc sống là gì?
     - Ai là người giàu nhất thế giới?
@@ -599,6 +600,9 @@ nlu:
   examples: |
     - Tôi muốn hỏi số lượng sản phẩm điều hòa?
     - bạn có thể tư vấn cho tôi máy giặt không
+    - sản phẩm này có giá bao nhiêu
+    - Sản phẩm trên có giá bao nhiêu
+    - Tôi muốn xem sản phẩm trên
     - bình đun nước làm bằng chất liệu gì
     - Bạn có thể cho biết giá của sản phẩm điều hòa không?
     - Xin hỏi sản phẩm lò vi sóng có giá là bao nhiêu vậy?
@@ -668,10 +672,11 @@ nlu:
     - Bàn chải điện
     - Bàn là
     - Bếp từ
+    - điều hòa
     - Bình đun nước
+    - Điều hòa
     - Bình nóng lạnh
     - Đèn năng lượng mặt trời
-    - Điều hòa
     - Ghế massage đaikiosan
     - Lò vi sóng
     - Máy cạo rau
@@ -771,6 +776,23 @@ nlu:
     - Tư vấn cho tôi sản phẩm Thiết bị Wifi không?
     - Tư vấn cho tôi sản phẩm Thiết bị camera không?
     - Tư vấn cho tôi sản phẩm Lò nướng không?
+    - Sản phẩm bếp từ nào bán chạy nhất
+    - Sản phẩm bán chạy nhất là sản phẩm nào?
+    - Bếp từ nào có công suất lớn nhất
+    - máy giặt phổ biến nhất hiện nay là loại nào?
+    - cho tôi máy lọc không khí giá rẻ
+    - Loại máy giặt nào là phổ biến nhất hiện nay?
+    - có loại ghê masage nào rẻ không
+    - sản phẩm nào đang bán chạy
+    - những sản phẩm này có giá bao nhiêu
+    - tôi vừa hỏi gì
+    - sản phẩm tôi vừa hỏi
+    - sản phâm ở trên
+    - giá của sản phẩm trên
+    - sản phẩm trên
+    - san pham tren
+    - san pham toi vua hoi
+    - Tôi vừa hỏi vè sản phẩm nào  
 - intent: begin_chatgpt
   examples: |
     - Ai là người giàu nhất thế giới?
@@ -809,6 +831,7 @@ nlu:
     - có những sản phẩm nào
     - co nhung san pham nao
     - cho xem sản phẩm
+    - Tôi muốn biết VCC bán những gì
     - cho anh xem sản phẩm
     - danh sách sản phẩm
     - bên bạn có những sản phẩm nào
@@ -1085,3 +1108,14 @@ nlu:
     - đơn hàng của tôi có vấn đề
     - đơn hàng của tôi cần giải quyết
     - đơn hàng gặp vấn đề hãy giải quyết cho toi
+- intent: inventory
+  examples: |
+    - [trong kho](produce_name_inventory) còn những sản phẩm nào
+    - có những sản phẩm nào [trong kho](produce_name_inventory)
+    - cho tôi xem sản phẩm [tồn kho](produce_name_inventory)
+    - điều hòa còn bao nhiêu sản phẩm [trong kho](produce_name_inventory)
+    - những sản phảm [tồn kho](produce_name_inventory)
+    - [kho](produce_name_inventory)còn bao nhiêu sản phẩm
+    - sản phẩm hiện đang có ở [kho](produce_name_inventory) nào
+    - [tồn kho](produce_name_inventory)
+    - sản phẩm [tồn kho](produce_name_inventory)

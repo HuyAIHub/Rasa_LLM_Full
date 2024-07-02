@@ -362,5 +362,1891 @@
             "tool_calls": [],
             "invalid_tool_calls": []
         }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm sản phẩm điều hòa?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 9.000 BTU/h (1 HP) \n    Diện tích sử dụng: Dưới 15m² \n    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:\n- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184\n  Thông số kỹ thuật:\n    Nguồn điện: 220-240V \n    Công suất: 9500 Btu/h \n    Công suất tiêu thụ: 745 W \n    Cường độ dòng điện: 3.4 A\n     ERR: 3.54 W/W \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn biết VCC bán những gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  vcc, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn biết VCC bán những gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  vcc, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "cho tôi xem danh sách sản phẩm của vcc",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "những sản phẩm của vcc",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "những sản phẩm vcc đang kinh doanh",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Những sản phẩm VCC đang kinh doanh.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm Đèn năng mặt trời với giá khoảng 2 triệu?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  đèn năng mặt trời, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đèn năng lượng mặt trời giá khoảng 2tr",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 đèn năng lượng mặt trời với giá 2tr\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Quạt sạc tích điện sử dụng điện và năng lượng mặt trời. Hiệu:SUNTEK. Model: SF-03: 2051720VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 2051720.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Nếu bạn cần biết thêm thông tin hoặc có yêu cầu cụ thể về dịch vụ của VCC, xin vui lòng cho biết.?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Đưa ra chính sách bảo hành",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chính sách bảo hành sản phẩm của chúng tôi bao gồm:\n                1. Chính sách bảo hành 1 đổi 1\n                    1.1. Thời gian áp dụng\n                    - Một đổi một trong vòng 7 ngày kể từ ngày khách hàng mua hàng, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    - Chi phí bảo hành nằm trong 0.5% chi phí giá bán theo quy định TCT.\n                    1.2. Điều kiện:\n                    - Áp dụng bảo hành đối với các sản phẩm lỗi nằm trong quy định và điều kiện bảo hành 1 đổi 1 của VCC.\n                    - Sản phẩm đổi trả phải giữ nguyên 100% hình dạng ban đầu (không bị trầy xước, bể, vỡ, móp méo).\n                    - Hoàn trả lại đầy đủ hộp đựng, phụ kiện đi kèm và các hàng khuyến mãi(nếu có)\n                    - Lỗi được xác nhận bởi nhân sự triển khai tại CNCT, áp dụng theo hướng dẫn kiểm tra sản phẩm bảo hành do TT. GP&DVKT\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Không áp dụng hoàn tiền sản phẩm\n                2. Chính sách bảo hành sửa chữa, thay thế linh kiện\n                    2.1. Thời gian\n                    - Áp dụng 12 tháng kể từ ngày khách hàng mua sản phẩm, căn cứ theo biên bản nghiệm thu và đơn hàng được đóng thành công trên hệ thống AIO.\n                    2.2. Phạm vi\n                    - Áp dụng cho các lỗi kỹ thuật do nhà sản xuất (theo danh mục lỗi nhà sản xuất quy định với từng sản phẩm).\n                    - Không bảo hành đối với các trường hợp do sử dụng, sửa chữa không đúng cách hoặc hỏng hóc do nguyên nhân bên ngoài.\n                    2.3. Điều kiện được bảo hành\n                    - Lỗi được xác nhận và kiểm tra bởi nhân sự triển khai tại các CNCT, căn cứ theo Quy trình bảo hành số QT.VCC.RRR.2.2-(02) và hướng dẫn kiểm tra sản\n                    phẩm bảo hành do TT. GP&DVKT ban hành.\n                    - Số điện thoại mua sản phẩm trùng khớp với dữ liệu trên hệ thống ghi nhận.\n                    Lưu ý: Để đảm bảo quyền lợi khách hàng và VCC có cơ sở làm việc với các bộ phận liên quan, quý khách cần cung cấp hình ảnh/clip sản phẩm lỗi khi yêu cầu bảo hành.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa có gì khác so với bình nóng lạnh",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  bình nóng lạnh, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Số lượng đèn năng lượng mặt trời : 84 sản phẩm\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Những sản phẩm VCC đang kinh doanh.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa có giá trên 10tr",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa có giá trên 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt có giá trên 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bếp từ có giá trên 2 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa có giá 5 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "nồi cơm điện giá trên 3 tr",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 nồi cơm điện với giá trên 3 tr\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991: 4387680VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 4387680.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "máy giặt, máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'máy giặt' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14450040 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n- Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12749000 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n- Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11898480 - Số lượng đã bán: 9\n  Thông số kỹ thuật:\n    Loại máy giặt: Cửa trước \n    Lồng giặt: Lồng ngang \n    Khối lượng giặt: 10 Kg \n    Số người sử dụng: Từ 5 - 7 người (9.5 - 10 kg) \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \nCác dòng sản phẩm rẻ tiền:\n- Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK - Giá: 6074970 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    Loại máy giặt: Lồng đứng \n    Động Cơ : Curoa \n    Khối lượng giặt: 10 kg \n    Lồng GiặtThép: không gỉ \n    Khử mùi diệt khuẩn \n- Máy Giặt Aqua 9 Kg AQW-F91GT.S - Giá: 5759050 - Số lượng đã bán: 11\n  Thông số kỹ thuật:\n    \n    • Loại máy giặt: Cửa trên \n    • Lồng giặt: Lồng đứng \n    • Khối lượng giặt: 9 Kg \n    • Số người sử dụng: Từ 3 - 5 người \n- Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4726370 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    Cửa trên - Lồng đứng \n    Khối lượng giặt: 8 Kg \n    Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n    Tốc độ quay vắt tối đa: 775 vòng/ phút \n    Chất liệu lồng giặt: Thép không gỉ \nSản phẩm 'máy lọc nước' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống cấp lọc: 11 cấp \n    • Công suất lọc: 10-15 Lít/ Giờ \n    • Màng lọc: RO Dupon nhập khẩu từ Mỹ \n- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Số ống: 18 ống \n    • Dung tích: 180 lít \n    • Bình bảo ôn: Chất liệu Inox 304 \n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \nCác dòng sản phẩm rẻ tiền:\n- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14\n  Thông số kỹ thuật:\n    \n    • Kiểu lắp đặt: Lắp âm \n    • Loại máy: Máy lọc nước RO \n    • Công nghệ lọc: Thẩm thấu ngược RO \n    • Kháng khuẩn: Nano Silver \n- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống lọc: 10 cấp \n    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% \n    • Công suất lọc: 10-15 lít / Giờ \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy sấy tóc",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Máy sấy tóc' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng - Giá: 10470240 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    \n    • Màu sắc: Trắng \n    • Xuất xứ: Thái Lan \n    • Năm ra mắt: 2022 \n    • Thời gian bảo hành: 24 Tháng \n- Máy sấy tóc 1200W Philips BHC010/10 - Giá: 352330 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    \n    • Công suất: 1200W \n    • Tốc độ sấy: 2 tốc độ, có sấy mát \n    • Đầu sấy: Đầu sấy hẹp \n    • Kiểu dáng: Tay cầm gấp gọn \nCác dòng sản phẩm rẻ tiền:\n- Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng - Giá: 10470240 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    \n    • Màu sắc: Trắng \n    • Xuất xứ: Thái Lan \n    • Năm ra mắt: 2022 \n    • Thời gian bảo hành: 24 Tháng \n- Máy sấy tóc 1200W Philips BHC010/10 - Giá: 352330 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    \n    • Công suất: 1200W \n    • Tốc độ sấy: 2 tốc độ, có sấy mát \n    • Đầu sấy: Đầu sấy hẹp \n    • Kiểu dáng: Tay cầm gấp gọn \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Thiết bị Wifi' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51\n  Thông số kỹ thuật:\n    \n    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) \n    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép \n    • Cổng LAN: 3 cổng LAN 10/100/1000M \n    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc \n- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48\n  Thông số kỹ thuật:\n    \n    • Tốc độ: 1167Mbps \n    • Băng tần: 2 băng tần 2.4GHz và 5GHz \n    • Số lượng người dùng truy cập đồng thời: 20+ 1 \n    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps \n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50\n  Thông số kỹ thuật:\n    Dòng điện ra: 9V 1A \n    Dòng điện vào: 100-240V-50/60Hz, 0.2A \n    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) \n    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps \n    Hãng sản xuất: Tenda \nCác dòng sản phẩm rẻ tiền:\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas \n    Kích thước: (L x W x H) 204*147.5*211mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz \n- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34\n  Thông số kỹ thuật:\n    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps \n    Công suất truyền: Lên đến 20dBm\n    giá: 314600\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) \n    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Thiết bị Wifi' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51\n  Thông số kỹ thuật:\n    \n    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) \n    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép \n    • Cổng LAN: 3 cổng LAN 10/100/1000M \n    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc \n- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48\n  Thông số kỹ thuật:\n    \n    • Tốc độ: 1167Mbps \n    • Băng tần: 2 băng tần 2.4GHz và 5GHz \n    • Số lượng người dùng truy cập đồng thời: 20+ 1 \n    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps \n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50\n  Thông số kỹ thuật:\n    Dòng điện ra: 9V 1A \n    Dòng điện vào: 100-240V-50/60Hz, 0.2A \n    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) \n    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps \n    Hãng sản xuất: Tenda \nCác dòng sản phẩm rẻ tiền:\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas \n    Kích thước: (L x W x H) 204*147.5*211mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz \n- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34\n  Thông số kỹ thuật:\n    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps \n    Công suất truyền: Lên đến 20dBm\n    giá: 314600\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) \n    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy hút bụi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Máy hút bụi' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy Hút Bụi Bluestone Vcb-8067 - Giá: 3265020 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Công suất hoạt động:1800W \n    Công suất hút bụi:330W \n    Bộ lọc:Bộ lọc HEPA \n    Độ ồn:83 dB \n    Tiện ích:Dây điện tự thu gọn \nCác dòng sản phẩm rẻ tiền:\n- Máy Hút Bụi Bluestone Vcb-8067 - Giá: 3265020 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Công suất hoạt động:1800W \n    Công suất hút bụi:330W \n    Bộ lọc:Bộ lọc HEPA \n    Độ ồn:83 dB \n    Tiện ích:Dây điện tự thu gọn \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Lò vi sóng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Lò vi sóng' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Lò Nướng Bluestone Eob-7567 - Giá: 3606640 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    Loại lò nướng:Lò nướng thùng \n    Dung tích:45 lít \n    Công suất:2000W \n    Hẹn giờ:Hẹn giờ lên tới 60 phút \n    Nhiệt độ:100 - 230ºC \n- Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít - Giá: 2346850 - Số lượng đã bán: 28\n  Thông số kỹ thuật:\n    \n    • Loại lò: Lò vi sóng có nướng \n    • Dung tích: 20 lít \n    • Công suất vi sóng: 1270W \n    • Công suất nướng: 1000W \n- Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít - Giá: 1981000 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Kalite \n    • Dung tích: 4 lít \n    • Công suất: 1300W \n    • Lòng nồi: Ceramic chống dính \nCác dòng sản phẩm rẻ tiền:\n- Lò Nướng Bluestone Eob-7567 - Giá: 3606640 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    Loại lò nướng:Lò nướng thùng \n    Dung tích:45 lít \n    Công suất:2000W \n    Hẹn giờ:Hẹn giờ lên tới 60 phút \n    Nhiệt độ:100 - 230ºC \n- Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít - Giá: 2346850 - Số lượng đã bán: 28\n  Thông số kỹ thuật:\n    \n    • Loại lò: Lò vi sóng có nướng \n    • Dung tích: 20 lít \n    • Công suất vi sóng: 1270W \n    • Công suất nướng: 1000W \n- Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít - Giá: 1981000 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Kalite \n    • Dung tích: 4 lít \n    • Công suất: 1300W \n    • Lòng nồi: Ceramic chống dính \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Máy lọc nước' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống cấp lọc: 11 cấp \n    • Công suất lọc: 10-15 Lít/ Giờ \n    • Màng lọc: RO Dupon nhập khẩu từ Mỹ \n- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Số ống: 18 ống \n    • Dung tích: 180 lít \n    • Bình bảo ôn: Chất liệu Inox 304 \n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \nCác dòng sản phẩm rẻ tiền:\n- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14\n  Thông số kỹ thuật:\n    \n    • Kiểu lắp đặt: Lắp âm \n    • Loại máy: Máy lọc nước RO \n    • Công nghệ lọc: Thẩm thấu ngược RO \n    • Kháng khuẩn: Nano Silver \n- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống lọc: 10 cấp \n    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% \n    • Công suất lọc: 10-15 lít / Giờ \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Thiết bị Wifi' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51\n  Thông số kỹ thuật:\n    \n    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) \n    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép \n    • Cổng LAN: 3 cổng LAN 10/100/1000M \n    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc \n- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48\n  Thông số kỹ thuật:\n    \n    • Tốc độ: 1167Mbps \n    • Băng tần: 2 băng tần 2.4GHz và 5GHz \n    • Số lượng người dùng truy cập đồng thời: 20+ 1 \n    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps \n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50\n  Thông số kỹ thuật:\n    Dòng điện ra: 9V 1A \n    Dòng điện vào: 100-240V-50/60Hz, 0.2A \n    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) \n    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps \n    Hãng sản xuất: Tenda \nCác dòng sản phẩm rẻ tiền:\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas \n    Kích thước: (L x W x H) 204*147.5*211mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz \n- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34\n  Thông số kỹ thuật:\n    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps \n    Công suất truyền: Lên đến 20dBm\n    giá: 314600\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) \n    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Thiết bị Wifi' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51\n  Thông số kỹ thuật:\n    \n    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) \n    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép \n    • Cổng LAN: 3 cổng LAN 10/100/1000M \n    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc \n- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48\n  Thông số kỹ thuật:\n    \n    • Tốc độ: 1167Mbps \n    • Băng tần: 2 băng tần 2.4GHz và 5GHz \n    • Số lượng người dùng truy cập đồng thời: 20+ 1 \n    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps \n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50\n  Thông số kỹ thuật:\n    Dòng điện ra: 9V 1A \n    Dòng điện vào: 100-240V-50/60Hz, 0.2A \n    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) \n    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps \n    Hãng sản xuất: Tenda \nCác dòng sản phẩm rẻ tiền:\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas \n    Kích thước: (L x W x H) 204*147.5*211mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz \n- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34\n  Thông số kỹ thuật:\n    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps \n    Công suất truyền: Lên đến 20dBm\n    giá: 314600\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) \n    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Thiết bị Wifi' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Wifi Ruijie RG-EW1200G Pro - Giá: 1001000 - Số lượng đã bán: 51\n  Thông số kỹ thuật:\n    \n    • Tốc độ tối đa: 1267Mbps=400Mbps(2,4GHz)+867Mbps(5GHz) \n    • Băng tần: Các mô-đun 2,4GHz và 5GHz độc lập, hỗ trợ tích hợp tần số kép \n    • Cổng LAN: 3 cổng LAN 10/100/1000M \n    • Nút đặt lại: 1 nút ghép thiết bị/khôi phục cài đặt gốc \n- Thiết bị thu phát vô tuyến Ruijie RG-EW1200 - Giá: 635000 - Số lượng đã bán: 48\n  Thông số kỹ thuật:\n    \n    • Tốc độ: 1167Mbps \n    • Băng tần: 2 băng tần 2.4GHz và 5GHz \n    • Số lượng người dùng truy cập đồng thời: 20+ 1 \n    • Cổng: 1 cổng WAN 10 / 100Mbps và 3 cổng LAN 10 / 100Mbps \n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model AC5 - Tenda AC5 - Giá: 414370 - Số lượng đã bán: 50\n  Thông số kỹ thuật:\n    Dòng điện ra: 9V 1A \n    Dòng điện vào: 100-240V-50/60Hz, 0.2A \n    Chuẩn Wi-Fi: Wi-Fi 5 (802.11ac) \n    Độ mạnh của sóng (các thiết bị mạng): + 5 GHz: 867 Mbps + 2.4 GHz: 300 Mbps \n    Hãng sản xuất: Tenda \nCác dòng sản phẩm rẻ tiền:\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F6 - Tenda F6 - Giá: 318120 - Số lượng đã bán: 35\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F6 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 4*5dBi external antennas \n    Kích thước: (L x W x H) 204*147.5*211mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.3, IEEE802.3u Băng tần 2.4GHz \n- Wifi _PROLINK Wireless-N AP/Router/Repeater/4-Port Switch (2T2R) / 7 DBI Antenna ( IMDA Approved ) - Giá: 314600 - Số lượng đã bán: 34\n  Thông số kỹ thuật:\n    Giao diện: Cổng WAN RJ45 1 x 10 / 100Mbps, 4x Cổng LAN RJ45 10 / 100Mbps \n    Công suất truyền: Lên đến 20dBm\n    giá: 314600\n- Thiết bị định tuyến có thu phát vô tuyến hiệu TENDA model F3 băng tần 2.4Ghz 3 cổng LAN - Tenda F3 - Giá: 291390 - Số lượng đã bán: 42\n  Thông số kỹ thuật:\n    Thương hiệu: Tenda \n    Tên sản phẩm: Router Tenda F3 Wireless N300Mbps \n    Chi tiết Cổng kết nối: 1*10/100Mbps port 3*10/100Mbps ports Ăng-ten 3 ăng ten ngoài 5dBi (không tháo rời) \n    Kích thước: (L x W x H) 127.4mm*90.5mm*26mm \n    TÍNH NĂNG: WI-FI Chuẩn Wi-Fi IEEE802.11/b/g/n Băng tần 2.4GHz Tốc độ tín hiệu 300Mbps Bảo mật Wi-Fi Thuật toán WPA: AES, TKIP, TKIP&AES Kiểm soát truy cập không dây: Bộ lọc địa chỉ MAC\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bếp từ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Bếp từ' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Bếp từ đôi AIO Smart - Giá: 4962870 - Số lượng đã bán: 16\n  Thông số kỹ thuật:\n    \n    • Công suất: 4400W \n    • Trái: 2200W - Phải: 2200W \n    • Chất liệu mặt bếp: Kính Vitro Ceramic \n    • Bảng điều khiển: Cảm ứng \n- Bếp từ đơn AIO Smart kèm nồi - Giá: 1089000 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Công suất vùng nấu: 2100W \n    Kích thước vùng nấu: 200mm \n    Bảng điều khiển: cảm ứng \n    Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt) \n    Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng \nCác dòng sản phẩm rẻ tiền:\n- Bếp từ đôi AIO Smart - Giá: 4962870 - Số lượng đã bán: 16\n  Thông số kỹ thuật:\n    \n    • Công suất: 4400W \n    • Trái: 2200W - Phải: 2200W \n    • Chất liệu mặt bếp: Kính Vitro Ceramic \n    • Bảng điều khiển: Cảm ứng \n- Bếp từ đơn AIO Smart kèm nồi - Giá: 1089000 - Số lượng đã bán: 6\n  Thông số kỹ thuật:\n    Công suất vùng nấu: 2100W \n    Kích thước vùng nấu: 200mm \n    Bảng điều khiển: cảm ứng \n    Chất liệu mặt bếp: Kính Microcrystalline (cường lực, chịu nhiệt) \n    Khóa phím, chống nhiễu điện tử, tự ngắt khi điện áp tăng giảm đột ngột quá ngưỡng \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Máy lọc nước' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống cấp lọc: 11 cấp \n    • Công suất lọc: 10-15 Lít/ Giờ \n    • Màng lọc: RO Dupon nhập khẩu từ Mỹ \n- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Số ống: 18 ống \n    • Dung tích: 180 lít \n    • Bình bảo ôn: Chất liệu Inox 304 \n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \nCác dòng sản phẩm rẻ tiền:\n- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14\n  Thông số kỹ thuật:\n    \n    • Kiểu lắp đặt: Lắp âm \n    • Loại máy: Máy lọc nước RO \n    • Công nghệ lọc: Thẩm thấu ngược RO \n    • Kháng khuẩn: Nano Silver \n- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống lọc: 10 cấp \n    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% \n    • Công suất lọc: 10-15 lít / Giờ \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Máy lọc nước' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống cấp lọc: 11 cấp \n    • Công suất lọc: 10-15 Lít/ Giờ \n    • Màng lọc: RO Dupon nhập khẩu từ Mỹ \n- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Số ống: 18 ống \n    • Dung tích: 180 lít \n    • Bình bảo ôn: Chất liệu Inox 304 \n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \nCác dòng sản phẩm rẻ tiền:\n- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14\n  Thông số kỹ thuật:\n    \n    • Kiểu lắp đặt: Lắp âm \n    • Loại máy: Máy lọc nước RO \n    • Công nghệ lọc: Thẩm thấu ngược RO \n    • Kháng khuẩn: Nano Silver \n- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống lọc: 10 cấp \n    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% \n    • Công suất lọc: 10-15 lít / Giờ \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Máy lọc nước",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'Máy lọc nước' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066 - Giá: 7063320 - Số lượng đã bán: 15\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống cấp lọc: 11 cấp \n    • Công suất lọc: 10-15 Lít/ Giờ \n    • Màng lọc: RO Dupon nhập khẩu từ Mỹ \n- Máy NLMT Empire 180 Lít Titan M&EGD000224 - Giá: 6106320 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Số ống: 18 ống \n    • Dung tích: 180 lít \n    • Bình bảo ôn: Chất liệu Inox 304 \n- Máy Lọc Nước A. O. Smith C1 - Giá: 5822190 - Số lượng đã bán: 36\n  Thông số kỹ thuật:\n    \n    • Loại máy: Máy lọc nước RO, Để bàn \n    • Số lõi lọc: 4 lõi \n    • Dung tích bình chứa: 5 lít \n    • Tỷ lệ lọc - thải: Lọc 5 - Thải 5 (Tỷ lệ này phụ thuộc vào chất lượng nước đầu vào) \nCác dòng sản phẩm rẻ tiền:\n- Máy lọc nước Karofi KAQ-U06V - Giá: 4043160 - Số lượng đã bán: 14\n  Thông số kỹ thuật:\n    \n    • Kiểu lắp đặt: Lắp âm \n    • Loại máy: Máy lọc nước RO \n    • Công nghệ lọc: Thẩm thấu ngược RO \n    • Kháng khuẩn: Nano Silver \n- MLN Empire Công nghệ 4.0 - 10 cấp lọc EPML036 - Giá: 3637150 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: EMPIRE \n    • Hệ thống lọc: 10 cấp \n    • Công nghệ lọc: RO Dupon nhập khẩu từ Mỹ giúp nước sau lọc đạt chuẩn tinh khiết và giảm thiểu nước thải ~ 40% \n    • Công suất lọc: 10-15 lít / Giờ \n- Máy lọc nước Pentair Everpure H104 - Giá: 3152050 - Số lượng đã bán: 22\n  Thông số kỹ thuật:\n    \n    • Thương hiệu: Pentair \n    • Xuất xứ lõi lọc chính: USA \n    • Công suất: 3.785 Lít \n    • Tốc độ chảy: 1.9 Lít/phút \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Thiết bị Wifi"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Thiết bị Wifi"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Bếp từ",
+                "Máy lọc nước"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Máy đánh trứng",
+                "Máy lọc nước"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Máy lọc nước"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Bếp từ",
+                "Thiết bị Wifi",
+                "Bếp từ"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Bình nóng lạnh",
+                "Bình nóng lạnh",
+                "Bình nóng lạnh",
+                "Máy lọc nước"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Lò vi sóng"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Đèn năng lượng mặt trời"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Đèn năng lượng mặt trời",
+                "Đèn năng lượng mặt trời",
+                "Đèn năng lượng mặt trời"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Máy ép"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hãy liệt kê cho tôi nồi cơm điện có giá rẻ nhất ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 1 nồi cơm điện với giá giá rẻ nhất\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 1 Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991: 4387680VND - GÓI MUA SẮM MỨC 3\n\t\t(Hiện tại không có chính sách hoa hồng cho sản phẩm này)\n\nTổng giá trị của gói sản phẩm này là 4387680.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "liệt kê cho tôi 3 sản phẩm máy lọc nước giá rẻ nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dựa trên yêu cầu của bạn:\n\t- 3 máy lọc nước với giá giá rẻ nhất\n\nĐể phù hợp với ngân sách và nhu cầu sử dụng của bạn, VCC Bot đề xuất sản phẩm sau:\n\t+ Với 3 Máy lọc nước Empire nóng nguội lạnh - Block - 11 cấp lọc EPML066: 6365700.0VND - GÓI MUA SẮM MỨC 1\n\t\t(Hoa hòng bán hàng nhận được là: 359587.2000000001VND và hoa hồng triển khai nhận được là: 57870.0VND)\n\nTổng giá trị của gói sản phẩm này là 6365700.0VND, giúp bạn tiết kiệm và đáp ứng đầy đủ nhu cầu sử dụng.\nNếu có bất kỳ câu hỏi hoặc yêu cầu nào khác, vui lòng liên hệ với VCC Bot. VCC Bot luôn sẵn lòng hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "ngoài trả lời các sản phẩm ra bạn có thể trả lời được gì nữa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Thông tin ngữ cảnh không cung cấp chi tiết cụ thể về việc có thể mua hàng mà không phải trả tiền hay không. Tuy nhiên, nhìn chung, khi mua sắm trực tuyến, việc thanh toán là bắt buộc để hoàn tất giao dịch mua. Nếu bạn có câu hỏi cụ thể về các tùy chọn thanh toán hoặc nếu có bất kỳ chương trình khuyến mãi hoặc giảm giá nào, vui lòng cho tôi biết và tôi sẽ cố gắng hết sức để hỗ trợ bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có tiền không ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có biết stable diffusion không ? ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn có sản phẩm tủ lạnh không ? ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hãy liệt kê các sản phẩm tủ lạnh có giá rẻ nhất ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  tủ lạnh, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi muốn mua tủ lạnh toshiba có giá dưới 10 triệu ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  tủ lạnh toshiba, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Bàn chải điện",
+                "Bàn chải điện",
+                "Bàn chải điện",
+                "Bàn chải điện"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Máy sấy tóc"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hãy cung cấp cho tôi 3 sản phẩm bàn chải điện bất kì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi vì hiện tại tôi chưa hiểu rõ nhu cầu của bạn về  bàn chải điện, liệu bạn có thể cho tôi biết tên sản phẩm cụ thể bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": [
+                "Máy giặt"
+            ],
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Những sản phẩm VCC đang kinh doanh.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Đèn cao áp năng lượng mặt trời SUNTEK SP-S30, công suất 30W - Giá: 4677750 - Số lượng đã bán: 31\n  Thông số kỹ thuật:\n    \n    • Công suất tiêu thụ: 30W \n    • Chip: LED Philips \n    • Bảng điều khiển năng lượng mặt trời: Polycrystal 110W \n    • Nhiệt độ làm việc: -20C ~ 65C \n- Bộ Lưu Trữ Năng Lượng Mặt Trời SUNTEK 12V/25Ah PLUS - Giá: 4397140 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    \n    • Dung lượng: 25.000mAh LiFePO4 (Pin Lithium sắt phốt phát 32700). \n    • Sạc năng lượng mặt trời: 30A. \n    • Đồng hồ hiển thị dung lượng pin, điện áp pin. \n    • 01 Đầu ra 12V/10A DC. \n- Bộ lưu trữ năng lượng mặt trời SUNTEK Battery Power 12V/35Ah cho Camera - Giá: 4344120 - Số lượng đã bán: 10\n  Thông số kỹ thuật:\n    \n    • Công suất: 35.000mAh LiFePO4(Pin Lithium sắt phốt phát 32.700) \n    • Sạc năng lượng mặt trời: 30A \n    • Đồng hồ hiển thị dung lượng pin, điện áp pin \n    • 01 Đầu ra 12V/10A DC \nCác dòng sản phẩm rẻ tiền:\n- Đèn NLMT xách Tay 100W - Giá: 407770 - Số lượng đã bán: 16\n  Thông số kỹ thuật:\n    \n    • Công suất: 100w \n    • Kích thước tấm năng lượng mặt trời: 300*250 mm \n    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n- Đèn NLMT xách Tay 60W - Giá: 344410 - Số lượng đã bán: 12\n  Thông số kỹ thuật:\n    \n    • Công suất: 60W \n    • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm \n    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550 - Số lượng đã bán: 23\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 50W \n    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n    • Nhiệt độ làm việc: -20C ~ 65C \n    • Nhiệt độ màu: 6500K \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "những người chơi thế tế tự chẳng phải ngắm vị trí của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chúng tôi đang thấy ngạc nhiên do đói tăng giá trị tại địa bàn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "những bức ảnh điện thoại và năng lực trên các đường phố phải đi tìm.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Nếu bạn gặp vấn đề với đơn hàng của mình, bạn có thể liên hệ với bộ phận VCC để được hỗ trợ. Trong vòng 48 giờ, bạn có thể liên hệ với VCC và cung cấp các bằng chứng liên quan (nếu có) để họ có thể giải quyết vấn đề của bạn một cách nhanh chóng. Bạn có thể liên hệ với VCC thông qua chat trực tuyến trên trang web hoặc ứng dụng bán hàng của VCC.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "xin chào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Sản phẩm 'sản phẩm điều hòa' tìm thấy:\n- Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) - Model 2023 - Giá: 22172150 - Số lượng đã bán: 8\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 18.000BTU/h (2 HP)\n    Diện tích sử dụng: 20 - 30m² \n    Mức tiêu thụ điện: Làm lạnh: 1.12 (0.28-1.48) kW/h Sưởi ấm: 1.27 (0.25-1.60) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: \n- Điều hòa Carrier 2 chiều Inverter Công suất: 24.000 BTU/h (2.5 HP) - Model 2023 - Giá: 23423180 - Số lượng đã bán: 7\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 24.000 BTU/h (2.5 HP) Diện tích sử dụng: 30 - 40m² \n    Mức tiêu thụ điện: Làm lạnh: 1.44 (0.32-1.84) kW/h Sưởi ấm: 1.61 (0.30-2.00) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter: \n    Có Chức năng: Làm lạnh nhanh Tự làm sạch Lọc bụi mịn PM2.5 Khử mùi Chế độ gió Coanda Hẹn giờ Điều khiển từ xa \n- Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14851100 - Số lượng đã bán: 7\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 12.000 BTU/h (1.5 HP) \n    Diện tích sử dụng: 20 - 30m² \n    Mức tiêu thụ điện: Làm lạnh: 585 (230 - 1.310) W/h Sưởi ấm: 700 (190 - 1.600) W/h \n    Hiệu suất năng lượng: Làm lạnh: 6.11 (A**) Sưởi ấm: 5.08 (A) Gas: R32 Chế độ Inverter: \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Tôi có thể giúp bạn tìm hiểu về các sản phẩm điều hòa với giá rẻ. Dưới đây là một số sản phẩm điều hòa với giá cả phải chăng:\n\n1. Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) - Model 2023 - Giá: 22.172.150 VNĐ\n2. Điều hòa Carrier 2 chiều Inverter - Công suất: 24.000 BTU/h (2.5 HP) - Model 2023 - Giá: 23.423.180 VNĐ\n3. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VNĐ\n\nBạn có thể cho tôi biết sản phẩm nào bạn quan tâm để tôi cung cấp thêm thông tin chi tiết?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn muốn tôi tìm hiểu sản phẩm điều hòa với giá rẻ?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Tôi có thể giúp bạn tìm hiểu về các sản phẩm điều hòa với giá rẻ. Dưới đây là một số sản phẩm điều hòa với giá cả phải chăng:\n\n1. Điều hòa Carrier 2 chiều Inverter - Công suất: 18.000 BTU/h (2 HP) - Model 2023 - Giá: 22.172.150 VNĐ\n2. Điều hòa Carrier 2 chiều Inverter - Công suất: 24.000 BTU/h (2.5 HP) - Model 2023 - Giá: 23.423.180 VNĐ\n3. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VNĐ\n\nBạn có thể cho tôi biết sản phẩm nào bạn quan tâm để tôi cung cấp thêm thông tin chi tiết?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
     }
 ]

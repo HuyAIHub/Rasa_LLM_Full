@@ -51,20 +51,21 @@ parameter:
                 "title": "Bạn đang quan tâm sản phẩm điều hòa?"
                 },
                 {
-                "payload": "/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá 10 triệu?",
-                "title": " Bạn muốn mua sản phẩm Đèn năng mặt trời với giá 10 triệu?"
+                "payload": "Đèn năng mặt trời với giá khoảng 2 triệu?",
+                "title": "Sản phẩm Đèn năng mặt trời với giá khoảng 2 triệu?"
                 },
                 {
-                "payload": "/Tôi muốn biết VCC bán những gì?",
-                "title": "Bạn muốn biết VCC bán những gì?"
+                "payload": "Những sản phẩm VCC đang kinh doanh.",
+                "title": "Những sản phẩm VCC đang kinh doanh."
                 },
                 {
-                "payload": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+                "payload": "Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
                 "title": "Bạn đang quan tâm đến dịch vụ, chính sách của VCC?"
                 }]
   example_input: [
         {
-            "command":"Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "command":"Tôi quan tâm tới sản phẩm điều hoa deiken và Thiết bị Wifi",
+            "input_text" : "Tôi quan tâm tới sản phẩm điều hòa daikin và Thiết bị Wifi",
             "demand":"quan tâm",
             "object": ["điều hòa", "Thiết bị Wifi"],
             "value":"",
@@ -145,7 +146,7 @@ parameter:
             "command":"máy giặt có giá dưới 10 triệu",
             "demand":"giá",
             "object":["máy giặt"],
-            "value":"dưới 10,000,000",
+            "value":"dưới 10 triệu",
         },
         {
             "command":"Máy Giặt Aqua 9 Kg AQW-F91GT.S là lồng ngang hay lồng đứng",
@@ -210,7 +211,7 @@ parameter:
     ]
 
 yolo_params:
-  weight_path: "weight/weight_26_100ep.pt"
+  weight_path: "./ChatBot_Extract_Intent/weight/weight_26_100ep.pt"
   conf_thres: 0.3
   classes: {
             0: 'Bàn chải điện',

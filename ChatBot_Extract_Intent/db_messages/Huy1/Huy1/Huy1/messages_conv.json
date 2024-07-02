@@ -1,51 +1,1354 @@
-[][
+[
     {
         "type": "human",
         "data": {
-            "content": "tôi quan tâm đèn năng lượng mặt trời",
+            "content": "tôi vừa hỏi gì",
             "additional_kwargs": {},
             "response_metadata": {},
             "type": "human",
             "name": null,
             "id": null,
-            "time": "2024-05-03 16:50:11"
+            "example": false
         }
     },
     {
         "type": "ai",
         "data": {
-            "content": "Sản phẩm 'đèn năng lượng mặt trời' tìm thấy:\n- Bộ đèn led năng lượng mặt trời gắn liền tấm pin công suất: 60W. - Giá: 617760\n  Thông số kỹ thuật:\n    \n    • Thời gian chiếu sáng: 10-12 giờ/ngày \n    • Thời gian nạp pin: 3-4 giờ/ngày \n    • Tuổi thọ đèn: 3-5 năm \n    • Tuổi thọ tấm pin NLMT: 10-12 năm \n- Bộ đèn pha led dùng pin năng lượng mặt trời Suntek SC-126 - Giá: 286550\n  Thông số kỹ thuật:\n    \n    • Công suất định mức: 50W \n    • Bảng điều khiển năng lượng mặt trời: Polycrystal 6W \n    • Nhiệt độ làm việc: -20C ~ 65C \n    • Nhiệt độ màu: 6500K \n- Đèn NLMT xách Tay 60W - Giá: 344410\n  Thông số kỹ thuật:\n    \n    • Công suất: 60W \n    • Kích thước tấm pin năng lượng mặt trời: 360mm*520mm*17mm \n    • Tính năng đèn: kiểm soát ánh sáng + điều khiển đặt thời gian \n    • Chất liệu đèn: Nhôm đúc chống oxy hóa + kính cường lực \n",
+            "content": "Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.",
             "additional_kwargs": {},
             "response_metadata": {},
             "type": "ai",
             "name": null,
             "id": null,
-            "time": "2024-05-03 16:50:11"
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
         }
-    }
-][
+    },
     {
         "type": "human",
         "data": {
-            "content": "số lượng đèn năng lượng mặt trời",
+            "content": "tôi vừa hỏi gì",
             "additional_kwargs": {},
             "response_metadata": {},
             "type": "human",
             "name": null,
             "id": null,
-            "time": "2024-05-03 16:50:55"
+            "example": false
         }
     },
     {
         "type": "ai",
         "data": {
-            "content": "Số lượng đèn năng lượng mặt trời : 84 sản phẩm\n",
+            "content": "Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.",
             "additional_kwargs": {},
             "response_metadata": {},
             "type": "ai",
             "name": null,
             "id": null,
-            "time": "2024-05-03 16:50:55"
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi vừa hỏi gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, tôi sẽ cố gắng trả lời câu hỏi của bạn dựa trên thông tin kỹ thuật đã được cung cấp. Vui lòng cho tôi biết câu hỏi của bạn để tôi có thể giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\nCác dòng sản phẩm cao cấp:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \nCác dòng sản phẩm rẻ tiền:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800 - Số lượng đã bán: 63\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "vừa tôi hỏi sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Assistant: Tôi xin lỗi, tôi không thể xem lại lịch sử trò chuyện trước đó. Tuy nhiên, dựa trên thông tin kỹ thuật đã được cung cấp, sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi quan tâm đến sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Sản phẩm 'điều hòa' tìm thấy:\n- Quạt điều hòa không khí Everest 6000D - Giá: 2450800\n  Thông số kỹ thuật:\n    \n    • Điện áp: 220V - 50Hz \n    • Kích thước: (Dài) 440 x (Rộng) 340 x (Cao) 970 mm \n    • Lưu lượng gió: 6000m3/h \n    • Dung tích khay chứa nước: 45L \n- Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12461240\n  Thông số kỹ thuật:\n    Loại: Điều hòa 2 chiều Inverter \n    Công suất: 9.000 BTU/h (1 HP) \n    Diện tích sử dụng: Dưới 15m² \n    Mức tiêu thụ điện: Làm lạnh: 0.77 (0.24-1.00) kW/h Sưởi ấm: 0.86 (0.20-1.11) kW/h \n    Hiệu suất năng lượng: Làm lạnh: 5.8 (A++) Sưởi ấm: 4.8 (A+) Gas: R32 Chế độ Inverter:\n- Điều hòa MDV - Inverter 9000 BTU - Giá: 6014184\n  Thông số kỹ thuật:\n    Nguồn điện: 220-240V \n    Công suất: 9500 Btu/h \n    Công suất tiêu thụ: 745 W \n    Cường độ dòng điện: 3.4 A\n     ERR: 3.54 W/W \n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm vừa tôi hỏi là sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm vừa tôi hỏi là sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm vừa tôi hỏi là sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm vừa tôi hỏi là sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm vừa tôi hỏi là sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm vừa tôi hỏi là sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm vừa tôi hỏi là sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm vừa tôi hỏi là sản phẩm gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Sản phẩm mà bạn vừa hỏi là \"Quạt điều hòa không khí Everest 6000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm điều hòa trên có mát không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Các sản phẩm điều hòa trên đều có chức năng làm lạnh, giúp tạo ra không gian mát mẻ trong phòng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "sản phẩm điều hòa trên có mát không",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Các sản phẩm điều hòa trên đều có chức năng làm lạnh, giúp tạo ra không gian mát mẻ trong phòng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có mấy sản phẩm bạn vừa liệt kê",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Có hai sản phẩm mà tôi vừa liệt kê là \"Quạt điều hòa không khí Everest 6000D\" và \"Quạt điều hòa không khí Everest 8000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "có mấy sản phẩm bạn vừa liệt kê",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Có hai sản phẩm mà tôi vừa liệt kê là \"Quạt điều hòa không khí Everest 6000D\" và \"Quạt điều hòa không khí Everest 8000D\".",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": []
         }
     }
 ]
